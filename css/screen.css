@@ -1,3 +1,5 @@
+/* @override http://mattbischoff.github.com/css/screen.css */
+
 /* elements */
 
 * {
@@ -6,17 +8,16 @@
 }
 
 body {
-	background-color: #000;
-	color: #fff;
+	background-color: #fff;
+	color: #000;
 	line-height: 1.4em;
 	margin: 20px auto 18px 25%;
 	font-family: Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
 }
 
 a:link {
-	color: #fff;
+	color: #f00;
 	text-decoration: none;
-	border-bottom-style: dotted;
 }
 
 a:visited {
@@ -54,9 +55,10 @@ h1, h2, h3, #footer {
 }
 
 h1 {
-	font-size: 30px;
-	line-height: 36px;
 	margin-bottom: 18px;
+	font-size: 30px;
+	line-height: 28px;
+
 }
 
 h2 {

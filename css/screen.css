@@ -5,15 +5,15 @@
 }
 
 body {
-  background-color: #edf1f3;
-  color: #222;
-  font-family: 'Times New Roman', 'Times', serif;
+  background-color: #191919;
+  color: #e6e6e6;
   line-height: 1.4em;
-  margin: 20px auto 18px 25%; 
+  margin: 20px auto 18px 25%;
+  font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
 a:link {
-  color: #336699;
+  color: #fff;
   text-decoration: none;
 }
 a:visited {
@@ -21,7 +21,6 @@ a:visited {
   text-decoration: none;
 }
 a:hover {
-  color: #336699;
   text-decoration: underline;
 }
 

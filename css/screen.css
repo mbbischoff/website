@@ -107,7 +107,7 @@ ul {
 
 .post .signoff {
 	font-size: 10pt;
-	font-style: italic;
+	/*font-style: italic;*/
 	text-align: right;
 }
 

@@ -5,7 +5,7 @@ title: "Nuked"
 
 # {{ page.title }}
 
-<<a href="http://matthewbischoff.com/photos/photo/3142307250/matthew-bischoff-com.html" class="tt-flickr tt-flickr-Medium" title="Matthew Bischoff .com"><img class="alignnone frame" src="http://farm4.static.flickr.com/3098/3142307250_6f6e403458.jpg" alt="Matthew Bischoff .com" width="500" height="234" /></a>
+<a href="http://matthewbischoff.com/photos/photo/3142307250/matthew-bischoff-com.html" class="tt-flickr tt-flickr-Medium" title="Matthew Bischoff .com"><img class="alignnone frame" src="http://farm4.static.flickr.com/3098/3142307250_6f6e403458.jpg" alt="Matthew Bischoff .com" width="500" height="234" /></a>
 
 <h2>Starting Over</h2>
 

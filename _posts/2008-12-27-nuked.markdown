@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Nuked"
+---
+
+# {{ page.title }}
+
+<<a href="http://matthewbischoff.com/photos/photo/3142307250/matthew-bischoff-com.html" class="tt-flickr tt-flickr-Medium" title="Matthew Bischoff .com"><img class="alignnone frame" src="http://farm4.static.flickr.com/3098/3142307250_6f6e403458.jpg" alt="Matthew Bischoff .com" width="500" height="234" /></a>
+
+<h2>Starting Over</h2>
+
+Today, I decided to redesign my website, but instead of a traditional redesign I started from scratch. I even deleted all of my old blog posts because they represented a very different person. Typically I'm against this wholesale deletion of content, but I needed this kind of drastic change to get back into writing online. The previous version of <a href="http://matthewbischoff.com">MatthewBischoff.com</a> was a business card pointing to my online services such as <a href="http://flickr.com">Flickr</a>, <a href="http://twitter.com">Twitter</a>, and others as well as providing contact information. I realized after a while that this site was not providing much value or experience in my quest to be become a better writer or user of the internet.
+
+<h2>Wordpress</h2>
+
+I've decided (at least for now) to use the new version of Wordpress 2.7 to manage my content because it's familiar and the new interface feels almost as good as <a href="http://tumblr.com">Tumblr</a> for content management, albeit much more complex.
+
+<h2>In Progress</h2>
+
+The site you see right now is an in progress design, but the essentials are here, so feel free to poke around.
+
+<h2>Feedback</h2>
+
+Have thoughts, questions or suggestions? Post a comment. for everyone, but it's definitely worth a shot.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Old
+title: About
 ---
 <h2 id="intro">Information about this site and its author follows.</h2>
 

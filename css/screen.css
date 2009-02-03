@@ -8,7 +8,7 @@
 }
 
 body {
-	background-color: #fff;
+	background-color: #e6e6e6;
 	color: #000;
 	line-height: 1.4em;
 	margin: 20px auto 18px 25%;
@@ -22,7 +22,7 @@ a:link {
 }
 
 a:visited {
-	color: #150085;
+	color: #2a00ff;
 	text-decoration: none;
 }
 

@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Pastebud"
+---
+
+Useful and innovative [copy and paste bookmarklets for the iPhone](http://pastebud.com "Pastebud") with MobileMail support for emailing your clips. (via <a href="http://5thirtyone.com/archives/1761">5ThirtyOne</a>.)

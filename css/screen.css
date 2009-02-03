@@ -39,7 +39,9 @@ blockquote {
 	border-left: 1px solid #222;
 	line-height: 18px;
 	font-size: 11pt;
-	/*
+	
+
+/*
 
 font-style: italic;*/
 	margin: 20px;
@@ -137,7 +139,9 @@ ul {
 }
 
 #wrapper {
-	/*
+	
+
+/*
 
 max-width: 40em;
 	min-width: 30em;*/
@@ -149,121 +153,105 @@ max-width: 40em;
 a.podcastpeople {
 	font-weight: bold;
 	color: #df4200;
-
 }
 
 a.tumblr {
 	font-weight: bold;
 	color: #24292e;
-
 }
 
 a.flickr {
 	font-weight: bold;
 	color: #ff0083;
-
 }
 
 a.twitter {
 	font-weight: bold;
 	color: #6cd8f6;
-
 }
 
 a.lastfm {
 	font-weight: bold;
 	color: #d51d39;
-
 }
 
 a.rss {
 	font-family: Helvetica;
 	color: #8a8a8a;
-
 }
 
 a.claimid {
 	font-weight: bold;
 	color: #aadc00;
-
 }
 
 a.sjprep {
 	font-weight: bold;
 	color: #9d0000;
-
 }
 
 a.sarah {
 	font-weight: bold;
 	color: #7d7d7d;
-
 }
 
 a.delicious {
 	font-weight: bold;
 	color: #000aff;
-
 }
 
 a.black {
 	font-weight: bold;
 	color: black;
-
 }
 
 a.amazon {
 	font-weight: bold;
 	color: #ed931f;
-
 }
 
 a.things {
 	font-weight: bold;
 	color: #4176a6;
-
 }
 
 a.places {
 	font-weight: bold;
 	color: #3c98c9;
-
 }
 
 a.people {
 	color: #709564;
 	font-weight: bold;
-
 }
 
 a.email {
 	font-weight: bold;
 	color: #2d75bb;
-
 }
 
 a.skype {
 	font-weight: bold;
 	color: #45aeec;
-
 }
 
 a.aim {
 	font-weight: bold;
 	color: #d85533;
-
 }
 
 a.digg {
 	font-weight: bold;
 	color: #3c5929;
-
 }
 
 a.google {
 	color: #386ec3;
 	font-weight: bold;
-
 }
 
+a.vimeo {
+	color: #0dadd6;
+	font-weight: bold;
+}
 /* @end */

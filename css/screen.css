@@ -17,19 +17,18 @@ body {
 }
 
 a:link {
-	color: #14415e;
-	text-decoration: none;
-	
+	color: #000;
+	text-decoration: underline;
 }
 
 a:visited {
-	background-color: inherit;
-	padding: 3px 0px 2px 0px;
-	border: 0px none #333;
+	color: #eee;
 }
 
 a:hover {
+	background-color: #f9ff00;
 	text-decoration: underline;
+	color: #000;
 }
 
 a img {
@@ -40,7 +39,7 @@ blockquote {
 	border-left: 1px solid #222;
 	line-height: 18px;
 	font-size: 11pt;
-	font-style: italic;
+	/*font-style: italic;*/
 	margin: 20px;
 	padding-left: 10px;
 	border-bottom-color: #fff;
@@ -104,7 +103,7 @@ ul {
 }
 
 .post .signoff {
-	font-size: 12pt;
+	font-size: 10pt;
 	font-style: italic;
 	text-align: right;
 }

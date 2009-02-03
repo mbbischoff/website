@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-<h2 id="intro">Facts about this site and its author follows.</h2>
+<h2 id="intro">Information about the site and author follows.</h2>
 
 <div class="post" markdown="1">
 # About The Author

@@ -15,6 +15,4 @@ Of course _You Look Nice Today_ is not the most "family friendly" piece of enter
 
 > Nota bene: You Look Nice Today is an audio program that has been prepared by and for “adults.” As a Journal of Emotional Hygiene, our program tackles many of the painful issues typically encountered by persons of this awkward age. Consequently, an uncontrollable level of candor and seemingly non-stop tsunami of profanity may be encountered by listeners. Please do not present this material to non-adults.
 
-To fully understand the trio's unique brand of humorous banter, you should to listen to show. I would recommend that the uninitiated begin with [Episode 2: Morning Powder](http://youlooknicetoday.com/episode/ep-2-morning-powder "Episode 2: Morning Powder") [^1] and listen to each episode sequentially via the convenient [Episode Guide](http://youlooknicetoday.com/episode-guide "Episode Guide") or via iTunes. _You Look Nice Today_ may not be for everyone, but it's definitely worth a shot.
-
-[^1]: Episode 1 seems to be missing.
+To fully understand the trio's unique brand of humorous banter, you should to listen to show. I would recommend that the uninitiated begin with [Episode 2: Morning Powder](http://youlooknicetoday.com/episode/ep-2-morning-powder "Episode 2: Morning Powder") and listen to each episode sequentially via the convenient [Episode Guide](http://youlooknicetoday.com/episode-guide "Episode Guide") or via iTunes. _You Look Nice Today_ may not be for everyone, but it's definitely worth a shot.

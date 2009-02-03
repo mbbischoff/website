@@ -8,22 +8,24 @@
 }
 
 body {
-	background-color: #e6e6e6;
+	background-color: #fff;
 	color: #000;
 	line-height: 1.4em;
 	margin: 20px auto 18px 25%;
 	font-family: Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
+	text-align: left;
 }
 
 a:link {
-	color: #007cff;
+	color: #14415e;
 	text-decoration: none;
 	
 }
 
 a:visited {
-	color: #2a00ff;
-	text-decoration: none;
+	background-color: inherit;
+	padding: 3px 0px 2px 0px;
+	border: 0px none #333;
 }
 
 a:hover {

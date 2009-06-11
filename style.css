@@ -1,0 +1,178 @@
+@font-face {
+	font-family: Museo;
+	src: url('Museo700-Regular.otf');
+}
+
+@font-face {
+	font-family: Museo Light;
+	src: url('Museo500-Regular.otf');
+}
+
+body {
+	text-align: center;
+	color: black;
+	background: #fff;
+}
+
+div#container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 20em;
+	text-align: left;
+	margin-top: 0.63em;
+	font-style: italic;
+}
+
+div#footer {
+	background-color: #000;
+	color: #fff;
+}
+
+#footer p.footer a {
+	color: #fff;
+	font-style: normal;
+	text-decoration: underline;
+	font-weight: normal;
+}
+
+p.footer {
+	font: .8em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	padding: 0.31em;
+	margin: 0;
+}
+
+p {
+	font: 1.05em/1.25em "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+
+
+ul {
+	display: block;
+	margin: 1em 0px;
+	margin-top: 1em;
+	margin-right: 0px;
+	margin-bottom: 1em;
+	margin-left: 0px;
+	display: block;
+	font: 1.05em/1.25em "Lucida Grande", Lucida, Verdana, sans-serif;
+	width: 20em;
+	list-style-type: none;
+	padding: 0;
+}
+
+
+p#description {
+	text-align: center;
+	color: #666;
+	font: italic bold 1.1em Museo Light, Georgia, "Times New Roman", Times, serif;
+	margin-top: -1.88em;
+}
+
+h1 {
+	text-align: center;
+	color: black;
+	font: bold 2.4em Museo, Georgia, "Times New Roman", Times, serif;
+}
+
+h2 {
+	
+/*font: bold 1.4em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;*/
+	
+	text-align: center;
+	color: black;
+	font: 1.5em Museo Light, "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+
+
+/* @group Links
+ */
+
+a {
+	font-weight: bold;
+	color: black;
+	text-decoration: none;
+}
+
+/* unvisited link */
+/*a:visited {
+	text-decoration: none;
+}*/  /* visited link */
+a:hover {
+	font-variant: normal;
+	text-decoration: underline;
+}  /* mouse over link */
+/*a:active {color: #fff;
+	background-color: #f00;
+}*/   /* selected link */
+
+h1 a {
+	text-decoration: none;
+	color: black;
+}
+
+a.arrow {
+	text-decoration: none;
+}
+
+a.google {
+	color: #03c;
+}
+
+a.tumblr {
+	color: #3e5b76;
+}
+
+a.flickr {
+	color: #ff0083;
+}
+
+a.readernaut{
+	color: #2c2c28;
+}
+
+a.twitter {
+	color: #32c3f4;
+}
+
+a.vimeo {
+	color: #0dadd6;
+}
+
+a.lastfm {
+	color: #d51d39;
+}
+
+a.claimid {
+	color: #aadc00;
+}
+
+a.sjprep {
+	color: #9d0000;
+}
+
+a.delicious {
+	color: #000aff;
+}
+
+
+a.facebook {
+	color: white;
+	background-color: #3b5998;
+	border: 0.13em solid #3b5998;
+}
+
+a.amazon {
+	color: #ed931f;
+}
+
+a.google {
+	font-weight: bold;
+}
+
+a.hypertexty
+{
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	text-transform: uppercase;
+}
+
+/* @end */

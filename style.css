@@ -11,7 +11,7 @@
 body {
 	text-align: center;
 	color: black;
-	background: #f2f2f2;
+	background: #f7f7f7;
 }
 
 div#container {
@@ -171,8 +171,14 @@ a.google {
 
 a.hypertexty
 {
-	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	text-transform: uppercase;
+}
+
+a.njit
+{
+	background-color: #c00;
+	color: white;
+	border: 0.13em solid #c00;
+
 }
 
 /* @end */

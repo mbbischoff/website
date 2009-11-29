@@ -2,14 +2,17 @@ body {
 	text-align: left;
 	color: #212121;
 	font: 1.2em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
+	background-color: #d5d5d5;
 }
 
 div#container {
 	margin-left: auto;
 	margin-right: auto;
-	width: 35em;
+	width: 640px;
 	text-align: left;
-	margin-top: 3px;
+	background-color: #fffeff;
+	padding: 10px;
+	border: 50px double #d5d5d5;
 }
 
 div#footer {
@@ -20,19 +23,16 @@ div#footer {
 
 #footer p.footer a {
 	color: #fff;
-	font-style: normal;
-	text-decoration: underline;
-	font-weight: normal;
 }
 
 p.footer {
-	font: .8em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 	padding: 0.31em;
 	margin: 0;
+	font: .6em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
 }
 
 p {
-	font: 1.1em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font: 1.15em/1.35em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
 }
 
 
@@ -82,19 +82,6 @@ a:hover {
 	border-bottom-style: solid;
 }
 
-a:active {color: #fff;
-	background-color: #000;
-}*/   /* selected link */
-
-h1 a {
-	text-decoration: none;
-	color: black;
-}
-
-a.arrow {
-	text-decoration: none;
-}
-
 a.google {
 	color: #03c;
 }
@@ -112,11 +99,11 @@ a.readernaut{
 }
 
 a.twitter {
-	color: #32c3f4;
+	color: #569abc;
 }
 
-a.vimeo {
-	color: #0dadd6;
+a.yelp {
+	color: #c41200;
 }
 
 a.lastfm {
@@ -127,27 +114,22 @@ a.sjprep {
 	color: #9d0000;
 }
 
-a.delicious {
-	color: #000aff;
+a.pinboard {
+	color: #3770fa;
 }
 
-
 a.facebook {
-	color: white;
-	background-color: #3b5998;
-	border: 0.13em solid #3b5998;
+	color: #3b5998;
 }
 
 a.amazon {
 	color: #ed931f;
 }
 
-a.google {
-	font-weight: bold;
-}
 
-a.hypertexty
+a.podcastpeople
 {
+	color: #ff9000;
 }
 
 a.njit

@@ -1,31 +1,21 @@
-@font-face {
-	font-family: Museo;
-	src: url('Museo700-Regular.otf');
-}
-
-@font-face {
-	font-family: Museo Light;
-	src: url('Museo500-Regular.otf');
-}
-
 body {
-	text-align: center;
-	color: black;
-	background: #f7f7f7;
+	text-align: left;
+	color: #212121;
+	font: 1.2em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
 }
 
 div#container {
 	margin-left: auto;
 	margin-right: auto;
-	width: 20em;
+	width: 35em;
 	text-align: left;
-	margin-top: 0.63em;
-	font-style: italic;
+	margin-top: 3px;
 }
 
 div#footer {
 	background-color: #000;
 	color: #fff;
+	padding: 5px;
 }
 
 #footer p.footer a {
@@ -42,7 +32,7 @@ p.footer {
 }
 
 p {
-	font: 1.05em/1.25em "Lucida Grande", Lucida, Verdana, sans-serif;
+	font: 1.1em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
 
@@ -60,27 +50,20 @@ ul {
 	padding: 0;
 }
 
-
-p#description {
-	text-align: center;
-	color: #666;
-	font: italic bold 1.1em Museo Light, Georgia, "Times New Roman", Times, serif;
-	margin-top: -1.88em;
-}
-
 h1 {
-	text-align: center;
+	text-align: left;
 	color: black;
-	font: bold 2.4em Museo, Georgia, "Times New Roman", Times, serif;
+	font: normal normal 2em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
 }
+
 
 h2 {
 	
 /*font: bold 1.4em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;*/
 	
-	text-align: center;
+	text-align: left;
 	color: black;
-	font: 1.5em Museo Light, "Lucida Grande", Lucida, Verdana, sans-serif;
+	font: normal normal 1.5em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
 }
 
 
@@ -89,20 +72,18 @@ h2 {
 
 a {
 	font-weight: bold;
-	color: black;
+	color: #000;
 	text-decoration: none;
 }
 
-/* unvisited link */
-/*a:visited {
-	text-decoration: none;
-}*/  /* visited link */
 a:hover {
 	font-variant: normal;
-	text-decoration: underline;
-}  /* mouse over link */
-/*a:active {color: #fff;
-	background-color: #f00;
+	text-decoration: none;
+	border-bottom-style: solid;
+}
+
+a:active {color: #fff;
+	background-color: #000;
 }*/   /* selected link */
 
 h1 a {
@@ -140,10 +121,6 @@ a.vimeo {
 
 a.lastfm {
 	color: #d51d39;
-}
-
-a.claimid {
-	color: #aadc00;
 }
 
 a.sjprep {

@@ -2,7 +2,6 @@ body {
 	text-align: left;
 	color: #212121;
 	font: 1.2em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
-	background-color: #d5d5d5;
 }
 
 div#container {
@@ -12,7 +11,8 @@ div#container {
 	text-align: left;
 	background-color: #fffeff;
 	padding: 10px;
-	border: 50px double #d5d5d5;
+	border-style: double;
+	border-width: 0;
 }
 
 div#footer {

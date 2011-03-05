@@ -153,7 +153,13 @@ a:hover {
 	border: 1px outset #fff;
 }
 
-a:visited {}  /* visited link */
+a:visited {
+		font-variant: normal;
+	text-decoration: none;
+	opacity: .9;
+	border: 1px inset #fff;
+
+	}  /* visited link */
 a:active {
 	font-variant: normal;
 	text-decoration: none;

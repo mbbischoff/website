@@ -129,6 +129,10 @@ img {
 	border-radius: 20px;
 }
 
+span.flickrr {
+	color: #ff0084;
+}
+
 
 /* @group Links
  */
@@ -170,6 +174,7 @@ footer a
 
 a.tumblr {
 	background-color: #35516d;
+	font-family: "Bookman Old Style";
 }
 
 
@@ -178,7 +183,8 @@ a.lickability {
 }
 
 a.flickr {
-	background-color: #ff0083;
+	background-color: #ffffff;
+	color: #0063dc;
 }
 
 a.twitter {
@@ -210,6 +216,7 @@ a.pinboard {
 
 a.facebook {
 	background-color: #3b5998;
+	font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
 }
 
 a.amazon {

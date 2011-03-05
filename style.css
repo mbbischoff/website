@@ -85,23 +85,14 @@ div.photo {
 	height: 474px;
 }
 
-div#footer {
+footer {
 	background-color: #000;
 	color: #fff;
-	padding: 5px;
-}
-
-#footer p.footer a {
-	color: #fff;
-}
-
-p.footer {
 	margin: 1em 0;
-	font: .7em/1.2em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
+	font: .6em/.6em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
 	color: white;
 	text-align: center;
 }
-
 
 ul {
 	display: block;
@@ -228,7 +219,6 @@ a.njit
 a.creativecommons
 {
 	background-color: #212121;
-	color: #000;
 }
 
 a.peopletopeople

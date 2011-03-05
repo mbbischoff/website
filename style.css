@@ -156,14 +156,13 @@ a:hover {
 a:visited {
 		font-variant: normal;
 	text-decoration: none;
-	opacity: .9;
 	border: 1px inset #fff;
 
 	}  /* visited link */
 a:active {
 	font-variant: normal;
 	text-decoration: none;
-	opacity: .9;
+	opacity: .7;
 	border: 1px inset #fff;
 	}  /* selected link */
 

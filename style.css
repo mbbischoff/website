@@ -58,7 +58,7 @@ table {
 html{
 	-webkit-font-smoothing: antialiased;
 	background-image: url(noise.png);
-	background-color: #333333;
+	background-color: #000;
 }
 
 body {

@@ -1,3 +1,5 @@
+/* @group Reset */
+
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -42,22 +44,23 @@ q:before, q:after {
 	content: '';
 	content: none;
 }
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
 
+/* @end */
+
 
 html{
 	-webkit-font-smoothing: antialiased;
-	background-color: black;
-	}
+	background-image: url(noise.png);
+}
 
 body {
 	color: #fff;
-	background-color: black;
 	font-family:'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-
 }
 
 p {
@@ -65,32 +68,22 @@ p {
 	font: 1.3em/1.6em 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-
-div#container {
-	margin-left: auto;
-	margin-right: auto;
-	width: 632px;
-	text-align: left;
-	background-color: black;
-	padding: 20px;
-	border-style: double;
-	border-width: 0;
-	-webkit-border-radius: 50px;
-	-moz-border-radius: 50px;
-	border-radius: 50px;
-}
-
-div.photo {
-	width: 632px;
-	height: 474px;
-}
-
-footer {
-	background-color: #000;
+h1 {
 	color: #fff;
-	margin: 1em 0;
-	font: .6em/.6em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
-	color: white;
+	font-size: 2.5em;
+	line-height: 2.5em;
+}
+
+h1.masthead {
+	text-align: center;
+}
+
+h2 {
+	
+/*font: bold 1.4em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;*/
+	font-size: 1.3em;
+	margin-bottom: 0.3em;
+	font-weight: bold;
 	text-align: center;
 }
 
@@ -109,24 +102,27 @@ ul {
 	color: white;
 }
 
-h1 {
+footer {
 	color: #fff;
-	font-size: 2.5em;
-	line-height: 2.5em;
-}
-
-h1.masthead {
+	margin: 1em 0;
+	font: .6em/.6em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
+	color: white;
 	text-align: center;
 }
 
+div#container {
+	margin-top:auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right: auto;
+	width: 632px;
+	padding: 20px;
+}
 
-h2 {
-	
-/*font: bold 1.4em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;*/
-	font-size: 1.3em;
-	margin-bottom: 0.3em;
-	font-weight: bold;
-	text-align: center;
+img {
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
 }
 
 

@@ -80,6 +80,11 @@ div#container {
 	border-radius: 50px;
 }
 
+div.photo {
+	width: 632px;
+	height: 474px;
+}
+
 div#footer {
 	background-color: #000;
 	color: #fff;

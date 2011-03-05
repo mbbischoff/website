@@ -1,18 +1,83 @@
-body {
-	text-align: left;
-	color: #212121;
-	font: 1.2em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
 }
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+html{
+	-webkit-font-smoothing: antialiased;
+	background-color: black;
+	}
+
+body {
+	color: #fff;
+	background-color: black;
+	font-family:'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+}
+
+p {
+	margin: 1em 0;
+	font: 1.3em/1.6em 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
 
 div#container {
 	margin-left: auto;
 	margin-right: auto;
-	width: 640px;
+	width: 632px;
 	text-align: left;
-	background-color: #fffeff;
-	padding: 10px;
+	background-color: black;
+	padding: 20px;
 	border-style: double;
 	border-width: 0;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
 }
 
 div#footer {
@@ -26,13 +91,10 @@ div#footer {
 }
 
 p.footer {
-	padding: 0.31em;
-	margin: 0;
-	font: .6em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
-}
-
-p {
-	font: 1.15em/1.35em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
+	padding: 0.3em;
+	font: .7em/1.0em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
+	color: white;
+	text-align: center;
 }
 
 
@@ -48,22 +110,23 @@ ul {
 	width: 20em;
 	list-style-type: none;
 	padding: 0;
+	color: white;
 }
 
 h1 {
-	text-align: left;
-	color: black;
-	font: normal normal 2em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
+	color: #fff;
+	font-size: 2.4em;
+	line-height: 2.4em;
 }
 
 
 h2 {
 	
 /*font: bold 1.4em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;*/
-	
-	text-align: left;
-	color: black;
-	font: normal normal 1.5em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
+	font-size: 1.3em;
+	margin-bottom: 0.3em;
+	font-weight: bold;
+	text-align: center;
 }
 
 
@@ -71,75 +134,101 @@ h2 {
  */
 
 a {
-	font-weight: bold;
-	color: #000;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
 	text-decoration: none;
+	-webkit-transition: all 0.1s linear;
+	font-weight: bold;
+	padding: 3px;
+	background-color: #5e5e5e;
+	color: white;
 }
 
 a:hover {
 	font-variant: normal;
 	text-decoration: none;
-	border-bottom-style: solid;
-}
-
-a.google {
-	color: #03c;
+	color: white;
+	background-color: black;
 }
 
 a.tumblr {
-	color: #3e5b76;
+	background-color: #35516d;
 }
+
+
+a.lickability {
+	background-color: red;
+}
+
+a.tumblr:hover {
+	font-variant: normal;
+	text-decoration: none;
+	color: white;
+	background-color: black;
+}
+
 
 a.flickr {
-	color: #ff0083;
-}
-
-a.readernaut{
-	color: #2c2c28;
+	background-color: #ff0083;
 }
 
 a.twitter {
-	color: #569abc;
+	background-color: #569abc;
 }
 
-a.yelp {
-	color: #c41200;
+a.email {
+	color: #000;
+	background-color: #fff;
 }
 
-a.lastfm {
-	color: #d51d39;
+a.wikipedia {
+	color: #000;
+	background-color: #bebfc2;
 }
 
-a.sjprep {
-	color: #9d0000;
+a.name {
+	color: #000;
+	background-color: #fff;
+}
+
+a.phone {
+	color: #000;
+	background-color: #fff;
 }
 
 a.pinboard {
-	color: #3770fa;
+	background-color: #3770fa;
 }
 
 a.facebook {
-	color: #3b5998;
+	background-color: #3b5998;
 }
 
 a.amazon {
-	color: #ed931f;
+	background-color: #ed931f;
 }
 
 
 a.podcastpeople
 {
-	color: #ff9000;
+	background-color: #8cc948;
 }
 
 a.njit
 {
-	color: #c00;
+	background-color: #7c0607;
+}
+
+a.creativecommons
+{
+	background-color: #212121;
+	color: #000;
 }
 
 a.peopletopeople
 {
-	color: #003d79;
+	background-color: #003d79;
 }
 
 /* @end */

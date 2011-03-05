@@ -111,8 +111,12 @@ ul {
 
 h1 {
 	color: #fff;
-	font-size: 2.4em;
-	line-height: 2.4em;
+	font-size: 2.5em;
+	line-height: 2.5em;
+}
+
+h1.masthead {
+	text-align: center;
 }
 
 

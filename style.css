@@ -138,7 +138,6 @@ a {
 	-moz-border-radius: 3px;
 	border-radius: 3px;
 	text-decoration: none;
-	-webkit-transition: all 0.2s linear;
 	font-weight: bold;
 	padding: 3px;
 	background-color: #5e5e5e;
@@ -154,10 +153,8 @@ a:hover {
 }
 
 a:visited {
-		font-variant: normal;
+	font-variant: normal;
 	text-decoration: none;
-	border: 1px inset #fff;
-
 	}  /* visited link */
 a:active {
 	font-variant: normal;
@@ -166,6 +163,10 @@ a:active {
 	border: 1px inset #fff;
 	}  /* selected link */
 
+footer a
+{
+	background-color: #333333;
+}
 
 a.tumblr {
 	background-color: #35516d;
@@ -184,11 +185,6 @@ a.twitter {
 	background-color: #569abc;
 }
 
-a.email {
-	color: #000;
-	background-color: white;
-}
-
 
 a.wikipedia {
 	color: #065bca;
@@ -200,9 +196,12 @@ a.name {
 	background-color: #fff;
 }
 
+a.email {
+	background-color: #333333;
+}
+
 a.phone {
-	color: #000;
-	background-color: #fff;
+	background-color: #333333;
 }
 
 a.pinboard {
@@ -226,11 +225,6 @@ a.podcastpeople
 a.njit
 {
 	background-color: #CC0000;
-}
-
-footer a
-{
-	background-color: #212121;
 }
 
 a.peopletopeople

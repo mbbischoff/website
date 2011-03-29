@@ -130,7 +130,7 @@ img {
 }
 
 span.flickrr {
-	color: #ff0084;
+	/*color: #ff0084;*/
 }
 
 
@@ -144,16 +144,17 @@ a {
 	text-decoration: none;
 	font-weight: bold;
 	padding: 3px;
-	background-color: #5e5e5e;
+	background-color: rgba(51,51,51,0.5);
 	color: white;
 	border: 1px solid rgba(255,254,255,0);
 }
 
 
 a:hover {
+	background: black;
 	font-variant: normal;
 	text-decoration: none;
-	border: 1px outset #fff;
+	opacity: .9;
 }
 
 a:visited {
@@ -169,69 +170,66 @@ a:active {
 
 footer a
 {
-	background-color: #333333;
+	background-color: rgba(51,51,51,0.5);
 }
 
 a.tumblr {
-	background-color: #35516d;
-	font: bold 1.1em "Bookman Old Style";
+	background-color: rgba(53,81,109,0.5);
 }
 
 
 a.lickability {
-	background-color: #f70916;
+	background-color: rgba(247,9,22,0.5);
 }
 
 a.flickr {
-	background-color: #ffffff;
-	color: #0063dc;
+	background-color: rgba(0,99,220,0.5);
 }
 
 a.twitter {
-	background-color: #569abc;
+	background-color: rgba(86,154,188,0.5);
 }
 
 
 a.wikipedia {
-	color: #065bca;
-	background-color: #f6f6f6;
+	color: #00;
+	background-color: rgba(246,246,246,0.5);
 }
 
 a.name {
-	color: #000;
-	background-color: #fff;
+	/*color: #000;
+	background-color: #fff;*/
 }
 
 a.email {
-	background-color: #333333;
+	background-color: rgba(51,51,51,0.5);
 }
 
 a.phone {
-	background-color: #333333;
+	background-color: rgba(51,51,51,0.5);
 }
 
 a.pinboard {
-	background-color: #3770fa;
+	background-color: rgba(55,112,250,0.5);
 }
 
 a.facebook {
-	background-color: #3b5998;
-	font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
+	background-color: rgba(59,89,152,0.5);
 }
 
 a.amazon {
-	background-color: #ed931f;
+	background-color: rgba(237,147,31,0.5);
 }
 
 
 a.podcastpeople
 {
-	background-color: #689736;
+	background-color: rgba(104,151,54,0.5);
 }
 
 a.njit
 {
-	background-color: #CC0000;
+	background-color: rgba(204,0,0,0.5);
 }
 
 a.peopletopeople

@@ -1,240 +1,79 @@
-/* @override http://matthewbischoff.com/style.css */
+html {
+	font-family: "Helvetia Neue", "Helvetica";
+	text-rendering: optimizeLegibility;
+}
 
-/* @group Reset */
+body {
+	color: #101010;
+	background: #f9f9f9;
+	font-family: "Helvetica Neue", "Helvetica", sans-serif;
+	font-weight: 200;
+    font-size:160%;
+    line-height:1.125em;
 
-/* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
+	margin: 100px 15%;
+	
+}
+
+.highlighted {
+background: rgba(234,255,0,0.56)
+}
+
+.inline-image {
+	vertical-align: middle;
+	
+}
+
+.nyt-logo {
+}
+
+h1, h2 {
+	font-size: 300%;
+	line-height: 125%;
+	font-weight: 100;
+}
+
+a[href] {
+	color: inherit;
+	font-weight: 400;
+	text-decoration: none;
+/* 	border-bottom: 1px solid; */
+}
+
+/*
+.new-york-times {
+	color: #444 !important;
+}
 */
 
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
+.lickability {
+  background: -webkit-linear-gradient(#cb4d47, #9b202d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+/*   border-bottom: 1px solid #9b202d !important; */
 }
 
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
+.get-excited {
+	color: #17a450 !important;
+/* 	border-bottom: 1px solid #17a450 !important; */
 }
 
-/* @end */
-
-
-html{
-	-webkit-font-smoothing: antialiased;
-	background-image: url(noise.png);
-	background-color: #151515;
+.twitter {
+	color: rgb(0, 132, 180) !important;
 }
 
-body {
-	color: #fff;
-	font: 12pt 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+.tumblr {
+	color: #324e69 !important;
 }
 
-p {
-	margin: 1em 0;
-	font: 1.3em/1.6em 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+.pinboard {
+	color: rgb(0, 0, 255) !important;
 }
 
-h1 {
-	color: #fff;
-	font-size: 2.5em;
-	line-height: 2.5em;
+.facebook {
+	color: rgb(59, 89, 152) !important;
 }
 
-h1.masthead {
-	text-align: center;
+.github {
+	color: #373737 !important;
 }
-
-h2 {
-	
-/*font: bold 1.4em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;*/
-	font-size: 1.3em;
-	margin-bottom: 0.3em;
-	font-weight: bold;
-	text-align: center;
-}
-
-ul {
-	display: block;
-	margin: 1em 0px;
-	margin-top: 1em;
-	margin-right: 0px;
-	margin-bottom: 1em;
-	margin-left: 0px;
-	display: block;
-	font: 1.05em/1.25em "Lucida Grande", Lucida, Verdana, sans-serif;
-	width: 20em;
-	list-style-type: none;
-	padding: 0;
-	color: white;
-}
-
-footer {
-	color: #fff;
-	margin: 1em 0;
-	font: .6em/.6em Helvetica, "Helvetica Neue", Arial, Geneva, sans-serif;
-	color: white;
-	text-align: center;
-}
-
-div#container {
-	margin-top:auto;
-	margin-bottom: auto;
-	margin-left: auto;
-	margin-right: auto;
-	width: 39.5em;
-	padding: 0.909em;
-	text-align: left;
-}
-
-img {
-	-webkit-border-radius: 20px;
-	-moz-border-radius: 20px;
-	border-radius: 20px;
-}
-
-span.flickrr {
-	/*color: #ff0084;*/
-}
-
-
-/* @group Links
- */
-
-a {
-	-webkit-border-radius: 3px;
-	-moz-border-radius: 3px;
-	border-radius: 3px;
-	text-decoration: none;
-	font-weight: bold;
-	padding: 3px;
-	background-color: rgba(51,51,51,0.5);
-	color: white;
-	border: 1px solid rgba(255,254,255,0);
-}
-
-
-a:hover {
-	background: black;
-	font-variant: normal;
-	text-decoration: none;
-	opacity: .9;
-}
-
-a:visited {
-	font-variant: normal;
-	text-decoration: none;
-	}  /* visited link */
-a:active {
-	font-variant: normal;
-	text-decoration: none;
-	opacity: .7;
-	border: 1px inset #fff;
-	}  /* selected link */
-
-footer a
-{
-	background-color: rgba(51,51,51,0.5);
-}
-
-a.tumblr {
-	background-color: rgba(53,81,109,0.5);
-}
-
-
-a.lickability {
-	background-color: rgba(247,9,22,0.5);
-}
-
-a.flickr {
-	background-color: rgba(0,99,220,0.5);
-}
-
-a.twitter {
-	background-color: rgba(86,154,188,0.5);
-}
-
-
-a.wikipedia {
-	color: #00;
-	background-color: rgba(246,246,246,0.5);
-}
-
-a.name {
-	/*color: #000;
-	background-color: #fff;*/
-}
-
-a.email {
-	background-color: rgba(51,51,51,0.5);
-}
-
-a.phone {
-	background-color: rgba(51,51,51,0.5);
-}
-
-a.pinboard {
-	background-color: rgba(55,112,250,0.5);
-}
-
-a.facebook {
-	background-color: rgba(59,89,152,0.5);
-}
-
-a.amazon {
-	background-color: rgba(237,147,31,0.5);
-}
-
-
-a.podcastpeople
-{
-	background-color: rgba(104,151,54,0.5);
-}
-
-a.njit
-{
-	background-color: rgba(204,0,0,0.5);
-}
-
-a.peopletopeople
-{
-	background-color: #003d79;
-}
-
-/* @end */

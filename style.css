@@ -16,15 +16,12 @@ body {
 }
 
 .highlighted {
-background: rgba(234,255,0,0.56)
+	background: rgba(234,255,0,0.56)
 }
 
 .inline-image {
 	vertical-align: middle;
 	
-}
-
-.nyt-logo {
 }
 
 h1, h2 {
@@ -37,8 +34,22 @@ a[href] {
 	color: inherit;
 	font-weight: 400;
 	text-decoration: none;
+	
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  /* ...and now for the proper property */
+  transition:.5s;
+
 /* 	border-bottom: 1px solid; */
 }
+
+a:active {
+	opacity: 0.5; /* css standard */
+    filter: alpha(opacity=50); /* internet explorer */
+}  /* selected link */
+
 
 a:hover
 { 
@@ -46,11 +57,6 @@ a:hover
     filter: alpha(opacity=50); /* internet explorer */
 
 }
-/*
-.new-york-times {
-	color: #444 !important;
-}
-*/
 
 .lickability {
   background: -webkit-linear-gradient(#cb4d47, #9b202d);

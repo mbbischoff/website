@@ -35,24 +35,20 @@ a[href] {
 	font-weight: 400;
 	text-decoration: none;
 	
-  -o-transition:.5s;
-  -ms-transition:.5s;
-  -moz-transition:.5s;
-  -webkit-transition:.5s;
-  /* ...and now for the proper property */
-  transition:.5s;
-
-/* 	border-bottom: 1px solid; */
+	-o-transition:opacity .5s;
+	-ms-transition:opacity .5s;
+	-moz-transition:opacity .5s;
+	-webkit-transition:opacity .5s;
+	/* ...and now for the proper property */
+	transition:opacity .5s;
 }
 
 a:active {
 	opacity: 0.5; /* css standard */
     filter: alpha(opacity=50); /* internet explorer */
-}  /* selected link */
+} 
 
-
-a:hover
-{ 
+a:hover { 
 	opacity: 0.5; /* css standard */
     filter: alpha(opacity=50); /* internet explorer */
 
@@ -62,7 +58,6 @@ a:hover
   background: -webkit-linear-gradient(#cb4d47, #9b202d);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-/*   border-bottom: 1px solid #9b202d !important; */
 }
 
 .get-excited {

@@ -40,6 +40,10 @@ a[href] {
 /* 	border-bottom: 1px solid; */
 }
 
+a:hover
+{ 
+	background-color:yellow;
+}
 /*
 .new-york-times {
 	color: #444 !important;

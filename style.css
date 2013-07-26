@@ -15,6 +15,13 @@ body {
 	
 }
 
+
+@media screen and (max-device-width: 480px){
+	body {
+		margin: 10px 10%;
+	}
+}
+
 .highlighted {
 	background: rgba(234,255,0,0.56)
 }
@@ -23,6 +30,18 @@ body {
 	vertical-align: middle;
 	
 }
+
+.circular-avatar {
+	vertical-align: middle;
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(avatar.jpg) no-repeat;
+}
+
 
 h1, h2 {
 	font-size: 300%;

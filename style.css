@@ -42,7 +42,9 @@ a[href] {
 
 a:hover
 { 
-	background-color:yellow;
+	opacity: 0.5; /* css standard */
+    filter: alpha(opacity=50); /* internet explorer */
+
 }
 /*
 .new-york-times {

@@ -51,7 +51,6 @@ a:active {
 a:hover { 
 	opacity: 0.5; /* css standard */
     filter: alpha(opacity=50); /* internet explorer */
-
 }
 
 .lickability {

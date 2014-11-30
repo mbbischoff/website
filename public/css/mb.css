@@ -16,3 +16,8 @@ a {
 h1 {
 	font-family: 'Verlag A', 'Verlag B'; font-weight: 700; 
 }
+
+.masthead-title {
+	font-family: 'Verlag A', 'Verlag B';
+	font-weight: 700; 	
+}

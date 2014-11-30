@@ -5,6 +5,10 @@ html {
   font-weight: 300;
 }
 
+body {
+    background-color: #F7F7F7;
+}
+
 strong {
 	font-weight: 500;
 }
@@ -28,8 +32,19 @@ p {
 .post p a {
 	color: inherit;
 	text-decoration: underline;
-	text-decoration-color: red;
 }
+
+.post p a:hover {
+	color: #0083DB;
+	text-decoration: underline;
+}
+
+a:hover,
+a:focus {
+	color: #0083DB;
+	text-decoration: none;
+}
+
 
 .masthead-title {
 	font-size: 40px;

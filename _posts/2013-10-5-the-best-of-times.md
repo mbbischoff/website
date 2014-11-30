@@ -34,7 +34,7 @@ Finally, I sent out a farewell email on my last day to the company. One of the r
 
 > Congratulations, Matthew. I never met you in person, but I remember when you started because I overheard someone in the elevator talking about you. It was something like: Wow. I just met this new hire, a whiz kid, who's going to do incredible things here. And then some back and forth about who is it? What's he working on, etc.
 >
-> That's been a while, but it's not very often that you overhear something like that, and it stuck in my mind. ==Glad you were able to make your mark here at the Times.== All the best in your new adventures!
+> That's been a while, but it's not very often that you overhear something like that, and it stuck in my mind. Glad you were able to make your mark here at the Times. All the best in your new adventures!
 
 **I hope I made that mark after all.**
 

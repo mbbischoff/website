@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            Matthew Bischoff
-tagline:          @mb
+tagline:          aka. @mb
 url:              https://matthewbischoff.com
 paginate:         3
 baseurl:          /

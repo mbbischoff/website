@@ -3,7 +3,7 @@ layout: post
 title: The Best of Times
 ---
 
-[![giant.jpg](https://d23f6h5jpj26xu.cloudfront.net/8lrvrhkdpmlxew_small.jpg)](http://img.svbtle.com/8lrvrhkdpmlxew.jpg)
+![giant.jpg](https://d23f6h5jpj26xu.cloudfront.net/8lrvrhkdpmlxew_small.jpg)
 
 A month ago, on September 4th, I finished my last day as a senior iOS engineer at The New York Times. Two years there taught me a lot about building software that is used by millions of people and about myself.
 

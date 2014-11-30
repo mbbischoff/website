@@ -5,6 +5,11 @@ html {
   font-weight: 300;
 }
 
+.container {
+  max-width: 42rem;
+}
+
+
 strong {
 	font-weight: 500;
 }

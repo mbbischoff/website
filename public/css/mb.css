@@ -25,9 +25,22 @@ p {
 	margin-bottom: 1.5rem;
 }
 
+/* Full Page */
+
 .container {
   max-width: 38rem;
 }
+
+/* Masthead */
+
+.masthead-title, .masthead-title a {
+	font-size: 50px;
+	font-family: 'Verlag A', 'Verlag B';
+	font-weight: 700; 	
+	color: black;
+}
+
+/* Posts */
 
 .post p a {
 	color: inherit;
@@ -42,10 +55,4 @@ p {
 a:hover,
 a:focus {
 	text-decoration: none;
-}
-
-.masthead-title {
-	font-size: 50px;
-	font-family: 'Verlag A', 'Verlag B';
-	font-weight: 700; 	
 }

@@ -17,3 +17,6 @@ author:
 version:          0.1
 github:
   repo:           https://github.com/mattbischoff/matthewbischoff.com
+
+gems:
+  - jekyll-sitemap

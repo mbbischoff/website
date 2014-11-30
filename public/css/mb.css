@@ -27,7 +27,7 @@ p {
 
 .post p a {
 	color: inherit;
-	border-bottom: 1px solid black;
+	border-bottom: 1px solid;
 }
 
 .masthead-title {

@@ -1,68 +1,37 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta name="title" content="Matthew Bischoff" /> 
-	<meta name="author" content="Matthew Bischoff" />
-	<meta name="description" content="Matthew Bischoff (also known as Matt Bischoff) is a twenty-two-year-old designer and developer." />
-	<meta name="keywords" content="matthew, bischoff, matthew bischoff, matt bischoff, matt, geek, technology, contact, person" />
-	<meta name="googlebot" content="index,follow" />
-	<meta name="robots" content="index,follow" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+---
+layout: default
+title: Home
+---
 
-	<link rel="me" href="http://matthewbischoff.com" />
-	<link rel="me blog" type="text/html" href="http://hypertexty.com/" /> 
-	<meta name="google-site-verification" content="XK_j6lkDAd8qOhIn4-2eS2BIJuQyRp4D_gxjpR65wUM" />
-	<link rel="author" type="text/plain" href="http://matthewbischoff.com/humans.txt" />
-	<link rel="canonical" href="http://matthewbischoff.com" />
-	<link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" /> 
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-	<title>Matthew Bischoff</title>
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-	<link rel="stylesheet" href="style.css" type="text/css" media="all" />
+    {{ post.content }}
+  </article>
+  {% endfor %}
+</div>
 
-	<link rel="openid.server" href="http://www.myopenid.com/server" />
-	<link rel="openid.delegate" href="http://mattb.myopenid.com/" />
-	<link rel="openid2.local_id" href="http://mattb.myopenid.com" />
-	<link rel="openid2.provider" href="http://www.myopenid.com/server" />
-	<meta http-equiv="X-Yadis-Location" content="http://mattb.myopenid.com/?xrds=1" /> 
-	
-	
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="mb">
-	<meta name="twitter:title" content="Matthew Bischoff">
-	<meta name="twitter:description" content="Matt is an iOS developer and designer in New York City who loves making beautiful things for people. Say hi!">
-	<meta name="twitter:creator" content="mb">
-	<meta name="twitter:image:src" content="http://matthewbischoff.com/avatar.jpg">
-	<meta name="twitter:domain" content="http://matthewbischoff.com">
-
-</head>
-<body>
-<!--<div class="circular-avatar"></div>-->
-	<h1>Matthew Bischoff</h1>
-	<section class="about">
-	<p>Hey, my name’s Matt and I <strong>make things</strong> in New York.</p> 
-	
-	<p>I build iOS apps at <a class="lickability" href="http://lickability.com">Lickability</a> and <a class="tumblr" href="http://www.tumblr.com">Tumblr</a>.</p>
-	
-	<p>I write about things that interest me on <a href="http://blog.matthewbischoff.com">my blog</a>.</p>
-	
-	<p>I talked about <a class="get-excited" href="https://speakerdeck.com/matthewbischoff/get-excited-and-make-things">getting excited and making things</a>.</p>
-		
-	<p>Follow me on  <a class="tumblr" href="http://mattbischoff.tumblr.com">Tumblr</a>, <a class="twitter" href="http://twitter.com/mb">Twitter</a>, <a class="pinboard" href="https://pinboard.in/u:mattb">Pinboard</a>, <a class="facebook" href="https://www.facebook.com/matthewbischoff">Facebook</a>, and <a class="github" href="https://github.com/mattbischoff">GitHub</a>.</p>
-	
-	<p>Say <em>hi</em> by  <a href="mailto:mb@matthewbischoff.com">email</a> or <a href="tel:8563301610">phone</a>.</p>
-	
-<!--	
-	<p>I have 3 goals:
-	<ol>
-		<li>Make things easier.</li>
-		<li>Make people think.</li>
-		<li>Make people happier.</li>
-	</ol>
-	</p>
--->
-
-	</section>
-</body>
-</html>
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>

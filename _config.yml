@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        /:title/
+relative_permalinks: true
+
+# Setup
+title:            Matthew Bischoff
+tagline:          Post-postmodernist
+url:              https://matthewbischoff.com
+paginate:         3
+baseurl:          /
+author:
+  name:           Matthew Bischoff
+  url:            https://twitter.com/mb
+  email:          mb@matthewbischoff.com
+
+# Custom Variables
+version:          0.1
+github:
+  repo:           https://github.com/mattbischoff/matthewbischoff.com

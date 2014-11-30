@@ -4,7 +4,6 @@ relative_permalinks: true
 
 # Setup
 title:            Matthew Bischoff
-tagline:          
 url:              https://matthewbischoff.com
 paginate:         3
 baseurl:          /
@@ -12,6 +11,7 @@ author:
   name:           Matthew Bischoff
   url:            https://twitter.com/mb
   email:          mb@matthewbischoff.com
+tagline: 		  "Hey, I’m Matt. Nice to meet you."
 
 # Custom Variables
 version:          0.1

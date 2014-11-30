@@ -13,10 +13,6 @@ a {
 	color:  #0083DB;
 }
 
-h1 {
-	font-family: 'Verlag A', 'Verlag B'; font-weight: 700; 
-}
-
 .masthead {
 }
 
@@ -24,4 +20,12 @@ h1 {
 	font-size: 40px;
 	font-family: 'Verlag A', 'Verlag B';
 	font-weight: 700; 	
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Verlag A', 'Verlag B';
+  font-weight: 700; 
+  
+  line-height: 1.5;
 }

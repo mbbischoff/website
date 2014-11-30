@@ -9,7 +9,7 @@ strong {
 	font-weight: 500;
 }
 
-article a {
+.post p a {
 	color: inherit;
 	border-bottom: 1px solid black;
 }

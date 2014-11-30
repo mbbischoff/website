@@ -28,7 +28,7 @@ p {
 .post p a {
 	color: inherit;
 	text-decoration: underline;
-	text-decoration-color: rgba(81, 81, 81, 0.80);
+	text-decoration-color: red;
 }
 
 .masthead-title {

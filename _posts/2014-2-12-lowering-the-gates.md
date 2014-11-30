@@ -1,8 +1,13 @@
+---
+layout: post
+title: Lowering the Gates
+---
+
 ![2079563443_8628eede54_b.jpg](https://d23f6h5jpj26xu.cloudfront.net/6gexnv04uxb1a_small.jpg)
 
 A year ago, I sat in a glass-walled conference room at The New York Times in a routine meeting. I listened as a business-schooled product manager spoke about yet another monetization strategy when he broke character and whispered, “now is the time to lower the gates”. He was referring to The Times’s [crackdown on website users](http://nymag.com/daily/intelligencer/2013/02/new-york-times-closes-url-paywall-loophole.html) who read articles for free by googling headlines, installing [NYT Clean](http://marklets.com/NYTClean.aspx), and clearing their cookies. Now, that defensive mindset is creeping into The Times’s mobile products.
 
-----
+---
 
 Late last month, The New York Times quietly [slashed the number of free articles](http://www.niemanlab.org/2014/01/the-new-york-times-drops-its-moblie-app-meter-from-3-articles-a-day-to-10-a-month/) in its mobile applications from 3 per day to 10 per month. It’s not hard math, each reader can access 80 fewer articles this month than they could have last month, a decrease of 89%.
 

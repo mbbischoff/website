@@ -33,6 +33,10 @@ p {
 
 /* Masthead */
 
+.masthead {
+  margin-bottom: 2rem;
+}
+
 .masthead-title, .masthead-title a {
 	font-size: 50px;
 	font-family: 'Verlag A', 'Verlag B';

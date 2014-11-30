@@ -1,0 +1,39 @@
+---
+
+layout: post
+title: You’re Up
+
+---
+
+Whenever I go to tech conferences or meet-ups, I almost always end up traveling with either [Brian](http://briancapps.org) or [Andrew](http://twitter.com/twig777) from [Lickability](http://lickability.com).
+
+Let’s face it, I’m a nerd, and it can be a little awkward for me to walk up to a brand new group of people at a conference or a party and introduce myself. *Will they like me? Am I smart enough? [Are they going to eat me?](https://vimeo.com/21730173)*
+
+Brian and I ended up using a really simple system at WWDC 2011 that we’ve continued using to this day which makes this process fun instead of anxiety-inducing. It’s a game called “You’re Up”.
+
+## The Rules
+
+* Join a team of 2-3 people.
+
+
+* Pick one of you to be “up”.
+
+
+* If you’re up, you must introduce yourself to someone new and bring your teammates along.
+
+
+* Have a conversation with your new acquaintances.
+
+
+* Alternate who’s up.
+
+
+Instead of milling around and staring at the furniture or talking to the people that you already know, it’s good to push yourself outside your comfort zone. This simple game has led to dozens of interactions and friendships with people that I still talk to regularly, and I’ve enjoyed going to industry events much more with this in my back pocket.
+
+There are no points in this game for a reason. You don’t play it to win. The reward is in having engaging conversations with interesting people. This is just a little hack to make the hard part of socializing easier and more fun.
+
+Just remember: most people want to meet you as much as you want to meet them, especially in social situations like this. No one would prefer to stand there and stare at their phone when there are tons of fascinating people around.
+
+So go have fun and meet some people. **You’re up**.
+
+*This post was inspired by Lee Edwards, who recently wrote about his [Meetup Golf system](http://blog.ledwards.com/blog/2013/07/28/meetup-golf/) which works very similarly.*

@@ -1,31 +1,12 @@
 html {
   font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 17px;
-  line-height: 1.7;
+  font-size: 18px;
+  line-height: 1.8;
   font-weight: 300;
 }
 
-.container {
-  max-width: 42rem;
-}
-
-
 strong {
 	font-weight: 500;
-}
-
-.post p a {
-	color: inherit;
-	border-bottom: 1px solid black;
-}
-
-.masthead {
-}
-
-.masthead-title {
-	font-size: 40px;
-	font-family: 'Verlag A', 'Verlag B';
-	font-weight: 700; 	
 }
 
 /* Headings */
@@ -34,4 +15,19 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700; 
   
   line-height: 1.5;
+}
+
+.container {
+  max-width: 40rem;
+}
+
+.post p a {
+	color: inherit;
+	border-bottom: 1px solid black;
+}
+
+.masthead-title {
+	font-size: 40px;
+	font-family: 'Verlag A', 'Verlag B';
+	font-weight: 700; 	
 }

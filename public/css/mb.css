@@ -11,6 +11,7 @@ strong {
 
 a {
 	color: inherit;
+	border-bottom: 2px solid inherit;
 }
 
 .masthead {

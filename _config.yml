@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            Matthew Bischoff
-tagline:          Post-postmodernist
+tagline:          @mb
 url:              https://matthewbischoff.com
 paginate:         3
 baseurl:          /

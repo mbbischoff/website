@@ -41,10 +41,8 @@ p {
 
 a:hover,
 a:focus {
-	color: #0083DB;
 	text-decoration: none;
 }
-
 
 .masthead-title {
 	font-size: 40px;

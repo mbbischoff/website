@@ -56,10 +56,12 @@ footer {
 	text-decoration: underline;
 }
 
+/*
 .post p a:hover {
 	color: #0083DB;
 	text-decoration: underline;
 }
+*/
 
 a:hover,
 a:focus {

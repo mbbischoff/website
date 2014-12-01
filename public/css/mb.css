@@ -65,7 +65,3 @@ a:hover,
 a:focus {
 	text-decoration: none;
 }
-
-ul, ol {
-	margin-left: -2.2rem;
-}

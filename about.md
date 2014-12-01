@@ -57,7 +57,7 @@ Say hello on Twitter at [@mb](https://twitter.com/mb), email me at [mb@matthewbi
 
 You can find me online in various places, by various usernames:
 
-* [Tumblr](https://mttb.me)
+* [Tumblr](http://mttb.me)
 * [GitHub](https://github.com/mattbischoff)
 * [Facebook](https://facebook.com/matthewbischoff)
 * [Reddit](http://www.reddit.com/user/matthewbischoff/)

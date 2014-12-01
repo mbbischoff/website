@@ -8,7 +8,7 @@ permalink: /about/
 
 ![Photo of Matthew Bischoff](/assets/matthew.jpg)
 
-I’m Matthew Bischoff. I’m an iOS developer and manager in New York.
+I’m Matthew Bischoff. By day I’m an iOS engineering manager at [Tumblr](https://tumblr.com) where we make apps for creators and their audiences. And by night, I run an small software company with my best friends, [Lickability](http://lickability.com).
 
 ## Projects
 
@@ -18,18 +18,17 @@ I’ve contributed design and code to the following iOS applications:
 
 * [Quotebook](http://quotebookapp.com)
 * [Velocity](http://velocityapp.com)
-* [*The New York Times*](http://nytimes.com) for [iPhone](https://itunes.apple.com/us/app/nytimes-breaking-national/id284862083?mt=8) and [iPad](https://itunes.apple.com/us/app/nytimes-for-ipad-breaking/id357066198?mt=8)
+* [*The New York Times*](https://nytimes.com) for [iPhone](https://itunes.apple.com/us/app/nytimes-breaking-national/id284862083?mt=8) and [iPad](https://itunes.apple.com/us/app/nytimes-for-ipad-breaking/id357066198?mt=8)
 * [NYT Now](https://itunes.apple.com/us/app/nyt-now/id798993249?mt=8)
-* Tumblr for [iOS](https://itunes.apple.com/us/app/tumblr/id305343404?mt=8) and [OS X](https://itunes.apple.com/us/app/tumblr/id929285034?ls=1&mt=12)
+* [Tumblr](https://tumblr.com) for [iOS](https://itunes.apple.com/us/app/tumblr/id305343404?mt=8) and [OS X](https://itunes.apple.com/us/app/tumblr/id929285034?ls=1&mt=12)
 
 ### Talks
 
 I speak about the ideas and stories that inspire me.
 
-* **[Get Excited and Make Things](https://speakerdeck.com/matthewbischoff/get-excited-and-make-things)** —  [TEDxNJIT](https://www.youtube.com/watch?v=R1afhypdiBQ) 2011
-* RFTM: Things You Missed in the HIG
-* Software Criticism
-* Software Criticism
+* [Software Criticism](https://speakerdeck.com/matthewbischoff/software-criticism) — iOSoho
+* [RFTM: Things You Missed in the HIG](https://speakerdeck.com/matthewbischoff/rtfm-things-you-missed-in-the-hig) — SecondConf 2013
+* [Get Excited and Make Things](https://speakerdeck.com/matthewbischoff/get-excited-and-make-things) —  [TEDxNJIT](https://www.youtube.com/watch?v=R1afhypdiBQ) 2011
 
 ## Appearances
 
@@ -49,19 +48,18 @@ I’ve been lucky enough to be a guest on several podcasts over the years. Here 
 
 ## Contact
 
-I enjoy meeting new people and helping others when I can.  
+I enjoy meeting new people and helping others when I can.
 
-
-Follow me on Twitter at [@mb](https://twitter.com/mb), email me at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com), or call me at <a href="tel:+16097060597">+1 (609) 706-0597</a>.  
+Say hello on Twitter at [@mb](https://twitter.com/mb), email me at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com), or call me at <a href="tel:+16097060597">+1 (609) 706-0597</a>.  
 
 
 ## Elsewhere
 
 You can find me online in various places, by various usernames:
 
-* Tumblr
-* GitHub
-* Facebook
-* Last.fm
-* Reddit
-* LinkedIn
+* [Tumblr](https://mttb.me)
+* [GitHub](https://github.com/mattbischoff)
+* [Facebook](https://facebook.com/matthewbischoff)
+* [Reddit](http://www.reddit.com/user/matthewbischoff/)
+* [Kickstarter](https://www.kickstarter.com/profile/matthewbischoff)
+* [LinkedIn](www.linkedin.com/in/matthewbischoff/)

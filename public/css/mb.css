@@ -1,7 +1,7 @@
 html {
   font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 18px;
-  line-height: 1.8;
+  font-size: 16x;
+  line-height: 1.7;
   font-weight: 300;
 }
 
@@ -31,10 +31,15 @@ p {
   max-width: 38rem;
 }
 
+footer {
+	text-align: center;
+	margin-bottom: 2rem;
+}
+
 /* Masthead */
 
 .masthead {
-  margin-bottom: 1rem;
+  margin-bottom: 0em;
 }
 
 .masthead-title, .masthead-title a {
@@ -59,4 +64,8 @@ p {
 a:hover,
 a:focus {
 	text-decoration: none;
+}
+
+ul, ol {
+	margin-left: -2.2rem;
 }

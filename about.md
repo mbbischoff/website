@@ -8,7 +8,7 @@ permalink: /about/
 
 ![Photo of Matthew Bischoff](/assets/matthew.jpg)
 
-I’m Matthew Bischoff. I’m an iOS engineering manager at [Tumblr](https://tumblr.com) where we make apps for creators and their audiences. By night, I run [Lickability](http://lickability.com), a small software company I founded with my best friends.
+I’m Matthew Bischoff. I’m an iOS engineering manager at [Tumblr](https://tumblr.com) where we make software for creators and their audiences. By night, I run [Lickability](http://lickability.com), a small software company I founded with my best friends.
 
 ## Projects
 
@@ -37,14 +37,15 @@ I speak about the ideas and stories that inspire me.
 I’ve been lucky enough to be a guest on several podcasts over the years. Here are my audio appearances starting with the most recent:
 
 * [Release Notes: #72 Matthew Bischoff](http://releasenotes.tv/72-matthew-bischoff/) — 29 September 2014
-* [Inquisitive: #7: We're Better Than That](http://www.relay.fm/inquisitive/7) — 1 October 2014 
+* [Inquisitive: #7: We’re Better Than That](http://www.relay.fm/inquisitive/7) — 1 October 2014 
+* [Enough #23: Quotebook](http://minimalmac.com/enough/#ep23) — 7 April 2011
 * [GodCast: Matthew Bischoff Interview](http://www.godcast.org/categories/behindTheScenes/2005/02/08.html#a349) — 8 February 2005
 
 ### Writing
 
-* [J! Archive: Stay Clam](http://j-archive.com/help.php#stayclam)
 * [Matt Bischoff’s Sweet iPhone Setup](http://thesweetsetup.com/matt-bischoffs-sweet-iphone-setup/) — 10 February 2014
 * [Junior Hired to Develop Apps for The New York Times](http://www.njit.edu/features/sceneandheard/matt-bischoff.php) — 7 November 2011
+* [J! Archive: Stay Clam](http://j-archive.com/help.php#stayclam) — 2 August 2003
 
 ## Contact
 

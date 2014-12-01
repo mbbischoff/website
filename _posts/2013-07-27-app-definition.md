@@ -5,7 +5,7 @@ title: App Definition
 
 ---
 
-![2909483129_97d2deb8be_o.jpg](https://d23f6h5jpj26xu.cloudfront.net/88kbqidkvpk8qw_small.jpg)
+![App Store Banner](/assets/app_store_banner.jpg)
 
 The **app definition statement** is a concept that I’ve been obsessed with since I first read about it in the original [iOS Human Interface Guidelines](http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/AppDesign/AppDesign.html) back in 2008.
 

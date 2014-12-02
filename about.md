@@ -36,8 +36,10 @@ I speak about the ideas and stories that inspire me.
 
 I’ve been lucky enough to be a guest on several podcasts over the years. Here are my audio appearances starting with the most recent:
 
-* [Release Notes: #72 Matthew Bischoff](http://releasenotes.tv/72-matthew-bischoff/) — 29 September 2014
+* [Release Notes #72: Matthew Bischoff](http://releasenotes.tv/72-matthew-bischoff/) — 29 September 2014
 * [Inquisitive: #7: We’re Better Than That](http://www.relay.fm/inquisitive/7) — 1 October 2014 
+* [CMD+Space #101: Own your identity](http://5by5.tv/cmdspace/101) — 18 June 2014
+* [CMD+Space #26: iOS 7 and Lickability](http://5by5.tv/cmdspace/66) — 16 October 2013
 * [Enough #23: Quotebook](http://minimalmac.com/enough/#ep23) — 7 April 2011
 * [GodCast: Matthew Bischoff Interview](http://www.godcast.org/categories/behindTheScenes/2005/02/08.html#a349) — 8 February 2005
 

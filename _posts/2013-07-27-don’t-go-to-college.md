@@ -9,6 +9,8 @@ title: Don’t Go to College
 
 *The following is the text of a speech I gave two years ago at New Jersey Institute of Technology's Honors College Orientation. The audience was primarily students who were trying to determine whether NJIT was the right school for them.*
 
+---
+
 **Don't go to college**. At least don't go unless you understand exactly why you're going and exactly what you will gain from it. It's expensive, it's frustrating, and it's not really as necessary as it once was for many professions, especially computer science. 
 
 I dropped out of college last year, and I've never been happier. I'm a full time Mobile Software Engineer at The New York Times, co-founder of a small successful iOS development company called Lickability, and I have an amazing group of friends. Most people would say that I'm very lucky. I don't think it's luck. I work insanely hard, all the time.

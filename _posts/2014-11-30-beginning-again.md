@@ -11,4 +11,4 @@ For years now this website has been merely a shell that pointed people to my man
 
 Inspired by my [heroes](http://frankchimero.com/blog/homesteading-2014/) and my friends, I’ve decided to write under my name. I expect that what’s here will change a lot of over time, but I’ll try not to break too many links along the way.
 
-*If you want to come along for the ride, [subscribe in your feed reader](/atom.xml), and if you want to know more about the guy who’s writing this, there’s an about page over here.*
+*If you want to come along for the ride, [subscribe in your feed reader](/feed/), and if you want to know more about the guy who’s writing this, there’s an [about page over here](/about/).*

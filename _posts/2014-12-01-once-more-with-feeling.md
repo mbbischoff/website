@@ -5,7 +5,7 @@ title: Once More With Feeling
 
 ---
 
-For years now this website has been merely pointed people to my profiles on other websites and social media services. It wasn’t always that way. In the past it housed my blog, a podcast I hosted, and even a photoblog at one point. Remember those?
+For years now this website has merely pointed people to my profiles on other websites and social media services. It wasn’t always that way. In the past it housed my blog, a podcast I hosted, and even a photoblog at one point. Remember those?
 
 **It’s time to make this place my own again.** A place to put the things I write and make. And more than that, a place to experiment.
 

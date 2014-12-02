@@ -55,7 +55,6 @@ I enjoy meeting new people and helping others when I can.
 
 Say hello on Twitter at [@mb](https://twitter.com/mb), email me at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com), or call me at <a href="tel:+16097060597">+1 (609) 706-0597</a>.  
 
-
 ## Elsewhere
 
 You can find me online in various places, by various usernames:

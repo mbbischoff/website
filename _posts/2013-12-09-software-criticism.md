@@ -3,7 +3,9 @@ layout: post
 title: Software Criticism
 ---
 
-> Criticism may not be agreeable, but it is necessary. It fulfills the same function as pain in the human body. It calls attention to an unhealthy state of things. 
+![Critica](/assets/critica.jpg)
+
+> Criticism may not be agreeable, but it is necessary. It fulfills the same function as pain in the human body. It calls attention to an unhealthy state of things.   
 > — Winston Churchill
 
 Last week, I wrote a [short blog post on my Tumblr](http://mttb.me/post/69083842272/new-york-times-brings-print-edition-to-tablets-and) commenting on the news that [my former employer](http://nytimes.com/) had released a new web application and critiquing the [product strategy](http://insideintercom.io/product-strategy-means-saying-no/), calling it “pointless”. Apparently this struck a chord because minutes after I had shared my brief thoughts about the new Today’s Paper web app, I started receiving tweets, direct messages, and emails from former colleagues, friends, and followers. From what I’ve heard, it’s also generated several internal emails and conversations. Many of the messages I received raised the same question: **why would I write this post?**
@@ -57,11 +59,11 @@ John Gruber at Daring Fireball called Today’s Paper “utterly uncluttered”.
 
 This product is not an experiment. Experimentation is something you can do internally, via user testing, in private betas, or on whiteboards. Experiments don’t have revenue goals, and usually don’t require full-time engineers working for months. Experiments don’t have splashy launches and email campaigns to hundreds of thousands of users. Would I have criticized this publicly if it was just an experiment? Absolutely not.
 
-
-> “That sucks” is negativity. “That sucks, here’s why, and here’s how to fix it” is criticism, and it comes from a place of love. That’s the difference. — Alex Payne
+> “That sucks” is negativity. “That sucks, here’s why, and here’s how to fix it” is criticism, and it comes from a place of love. That’s the difference.
+> — Alex Payne
 
 In media like film, theater, television, and music, quality criticism is something that’s expected and encouraged. People looks to critics to tell them what’s good, what’s terrible, and why. In software, this same culture has failed to develop. Sure, there are review websites, but the main question they ask of software is: “does it work?” and not “should it exist?”.
 
 We live in an environment where companies and individuals are constantly releasing new products, and the signal to noise ratio is incredibly low. We need to collectively grow a pair and become comfortable criticizing each other’s work. We need fewer products that are higher quality.
 
-In order to produce better products, we must be willing to critique openly and honestly. We must accept that we will all fail. It’s not personal.
+In order to produce better products, we must be willing to critique openly and honestly. We must accept that we will all fail. **It’s not personal.**

@@ -29,6 +29,10 @@ img {
   border-radius: 0px;
 }
 
+a {
+/* Default link color*/
+  color: #0083DB; 
+}
 
 /* Full Page */
 
@@ -79,4 +83,9 @@ hr {
     border-top: 1px solid rgba(0 , 0, 0, .15);
     border-bottom: none;
 
+}
+
+
+.related-posts li a:hover {
+  color: inherit;
 }

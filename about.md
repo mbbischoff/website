@@ -47,6 +47,8 @@ I’ve been lucky enough to be a guest on several podcasts over the years. Here 
 ### Writing
 
 * [Matt Bischoff’s Sweet iPhone Setup](http://thesweetsetup.com/matt-bischoffs-sweet-iphone-setup/) — 10 February 2014
+* [Objectively Stylish](http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/) — 1 August 2013
+* [Objective See](http://www.objectivesee.com/matthew.bischoff.html)
 * [Junior Hired to Develop Apps for The New York Times](http://www.njit.edu/features/sceneandheard/matt-bischoff.php) — 7 November 2011
 * [J! Archive: Stay Clam](http://j-archive.com/help.php#stayclam) — 2 August 2003
 

@@ -26,6 +26,7 @@ I’ve contributed design and code to the following iOS applications:
 
 I speak about the ideas and stories that inspire me.
 
+* [Objective-C Sins](https://speakerdeck.com/matthewbischoff/objective-c-sins) — 29 October 2013
 * [Software Criticism](https://speakerdeck.com/matthewbischoff/software-criticism) — [iOSoho 2014](http://www.meetup.com/iOSoho/events/145810582/)
 * [RFTM: Things You Missed in the HIG](https://speakerdeck.com/matthewbischoff/rtfm-things-you-missed-in-the-hig) — [SecondConf 2013](http://secondconf.com)
 * [Get Excited and Make Things](https://speakerdeck.com/matthewbischoff/get-excited-and-make-things) —  [TEDxNJIT](https://www.youtube.com/watch?v=R1afhypdiBQ) 2011

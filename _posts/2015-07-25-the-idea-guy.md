@@ -15,6 +15,6 @@ Ideas are everywhere. [They’re a multiplier](https://sivers.org/multiply). The
 
 Some nights I wonder where that guy is. I’m scared to look through my notes and check up on him, but I sincerely hope that he’s found some way to bring his ideas into the world — something to do or to make. 
 
-I wish we hadn’t separated those two concepts in English. *Faciō*, one of my favorite Latin words, encapsulates both concepts in a beautiful way. Anyway, back to doing. The ideas will come.
+I wish we hadn’t separated those two concepts in English. [*Faciō*](https://en.wiktionary.org/wiki/facio), one of my favorite Latin verbs, encapsulates both concepts in a beautiful way. Anyway, back to doing. The ideas will come.
 
-[^1]: By the way, they’re still hiring. If you want to work there or at Tumblr for that matter, email me.
+[^1]: By the way, they’re still hiring. If you want to work there, or at Tumblr for that matter, [email me](mailto:mb@matthewbischoff.com).

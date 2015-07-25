@@ -11,7 +11,7 @@ One of these interviews stuck with me. I asked a junior what he saw himself doin
 
 I wish I could have stopped the interview right then and there. I wanted to tell this guy that there is no Santa Clause, that the Easter Bunny isn’t the one hiding the eggs, and that no such role exists or ever will.
 
-Ideas are everywhere. [They’re a multiplier](https://sivers.org/multiply). They’re not a thing you make and they have have no intrinsic value. We certainly don’t need a whole person for them at a company that’s just starting out.
+Ideas are everywhere. [They’re a multiplier](https://sivers.org/multiply). They’re not a thing you make, and they have have no intrinsic value. We certainly don’t need a whole person for them at a company that’s just starting out.
 
 Some nights I wonder where that guy is. I’m scared to look through my notes and check up on him, but I sincerely hope that he’s found some way to bring his ideas into the world — something to do or to make. 
 

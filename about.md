@@ -14,7 +14,7 @@ I’m Matthew Bischoff. I’m an iOS engineering manager at [Tumblr](https://tum
 
 ### Apps
 
-I’ve contributed design and code to the following iOS applications:
+I’ve contributed design and code to the following applications:
 
 * [Quotebook](http://quotebookapp.com)
 * [Velocity](http://velocityapp.com)
@@ -47,6 +47,7 @@ I’ve been lucky enough to be a guest on several podcasts over the years. Here 
 
 ### Writing
 
+* [Not Yet 30 New York: Interview](http://ny30ny.com/matthew-bischoff/) — July 2015
 * [objc.io Issue #10: iCloud and Core Data](http://www.objc.io/issue-10/icloud-core-data.html) — March 2014
 * [Matt Bischoff’s Sweet iPhone Setup](http://thesweetsetup.com/matt-bischoffs-sweet-iphone-setup/) — 10 February 2014
 * [Objectively Stylish](http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/) — 1 August 2013
@@ -70,3 +71,4 @@ You can find me online in various places, by various usernames:
 * [Reddit](http://www.reddit.com/user/matthewbischoff/)
 * [Kickstarter](https://www.kickstarter.com/profile/matthewbischoff)
 * [LinkedIn](www.linkedin.com/in/matthewbischoff/)
+* [Product Hunt](https://www.producthunt.com/@mb)

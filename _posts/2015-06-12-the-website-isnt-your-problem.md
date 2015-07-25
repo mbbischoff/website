@@ -5,8 +5,6 @@ title: The Website Isn’t Your Problem
 
 Inside The New York Times Building next week, it’s going to get harder to do your job. Clifford Levy, a Pulitzer prize winning journalist, and former coworker tweeted that the way to get this company thinking mobile first, is to block the website. Wait, what?
 
-<blockquote class=“twitter-tweet” lang=“en”><p lang=“en” dir=“ltr”>How important is mobile for <a href=“https://twitter.com/nytimes”>@nytimes</a>? We’re blocking access to our home page on desktop in our building. <a href=“http://t.co/AVu9RBm98F”>pic.twitter.com/AVu9RBm98F</a></p>&mdash; Clifford Levy (@cliffordlevy) <a href=“https://twitter.com/cliffordlevy/status/609400254639812608”>June 12, 2015</a></blockquote> <script async src=“//platform.twitter.com/widgets.js” charset=“utf-8”></script>
-
 Just like Cliff and the others, I believe very strongly that if The Times is to survive, it needs to think about its apps and mobile website a hell of a lot more than [www.nytimes.com](https://www.nytimes.com), or “triple dub” as it’s known inside the company. But is blocking the site for its own employees really the right way to do that?
 
 It feels like a punishment. Your dad is turning off the TV and making you eat your vegetables. This kind of paternalistic attitude is not what will spur the brilliant engineers and journalists at the Times to improve their pocket-sized offerings and consider the report from a mobile angle.

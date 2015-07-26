@@ -8,7 +8,7 @@ permalink: /about/
 
 ![Photo of Matthew Bischoff](/assets/matthew.jpg)
 
-I’m Matthew Bischoff. I’m an iOS engineering manager at [Tumblr](https://tumblr.com), where we make a platform for creators and their audiences. By night, I run [Lickability](http://lickability.com), a small software company I founded with my best friends.
+I’m Matthew Bischoff. I’m an product manager at [Tumblr](https://tumblr.com), where we make a platform for creators and their audiences. By night, I run [Lickability](http://lickability.com), a small software company I founded with my best friends.
 
 ## Projects
 

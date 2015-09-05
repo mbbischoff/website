@@ -1,4 +1,9 @@
-# Reviewing Code: A Checklist
+---
+
+layout: post
+title: Reviewing Code: A Checklist
+
+---
 
 You’ve been there. A 10,000 line pull request lands in your email and you don’t even know where to begin. _No description provided._
 

@@ -9,9 +9,9 @@ You’ve been there. A 10,000 line [pull request](https://help.github.com/articl
 
 Should you start by installing it, running the test suite, or should you just start scrolling though while your eyes glaze over from the red and green stripes? Is this developer really looking for feedback or are they on a deadline and pressuring you to say [“lgtm”](https://en.wiktionary.org/wiki/LGTM). Will your one innocuous comment ignite a flame war?
 
-[Code review](https://en.wikipedia.org/wiki/Code_review), or more generally peer review, has a long record of finding defects in not just software engineering, but in science, academia, and many other industries. While some argue about the specific percentages of issues that it finds compared to an automated test suite, or others method of testing, code review is an incredibly useful tool in any software teams arsenal against bugs and poor software architecture. But only if it remains a sharp one. Laziness in code review makes the practice near worthless.
+[Code review](https://en.wikipedia.org/wiki/Code_review), or more generally peer review, has a long record of [finding defects](https://kev.inburke.com/kevin/the-best-ways-to-find-bugs-in-your-code/) in not just software engineering, but in science, academia, and many other industries. While some argue about the specific percentages of issues that it finds compared to an automated test suite, or others method of testing, code review is an incredibly useful tool in any software teams arsenal against bugs and poor software architecture. But only if it remains a sharp one. Laziness can creep into code review very easily if you’re not careful.
 
-[Jason Brennan](https://twitter.com/jasonbrennan) has written two great pieces on the topic of diligently [writing](http://nearthespeedoflight.com/article/2013_07_10_pull_requests_volume_1__writing_a_great_pull_request) and [reviewing](http://nearthespeedoflight.com/article/2013_07_15_pull_requests_volume_2__giving_great_pull_request_reviews) pull requests, and I’ve used his series as an inspiration for my own system. I’ve also found it can be handy to have a short-form checklist to go over when performing code reviews to remind myself what I’m going for. Maybe it’ll help you and your team too.
+[Jason Brennan](https://twitter.com/jasonbrennan) has written two great pieces on the topic of diligently [writing](http://nearthespeedoflight.com/article/2013_07_10_pull_requests_volume_1__writing_a_great_pull_request) and [reviewing](http://nearthespeedoflight.com/article/2013_07_15_pull_requests_volume_2__giving_great_pull_request_reviews) pull requests, and I’ve used his series as an inspiration for my own system. I’ve also found it’s handy to have a short-form checklist to go over when performing code reviews to remind myself what I’m going for. Maybe it’ll help you and your team too.
 
 ## For the engineer drafting the pull request
 
@@ -30,6 +30,7 @@ Should you start by installing it, running the test suite, or should you just st
 	* Designer(s)
 	* Product manager (if they’re interested)
 * Give the diff one final pass yourself before asking others to take a look. You might catch a few silly things like typos in comments.
+* Annotate particularly tricky sections in the diff to make what’s going on even clearer. Maybe even turn these into code comments.
 * Get a coffee and wait for the constructive criticism to roll in.
 
 ## For the reviewer

@@ -91,3 +91,7 @@ Alright, it’s time to start looking at the code, line by line.
 	* Are they finalized and ready to go into production?
 *  Configuration changes
 	* Do you understand the effects of these changes and how they can be rolled back?
+
+---
+
+Adding a system like this to my own pull request reviews has helped me catch a lot more, but I’m sure there are still things I’m missing. If you have ideas about how this checklist can be improved, [pull requests are welcome](https://github.com/mattbischoff/matthewbischoff.com/pulls)!

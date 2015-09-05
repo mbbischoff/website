@@ -55,6 +55,7 @@ Does it work as you’d expect? You can write lots of pretty code that doesn’t
 	* Test things that the original engineer might not have considered like errors, failures, other inputs.
 * Look for significant changes in performance.* * Profile the changes if performance seems to have regressed.
 * Run the application in another language and region to check for localization issues.* * Confirm that the changes are fully accessible to customers with disabilities.* 
+
 ## The Code
 
 Alright, it’s time to start looking at the code, line by line.

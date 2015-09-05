@@ -37,7 +37,7 @@ Should you start by installing it, running the test suite, or should you just st
 
 _I find it’s helpful to do these in order if you can._
 
-**Most important, remember that the engineer on the other side of the screen is a person. Try not to be curt or hurtful in your comments. **
+Most importantly, remember that the engineer on the other side of the screen is a person. Try not to be curt or hurtful in your comments.
 
 ### The Pull Request
 

@@ -5,7 +5,8 @@ title: Reviewing Code: A Checklist
 
 ---
 
-You’ve been there. A 10,000 line pull request lands in your email and you don’t even know where to begin. _No description provided._
+
+You’ve been there. A 10,000 line [pull request](https://help.github.com/articles/using-pull-requests/) lands in your email and you don’t even know where to begin. _No description provided._
 
 Should you start by installing it, running the test suite, or should you just start scrolling though while your eyes glaze over from the red and green stripes? Is this developer really looking for feedback or are they on a deadline and pressuring you to say [“lgtm”](https://en.wiktionary.org/wiki/LGTM). Will your one innocuous comment ignite a flame war?
 

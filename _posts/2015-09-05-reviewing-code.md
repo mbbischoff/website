@@ -57,8 +57,8 @@ Does it work as you’d expect? You can write lots of pretty code that doesn’t
 * Run the unit / integration tests to look for any new failures.
 * Follow the steps provided to test the changes or determine a testing plan for it and run through those tests, noting any issues in your comments. 
 	* Test things that the original engineer might not have considered like errors, failures, other inputs.
-* Look for significant changes in performance.*
-* * Profile the changes if performance seems to have regressed.
+* Look for significant changes in performance.
+* Profile the changes if performance seems to have regressed.
 * Run the application in another language and region to check for [internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization) issues.
 * Confirm that the changes are [fully accessible](https://en.wikipedia.org/wiki/Computer_accessibility) to customers with disabilities.
 

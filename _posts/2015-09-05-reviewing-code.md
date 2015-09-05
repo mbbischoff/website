@@ -62,7 +62,7 @@ Does it work as you’d expect? You can write lots of pretty code that doesn’t
 * Run the application in another language and region to check for [internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization) issues.
 * Confirm that the changes are [fully accessible](https://en.wikipedia.org/wiki/Computer_accessibility) to customers with disabilities.
 
-## The Code
+### The Code
 
 Alright, it’s time to start looking at the code, line by line.
 

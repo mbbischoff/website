@@ -36,8 +36,8 @@ I speak about the ideas and stories that inspire me.
 ### Podcasts
 
 I’ve been lucky enough to be a guest on several podcasts over the years. Here are my audio appearances starting with the most recent:
-*
-* [Inquisitive #57: Favourite Album: Matthew Bischoff and 'Sweeney Todd: The Demon Barber of Fleet Street (Original Broadway Cast Recording)'](https://www.relay.fm/inquisitive/57) — 6 November 2015
+
+* [Inquisitive #57: Favourite Album: Matthew Bischoff](https://www.relay.fm/inquisitive/57) — 6 November 2015
 * [Release Notes #72: Matthew Bischoff](http://releasenotes.tv/72-matthew-bischoff/) — 29 September 2014
 * [Inquisitive #7: We’re Better Than That](http://www.relay.fm/inquisitive/7) — 1 October 2014 
 * [CMD+Space #101: Own your identity](http://5by5.tv/cmdspace/101) — 18 June 2014

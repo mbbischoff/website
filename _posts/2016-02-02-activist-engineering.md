@@ -5,8 +5,6 @@ title: Activist Engineering
 
 ---
 
-# Activist Engineering
-
 You’ve been there. You’re sitting in a meeting and your boss, a product manager, or an executive is talking about Q2 goals. They’re laying out a roadmap of the features that are going to be “coming down the pike”. All of a sudden you see it. An innocuous bullet that makes your blood boil: “[Auto-invite friends](http://www.theverge.com/2013/4/30/4286090/path-is-spamming-address-books-with-unwanted-texts-and-robocalls)”, “[Re-engagement notifications](https://marco.org/2014/12/01/app-store-rule-5-6)”, or “[Disable ATS](https://www.dzombak.com/blog/2015/09/Nobody-is-using-App-Transport-Security--what-s-next-.html)”.
 
 The particular feature isn’t important. What matters is that you’re the engineer that’s noticed this capital-B *Bad Idea*. You know why it’s a problem. This time it’s not just the technical debt or the time it’d take to implement. This idea is bad because it trades a worse product for a better “business”: revenue, eyeballs, impressions, you know the drill.

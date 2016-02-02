@@ -24,7 +24,7 @@ This requires long-term thinking and the kind of organization that’s receptive
 
 In other disciplines, engineers wear an [iron ring](https://en.wikipedia.org/wiki/Engineer%27s_Ring) to remind them of their commitment to their profession. Though we may not be part of the [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer), we can learn a lot from their obligation:
 
-> As an engineer, I shall participate in none but honest enterprises. When needed, my skill and knowledge shall be given without reservation for the public good. In the performance of duty, and in fidelity to my profession, I shall give the utmost.
+> *As an engineer, I shall participate in none but honest enterprises. When needed, my skill and knowledge shall be given without reservation for the public good. In the performance of duty, and in fidelity to my profession, I shall give the utmost*.
 
 Of course, not every idea you dislike is a bad one, so spend your reputation thoughtfully but forcefully. Make your dissent count, but [don’t be a jerk](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk).
 

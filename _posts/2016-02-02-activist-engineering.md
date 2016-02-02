@@ -28,6 +28,6 @@ In other disciplines, engineers wear an [iron ring](https://en.wikipedia.org/wik
 
 Of course, not every idea you dislike is a bad one, so spend your reputation thoughtfully but forcefully. Make your dissent count, but [don’t be a jerk](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk).
 
-Our job as software engineers is to build things that make the world (or a corner of it) better, that solve problems. But that’s not our only job. It’s also to be gatekeepers: to prevent ideas that we know are harmful from being realized. What’s the worst that could happen: you get a reputation for giving a damn?
+Our job as software engineers is to build things that make the world (or a corner of it) better, things that solve problems. But that’s not our only job. It’s also to be gatekeepers: to prevent ideas that we know are harmful from being realized. What’s the worst that could happen: you get a reputation for giving a damn?
 
 *Thanks to [Bryan Irace](http://irace.me), [Soroush Khanlou](http://khanlou.com), and [Brian Capps](http://briancapps.org) for their feedback on early drafts of this article.*

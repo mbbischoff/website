@@ -1,6 +1,5 @@
 # Permalinks
 permalink:        /:title/
-relative_permalinks: true
 
 # Setup
 title:            Matthew Bischoff

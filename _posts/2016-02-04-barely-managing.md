@@ -7,7 +7,7 @@ image: barely-managing-titlecard.jpg
 
 ---
 
-<iframe src="https://player.vimeo.com/video/153709318?color=ffffff" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p></p>
+<iframe src="https://player.vimeo.com/video/153709318?color=ffffff" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p></p>
 
 A talk I gave last year at the [CocoaLove conference](http://cocoalove.org) in Philadelphia about why you might want to step away from the keyboard and into leadership, and what happens when you do. It’s about the difference between managing programs and managing people.
 

@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Lowering the Gates
+date: 2014-02-12 00:00:00 Z
+layout: post
 ---
 
 ![The New York Times Building at night](/assets/nytimes_building_at_night.jpg)

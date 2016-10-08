@@ -1,10 +1,10 @@
 ---
-
-layout: post
 title: Barely Managing
-description: "A talk about why you might want to step away from the keyboard and into leadership, and what happens when you do."
+date: 2016-02-04 00:00:00 Z
+layout: post
+description: A talk about why you might want to step away from the keyboard and into
+  leadership, and what happens when you do.
 image: barely-managing-titlecard.jpg
-
 ---
 
 <iframe src="https://player.vimeo.com/video/153709318?color=ffffff" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

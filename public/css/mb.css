@@ -1,5 +1,7 @@
 html {
-  font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: system, -apple-system, BlinkMacSystemFont,
+        "Helvetica Neue", "Lucida Grande";
+  
   font-size: 18px;
   line-height: 1.7;
   font-weight: 300;

@@ -1,7 +1,7 @@
 html {
     font-family: system, -apple-system, BlinkMacSystemFont,
         "Helvetica Neue", "Lucida Grande";
-  
+ 
   font-size: 18px;
   line-height: 1.7;
   font-weight: 300;
@@ -17,7 +17,7 @@ strong {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Verlag A', 'Verlag B';
+  font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700; 
   
   line-height: 1.5;

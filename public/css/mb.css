@@ -18,7 +18,7 @@ strong {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 500; 
+  font-weight: 700; 
   
   line-height: 1.5;
 }
@@ -55,7 +55,7 @@ footer {
 
 .masthead-title, .masthead-title a {
 	font-size: 44px;
-	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Verlag A', 'Verlag B';
 	font-weight: 700; 	
 	color: #111111;
 }

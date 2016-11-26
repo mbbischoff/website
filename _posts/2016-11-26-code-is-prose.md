@@ -14,7 +14,7 @@ But this idea is an example of elitist thinking in our discipline, and it mislea
 
 Great code [reads like great prose](http://wiki.c2.com/?ReadsLikeProse). It is succinct, expressive, and clear the first time you read it. It tries to be as linear as possible, guiding the reader through tough transitions with the knowledge that one wrong move could lose them entirely. Good code uses language and vocabulary with an understanding of its audience, and it aims for functions with a single main idea, like the paragraphs of a persuasive essay. Instances are narratives—they have a beginning (initialization), a middle (operation), and an end (deallocation). 
 
-Well-structured codebases feel more like  newspapers or encyclopedias than poetry collections. Individual files operate in a shared universe and are often edited by multiple authors and revised as the facts change. Frequently used objects act like recurring characters: the more you see them, the more you begin to understand how they work.
+Well-structured codebases act more like  newspapers or encyclopedias than poetry collections. Individual files operate in a shared universe and are often edited by multiple authors and revised as the facts change. Frequently used objects act like recurring characters: the more you see them, the more you begin to understand how they work.
 
 Even language designers know this. Smalltalk, Swift and many other languages that don’t start with the letter “S” have made English prose the basis of their syntax design. Individual lines of code are called statements, the same word we use in English for the most common type of sentence.
 

@@ -21,7 +21,7 @@ Even language designers know this. Smalltalk, Swift and many other languages tha
 Unlike poetry, computer code does not try to express emotion or evoke meaning through rhythm and rhyme. It aims to tell a story to two audiences: the machines that run it and the people who maintain it. It both narrates and defines how the product it powers works. As Eric Suh points out in *[Writing code and prose](http://www.ericsuh.com/blog/posts/2016/01/writing-code.html)*: 
 
 > Those that I see write the cleanest, most maintainable code are those who write prose well, whether in documentation, in emails, or in their everyday lives. 
-
+> 
 > Many aphorisms about writing style translate fairly well to coding.  
 
 So, the next time you write a piece of code and revel in its austere beauty or multi-layered meaning, think about whether it might be better suited as straightforward prose. And while you’re at it, write some actual prose in the form of documentation. Save the poetics for poetry.

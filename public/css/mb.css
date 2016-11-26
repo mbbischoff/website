@@ -67,6 +67,9 @@ footer {
 	color: inherit;
 	text-decoration: underline;
 }
+.page-title, .post-title, .post-title a {
+	 color: #444;
+}
 
 a:hover,
 a:focus {

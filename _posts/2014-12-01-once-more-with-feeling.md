@@ -1,8 +1,7 @@
 ---
-
-layout: post
 title: Once More With Feeling
-
+date: 2014-12-01 00:00:00 Z
+layout: post
 ---
 
 For years now this website has merely pointed people to my profiles on other websites and social media services. It wasn’t always that way. In the past it housed my blog, a podcast I hosted, and even a photoblog at one point. Remember those?

@@ -1,8 +1,7 @@
 ---
-
-layout: post
 title: App Definition
-
+date: 2013-07-27 00:00:00 Z
+layout: post
 ---
 
 ![App Store Banner](/assets/app_store_banner.jpg)

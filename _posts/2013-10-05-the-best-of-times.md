@@ -1,8 +1,7 @@
 ---
-
-layout: post
 title: The Best of Times
-
+date: 2013-10-05 00:00:00 Z
+layout: post
 ---
 
 ![The New York Times Building](/assets/nytimes_building.jpg)

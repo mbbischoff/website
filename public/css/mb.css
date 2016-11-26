@@ -1,5 +1,7 @@
 html {
-  font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: system, -apple-system, BlinkMacSystemFont,
+        "Helvetica Neue", "Lucida Grande";
+ 
   font-size: 16px;
   line-height: 1.7;
   font-weight: 300;
@@ -7,7 +9,7 @@ html {
 }
 
 body {
-    background-color: white;
+    background-color: #F1F1F1;
 }
 
 strong {
@@ -17,7 +19,7 @@ strong {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Verlag A', 'Verlag B';
-  font-weight: 700; 
+  font-weight: 500; 
   
   line-height: 1.3;
 }
@@ -80,4 +82,27 @@ hr {
 
 .related-posts li a:hover {
   color: inherit;
+}
+
+.aspect-ratio iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0; top: 0;
+}
+
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe, .embed-container object, .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }

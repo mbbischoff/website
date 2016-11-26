@@ -1,6 +1,7 @@
 ---
-layout: post
 title: The Idea Guy
+date: 2015-07-25 00:00:00 Z
+layout: post
 ---
 
 A few years ago I was tasked with helping to recruit interns for The New York Times iOS team[^1]. I traveled around to top-tier engineering programs at universities all over the northeast talking about the Times’s engineering culture and to students about what they wanted to be when they grew up.

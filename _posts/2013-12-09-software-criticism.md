@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Software Criticism
+date: 2013-12-09 00:00:00 Z
+layout: post
 ---
 
 ![Critica](/assets/critica.jpg)

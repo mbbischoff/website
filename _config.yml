@@ -1,25 +1,34 @@
-# Permalinks
-permalink:        /:title/
-
-# Setup
-title:            Matthew Bischoff
-url:              http://matthewbischoff.com
-paginate:         3
-baseurl:          /
+---
+title: Matthew Bischoff
+timezone: America/New_York
+collections:
+  appearances:
+    title: Appearances
+    output: true
+  posts:
+    title: Posts
+    output: true
+  talks:
+    title: Talks
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: "/:title/"
+url: http://matthewbischoff.com
+paginate: 3
+baseurl: "/"
 author:
-  name:           Matthew Bischoff
-  url:            https://twitter.com/mb
-  email:          mb@matthewbischoff.com
-description:      "Hello, I’m <a href=\"/about/\">Matt</a>. I make apps in New York at <a href=\"http://lickability.com\">Lickability</a>."
-
-# Custom Variables
-version:          0.1
+  name: Matthew Bischoff
+  url: https://twitter.com/mb
+  email: mb@matthewbischoff.com
+description: Hello, I’m <a href="/about/">Matt</a>. I make apps in New York at <a
+  href="http://lickability.com">Lickability</a>.
+version: 0.2
 github:
-  repo:           https://github.com/mattbischoff/matthewbischoff.com
+  repo: https://github.com/mattbischoff/matthewbischoff.com
 license:
-  text:           "Some rights reserved"
-  url:            http://creativecommons.org/licenses/by-sa/4.0/
-
+  text: Some rights reserved
+  url: http://creativecommons.org/licenses/by-sa/4.0/
 gems:
-  - jekyll-sitemap
- 
+- jekyll-sitemap

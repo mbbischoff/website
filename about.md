@@ -1,9 +1,7 @@
 ---
-
-layout: page
 title: About
-permalink: /about/
-
+permalink: "/about/"
+layout: page
 ---
 
 ![Photo of Matthew Bischoff](/assets/matthew.jpg)

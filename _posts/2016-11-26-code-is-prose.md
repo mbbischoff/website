@@ -16,7 +16,7 @@ Great code [reads like great prose](http://wiki.c2.com/?ReadsLikeProse). It is s
 
 Well-structured codebases feel more like  newspapers or encyclopedias than poetry collections. Individual files operate in a shared universe and are often edited by multiple authors and revised as the facts change. Frequently used objects act like recurring characters: the more you see them, the more you begin to understand how they work.
 
-Even language designers know this. Smalltalk, Swift and many other languages that don’t start with the letter “S” have made English prose the basis of their syntax design. Individual lines of code are called statements, the same word we use in English for the most common type of sentence.
+Even language designers know this. Smalltalk, Swift, and other languages that don’t start with the letter “S” have made English prose the basis of their syntax design. Individual lines of code are called statements, the same word we use in English for the most common type of sentence.
 
 Unlike poetry, computer code does not try to express emotion or evoke meaning through rhythm and rhyme. It aims to tell a story to two audiences: the machines that run it and the people who maintain it. It both narrates and defines how the product it powers works. As Eric Suh points out in *[Writing code and prose](http://www.ericsuh.com/blog/posts/2016/01/writing-code.html)*: 
 

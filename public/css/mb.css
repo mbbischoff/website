@@ -9,7 +9,7 @@ html {
 }
 
 body {
-	  color: #333;
+	  color: #444;
 }
 
 strong {
@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Verlag A', 'Verlag B';
   font-weight: 500;
   line-height: 1.3;
-  color: #444;
+  color: #333;
 }
 
 p {
@@ -68,7 +68,7 @@ footer {
 	text-decoration: underline;
 }
 .page-title, .post-title, .post-title a {
-	 color: #444;
+	 color: #333;
 }
 
 a:hover,

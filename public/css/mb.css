@@ -68,6 +68,10 @@ a:focus {
 	text-decoration: none;
 }
 
+.post-date {
+	font-size: 0.8rem;
+}
+
 hr {	
 	margin-left: 30%;
 	margin-right: 30%;

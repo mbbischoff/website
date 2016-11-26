@@ -67,7 +67,7 @@ footer {
 .post p a {
 	color: inherit;
 	text-decoration: none;
-	border: 1px solid #333;
+	border-bottom: 1px solid #333;
 	padding: 0px 0px 3px 0px;
 }
 

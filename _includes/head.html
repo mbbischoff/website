@@ -1,65 +1,106 @@
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
-  <link href="http://gmpg.org/xfn/11" rel="profile">
+	<link href="http://gmpg.org/xfn/11" rel="profile">
 
-  <!-- Enable responsiveness on mobile devices-->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	<!-- Enable responsiveness on mobile devices-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-<title>
-    {% if page.title == site.title %}
-    {{ site.title }}
-    {% else %}
-    {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
-</title>
-  <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}styles.css">
+	<title>
+		{% if page.title == site.title %}
+		{{ site.title }}
+		{% else %}
+		{{ page.title }} &middot; {{ site.title }}
+		{% endif %}
+	</title>
+	<!-- CSS -->
+	<link rel="stylesheet" href="{{ site.baseurl }}styles.css">
    
-  <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7559732/650426/css/fonts.css" />
+	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7559732/650426/css/fonts.css" />
 
-  <!-- Icons -->
-  <link rel="apple-touch-icon" sizes="152x152" href="{{ site.baseurl }}public/apple-touch-icon.png">
+	<!-- Icons -->
+	<link rel="apple-touch-icon" sizes="152x152" href="{{ site.baseurl }}public/apple-touch-icon.png">
 	<link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico">
 
-  <!-- RSS -->
-  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}feed/">
+	<!-- RSS -->
+	<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}feed/">
   
-  <!-- Meta -->  
+	<!-- Meta -->  
   
-  <meta name="author" content="{{ site.author.name }}">
-  <meta name="description" content="{{ site.description | strip_html}}"> 
-  <meta name="generator" content="Jekyll">
+	<meta name="author" content="{{ site.author.name }}">
+	<meta name="description" content="{{ site.description | strip_html}}"> 
+	<meta name="generator" content="Jekyll">
   
-  <!-- Google -->  
+	<!-- Google -->  
   
-  <meta name="googlebot" content="index,follow">
-  <meta name="robots" content="index,follow">
-  <meta name="google-site-verification" content="XK_j6lkDAd8qOhIn4-2eS2BIJuQyRp4D_gxjpR65wUM" />
+	<meta name="googlebot" content="index,follow">
+	<meta name="robots" content="index,follow">
+	<meta name="google-site-verification" content="XK_j6lkDAd8qOhIn4-2eS2BIJuQyRp4D_gxjpR65wUM" />
   	
-  <!-- Twitter Card -->  
+	<!-- Twitter Card -->  
   
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="matthewbischoff">
-  <meta name="twitter:creator" content="mb">
-  <meta name="twitter:domain" content="http://matthewbischoff.com">  
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="matthewbischoff">
+	<meta name="twitter:creator" content="mb">
+	<meta name="twitter:domain" content="http://matthewbischoff.com">  
   
-  {% if page.title %}
-    <meta name="twitter:title" content="{{ page.title }}">
-  {% else %}
-    <meta name="twitter:title" content="{{ site.title }}">
-  {% endif %}
-  {% if page.url %}
-    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-  {% endif %}
-  {% if page.description %}
-    <meta name="twitter:description" content="{{ page.description }}">
-  {% else %}
-  	<meta name="twitter:description" content="Matt is an iOS developer and designer in New York City who loves making beautiful things for people.">
-  {% endif %}
-  {% if page.image %}
-    <meta name="twitter:image:src" content="{{ site.url }}/assets/{{ page.image }}">
-  {% else %}
-    <meta name="twitter:image:src" content="{{ site.url }}/assets/matthew.jpg">
-  {% endif %}
+	{% if page.title %}
+	<meta name="twitter:title" content="{{ page.title }}">
+	{% else %}
+	<meta name="twitter:title" content="{{ site.title }}">
+	{% endif %}
+	{% if page.url %}
+	<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+	{% endif %}
+	{% if page.description %}
+	<meta name="twitter:description" content="{{ page.description }}">
+	{% else %}
+	<meta name="twitter:description" content="Matt is an iOS developer and designer in New York City who loves making beautiful things for people.">
+	{% endif %}
+	{% if page.image %}
+	<meta name="twitter:image:src" content="{{ site.url }}/assets/{{ page.image }}">
+	{% else %}
+	<meta name="twitter:image:src" content="{{ site.url }}/assets/matthew.jpg">
+	{% endif %}
+  
+	<!-- Facebook Open Graph -->
+
+	<meta content="{{ site.title }}" property="og:site_name">
+	{% if page.title %}
+	<meta content="{{ page.title }}" property="og:title">
+	{% else %}
+	<meta content="{{ site.title }}" property="og:title">
+	{% endif %}
+	{% if page.title %}
+	<meta content="article" property="og:type">
+	{% else %}
+	<meta content="website" property="og:type">
+	{% endif %}
+	{% if page.description %}
+	<meta content="{{ page.description }}" property="og:description">
+	{% else %}
+	<meta content="{{ site.description }}" property="og:description">
+	{% endif %}
+	{% if page.url %}
+	<meta content="{{ site.url }}{{ page.url }}" property="og:url">
+	{% endif %}
+	{% if page.date %}
+	<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+	<meta content="{{ site.url }}/about/" property="article:author">
+	{% endif %}
+	{% if page.image %}
+	<meta content="{{ site.url }}/assets/{{ page.image }}" property="og:image">
+	{% else %}
+	<meta content="{{ site.url }}/assets/matthew.jpg" property="og:image">
+	{% endif %}
+	{% if page.categories %}
+	{% for category in page.categories limit:1 %}
+	<meta content="{{ category }}" property="article:section">
+	{% endfor %}
+	{% endif %}
+	{% if page.tags %}
+	{% for tag in page.tags %}
+	<meta content="{{ tag }}" property="article:tag">
+	{% endfor %}
+	{% endif %}
 </head>

@@ -1,6 +1,5 @@
 $blue-color: #0083DB;
-
-
+$light-color: white;
 
 html {
   font-family: "Ideal Sans SSm A", "Ideal Sans SSm B", system, -apple-system, BlinkMacSystemFont,
@@ -24,7 +23,7 @@ html {
 }
 
 body {
-	  background-color: white;
+	  background-color: $light-color;
 	  color: #333;
 }
 
@@ -88,8 +87,8 @@ footer {
 
 .post p a:hover,
 .post p a:focus {
-	background-color: #333;
-	color: #F7F7F7 !important;
+	background-color: $blue-color;
+	color: $light-color !important;
 	border-radius: 2px;
 }
 

@@ -4,6 +4,8 @@ layout: default
 
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
+  
+	<!-- TODO: Fix dates not showing up -->
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date: "%B %-d, %Y" }}</time>
   {{ content }}
 </article>

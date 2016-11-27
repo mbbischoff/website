@@ -81,7 +81,8 @@ footer {
 
 a:hover,
 a:focus {
-	text-decoration: none;
+	background-color: #333;
+	color: #F7F7F7;
 }
 
 .post-date {

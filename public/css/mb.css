@@ -69,13 +69,13 @@ footer {
 	text-decoration: none;
 	border-bottom: 1px solid #333;
 	padding: 2px;
-	border-radius: 2px;
 }
 
 .post p a:hover,
 .post p a:focus {
 	background-color: #333;
 	color: #F7F7F7 !important;
+	border-radius: 2px;
 }
 
 .post p a:visited {

@@ -1,19 +1,6 @@
 ---
 title: Matthew Bischoff
 timezone: America/New_York
-collections:
-  appearances:
-    title: Appearances
-    output: true
-  posts:
-    title: Posts
-    output: true
-  talks:
-    title: Talks
-    output: true
-  uploads:
-    title: Uploads
-    output: true
 permalink: "/:title/"
 url: http://matthewbischoff.com
 paginate: 3
@@ -31,3 +18,27 @@ license:
   url: http://creativecommons.org/licenses/by-sa/4.0/
 gems:
 - jekyll-sitemap
+- jekyll-paginate
+- jekyll-gist
+
+
+collections:
+  appearances:
+    title: Appearances
+    output: true
+  posts:
+    title: Posts
+    output: true
+  talks:
+    title: Talks
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed

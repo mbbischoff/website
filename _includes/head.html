@@ -77,9 +77,9 @@
 	<meta content="website" property="og:type">
 	{% endif %}
 	{% if page.description %}
-	<meta content="{{ page.description | xml_escpape }}" property="og:description">
+	<meta content="{{ page.description | xml_escape }}" property="og:description">
 	{% else %}
-	<meta content="{{ site.description | xml_escpape }}" property="og:description">
+	<meta content="{{ site.description | xml_escape }}" property="og:description">
 	{% endif %}
 	{% if page.url %}
 	<meta content="{{ site.url }}{{ page.url }}" property="og:url">

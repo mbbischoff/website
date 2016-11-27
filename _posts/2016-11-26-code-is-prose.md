@@ -4,6 +4,7 @@ date: 2016-11-26 17:28:00 -05:00
 layout: post
 description: Great code reads like great prose. It is succinct, expressive, and clear
   the first time you read it.
+image: gates-reading.jpg
 ---
 
 I first saw the phrase “Code is poetry” pop up on websites and in conversations about the craft of software development in the early 2000s. Popularized by the [Wordpress project](http://wordpress.org), the idea that programming and poetry are similar forms has been the subject of [Quora questions](https://www.quora.com/What-is-the-origin-of-the-phrase-Code-is-Poetry), as well as pieces in [WIRED](https://www.wired.com/2013/04/code/), [Torque](http://torquemag.io/2012/12/code-poetry/), and [Smashing Magazine](https://www.smashingmagazine.com/2010/05/the-poetics-of-coding/).

@@ -18,7 +18,7 @@ layout: default
       <li>
         <a href="{{ site.baseurl }}{{ post.url }}">
           {{ post.title }}
-          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%-m/%-d/%y"}}</time></small>
+          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-m/%-d/%y"}}</time></small>
         </a>
       </li>
     {% endfor %}

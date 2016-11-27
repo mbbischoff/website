@@ -1,3 +1,7 @@
+$blue-color: #0083DB;
+
+
+
 html {
   font-family: "Ideal Sans SSm A", "Ideal Sans SSm B", system, -apple-system, BlinkMacSystemFont,
         "Helvetica Neue", "Lucida Grande";
@@ -46,7 +50,7 @@ img {
 
 a {
 /* Default link color*/
-  color: #0083DB; 
+  color: $blue-color; 
 }
 
 /* Full Page */

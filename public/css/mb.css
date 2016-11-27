@@ -74,7 +74,7 @@ footer {
 .post p a:hover,
 .post p a:focus {
 	background-color: #333;
-	color: #F7F7F7;
+	color: #F7F7F7 !important;
 	border-bottom: 1px solid #F7F7F7;
 }
 

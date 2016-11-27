@@ -71,6 +71,13 @@ footer {
 	padding: 0px 0px 2px 0px;
 }
 
+.post p a:hover,
+.post p a:focus {
+	background-color: #333;
+	color: #F7F7F7;
+	border-bottom: 1px solid #F7F7F7;
+}
+
 .post p a:visited {
 	color: inherit;
 }
@@ -81,8 +88,7 @@ footer {
 
 a:hover,
 a:focus {
-	background-color: #333;
-	color: #F7F7F7;
+	text-decoration: none;
 }
 
 .post-date {

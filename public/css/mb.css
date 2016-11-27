@@ -9,7 +9,7 @@ html {
 }
 
 ::selection {
-  background: rgba(57, 129, 212, 0.5);
+  background: rgba(57, 129, 212, 0.3);
 }
 
 body {

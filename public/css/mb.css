@@ -8,6 +8,10 @@ html {
   line-height: 1.7;
 }
 
+::selection {
+  background: rgba(57, 129, 212, 0.5);
+}
+
 body {
 	  background-color: #F7F7F7;
 	  color: #333;

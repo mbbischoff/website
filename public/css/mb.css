@@ -76,6 +76,7 @@ footer {
 	background-color: #333;
 	color: #F7F7F7 !important;
 	border-bottom: 1px solid #F7F7F7;
+	padding: 4px;
 }
 
 .post p a:visited {

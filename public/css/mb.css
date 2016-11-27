@@ -8,12 +8,19 @@ html {
   line-height: 1.7;
 }
 
+@media (min-width: 38em) {
+  html {
+    font-size: 20px;
+  }
+}
+
+
 ::selection {
   background: rgba(51, 51, 51, 0.1);
 }
 
 body {
-	  background-color: #F7F7F7;
+	  background-color: white;
 	  color: #333;
 }
 

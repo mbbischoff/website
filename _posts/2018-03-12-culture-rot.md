@@ -15,7 +15,7 @@ Twitter. I’m [@mb](https://twitter.com/mb) there.
 
 I want to tell you about a number that scares me: 404. That infamous code you see when that internet thing you meant to visit is gone or it moved and no one bothered to add a redirect or maybe it never existed at all.
 
-I’m curious though: ** how many of you have ever made something you’re proud of on the Web?**
+I’m curious though: **how many of you have ever made something you’re proud of on the Web?**
 
 So many of us have written, recorded, photographed, or created important works in our personal and professional worlds that live online. Maybe they’re your bylines at that fancy publication about tiny houses, or your YouTube seltzer reviews, or your graduate thesis about the history of pizza ovens. It’s not really important what they are, just that they exist and they’re online.
 

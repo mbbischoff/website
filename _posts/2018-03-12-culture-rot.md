@@ -33,7 +33,7 @@ Before you say, “Wait Matt, there’s this One Weird Trick. What about the [Wa
 
 He’s right. **It is no way to run a culture**. We’re experiencing quantitative losses of data on par with the burning of Alexandria every year, and we’re barely blinking an eye as the stuff we’re making vanishes in a puff of smoke.
 
-The truth is: there is no easy fix. But as writers and makers and inhabitants of the internet, we need to demand better of the platforms and services and publications we entrust with our work. It might seem safer to trust the big guys (Facebook, Twitter, Medium) with this content because they have the funding and incentives to maintain it. That’s true today, but large platforms like them have failed before, taking terabytes of data with them. Remember Friendster, TwitPic, Geocities?
+The truth is: **there is no easy fix**. But as writers and makers and inhabitants of the internet, we need to demand better of the platforms and services and publications we entrust with our work. It might seem safer to trust the big guys (Facebook, Twitter, Medium) with this content because they have the funding and incentives to maintain it. That’s true today, but large platforms like them have failed before, taking terabytes of data with them. Remember Friendster, TwitPic, Geocities?
 
 There are academic efforts like [Perma.cc](Perma.cc) out of the [Harvard Library Innovation Lab](https://lil.law.harvard.edu) that will solve this problem for the most important legal and scholarly works. But we can and must to do better than that. 
 

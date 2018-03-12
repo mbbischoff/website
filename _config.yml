@@ -4,7 +4,7 @@ timezone: America/New_York
 permalink: "/:title/"
 url: http://matthewbischoff.com
 paginate: 3
-baseurl: "/"
+baseurl: "http://matthewbischoff.com/"
 author:
   name: Matthew Bischoff
   url: https://twitter.com/mb

@@ -69,5 +69,5 @@ You can find me online in various places, by various usernames:
 * [Facebook](https://facebook.com/matthewbischoff)
 * [Reddit](http://www.reddit.com/user/matthewbischoff/)
 * [Kickstarter](https://www.kickstarter.com/profile/matthewbischoff)
-* [LinkedIn](www.linkedin.com/in/matthewbischoff/)
+* [LinkedIn](https://www.linkedin.com/in/matthewbischoff/)
 * [Product Hunt](https://www.producthunt.com/@mb)

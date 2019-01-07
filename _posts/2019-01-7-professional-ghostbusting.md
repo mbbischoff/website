@@ -1,6 +1,6 @@
 ---
 title: Professional Ghostbusting
-date: 2019-01-7 11:25:00 -05:00
+date: 2019-01-7 11:15:00 -05:00
 layout: post
 description: A talk at the Difficult to Name reading series about the disappearing web and what we can do to stop it.
 image: ghostbusters.jpg
@@ -14,7 +14,7 @@ But today, I’m writing about a particularly pernicious form of email non-respo
 
 Imagine this: you’re in an email back-and-forth with a client who has hired you to design a new website for them. After they’ve paid a deposit and you’ve started the project, you have a question about how big the logo should be. You dash off a quick email to the client to ask them. And you wait. Maybe you figure it will take them a business day or so to respond. But then you hear nothing for days. Days turn into weeks. Radio silence. You’ve been (un)professionally ghosted.
 
-Why does this happen? It’s not always just that folks are busy. It’s often a more specific kind of anxiety and friction that causes this particular supernatural phenomenon. Maybe something in your email raised follow-up questions, maybe more stakeholders behind the scenes need to be consulted, or maybe it felt like things were getting more expensive or more complicated, even if you didn’t directly say so. Professional ghosting happens when the ghoster _can’t_ immediately respond because they’re missing something and scared to admit it for fear of looking unprepared or under-resourced. And then it’s too late, new emails are already pouring in and yours has indefinitely.
+Why does this happen? It’s not always just that folks are busy. It’s often a more specific kind of anxiety and friction that causes this particular supernatural phenomenon. Maybe something in your email raised follow up questions, maybe more stakeholders behind the scenes need to be consulted, or maybe it felt like things were getting more expensive or more complicated, even if you didn’t directly say so. Professional ghosting happens when the ghoster _can’t_ immediately respond because they’re missing something and scared to admit it for fear of looking unprepared or under-resourced. And then it’s too late, new emails are already pouring in and yours has indefinitely.
 
 While this trend of ghosting in work contexts isn’t new, it does seem like it’s on the rise. Both anecdotally in my work and industry-wide, more employees and companies are noticing ghosting behavior from their [colleagues](https://www.hrbartender.com/2016/recruiting/professional-ghosting-new-no/), [bosses](https://www.washingtonpost.com/business/2018/12/12/workers-are-ghosting-their-employers-like-bad-dates/), and [reports](https://medium.com/brilliantforge/stop-ghosting-its-damaging-your-professional-reputation-44b2a200cc38). How can we fix it? Let’s fire up our proton packs and figure it out. [I ain’t afraid of no ghosts](https://www.youtube.com/watch?v=m9We2XsVZfc).
 
@@ -22,7 +22,7 @@ While this trend of ghosting in work contexts isn’t new, it does seem like it�
 
 Here are a few things I’ve done while being ghosted at work that have helped me bring back some dead threads.
 
-**Follow up**. I know it might feel like you’re nagging someone to email twice in a row. But if you’re in a professional relationship, and you’ve been interacting with someone who’s vanished, they’d likely appreciate a friendly follow-up after a few days. I’ve resurrected more deals than I can count with one well-timed follow-up. Use a CRM or an app like [Boomerang for Gmail](https://www.boomeranggmail.com/) to automate this.
+**Follow up**. I know it might feel like you’re nagging someone to email twice in a row. But if you’re in a professional relationship, and you’ve been interacting with someone who’s vanished, they’d likely appreciate a friendly follow-up after a few days. I’ve resurrected more deals than I can count with one well-timed follow up. Use a [CRM system](https://en.wikipedia.org/wiki/Customer-relationship_management) or an app like [Boomerang for Gmail](https://www.boomeranggmail.com/) to automate this.
 
 **Make responding easy**. Bold the questions in your email and keep them as easy to respond to as possible. Discuss complex or sensitive matters by phone or video chat. Your goal should be that your email is the first one your recipient opens, because it’s got a great subject line and they know exactly what you want and how to give it to you. Use self-service calendaring tools like [Calendly](https://calendly.com/) to avoid being ghosted in the midst of a long scheduling volley. 
 
@@ -32,7 +32,7 @@ Here are a few things I’ve done while being ghosted at work that have helped m
 
 If you ghost on the job, these tips might help you get a little better control of your inbox…and your humanity.
 
-**It’s not too late**. Looking at your flagged emails you realize that your skin is turning a pearly, translucent white. You see a list of nice people you’ve ghosted with accompanying timestamps, some of which are months ago at this point. Take a deep breath. It’s not too late to respond to these messages. You’ve got this. Wish them a happy new year and throw in a “sorry for the delayed response” like the professional, living, breathing adult human that you definitely still are.
+**It’s never too late**. Looking at your flagged emails you realize that your skin is turning a pearly, translucent shade of white. You see a list of nice people you’ve ghosted with accompanying timestamps, some of which are months ago at this point. Take a deep breath. It’s not too late to respond to these messages. You’ve got this. Wish them a happy new year and throw in a “sorry for the delayed response” like the professional, living, breathing adult human that you definitely still are.
 
 **Ignorance is bliss**. It’s okay to say “I don’t know.” In fact, it’s liberating. If one of the reasons you’re ghosting a colleague or business partner right now is that you’re just not sure about something in their email, start there. “I’m not sure how to answer this. Do you mind if we schedule a 15-minute call on Monday and figure it out together? Here’s [my availability](https://calendly.com/matthewbischoff/15min).” Sometimes that admission of uncertainty all it takes to bring that thread back from the ether.
 
@@ -42,4 +42,4 @@ If you ghost on the job, these tips might help you get a little better control o
 ---- 
 
 
-I wrote this blog post for myself as much as for anyone else. If you’re ever waiting for a message from me, feel free to link to this piece in your polite follow-up. I swear I won’t mind. None of us are perfect at this stuff. We’re all human, even if we sometimes ghost our coworkers. ✌️
+I wrote this blog post for myself as much as for anyone else. If you’re ever waiting for a message from me, feel free to link to this piece in your polite follow up. I swear I won’t mind. None of us are perfect at this stuff. We’re all human, even if we sometimes ghost our coworkers. ✌️

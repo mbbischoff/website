@@ -2,7 +2,7 @@
 title: Professional Ghostbusting
 date: 2019-01-7 11:15:00 -05:00
 layout: post
-description: A talk at the Difficult to Name reading series about the disappearing web and what we can do to stop it.
+description: Why do people stop answering your emails at work, and how can you stop it?
 image: ghostbusters.jpg
 ---
 

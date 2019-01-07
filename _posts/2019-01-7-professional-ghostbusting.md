@@ -36,7 +36,7 @@ If you ghost on the job, these tips might help you get a little better control o
 
 **Ignorance is bliss**. It’s okay to say “I don’t know.” In fact, it’s liberating. If one of the reasons you’re ghosting a colleague or business partner right now is that you’re just not sure about something in their email, start there. “I’m not sure how to answer this. Do you mind if we schedule a 15-minute call on Monday and figure it out together? Here’s [my availability](https://calendly.com/matthewbischoff/15min).” Sometimes that admission of uncertainty all it takes to bring that thread back from the ether.
 
-**Set realistic expectations**.  If you know you’re prone to ghosting, don’t use an email client that lets you [snooze emails](https://sparkmailapp.com/features/snooze); it makes it too easy to delay indefinitely. If your Fridays are always filled with meetings, don’t tell someone you’ll get them something by “end of week.” Your time and attention are valuable just like your correspondent’s and as long as you let people know when you can realistically respond and (mostly) stick to it, it’s gonna be fine.  
+**Set realistic expectations**.  If you know you’re prone to ghosting, don’t use an email client that lets you [snooze emails](https://sparkmailapp.com/features/snooze); it makes it too easy to delay indefinitely. If your Fridays are always filled with meetings, don’t tell someone you’ll get them something by “end of week.” Your time and attention are valuable just like your correspondent’s, and as long as you let people know when you can realistically respond and (mostly) stick to it, it’s gonna be fine.  
 
 
 ---- 

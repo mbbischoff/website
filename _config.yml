@@ -4,7 +4,7 @@ timezone: America/New_York
 permalink: "/:title/"
 url: http://matthewbischoff.com
 paginate: 3
-baseurl: "http://matthewbischoff.com/"
+baseurl: /
 author:
   name: Matthew Bischoff
   url: https://twitter.com/mb
@@ -19,7 +19,9 @@ license:
   text: Some rights reserved
   url: http://creativecommons.org/licenses/by-sa/4.0/
 
-gems:
+github: [metadata]
+
+plugins:
 - jekyll-sitemap
 - jekyll-paginate
 - jekyll-gist

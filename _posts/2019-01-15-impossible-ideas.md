@@ -6,7 +6,6 @@ layout: post
 description: "The talk I show to every software engineer who says it’s impossible to build something."
 image: cleese.jpg
 ---
-**Impossible Ideas**
 
 ![John Cleese](/assets/cleese.jpg)
 

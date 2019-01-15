@@ -44,6 +44,6 @@ Even if an idea that a coworker proposes is *truly* impossible, it can still hav
 > 
 > It doesn’t matter if the Intermediate Impossible is right or absurd, it can nevertheless be used as a stepping stone to another idea that is right.
 
-As software makers, we could all stand to be more open to the impossible, especially given that the technology we create must help solve [wicked](https://en.wikipedia.org/wiki/Wicked_problem)[ problems](https://en.wikipedia.org/wiki/Wicked_problem) outside of our screens, like climate change, transportation, and healthcare, problems that will require immense creativity and teamwork. To overcome what seem like impossible tasks, we first need to believe that there might be a way to do so.
+As software makers, we could all stand to be more open to the impossible, especially given that the technology we create must help solve [wicked problems](https://en.wikipedia.org/wiki/Wicked_problem) outside our screens, like climate change, transportation, and healthcare, problems that will require immense creativity and teamwork. To overcome what seem like impossible tasks, we first need to believe that there might be a way to do so.
 
 The next time you’re playing around with new ideas and someone tells you that they’re impossible, remind them of what John Cleese said, ”When you’re playing, nothing is wrong.”

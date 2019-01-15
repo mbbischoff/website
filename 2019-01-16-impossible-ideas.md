@@ -4,7 +4,7 @@ layout: post
 author: mb
 permalink: /impossible-ideas/
 source-id: 1URFfLgp3m8PoH-x4EgP2WAQHJ4BB9GPBhNPLp_oe9rA
-published: true
+
 ---
 **Impossible Ideas**
 

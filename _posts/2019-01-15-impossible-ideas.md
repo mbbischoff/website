@@ -1,9 +1,9 @@
 ---
 title: Impossible Ideas
-layout: post
 date: 2019-01-15 18:00:00 -05:00
 layout: post
-description: "The talk I show to every software engineer who says it’s impossible to build something."
+description: The talk I show to every software engineer who says it’s impossible to
+  build something.
 image: cleese.jpg
 ---
 

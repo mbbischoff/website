@@ -1,8 +1,9 @@
 ---
 title: Professional Ghostbusting
-date: 2019-01-7 11:15:00 -05:00
+date: 2019-01-07 11:15:00 -05:00
 layout: post
-description: "Why do people stop answering your emails at work, and how can you stop it?"
+description: Why do people stop answering your emails at work, and how can you stop
+  it?
 image: ghostbusters.jpg
 ---
 

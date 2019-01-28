@@ -18,7 +18,7 @@ In September 2016, I was honored to be invited to speak at [Joe](http://www.joec
 
 Here’s the audio and slides from my talk. It’s called **Write Your Way Out** (yes, it’s a [Hamilton reference](https://www.youtube.com/watch?v=_zhR6d6LDzM)). I spoke about writing and the importance of writing well as a software engineer, a product manager, and especially the owner of a software company. Watch it below and let me know what you think [on Twitter](https://twitter.com/mb).
 
-<p><div class='embed-container'><<iframe src="https://www.youtube-nocookie.com/embed/W5IfEAncPPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+<p><div class='embed-container'><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W5IfEAncPPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 
 
 ---

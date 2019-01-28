@@ -22,7 +22,6 @@ defaults:
 permalink: "/:title/"
 url: https://matthewbischoff.com
 paginate: 3
-baseurl: https://matthewbischoff.com/
 author:
   name: Matthew Bischoff
   url: https://twitter.com/mb

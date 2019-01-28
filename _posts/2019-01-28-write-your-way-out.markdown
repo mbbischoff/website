@@ -14,7 +14,7 @@ layout: post
 
 ![release-notes-2016.jpg](/assets/release-notes-2016.jpg)
 
-In September 2016 I was honored to be invited to speak at [Joe](http://www.joecieplinski.com) and [Charles’s](https://dazeend.org) amazing [Release Notes conference](https://2019.releasenotes.tv) in Indianapolis. _Release Notes_, an outgrowth of their [podcast of the same name](https://releasenotes.tv), approaches the software business as a _business_ first and foremost. Their guiding principle is to discuss “everything but the code”. 
+In September 2016 I was honored to be invited to speak at [Joe](http://www.joecieplinski.com) and [Charles’s](https://dazeend.org) incredible [Release Notes conference](https://2019.releasenotes.tv) in Indianapolis. _Release Notes_, an outgrowth of their [podcast of the same name](https://releasenotes.tv), approaches the software business as a _business_ first and foremost. Their guiding principle is to discuss “everything but the code”. 
 
 Here’s the audio and slides from my talk. It’s called **Write Your Way Out** (yes, it’s a [Hamilton reference](https://www.youtube.com/watch?v=_zhR6d6LDzM)). I spoke about writing and the importance of writing well as a software engineer, a product manager, and especially the owner of a software company. Watch it and let me know what you think [on Twitter](https://twitter.com/mb).
 

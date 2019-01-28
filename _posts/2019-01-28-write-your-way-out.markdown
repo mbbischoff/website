@@ -7,7 +7,7 @@ tags:
 - talks
 - writing
 image: "/assets/release-notes-2016.jpg"
-description: A talk I gave at Release Notes 2016 about writing and how important it
+description: A talk I have at Release Notes 2016 about writing and how important it
   is for programmers, product managers, and owners of software companies.
 layout: post
 ---
@@ -20,6 +20,6 @@ Here’s the audio and slides from my talk. It’s called **Write Your Way Out**
 
 <iframe width="700" height="394" src="https://www.youtube-nocookie.com/embed/W5IfEAncPPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-====
+---
 
 _The dates for Release 2019 in sunny Playa Mujeres, Mexico have just been announced (Oct 3—5). If you’re in the software business, I can’t recommend it more strongly. [Get on the mailing list](https://us8.list-manage.com/subscribe?u=1549cb1ea37de6fd9c08ad50b&id=6868dbc6cd) so you don’t miss tickets!_

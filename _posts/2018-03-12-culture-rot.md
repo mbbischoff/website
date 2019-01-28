@@ -1,8 +1,9 @@
 ---
 title: Culture Rot
-date: 2018-03-12 17:00:00 -03:00
+date: 2018-03-12 16:00:00 -04:00
 layout: post
-description: A talk at the Difficult to Name reading series about the disappearing web and what we can do to stop it.
+description: A talk at the Difficult to Name reading series about the disappearing
+  web and what we can do to stop it.
 image: dtn-culture-rot.jpg
 ---
 

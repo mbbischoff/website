@@ -8,6 +8,7 @@ tags:
 - talks
 - writing
 image: "/assets/release-notes-2016.jpg"
+layout: post
 ---
 
 ![release-notes-2016.jpg](/assets/release-notes-2016.jpg)

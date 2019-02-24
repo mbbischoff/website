@@ -51,4 +51,4 @@ facebook:
 google_site_verification: XK_j6lkDAd8qOhIn4-2eS2BIJuQyRp4D_gxjpR65wUM
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed

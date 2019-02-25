@@ -22,7 +22,7 @@ author:
   url: https://twitter.com/mb
   email: mb@matthewbischoff.com
   twitter: mb
-description: "Hey, I’m <a href="{{ site.baseurl }}/about/">Matt</a>. I write software
+description: "Hey, I’m <a href="https://matthewbischoff.com/about/">Matt</a>. I write software
   in New York."
 logo: "/assets/matthew.jpg"
 version: 0.2

@@ -40,4 +40,4 @@ Remember that it it can be emotional to process endings, even if it was their ch
 
 ===
 
-See, it’s not that hard, right? Treat your ex-employees like they’re professionals that helped you build a great team and product, because that’s exactly who they are. If you’re consistently nice and professional to the folks you’ve worked with in the past, it’ll help build your reputation as the kind of person that’s great to work with.
+See, it’s not that hard, right? Treat your ex-employees like they’re professionals that helped you build a great team and product, because that’s exactly who they are. If you’re consistently nice and professional to the folks you’ve worked with in the past, it’ll help build your reputation as the kind of person that’s great to work for.

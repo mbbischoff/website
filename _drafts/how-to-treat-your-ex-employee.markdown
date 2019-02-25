@@ -36,7 +36,7 @@ Remember that it it can be emotional to process endings, even if it was their ch
 
 **Don’t erase them from history.** This isn’t Eternal Sunshine of the Spotless GitHub. It’s unprofessional and petty to remove folks as contributors to your open source projects (especially if they want to contribute in their spare time) or scrub their bylines from your engineering blog. I’ve even heard of bosses ignoring their former employees and conferences and industry events or blocking them on social media. This is a really bad look. Don’t be a jerk to people who worked for you.
 
-**Don’t ask them on a date.** I wish this went without saying, but apparently not, because I’ve heard of this happening. If you had a crush on your employee and the only reason you weren’t asking them on a date is because of the HR policies in place to prevent that, now is not the time to flirt with them. The power-imbalance that existed between you doesn’t magically disappear because they work somewhere else. This is a really bad idea, and you should do some soul-searching and work on your boundaries if this is your first impulse.
+**Don’t ask them on a date.** I wish this went without saying, but it doesn’t, because I’ve heard of this happening. If you had a crush on your employee and the only reason you weren’t asking them on a date is because of the HR policies in place to prevent that, now is not the time to flirt with them. The power-imbalance that existed between you doesn’t magically disappear because they work somewhere else. This is a really bad idea, and you should do some soul-searching and work on your boundaries if this is your first impulse.
 
 ===
 

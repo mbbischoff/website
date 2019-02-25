@@ -5,11 +5,11 @@ categories:
 - Tech
 - Culture
 - Management
-image: "/uploads/fire.jpg"
+image: "/uploads/firepit.jpg"
 layout: post
 ---
 
-![Fire Pit](/uploads/fire.jpg)
+![Fire Pit](/uploads/firepit.jpg)
 
 It’s Julie’s last day at work. She’s already turned in her laptop to IT, sent her goodbye email to the team, and is wrapping up her last knowledge transfer meeting. Tonight, there’s a goodbye drinks with the whole engineering department at that bar everyone loves across the street from the office. You’ve followed all the processes as a manager to offboard this person correctly, and wished them good luck at their shiny new job with more stock options and a higher salary you just couldn’t match. “Good for her,” you think, as the night winds down over a final round of cocktails. But wait – you’re not done yet.
 

@@ -1,6 +1,6 @@
 ---
 title: App Definition
-date: 2013-07-27 00:00:00 Z
+date: 2013-07-26 20:00:00 -04:00
 layout: post
 ---
 

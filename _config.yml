@@ -16,13 +16,13 @@ defaults:
 permalink: "/:title/"
 url: https://matthewbischoff.com
 paginate: 3
-baseurl: https://matthewbischoff.com/
+baseurl: ""
 author:
   name: Matthew Bischoff
   url: https://twitter.com/mb
   email: mb@matthewbischoff.com
   twitter: mb
-description: Hey, I’m <a href="/about/">Matt</a>. I write software in New York.
+description: Hey, I’m <a href="{{ site.baseurl }}/about/">Matt</a>. I write software in New York.
 logo: "/assets/matthew.jpg"
 version: 0.2
 github:

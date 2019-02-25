@@ -1,10 +1,10 @@
 ---
 title: Professional Ghostbusting
 date: 2019-01-07 11:15:00 -05:00
-layout: post
+image: ghostbusters.jpg
 description: Why do people stop answering your emails at work, and how can you stop
   it?
-image: ghostbusters.jpg
+layout: post
 ---
 
 ![Ghostbusters](/assets/ghostbusters.jpg)

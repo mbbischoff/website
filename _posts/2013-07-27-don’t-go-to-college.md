@@ -1,6 +1,6 @@
 ---
 title: Don’t Go to College
-date: 2013-07-26 20:00:00 -04:00
+date: 2013-07-27 00:00:00 Z
 layout: post
 ---
 

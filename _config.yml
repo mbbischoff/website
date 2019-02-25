@@ -16,7 +16,7 @@ defaults:
 permalink: "/:title/"
 url: https://matthewbischoff.com
 paginate: 3
-baseurl: ''
+baseurl: 
 author:
   name: Matthew Bischoff
   url: https://twitter.com/mb
@@ -25,7 +25,7 @@ author:
 description: Hey, I’m <a href="https://matthewbischoff.com/about/">Matt</a>. I write
   software in New York.
 logo: "/assets/matthew.jpg"
-version: 0.2
+version: 0.3
 github:
   repo: https://github.com/mattbischoff/matthewbischoff.com
 license:

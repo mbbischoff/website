@@ -19,7 +19,7 @@ When you’re a manager, the way you treat the people that _were_ on your team m
 
 How should you treat the people you used to work with, so you won’t leave a bad taste in their mouth? Here are a few do’s and don’ts I’ve picked up from my own ex-managers over the last decade or so. Disclaimer: this advice won’t apply to every situation, including if an employee left or was pushed out on bad terms.
 
-# What to Do
+### What to Do
 
  **Let them leave with dignity.** A CTO I really respect taught me that letting people take the time they need to say their goodbyes and tie up loose ends, without rushing them out the door, pays dividends. He gave me the great advice to spend my last day on the job having coffee with everyone that had an impact on me, thanking them, and exchanging contact info.
 
@@ -31,7 +31,7 @@ Remember that it it can be emotional to process endings, even if it was their ch
 
 **Take their feedback seriously.** They likely understand and care about your product a lot. So it might not be long before you see a tweet or email from an ex-employee about the thing they used to work on. They might be reporting a bug or airing a grievance. While it might not be the most polite way for them to give this feedback, it’s still useful. This person is essentially doing free QA on a system they’re very knowledgeable about. If you see something like this, shoot them a message asking for more details and thanking them for the report. Stay classy and fix the issue if you can! You’ll make them feel heard and respected while helping them and lots of other users too. Win-win.
 
-# What Not to Do
+### What Not to Do
 
 **Don’t blame them.** A few weeks after an engineer leaves a team, there will be a bug that someone will blame on them—their code, their oversight, their fault. Resist this temptation. Your team has code review, unit tests, and architecture review to prevent this type of singling out of developers. Remind the current team that every issue is a shared responsibility, and focus on fixing the problem instead of dredging up historical evidence of whose fault it was. Don’t let folks blindly rewrite systems just because “only Jim understood how this worked.” Work to build a shared knowledge base and set of documentation so that no one person is completely indispensable. 
 

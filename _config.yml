@@ -27,7 +27,7 @@ description: Hey, I’m <a href="https://matthewbischoff.com/about/">Matt</a>. I
 logo: "/assets/matthew.jpg"
 version: 0.4
 github:
-  repo: https://github.com/mattbischoff/matthewbischoff.com
+  repo: mattbischoff/matthewbischoff.com
 license:
   text: Some rights reserved
   url: http://creativecommons.org/licenses/by-sa/4.0/

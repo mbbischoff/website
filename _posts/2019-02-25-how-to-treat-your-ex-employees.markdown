@@ -13,7 +13,7 @@ layout: post
 
 It’s Julie’s last day at work. She’s already turned in her laptop to IT, sent her goodbye email to the team, and is wrapping up her last knowledge transfer meeting. Tonight, there’s a goodbye drinks with the whole engineering department at that bar everyone loves across the street from the office. You’ve followed all the processes as a manager to offboard this person correctly, and wished them good luck at their shiny new job with more stock options and a higher salary you just couldn’t match. “Good for her,” you think, as the night winds down over a final round of cocktails. But wait – you’re not done yet.
 
-===
+<hr>
 
 When you’re a manager, the way you treat the people that _were_ on your team matters almost as much as how you treat the people that _are_. Your ex-employees are the people out there talking the most about your company and your team. They’re the people that get DMed when a new recruit is trying to find out what it was _really like_ to work for your company and for you. And handled really well, ex-employees are often great folks for you to tap in a few years for the new team or company you’re working on, when they’re ready for a new challenge.
 
@@ -41,6 +41,6 @@ Remember that it it can be emotional to process endings, even if it was their ch
 
 **Don’t ask them on a date.** I wish this went without saying, but it doesn’t, because I’ve heard of this happening. If you had a crush on your employee and the only reason you weren’t asking them on a date is because of the HR policies in place to prevent that, now is not the time to flirt with them. The power imbalance that existed between you doesn’t magically disappear because they work somewhere else. This is a really bad idea, and you should do some soul-searching and work on your boundaries if this is your first impulse.
 
-===
+<hr>
 
 Many managers think a lot about how they treat their team, but very few I’ve spoken to have a philosophy about those that leave it. Treat your ex-employees like they’re professionals that helped you build and ship great things, because that’s exactly who they are. If you’re consistently nice and professional to the folks you’ve worked with in the past, it’ll help build your reputation as the kind of person that’s great to work for.

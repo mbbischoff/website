@@ -22,7 +22,7 @@ How should you treat the people you used to work with, so you won’t leave a ba
 
 ## What to Do
 
- **Let them leave with dignity.** A CTO I really respect taught me that letting people take the time they need to say their goodbyes and tie up loose ends, without rushing them out the door, pays dividends. He gave me the great advice to spend my last day on the job having coffee with everyone that had an impact on me, thanking them, and exchanging contact info.
+ **Let them leave with dignity.** [A CTO I really respect](https://twitter.com/brimurph) taught me that letting people take the time they need to say their goodbyes and tie up loose ends, without rushing them out the door, pays dividends. He gave me the great advice to spend my last day on the job having coffee with everyone that had an impact on me, thanking them, and exchanging contact info.
 
 Remember that it it can be emotional to process endings, even if it was their choice, and last days can be full of paperwork and tears. It’s okay if they need to come back the next week and pick up a few more things, or need building access for a final meeting after their technical last day. Don’t be a jerk or make mean-spirited jokes about how much they must want to stay. Not cool. You want their last memory of this place to be a positive one: handshakes, hugs, and well-wishes.
 

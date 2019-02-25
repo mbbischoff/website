@@ -14,7 +14,7 @@ It’s Julie’s last day at work. She’s already turned in her laptop to IT, s
 
 When you’re a manager, the way you treat the people that _were_ on your team matters almost much how you treat the people that _are_. Your ex-employees are the people out there talking the most about your company and your team. They’re the people that get DMed when a new recruit is trying to find out what it was _really like_ to work for your company and for you. And handled really well, ex-employees are often great folks for you to tap in a few years for the new team or company you’re working on, when they’re ready for a new challenge.
 
-How should you treat the people you used to work with that won’t leave a bad taste in their mouth? Here are a few dos and dont’s I’ve picked up from ex-managers of over the last decade or so. Disclaimer: this advice won’t apply to you in every situation, including if you left or were pushed out on hostile terms.
+How should you treat the people you used to work with that won’t leave a bad taste in their mouth? Here are a few dos and dont’s I’ve picked up from my own ex-managers of over the last decade or so. Disclaimer: this advice won’t apply to you in every situation, including if you left or were pushed out on hostile terms.
 
 # What to Do
 

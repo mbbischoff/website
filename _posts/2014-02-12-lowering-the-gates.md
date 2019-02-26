@@ -4,7 +4,7 @@ date: 2014-02-12 00:00:00 Z
 layout: post
 ---
 
-![The New York Times Building at night](/assets/nytimes_building_at_night.jpg)
+![The New York Times Building at night](/uploads/nytimes_building_at_night.jpg)
 
 A year ago, I sat in a glass-walled conference room at The New York Times in a routine meeting. I listened as a business-schooled product manager spoke about yet another monetization strategy when he broke character and whispered, “now is the time to lower the gates”. He was referring to The Times’s [crackdown on website users](http://nymag.com/daily/intelligencer/2013/02/new-york-times-closes-url-paywall-loophole.html) who read articles for free by googling headlines, installing [NYT Clean](http://marklets.com/NYTClean.aspx), and clearing their cookies. Now, that defensive mindset is creeping into The Times’s mobile products.
 

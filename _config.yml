@@ -12,7 +12,7 @@ defaults:
 - scope:
     path: ''
   values:
-    image: "/assets/matthew.jpg"
+    image: "/uploads/matthew.jpg"
 permalink: "/:title/"
 url: https://matthewbischoff.com
 paginate: 5
@@ -24,7 +24,7 @@ author:
   twitter: mb
 description: Hey, I’m <a href="https://matthewbischoff.com/about/">Matt</a>. I write
   software in New York.
-logo: "/assets/matthew.jpg"
+logo: "/uploads/matthew.jpg"
 version: 0.4
 license:
   text: Some rights reserved

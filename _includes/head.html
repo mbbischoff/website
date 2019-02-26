@@ -58,9 +58,9 @@
 	<meta name="twitter:description" content="Matt is an iOS developer and designer in New York City who loves making beautiful things for people.">
 	{% endif %}
 	{% if page.image %}
-	<meta name="twitter:image:src" content="{{ site.url }}/assets/{{ page.image }}">
+	<meta name="twitter:image:src" content="{{ site.url }}/uploads/{{ page.image }}">
 	{% else %}
-	<meta name="twitter:image:src" content="{{ site.url }}/assets/matthew.jpg">
+	<meta name="twitter:image:src" content="{{ site.url }}/uploads/matthew.jpg">
 	{% endif %}
   
 	<!-- Facebook Open Graph -->
@@ -89,9 +89,9 @@
 	<meta content="{{ site.url }}/about/" property="article:author">
 	{% endif %}
 	{% if page.image %}
-	<meta content="{{ site.url }}/assets/{{ page.image }}" property="og:image">
+	<meta content="{{ site.url }}/uploads/{{ page.image }}" property="og:image">
 	{% else %}
-	<meta content="{{ site.url }}/assets/matthew.jpg" property="og:image">
+	<meta content="{{ site.url }}/uploads/matthew.jpg" property="og:image">
 	{% endif %}
 	{% if page.categories %}
 	{% for category in page.categories limit:1 %}

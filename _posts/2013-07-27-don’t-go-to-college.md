@@ -4,7 +4,7 @@ date: 2013-07-27 00:00:00 -05:00
 layout: post
 ---
 
-![NJIT College Flag](/assets/njit_flag.jpg)
+![NJIT College Flag](/uploads/njit_flag.jpg)
 
 *The following is the text of a speech I gave two years ago at New Jersey Institute of Technology's Honors College Orientation. The audience was primarily students who were trying to determine whether NJIT was the right school for them.*
 

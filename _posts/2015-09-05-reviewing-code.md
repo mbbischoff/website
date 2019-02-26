@@ -1,6 +1,6 @@
 ---
 title: 'Reviewing Code: A Checklist'
-date: 2015-09-05 01:00:00 -04:00
+date: 2015-09-05 00:00:00 -05:00
 layout: post
 ---
 

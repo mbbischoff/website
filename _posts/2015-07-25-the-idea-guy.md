@@ -1,6 +1,6 @@
 ---
 title: The Idea Guy
-date: 2015-07-25 00:00:00 Z
+date: 2015-07-25 00:00:00 -05:00
 layout: post
 ---
 

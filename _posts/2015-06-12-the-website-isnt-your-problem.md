@@ -1,6 +1,6 @@
 ---
 title: The Website Isn’t Your Problem
-date: 2015-06-12 00:00:00 Z
+date: 2015-06-12 00:00:00 -05:00
 layout: post
 ---
 

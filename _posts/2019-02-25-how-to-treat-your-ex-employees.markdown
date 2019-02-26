@@ -1,11 +1,12 @@
 ---
 title: How to Treat Your Ex-Employees
-description: "Many managers think a lot about how they treat their team, but few have a philosophy about those that leave it."
 date: 2019-02-25 16:50:00 -05:00
 categories:
 - Tech
 - Culture
 - Management
+description: Many managers think a lot about how they treat their team, but few have
+  a philosophy about those that leave it.
 image: firepit.jpg
 layout: post
 ---

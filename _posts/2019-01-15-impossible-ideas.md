@@ -7,7 +7,7 @@ description: The talk I show to every software engineer who says it’s impossib
 image: cleese.jpg
 ---
 
-![John Cleese](/assets/cleese.jpg)
+![John Cleese](/uploads/cleese.jpg)
 
 If I could show just one talk to every software engineer, it wouldn’t be a treatise on the elegance of algorithms, a lecture about accessibility in apps, or even the masterwork that is Englebart’s[ Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos). Instead, I’d show them this frequently-referenced 1991 [speech that John Cleese gave](https://youtu.be/Pb5oIIPO62g) ([transcript](https://genius.com/John-cleese-lecture-on-creativity-annotated)) to Video Arts, a company he co-founded. In it, he presents a blueprint for how to nurture creativity at work that’s based on his own experience in Monty Python and the work of experts like[ Donald MacKinnon](https://en.wikipedia.org/wiki/Donald_W._MacKinnon),[ Johan Huizinga](https://en.m.wikipedia.org/wiki/Johan_Huizinga), and[ Edward de Bono](https://en.m.wikipedia.org/wiki/Edward_de_Bono). The talk’s thesis is that “creativity is not a talent; it is a way of operating”. His method for creativity involves regularly setting aside time and space to be in the *open mode,* when most of our lives and occupations push us into the *closed mode*.
 

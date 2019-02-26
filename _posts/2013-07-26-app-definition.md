@@ -1,10 +1,10 @@
 ---
 title: App Definition
-date: 2013-07-27 00:00:00 Z
+date: 2013-07-26 20:00:00 -04:00
 layout: post
 ---
 
-![App Store Banner](/assets/app_store_banner.jpg)
+![App Store Banner](/uploads/app_store_banner.jpg)
 
 The **app definition statement** is a concept that I’ve been obsessed with since I first read about it in the original [iOS Human Interface Guidelines](http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/AppDesign/AppDesign.html) back in 2008.
 

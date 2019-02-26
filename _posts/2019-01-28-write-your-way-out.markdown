@@ -12,7 +12,7 @@ description: A talk I gave at Release Notes 2016 about writing and how important
 layout: post
 ---
 
-![release-notes-2016.jpg](/assets/release-notes-2016.jpg)
+![release-notes-2016.jpg](/uploads/release-notes-2016.jpg)
 
 In September 2016, I was honored to be invited to speak at [Joe](http://www.joecieplinski.com) and [Charles’s](https://dazeend.org) incredible [Release Notes conference](https://2019.releasenotes.tv) in Indianapolis. _Release Notes_, an outgrowth of their [podcast of the same name](https://releasenotes.tv), approaches the software business as a _business_ first and foremost. Their guiding principle is to discuss “everything but the code”. 
 

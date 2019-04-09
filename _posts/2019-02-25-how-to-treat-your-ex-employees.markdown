@@ -1,16 +1,17 @@
 ---
 title: How to Treat Your Ex-Employees
-description: "Many managers think a lot about how they treat their team, but few have a philosophy about those that leave it."
 date: 2019-02-25 16:50:00 -05:00
 categories:
 - Tech
 - Culture
 - Management
+description: Many managers think a lot about how they treat their team, but few have
+  a philosophy about those that leave it.
 image: firepit.jpg
 layout: post
 ---
 
-![Fire Pit](/uploads/firepit.jpg)
+![Fire Pit](/assets/firepit.jpg)
 
 It’s Julie’s last day at work. She’s already turned in her laptop to IT, sent her goodbye email to the team, and is wrapping up her last knowledge transfer meeting. Tonight, there’s a goodbye drinks with the whole engineering department at that bar everyone loves across the street from the office. You’ve followed all the processes as a manager to offboard this person correctly, and wished them good luck at their shiny new job with more stock options and a higher salary you just couldn’t match. “Good for her,” you think, as the night winds down over a final round of cocktails. But wait – you’re not done yet.
 

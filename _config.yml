@@ -15,7 +15,7 @@ defaults:
     image: "/uploads/matthew.jpg"
 permalink: "/:title/"
 url: https://matthewbischoff.com
-paginate: 3
+paginate: 5
 baseurl: 
 author:
   name: Matthew Bischoff

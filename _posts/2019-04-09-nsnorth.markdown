@@ -1,0 +1,29 @@
+---
+title: NSNorth
+date: 2019-04-09 17:30:00 -04:00
+tags:
+- conferences
+- canada
+- speaking
+- nsnorth
+image: "/uploads/nsnorth-2019-at-the-st-james-theatre-old-montreal.jpg"
+description: Later this month, I’ll be heading north to speak at NSNorth 2019. NSNorth
+  is Canada’s premier independent Apple developer and designer conference. Get tickets
+  today.
+---
+
+![nsnorth-2019-at-the-st-james-theatre-old-montreal.jpg](/uploads/nsnorth-2019-at-the-st-james-theatre-old-montreal.jpg)
+
+Last March, I gave a [7-minute speech at a reading series](https://matthewbischoff.com/culture-rot/) that scratched my persistent itch to be in front of a crowd. But in 2019 I want to get back into my usual schtick of giving longer, prepared presentations with slides. I love attending conferences, and I especially enjoy having the opportunity to hone a talk and share it with a group of my peers.
+
+Later this month, I’ll be heading north to speak at (the appropriately named) NSNorth 2019. NSNorth is Canada’s premier independent Apple developer and designer conference, and like [Çingleton](http://cingleton.com) in years past, it’s taking place in beautiful Montréal, Québec. I’ve never been to this conference before, but I’ve met the organizers at other events, and I’ve heard great things.
+
+My talk is called _Growing Pains_ and it’s about the things that break as your software team or [company](https://lickability.com) gets bigger and what you can do to make that a less painful process. If you’d like to hear more about the conference and my experience on the topic, [Dan](https://twitter.com/_danbyers) and [Phil](https://twitter.com/philippec) interviewed me on the [NSNorth Podcast](https://itunes.apple.com/us/podcast/the-nsnorth-podcast/id599959952?mt=2). Give it a listen below or wherever you get your podcasts:
+
+<center>
+<audio src="http://casgrain.net/podcasts/NSNorth_57-Matthew_Bischoff.mp3" controls preload></audio>
+</center>
+
+<hr>
+
+Finally, the organizers have announced that this is the last year for NSNorth for the foreseeable future, so if you’ve always wanted to attend, now’s your chance. If you need help convincing your boss to cover the cost, they’ve [got you covered](https://nsnorth.ca/convince-your-boss.pdf). **[Tickets are on sale](https://tickets.nsnorth.ca) until this Friday, April 12, so act fast.** _Je vais te voir là-bas!_ 👋

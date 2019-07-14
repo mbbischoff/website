@@ -1,4 +1,4 @@
----
+# ---
 title: About
 permalink: "/about/"
 layout: page
@@ -6,7 +6,7 @@ layout: page
 
 ![Photo of Matthew Bischoff](http://matthewbischoff.com/assets/matthew-bw.jpeg)
 
-I’m Matthew Bischoff. I run [Lickability](http://lickability.com), a small software company I founded with my best friends.
+I’m Matthew Bischoff. I run [Lickability](http://lickability.com), a small software company I founded with my best friends. I’m nonbinary and use they/them pronouns.
 
 ## Projects
 

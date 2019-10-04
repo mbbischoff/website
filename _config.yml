@@ -8,28 +8,21 @@ collections:
   uploads:
     title: Uploads
     output: true
-defaults:
-- scope:
-    path: ''
-  values:
-    image: "/uploads/matthew.jpg"
 permalink: "/:title/"
-url: https://matthewbischoff.com
+url: https://Martin-Alexander.github.io
 paginate: 5
-baseurl: 
+baseurl:
 author:
   name: Matthew Bischoff
   url: https://twitter.com/mb
   email: mb@matthewbischoff.com
   twitter: mb
-description: Hey, I’m <a href="https://matthewbischoff.com/about/">Matt</a>. I write
-  software in New York.
 logo: "/uploads/matthew.jpg"
 version: 0.4
 license:
   text: Some rights reserved
   url: http://creativecommons.org/licenses/by-sa/4.0/
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-paginate
 - jekyll-gist
@@ -46,3 +39,8 @@ sass:
   sass_dir: _sass
   style: compressed
 repository: mattbischoff/matthewbischoff.com
+include: ['_category']
+text_content:
+  header_title: Hey, I’m Matthew Bischoff.
+  subtitle: "I write & speak about software and the people that build it. I’ve made apps at NYTimes, Tumblr, and now run my own studio, Lickability. I obsess about cocktails, musical theater, and podcasts. Oh yeah, and I was on Jeopardy!"
+  short_subtitle: "I write & speak about software and the people that build it. I’ve made apps at NYTimes, Tumblr, and now run my own studio, Lickability"

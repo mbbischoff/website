@@ -1,0 +1,95 @@
+* {
+  color: $text-white;
+  font-family: 'proxima-nova', 'sans-serif';
+}
+
+a {
+  color: $text-blue;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+blockquote, p, ul {
+  font-size: 1.2em;
+  line-height: 30px;
+  font-weight: 300;
+
+  @media (max-width: $max-mobile-width) {
+    font-size: 17px;
+    line-height: 27px;
+  }
+}
+
+h1, h2 {
+  color: $text-blue;
+  font-weight: 700;
+  font-size: 2.2em;
+}
+
+body {
+  background-color: $background-black;
+  position: relative;
+  margin: 0px;
+
+  &.fix {
+    overflow: hidden;
+  }
+}
+
+blockquote {
+  @media (max-width: $max-mobile-width) {
+    -webkit-margin-start: 20px;
+    -webkit-margin-end: 20px;
+
+    -moz-margin-start: 20px;
+    -moz-margin-end: 20px;
+
+    margin-inline-start: 20px;
+    margin-inline-end: 20px;
+  }
+}
+
+audio {
+  @media (max-width: $max-mobile-width) {
+    width: 100%;
+  }
+}
+
+iframe {
+  height: 50vw;
+  max-height: 400px;
+  width: 100%;
+}
+
+#mobile-menu {
+  background-color: $background-black;
+  position: absolute;
+  width: 100%;
+  top: 0px;
+  bottom: 0px;
+  z-index: 2;
+  opacity: 0;
+  display: none;
+  transition: opacity 0.25s ease;
+
+  &> div {
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  a {
+    font-size: 36px;
+    line-height: 1.4;
+    font-weight: 700;
+  }
+}
+
+.wrapper {
+  max-width: 700px;
+  padding: 0px 20px;
+}

@@ -1,13 +1,12 @@
 ---
 title: Culture Rot
-date: 2018-03-12 16:00:00 -04:00
 layout: post
 description: A talk at the Difficult to Name reading series about the disappearing
   web and what we can do to stop it.
 image: dtn-culture-rot.jpg
 ---
 
-This weekend, I spoke to the audience of the [*Difficult to Name* reading series](http://www.ryansartor.com) at [Study Hall](https://studyhall.xyz) in Brooklyn. My talk was about the internet, my fears about building and sustaining culture there, and what we might be able to do about it. Watch the talk or read my prepared remarks below. And let me know what you think on 
+This weekend, I spoke to the audience of the [*Difficult to Name* reading series](http://www.ryansartor.com) at [Study Hall](https://studyhall.xyz) in Brooklyn. My talk was about the internet, my fears about building and sustaining culture there, and what we might be able to do about it. Watch the talk or read my prepared remarks below. And let me know what you think on
 Twitter. I’m [@mb](https://twitter.com/mb) there. Thanks to [Michael Liberatore](https://twitter.com/mliberatore/) for shooting the video and to everyone who helped edit early drafts of the talk.
 
 <p><div class='embed-container'><iframe src='https://player.vimeo.com/video/259586099?title=0&byline=0&portrait=0' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></p>
@@ -36,7 +35,7 @@ He’s right. **It is no way to run a culture**. We’re experiencing quantitati
 
 The truth is: **there is no easy fix**. But as writers and makers and inhabitants of the internet, we need to demand better of the platforms and services and publications we entrust with our work. It might seem safer to trust the big guys (Facebook, Twitter, Medium) with this content because they have the funding and incentives to maintain it. That’s true today, but large platforms like them have failed before, taking terabytes of data with them. Remember Friendster, TwitPic, Geocities?
 
-There are academic efforts like [Perma.cc](Perma.cc) out of the [Harvard Library Innovation Lab](https://lil.law.harvard.edu) that will solve this problem for the most important legal and scholarly works. But we can and must to do better than that. 
+There are academic efforts like [Perma.cc](Perma.cc) out of the [Harvard Library Innovation Lab](https://lil.law.harvard.edu) that will solve this problem for the most important legal and scholarly works. But we can and must to do better than that.
 
 Starting in 2014, a small group of programmers became obsessed with building what is called “content addressable” version of the internet called [IPFS](https://ipfs.io). IPFS stands for “InterPlanetary File System”. And “content addressable” means that files are stored and located by their content instead of an arbitrary and therefore brittle address. As I’m sure some of you have guessed by now, it’s built on top the blockchain. *Insert eye roll emoji* 🙄. But before you write them off, I think these nerds might be on to something. Their system, which is entirely peer to peer, and inherently resistant to the rot I’m talking about is already being used to build a mirrored version of Wikipedia that will be accessible from countries with oppressive regimes, and was used by those in Catalan seeking independence when the government blocked their pages from being accessible on the web. The IPFS team is building a system by which the websites and apps of tomorrow might be able to defend against this failing foundation, but who knows if it’ll get adopted.
 

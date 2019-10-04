@@ -1,6 +1,5 @@
 ---
 title: Professional Ghostbusting
-date: 2019-01-07 11:15:00 -05:00
 image: ghostbusters.jpg
 description: Why do people stop answering your emails at work, and how can you stop
   it?
@@ -25,7 +24,7 @@ Here are a few things I’ve done while being ghosted at work that have helped m
 
 **Follow up**. I know it might feel like you’re nagging someone to email twice in a row. But if you’re in a professional relationship, and you’ve been interacting with someone who’s vanished, they’d likely appreciate a friendly follow-up after a few days. I’ve resurrected more deals than I can count with one well-timed follow up. Use a [CRM system](https://en.wikipedia.org/wiki/Customer-relationship_management) or an app like [Boomerang for Gmail](https://www.boomeranggmail.com/) to automate this.
 
-**Make responding easy**. Bold the questions in your email and keep them as easy to respond to as possible. Discuss complex or sensitive matters by phone or video chat. Your goal should be that your email is the first one your recipient opens, because it’s got a great subject line and they know exactly what you want and how to give it to you. Use self-service calendaring tools like [Calendly](https://calendly.com/) to avoid being ghosted in the midst of a long scheduling volley. 
+**Make responding easy**. Bold the questions in your email and keep them as easy to respond to as possible. Discuss complex or sensitive matters by phone or video chat. Your goal should be that your email is the first one your recipient opens, because it’s got a great subject line and they know exactly what you want and how to give it to you. Use self-service calendaring tools like [Calendly](https://calendly.com/) to avoid being ghosted in the midst of a long scheduling volley.
 
 **Track opens**. This is [controversial](https://appadvice.com/appnn/2015/07/readdles-spark-email-app-gains-new-features-but-loses-some) from a privacy perspective. But on crucial business communications like bills or contracts, I think it’s appropriate to have view tracking in place. If you know your client is seeing and opening your invoices, it can give you peace of mind that they’ll pay them on time. And if they don’t, you can let them know they don’t have a good excuse to be late, because you see that the invoice was opened the day after they received it. 👀
 
@@ -37,10 +36,10 @@ If you ghost on the job, these tips might help you get a little better control o
 
 **Ignorance is bliss**. It’s okay to say “I don’t know.” In fact, it’s liberating. If one of the reasons you’re ghosting a colleague or business partner right now is that you’re just not sure about something in their email, start there. “I’m not sure how to answer this. Do you mind if we schedule a 15-minute call on Monday and figure it out together? Here’s [my availability](https://calendly.com/matthewbischoff/15min).” Sometimes that admission of uncertainty all it takes to bring that thread back from the ether.
 
-**Set realistic expectations**.  If you know you’re prone to ghosting, don’t use an email client that lets you [snooze emails](https://sparkmailapp.com/features/snooze); it makes it too easy to delay indefinitely. If your Fridays are always filled with meetings, don’t tell someone you’ll get them something by “end of week.” Your time and attention are valuable just like your correspondent’s, and as long as you let people know when you can realistically respond and (mostly) stick to it, it’ll be fine.  
+**Set realistic expectations**.  If you know you’re prone to ghosting, don’t use an email client that lets you [snooze emails](https://sparkmailapp.com/features/snooze); it makes it too easy to delay indefinitely. If your Fridays are always filled with meetings, don’t tell someone you’ll get them something by “end of week.” Your time and attention are valuable just like your correspondent’s, and as long as you let people know when you can realistically respond and (mostly) stick to it, it’ll be fine.
 
 
----- 
+----
 
 
 I wrote this blog post for myself as much as for anyone else. If you’re ever waiting for a message from me, feel free to link to this piece in your polite follow up. I swear I won’t mind. None of us are perfect at this stuff. We’re all human, even if we sometimes ghost our coworkers. ✌️

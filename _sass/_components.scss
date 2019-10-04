@@ -1,0 +1,52 @@
+.colour-red { background-color: $red; }
+.colour-dark-red { background-color: $dark-red; }
+
+.colour-purple { background-color: $purple; }
+.colour-dark-purple { background-color: $dark-purple; }
+
+.colour-violet { background-color: $violet; }
+.colour-dark-violet { background-color: $dark-violet; }
+
+.colour-blue { background-color: $blue; }
+.colour-dark-blue { background-color: $dark-blue; }
+
+.colour-cyan { background-color: $cyan; }
+.colour-dark-cyan { background-color: $dark-cyan; }
+
+.colour-green { background-color: $green; }
+.colour-dark-green { background-color: $dark-green; }
+
+.text-weight-bold { font-weight: bold; }
+
+.button-round {
+  background-color: rgba(11, 0, 18, 0.75);
+  border-radius: 17.5px;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 8px 16px;
+  transition: background-color 0.15s ease;
+  color: $text-white;
+  text-decoration: none;
+
+  &:hover {
+    background-color: rgba(30, 159, 211, 0.5);
+    text-decoration: none;
+  }
+
+  &.blue-highlight {
+    background-color: $text-blue;;
+  }
+}
+
+
+.mobile-only {
+  @media (min-width: $max-mobile-width) {
+    display: none !important;
+  }
+}
+
+.desktop-only {
+  @media (max-width: $max-mobile-width) {
+    display: none !important;
+  }
+}

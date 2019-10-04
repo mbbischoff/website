@@ -1,6 +1,5 @@
 ---
 title: The Idea Guy
-date: 2015-07-25 01:00:00 -04:00
 layout: post
 ---
 
@@ -14,7 +13,7 @@ I wish I could have stopped the interview right then and there. I wanted to tell
 
 Ideas are everywhere. [They’re a multiplier](https://sivers.org/multiply). They’re not a thing you make, and they have have no intrinsic value. We certainly [don’t need a whole person for them](https://signalvnoise.com/posts/2188-theres-no-room-for-the-idea-guy) at a company that’s just starting out.
 
-Some nights I wonder where that guy is. I’m scared to look through my notes and check up on him, but I sincerely hope that he’s found some way to bring his ideas into the world — something to do or to make. 
+Some nights I wonder where that guy is. I’m scared to look through my notes and check up on him, but I sincerely hope that he’s found some way to bring his ideas into the world — something to do or to make.
 
 I wish we hadn’t separated those two concepts in English. ‘[*Faciō*](https://en.wiktionary.org/wiki/facio)’, one of my favorite Latin verbs, encapsulates both concepts in a beautiful way. Anyway, back to doing. The ideas will come.
 

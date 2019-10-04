@@ -1,6 +1,5 @@
 ---
 title: Barely Managing
-date: 2016-02-03 19:00:00 -05:00
 layout: post
 description: A talk about why you might want to step away from the keyboard and into
   leadership, and what happens when you do.

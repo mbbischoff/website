@@ -1,6 +1,5 @@
 ---
 title: App Definition
-date: 2013-07-26 20:00:00 -04:00
 layout: post
 ---
 
@@ -28,12 +27,12 @@ A few months ago, I [asked some iOS developers on Branch](http://branch.com/b/ap
 * [**Languages**](http://www.languagesapp.com): lightning fast translation without an Internet connection.
 * [**Paper**](http://www.fiftythree.com/paper): where ideas begin.
 * [**Basil**](http://basil-app.com): a single place for your favorite recipes and makes it easier to cook them.
-* [**Drafts**](http://agiletortoise.com/drafts/): where text starts. 
-* [**QueueUp**](http://bitbq.com/queueup/): Fast searching and adding for your Netflix Queue. 
+* [**Drafts**](http://agiletortoise.com/drafts/): where text starts.
+* [**QueueUp**](http://bitbq.com/queueup/): Fast searching and adding for your Netflix Queue.
 
 These don’t all follow the exact same template, but they do give you a quick one sentence way to understand the app. They let you see why the developers may have cut certain features and included others.
 
-Writing an ADS is the first step in any new software project I’m thinking about. As soon as I have one I’m happy with, I put it in the project `README` and start designing. 
+Writing an ADS is the first step in any new software project I’m thinking about. As soon as I have one I’m happy with, I put it in the project `README` and start designing.
 
 Do you write App Definition Statements, or have you found an even better way to define your work?
 

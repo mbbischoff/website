@@ -1,6 +1,6 @@
 ---
 title: NSNorth
-date: 2019-04-09 17:30:00 -04:00
+layout: post
 tags:
 - conferences
 - canada

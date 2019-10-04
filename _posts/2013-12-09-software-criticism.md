@@ -1,12 +1,11 @@
 ---
 title: Software Criticism
-date: 2013-12-09 00:00:00 -05:00
 layout: post
 ---
 
 ![Critica](/uploads/critica.jpg)
 
-> Criticism may not be agreeable, but it is necessary. It fulfills the same function as pain in the human body. It calls attention to an unhealthy state of things.   
+> Criticism may not be agreeable, but it is necessary. It fulfills the same function as pain in the human body. It calls attention to an unhealthy state of things.
 > — Winston Churchill
 
 Last week, I wrote a [short blog post on my Tumblr](http://mttb.me/post/69083842272/new-york-times-brings-print-edition-to-tablets-and) commenting on the news that [my former employer](http://nytimes.com/) had released a new web application and critiquing the [product strategy](http://insideintercom.io/product-strategy-means-saying-no/), calling it “pointless”. Apparently this struck a chord because minutes after I had shared my brief thoughts about the new Today’s Paper web app, I started receiving tweets, direct messages, and emails from former colleagues, friends, and followers. From what I’ve heard, it’s also generated several internal emails and conversations. Many of the messages I received raised the same question: **why would I write this post?**

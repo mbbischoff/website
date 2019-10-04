@@ -1,0 +1,35 @@
+---
+layout: null
+---
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": {{ site.name | jsonify }},
+  "home_page_url": "{{ site.baseurl }}/",
+  "feed_url": "{{ site.baseurl }}/feed.json",
+  "description": {{ site.tagline | jsonify }},
+  "favicon": "{{ site.baseurl }}/uploads/icons/favicon-96x96.png",
+  "icon": "{{ site.baseurl }}/uploads/icons/apple-touch-icon.png",
+  "author": {
+      "name": {{ site.author.name | jsonify }},
+      "url": "{{ site.baseurl }}/"
+  },
+  "expired": "false",
+  "items": [
+{% for post in site.posts %}
+    {
+      "id": "{{ post.id }}",
+      "url": "{{ site.baseurl }}{{ post.url }}",
+      "title": {{ post.title | jsonify }},
+      "content_html": {{ post.content | jsonify }},
+      {% if post.description %}"summary": {{ post.description  | jsonify }},{% endif %}
+      {% if post.tags %}"tags":  [ "{{post.tags | join: '","'}}" ],{% endif %}
+      {% if post.categories %}"categories":  [ "{{post.categories | join: '","'}}" ],{% endif %}
+      {% if post.link %}"external_url": "{{ post.link }}",{% endif %}
+      {% if post.colour %}"colour": "{{ post.colour }}",{% endif %}
+      {% if post.format %}"format": "{{ post.format }}",{% endif %}
+      "date_published": "{{ post.date | date_to_xmlschema }}",
+      "date_modified": "{% if post.sitemap.lastmod == null %}{{ post.date | date_to_xmlschema }}{% else %}{{ post.sitemap.lastmod | date_to_xmlschema }}{% endif %}"
+    }{% unless forloop.last == true %},{% endunless %}
+{% endfor %}
+  ]
+}

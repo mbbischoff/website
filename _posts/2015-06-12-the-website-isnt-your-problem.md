@@ -1,6 +1,5 @@
 ---
 title: The Website Isn’t Your Problem
-date: 2015-06-12 01:00:00 -04:00
 layout: post
 ---
 

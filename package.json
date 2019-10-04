@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-loader": "^8.0.6",
+    "capitalize": "^2.0.0",
+    "webpack": "^4.38.0",
+    "webpack-cli": "^3.3.6"
+  }
+}

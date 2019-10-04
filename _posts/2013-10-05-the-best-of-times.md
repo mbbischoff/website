@@ -1,10 +1,9 @@
 ---
 title: The Best of Times
-date: 2013-10-05 01:00:00 -04:00
 layout: post
 ---
 
-![The New York Times Building](/assets/nytimes_building.jpg)
+![The New York Times Building](/uploads/nytimes_building.jpg)
 
 A month ago, on September 4th, I finished my last day as a senior iOS engineer at The New York Times. Two years there taught me a lot about building software that is used by millions of people and about myself.
 

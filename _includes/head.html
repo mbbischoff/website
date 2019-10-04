@@ -10,13 +10,11 @@
 		{% if page.title == site.title %}
 		{{ site.title }}
 		{% else %}
-		{{ page.title }} &middot; {{ site.title }}
+		{{ page.title | capitalize }} &middot; {{ site.title }}
 		{% endif %}
 	</title>
 	<!-- CSS -->
 	<link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
-   
-	<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7559732/650426/css/fonts.css" />
 
 	<!-- Icons -->
 	<link rel="apple-touch-icon" sizes="152x152" href="{{ site.baseurl }}/public/apple-touch-icon.png">
@@ -24,30 +22,30 @@
 
 	<!-- RSS -->
 	<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed/">
-  
-	<!-- Meta -->  
-  
+
+	<!-- Meta -->
+
 	<meta name="author" content="{{ site.author.name }}">
-	<meta name="description" content="{{ site.description | strip_html}}"> 
+	<meta name="description" content="{{ site.description | strip_html}}">
 	<meta name="generator" content="Jekyll">
-  
-	<!-- Google -->  
-  
+
+	<!-- Google -->
+
 	<meta name="googlebot" content="index,follow">
 	<meta name="robots" content="index,follow">
 	<meta name="google-site-verification" content="XK_j6lkDAd8qOhIn4-2eS2BIJuQyRp4D_gxjpR65wUM" />
-  	
-	<!-- Twitter Card -->  
-  
+
+	<!-- Twitter Card -->
+
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="matthewbischoff">
 	<meta name="twitter:creator" content="mb">
-	<meta name="twitter:domain" content="https://matthewbischoff.com">  
-  
+	<meta name="twitter:domain" content="https://matthewbischoff.com">
+
 	{% if page.title %}
 	<meta name="twitter:title" content="{{ page.title }}">
 	{% else %}
-	<meta name="twitter:title" content="{{ site.title }}">
+	<meta name="twitter:title" content="{{ site.text_content.header_title }}">
 	{% endif %}
 	{% if page.url %}
 	<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
@@ -55,21 +53,21 @@
 	{% if page.description %}
 	<meta name="twitter:description" content="{{ page.description }}">
 	{% else %}
-	<meta name="twitter:description" content="Matt is an iOS developer and designer in New York City who loves making beautiful things for people.">
+	<meta name="twitter:description" content="{{ site.text_content.header_title }} {{ site.text_content.subtitle }}">
 	{% endif %}
 	{% if page.image %}
 	<meta name="twitter:image:src" content="{{ site.url }}/uploads/{{ page.image }}">
 	{% else %}
-	<meta name="twitter:image:src" content="{{ site.url }}/uploads/matthew.jpg">
+	<meta name="twitter:image:src" content="{{ site.url }}/uploads/twitter-share-card.jpg">
 	{% endif %}
-  
+
 	<!-- Facebook Open Graph -->
 
 	<meta content="{{ site.title }}" property="og:site_name">
 	{% if page.title %}
 	<meta content="{{ page.title }}" property="og:title">
 	{% else %}
-	<meta content="{{ site.title }}" property="og:title">
+	<meta content="{{ site.text_content.header_title }}" property="og:title">
 	{% endif %}
 	{% if page.title %}
 	<meta content="article" property="og:type">
@@ -79,7 +77,7 @@
 	{% if page.description %}
 	<meta content="{{ page.description | xml_escape }}" property="og:description">
 	{% else %}
-	<meta content="{{ site.description | xml_escape }}" property="og:description">
+	<meta content="{{ site.text_content.header_title }} {{ site.text_content.subtitle | xml_escape }}" property="og:description">
 	{% endif %}
 	{% if page.url %}
 	<meta content="{{ site.url }}{{ page.url }}" property="og:url">
@@ -91,7 +89,7 @@
 	{% if page.image %}
 	<meta content="{{ site.url }}/uploads/{{ page.image }}" property="og:image">
 	{% else %}
-	<meta content="{{ site.url }}/uploads/matthew.jpg" property="og:image">
+	<meta content="{{ site.url }}/uploads/hero-image.jpg" property="og:image">
 	{% endif %}
 	{% if page.categories %}
 	{% for category in page.categories limit:1 %}
@@ -102,5 +100,5 @@
 	{% for tag in page.tags %}
 	<meta content="{{ tag }}" property="article:tag">
 	{% endfor %}
-	{% endif %}
+  {% endif %}
 </head>

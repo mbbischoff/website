@@ -1,17 +1,16 @@
 ---
 title: How to Treat Ex-Employees
-date: 2019-02-25 16:50:00 -05:00
 categories:
-- Tech
-- Culture
-- Management
+- tech
+- culture
+- management
 image: firepit.jpg
 description: Many managers think a lot about how they treat their team, but few have
   a philosophy about those that leave it.
 layout: post
 ---
 
-![Fire Pit](/assets/firepit.jpg)
+![Fire Pit](/uploads/firepit.jpg)
 
 It’s Julie’s last day at work. She’s already turned in her laptop to IT, sent her goodbye email to the team, and is wrapping up her last knowledge transfer meeting. Tonight, there’s a goodbye drinks with the whole engineering department at that bar everyone loves across the street from the office. You’ve followed all the processes as a manager to offboard this person correctly, and wished them good luck at their shiny new job with more stock options and a higher salary you just couldn’t match. “Good for her,” you think, as the night winds down over a final round of cocktails. But wait – you’re not done yet.
 
@@ -35,7 +34,7 @@ Remember that it can be emotional to process endings, even if it was their choic
 
 ## What Not to Do
 
-**Don’t blame them.** A few weeks after an engineer leaves a team, there will be a bug that someone will blame on them—their code, their oversight, their fault. Resist this temptation. Your team has code review, unit tests, and architecture meetings to prevent this type of singling out of developers. Remind them that every issue is a shared responsibility, and focus on fixing the problem instead of dredging up historical evidence of whose fault it was. Don’t let folks blindly rewrite systems just because “only Jim understood how this worked.” Work to build a shared knowledge base and set of documentation so that no one person is completely indispensable. 
+**Don’t blame them.** A few weeks after an engineer leaves a team, there will be a bug that someone will blame on them—their code, their oversight, their fault. Resist this temptation. Your team has code review, unit tests, and architecture meetings to prevent this type of singling out of developers. Remind them that every issue is a shared responsibility, and focus on fixing the problem instead of dredging up historical evidence of whose fault it was. Don’t let folks blindly rewrite systems just because “only Jim understood how this worked.” Work to build a shared knowledge base and set of documentation so that no one person is completely indispensable.
 
 **Don’t make them work for free.** There’s often a temptation to message ex-employees with “quick questions” about esoteric code or systems that they worked on after they leave the company. Please don’t do this. If you absolutely need these answers, hire this person at their consulting rate and pay them for their time and labor. This kind of arrangement is super common, and your company should hopefully already have a [boilerplate agreement](https://www.docracy.com/0p7np59pa0t/software-consulting-agreement) for this scenario. If not, now’s the time to draft one.
 

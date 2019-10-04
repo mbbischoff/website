@@ -1,6 +1,5 @@
 ---
 title: Lowering the Gates
-date: 2014-02-11 19:00:00 -05:00
 layout: post
 ---
 
@@ -16,9 +15,9 @@ While great free apps like [Circa](http://cir.ca),  [Yahoo News Digest](https://
 
 Since the [NYTimes iOS application](https://itunes.apple.com/us/app/nytimes/id284862083?mt=8) was released in 2008, the number of articles that users can read for free has changed multiple times. The app has gone from [everything being free](http://www.tuaw.com/2008/07/11/first-look-nytimes/), to the [dozen rotating “Top News” stories](http://www.nytimes.com/2011/03/18/opinion/l18times.html), to [three articles daily](http://www.niemanlab.org/2013/06/the-new-york-times-adds-a-meter-to-mobile-apps/), to [only ten per month](http://www.niemanlab.org/2014/01/the-new-york-times-drops-its-moblie-app-meter-from-3-articles-a-day-to-10-a-month/). The last change occurred just months after the previous. If it had to be adjusted this quickly and drastically, the meter strategy on mobile just isn't working.
 
-Since The Times’s mobile products are partially supported by advertising, it’s counterintuitive to drive down the number of ad impressions by cutting off enthusiastic users just as they're getting excited about the content. Ten articles per month just aren’t enough to justify keeping the apps installed; it’s almost insulting. The proof is in the [plummeting App Store ratings](https://itunes.apple.com/us/app/nytimes/id284862083?mt=8) as well as in the company’s usage statistics, which I suspect show readers returning less frequently since the change. 
+Since The Times’s mobile products are partially supported by advertising, it’s counterintuitive to drive down the number of ad impressions by cutting off enthusiastic users just as they're getting excited about the content. Ten articles per month just aren’t enough to justify keeping the apps installed; it’s almost insulting. The proof is in the [plummeting App Store ratings](https://itunes.apple.com/us/app/nytimes/id284862083?mt=8) as well as in the company’s usage statistics, which I suspect show readers returning less frequently since the change.
 
-From the outside, it looks as if the company is desperate to drive up subscription numbers on its [confusing digital subscription packages](http://www.nytimes.com/content/help/account/purchases/subscriptions-and-purchases.html), which are still more expensive than having the newspaper dropped on your doorstep every weekend. But I think there may be something deeper going on. 
+From the outside, it looks as if the company is desperate to drive up subscription numbers on its [confusing digital subscription packages](http://www.nytimes.com/content/help/account/purchases/subscriptions-and-purchases.html), which are still more expensive than having the newspaper dropped on your doorstep every weekend. But I think there may be something deeper going on.
 
 The Times [plans to roll out even more digital packages](http://www.theverge.com/2013/7/12/4518740/new-york-times-working-on-digital-only-magazine-cheaper-subscription) this year, and people I’ve spoken to at the company are starting to worry that few will want them. Why not make its current offerings less appealing in the short term, so that they can save the day with their newer, better apps in a few months? If this is what NYT is doing, it's downright irresponsible and counter to The Times’s [commitment to integrity](http://www.nytco.com/who-we-are/culture/standards-and-ethics/). There’s no integrity in misleading readers.
 

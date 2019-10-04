@@ -1,6 +1,5 @@
 ---
 title: Don’t Go to College
-date: 2013-07-27 01:00:00 -04:00
 layout: post
 ---
 
@@ -10,7 +9,7 @@ layout: post
 
 ---
 
-**Don't go to college**. At least don't go unless you understand exactly why you're going and exactly what you will gain from it. It's expensive, it's frustrating, and it's not really as necessary as it once was for many professions, especially computer science. 
+**Don't go to college**. At least don't go unless you understand exactly why you're going and exactly what you will gain from it. It's expensive, it's frustrating, and it's not really as necessary as it once was for many professions, especially computer science.
 
 I dropped out of college last year, and I've never been happier. I'm a full time Mobile Software Engineer at The New York Times, co-founder of a small successful iOS development company called Lickability, and I have an amazing group of friends. Most people would say that I'm very lucky. I don't think it's luck. I work insanely hard, all the time.
 
@@ -34,7 +33,7 @@ Carefully consider what everyone from university admissions says. To them you're
 
 I know most of you won't listen to me. The people sitting next to you, your parents and your friends will urge you to take the safe route, getting yourself into thousands of dollars of debt or spending their money to sit in a prison-like dorm room for four years instead of facing the real world, but it's not their life. You are or almost are an adult. Make your own decisions, make your own money, and live your own life. Sure, your parents love you or whatever, but they're naturally cautious. You need to take risks.
 
-You don't have to do anything. You don't have to be here. You don't have to come here. Everything you do is a choice, so own every one of them. 
+You don't have to do anything. You don't have to be here. You don't have to come here. Everything you do is a choice, so own every one of them.
 
 If you do go to college, don't waste your time doing "homework" that you know won't help you. Make friends, make love, make lots of things. Make something great. Because that is what will make you happy for the rest of your life.
 

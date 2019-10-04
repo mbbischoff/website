@@ -1,6 +1,5 @@
 ---
 title: Activist Engineering
-date: 2016-02-02 00:00:00 -05:00
 layout: post
 description: You’ve been there. You’re sitting in a meeting and your boss, a product
   manager, or an executive is talking about Q2 goals. They’re laying out a roadmap

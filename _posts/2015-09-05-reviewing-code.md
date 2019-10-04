@@ -1,6 +1,5 @@
 ---
 title: 'Reviewing Code: A Checklist'
-date: 2015-09-05 01:00:00 -04:00
 layout: post
 ---
 
@@ -54,7 +53,7 @@ Does it work as you’d expect? You can write lots of pretty code that doesn’t
 * Confirm that the project builds and compiles.
 * Look for any new warnings or errors that have been introduced.
 * Run the unit / integration tests to look for any new failures.
-* Follow the steps provided to test the changes or determine a testing plan for it and run through those tests, noting any issues in your comments. 
+* Follow the steps provided to test the changes or determine a testing plan for it and run through those tests, noting any issues in your comments.
 	* Test things that the original engineer might not have considered like errors, failures, other inputs.
 * Look for significant changes in performance.
 	* Profile the changes if performance seems to have regressed.
@@ -70,8 +69,8 @@ Alright, it’s time to start looking at the code, line by line.
 * Added code
 	* Does the new code introduced conform to the teams’s standards for style, documentation, and testing?
 	* Does new code make sense when read? Is anything too clever or inexplicable?
-	* Is new code safe? 
-		* Does it have the potential to crash or hang? 
+	* Is new code safe?
+		* Does it have the potential to crash or hang?
 		* Are there any obvious race conditions or concurrency concerns?
 	* Is new code fast?
 		* If not, can you suggest optimizations?

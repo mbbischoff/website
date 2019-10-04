@@ -1,0 +1,71 @@
+<header>
+  <div class="container">
+    <nav id="page-links">
+      <img tabindex="0" id="hamburger-button" src="/uploads/hamburger.svg" class="mobile-only">
+      <div class="desktop-only">
+        {% if page.url == "/" %}
+          <a href="/" class="text-weight-bold">Home</a>
+        {% else %}
+          <a href="/">Home</a>
+        {% endif %}
+
+        {% if page.url == "/about/" %}
+          <a href="/about" class="text-weight-bold">About</a>
+        {% else %}
+          <a href="/about">About</a>
+        {% endif %}
+
+        {% if page.url == "/now/" %}
+          <a href="/now" class="text-weight-bold">/Now</a>
+        {% else %}
+          <a href="/now">/Now</a>
+        {% endif %}
+      </div>
+      <a href="https://lickability.com/" class="desktop-only">Lickability</a>
+    </nav>
+    <div class="desktop-only" id="banner-text-section">
+      <h1>{{ site.text_content.header_title }}</h1>
+      <p>{{ site.text_content.subtitle }}</p>
+    </div>
+    <div class="wrapper mobile-only" id="mobile-header-text">
+      <h1>Hey, I’m<br>Matthew Bischoff</h1>
+      <p>{{ site.text_content.short_subtitle }}</p>
+    </div>
+    <nav id="categories">
+      <div>
+        {% if page.url contains "/archive" %}
+          <a id="latest" class="button-round blue-highlight" href="/archive">
+            <img id="carrot" src="/uploads/carrot.svg" alt=""><span>Latest</span>
+          </a>
+        {% else %}
+          <a id="latest" class="button-round" href="/archive">
+            <img id="carrot" src="/uploads/carrot.svg" alt=""><span>Latest</span>
+          </a>
+        {% endif %}
+
+        {% for category in site.categories %}
+          {% assign category_name = (category | first | url_encode %}
+          {% assign category_matcher = "/category/" | append: category_name %}
+
+          {% if page.url contains category_matcher %}
+            <a data-category-name="{{category_name}}" class="category button-round blue-highlight" href="{{ site.url }}/category/{{ category_name }}">{{ category | first | capitalize }}</a>
+          {% else %}
+            <a data-category-name="{{category_name}}" class="category button-round" href="{{ site.url }}/category/{{ category_name }}">{{ category | first | capitalize }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+      <ul id="years">
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<div id="mobile-menu">
+  <img id="close-mobile-menu" src="/uploads/close.svg" alt="">
+  <div>
+    <a href="/" class="text-weight-bold">Home</a>
+    <a href="/about">About</a>
+    <a href="/now">/Now</a>
+    <a href="https://lickability.com/">Lickability</a>
+  </div>
+</div>

@@ -4,7 +4,9 @@ permalink: "/about/"
 layout: page
 ---
 
-![Photo of Matthew Bischoff](http://matthewbischoff.com/assets/matthew-bw.jpeg)
+# About
+
+![Photo of Matthew Bischoff](http://matthewbischoff.com/uploads/matthew-bw.jpeg)
 
 I’m Matthew Bischoff. I run [Lickability](http://lickability.com), a small software company I founded with my best friends. I’m [nonbinary](https://en.wikipedia.org/wiki/Non-binary_gender) and use [they/them pronouns](https://pronoun.is/they).
 
@@ -37,7 +39,7 @@ I’ve been lucky enough to be a guest on several podcasts over the years. Here 
 
 * [Inquisitive #57: Favourite Album: Matthew Bischoff](https://www.relay.fm/inquisitive/57) — 6 November 2015
 * [Release Notes #72: Matthew Bischoff](http://releasenotes.tv/72-matthew-bischoff/) — 29 September 2014
-* [Inquisitive #7: We’re Better Than That](http://www.relay.fm/inquisitive/7) — 1 October 2014 
+* [Inquisitive #7: We’re Better Than That](http://www.relay.fm/inquisitive/7) — 1 October 2014
 * [CMD+Space #101: Own your identity](http://5by5.tv/cmdspace/101) — 18 June 2014
 * [CMD+Space #26: iOS 7 and Lickability](http://5by5.tv/cmdspace/66) — 16 October 2013
 * [Springboard #1: Matthew Bischoff](http://springboardshow.com/episodes/1) — 27 March 2013
@@ -58,7 +60,7 @@ I’ve been lucky enough to be a guest on several podcasts over the years. Here 
 
 I enjoy meeting new people and helping others when I can.
 
-Say hello on Twitter at [@mb](https://twitter.com/mb), email me at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com), or call me at <a href="tel:+16097060597">+1 (609) 706-0597</a>.  
+Say hello on Twitter at [@mb](https://twitter.com/mb), email me at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com), or call me at <a href="tel:+16097060597">+1 (609) 706-0597</a>.
 
 ## Elsewhere
 

@@ -14,6 +14,8 @@ The answer is simple: I care a lot. Software [needs to be criticized](https://tw
 
 There are several arguments that people made about why I shouldn’t have written the post. These deserve to be addressed one by one:
 
+<!-- more -->
+
 ## Didn’t You Work For Them?
 
 Yes, I did. I don’t any more and lack of a sane product strategy is one of the reasons why. A lot of the most amazing things we learn about how companies work are from people that used to work at them. Books like Hatching Twitter, articles from former Apple employees, and a lot of the best answers on Quora wouldn’t be possible without ex-employees speaking up. Learning requires opening up.

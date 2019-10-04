@@ -19,6 +19,8 @@ I told them that my eventual goal was to run [my own software company](http://li
 
 **I got the job**. I dropped out of school. I started working on [NYTimes for iPhone](https://itunes.apple.com/us/app/nytimes/id284862083?mt=8).
 
+<!-- more -->
+
 Being at The New York Times was one of the happiest periods in my life. I worked on tons of projects and features that millions of people use every day. I helped run [an event](http://opensourcesciencefair.com), recruited interns, watched an election from the newsroom, won two innovation challenges, and helped make the apps something I’m proud of. Most importantly, I made so many incredible friends.
 
 Here are some fun numbers from my time at the Times:

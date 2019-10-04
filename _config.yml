@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 permalink: "/:title/"
-url: https://Martin-Alexander.github.io
+url: https://matthewbischoff.com
 paginate: 5
 baseurl:
 author:

@@ -86,16 +86,18 @@ initializeMobileMenu();
 
 // Navbar scroll into view on mobile
 const nav = document.querySelector("#categories>div");
+const cssTransitionTime = 800;
 
 if (window.innerWidth < 700) {
-  const img = new Image();
-  img.src = "/uploads/hero-image.jpg";
-  img.onload = () => {
-    nav.style.left = "0px";
+  window.onload = () => {
+    nav.style.left = "-20px";
     setTimeout(() => {
-      nav.style.width = "initial";
-      nav.parentElement.style.overflowX = "visible";
-    }, 800); // wait for css animation to finish
+      nav.style.left = "0px";
+      setTimeout(() => {
+        nav.style.width = "initial";
+        nav.parentElement.style.overflowX = "visible";
+      }, cssTransitionTime);
+    }, cssTransitionTime);
   }
 } else {
   nav.style.width = "initial";

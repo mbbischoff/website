@@ -19,6 +19,8 @@ The process to create an app definition statement is pretty simple:
 
 You end up with a single sentence which you can use as a litmus test for everything you do. Whenever someone on your team proposes a feature or a design, you should be able to run that through your ADS to see if what you’re doing makes sense. Will my audience want or need this? Does it belong?
 
+<!-- more -->
+
 Right now it seems like our industry is worried primarily about [growth hacking](https://medium.com/what-i-learned-building/f445b04cbd20), affiliate marketing, and App Store SEO.** None of those things matter unless you make great software**. Doing this simple exercise is the best way I’ve found to make sure that you [make something people want](http://www.paulgraham.com/good.html) without cluttering your idea or adding features for the sake of a checklist.
 
 A few months ago, I [asked some iOS developers on Branch](http://branch.com/b/app-definition-statements) for their app definition statements and got some great responses. Here are my favorites (coincidentally, some of my favorite apps):

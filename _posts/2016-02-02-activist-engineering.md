@@ -12,6 +12,8 @@ You’ve been there. You’re sitting in a meeting and your boss, a product mana
 
 The particular feature isn’t important. What matters is that you’re the engineer that’s noticed this capital-B *Bad Idea*. You know why it’s a problem. This time it’s not just the technical debt or the time it’d take to implement. This idea is bad because it trades a worse product for a better “business”: revenue, eyeballs, impressions, you know the drill.
 
+<!-- more -->
+
 **You have a choice in this moment**. You can stay quiet and hope it goes away or point it out, question it, and even argue against it. But so often, engineers fold. They ignore their conscience and their gut in the interest of a steady paycheck and an easier work day. Avoid conflict at all costs, especially when that cost could be their job. “Just keep your head down and do what you’re told”, they think, while they twiddle their thumbs as bad product decisions whoosh by. Sure, they complain about it over drinks with coworkers and in one-on-ones, but they don’t say anything when it counts.
 
 We’re better than this. As software engineers [and designers](https://vimeo.com/68470326), we’re in the room when decisions are shaped, and the *only* ones who have the power to actually execute them. It’s our responsibility not to forsake the people who trust the apps we make with our silence. To stand up and refuse to implement unethical systems and [dark patterns](http://darkpatterns.org). And even more, to educate stakeholders on the real human costs of their business decisions: the [time, attention](https://www.youtube.com/watch?v=uOgHE5nEq04), money, and trust of their customers.

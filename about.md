@@ -6,7 +6,7 @@ layout: page
 
 # About
 
-![Photo of Matthew Bischoff](http://matthewbischoff.com/uploads/matthew-bw.jpeg)
+![Photo of Matthew Bischoff](http://matthewbischoff.com/uploads/matt-in-the-nomad-smiling.jpg)
 
 I’m Matthew Bischoff. I run [Lickability](http://lickability.com), a small software company I founded with my best friends. I’m [nonbinary](https://en.wikipedia.org/wiki/Non-binary_gender) and use [they/them pronouns](https://pronoun.is/they).
 

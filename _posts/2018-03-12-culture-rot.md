@@ -13,6 +13,8 @@ Twitter. I’m [@mb](https://twitter.com/mb) there. Thanks to [Michael Liberator
 
 <hr>
 
+<!-- more -->
+
 I want to tell you about a number that scares me: 404. That infamous code you see when that internet thing you meant to visit is gone or it moved and no one bothered to add a redirect or maybe it never existed at all.
 
 I’m curious though: **how many of you have ever made something you’re proud of on the Web?**

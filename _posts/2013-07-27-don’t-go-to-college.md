@@ -15,6 +15,8 @@ I dropped out of college last year, and I've never been happier. I'm a full time
 
 I have no idea why I was invited here today, but I figure with the 5 minutes I've been given, I'll give you as much value as I can. If you don't agree with what I say, that's perfectly okay. It's just a different perspective.
 
+<!-- more -->
+
 A few years ago, when I was looking to attend a college, I knew exactly what I wanted to study: Human-Computer Interaction. NJIT was one of the 10 schools in the country that had an undergraduate program in HCI. I lived in South Jersey, NJIT gave me enough money that I could come here for free, and it meant I could be close to New York.
 
 I attended NJIT for 2 years. I can honestly say that classes here taught me almost nothing of value, but that's not because NJIT is a bad school. It's due to a fundamental problem in the way the world works: no one cares about you except you. The curriculums will always be outdated, there will always be terrible professors, and your fellow students won't be much better. Sure, college is a great way to make friends, but it's not a great way to learn. College can't teach you because in reality all learning is self teaching.

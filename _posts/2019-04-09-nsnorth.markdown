@@ -20,9 +20,7 @@ Later this month, I’ll be heading north to speak at (the appropriately named) 
 
 My talk is called _Growing Pains_ and it’s about the things that break as your software team or [company](https://lickability.com) gets bigger and what you can do to make that a less painful process. If you’d like to hear more about the conference and my experience on the topic, [Dan](https://twitter.com/_danbyers) and [Phil](https://twitter.com/philippec) interviewed me on the [NSNorth Podcast](https://itunes.apple.com/us/podcast/the-nsnorth-podcast/id599959952?mt=2). Give it a listen below or wherever you get your podcasts:
 
-<center>
-<audio src="http://casgrain.net/podcasts/NSNorth_57-Matthew_Bischoff.mp3" controls preload></audio>
-</center>
+<audio class="center" src="http://casgrain.net/podcasts/NSNorth_57-Matthew_Bischoff.mp3" controls preload></audio>
 
 <hr>
 

@@ -25,7 +25,7 @@ layout: null
       {% if post.tags %}"tags":  [ "{{post.tags | join: '","'}}" ],{% endif %}
       {% if post.categories %}"categories":  [ "{{post.categories | join: '","'}}" ],{% endif %}
       {% if post.link %}"external_url": "{{ post.link }}",{% endif %}
-      {% if post.colour %}"colour": "{{ post.colour }}",{% endif %}
+      {% if post.color %}"color": "{{ post.color }}",{% endif %}
       {% if post.format %}"format": "{{ post.format }}",{% endif %}
       "date_published": "{{ post.date | date_to_xmlschema }}",
       "date_modified": "{% if post.sitemap.lastmod == null %}{{ post.date | date_to_xmlschema }}{% else %}{{ post.sitemap.lastmod | date_to_xmlschema }}{% endif %}"

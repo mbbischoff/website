@@ -107,13 +107,13 @@ const linkPostHTML = (postData) => {
 }
 
 const tweetPostHTML = (postData) => {
-  const colour = postData.colour;
+  const color = postData.color;
   const content = postData.content_html;
 
   return `
     <div class="short-form-post">
-      <div class="colour-${colour}"></div>
-      <div class="colour-dark-${colour}">
+      <div class="color-${color}"></div>
+      <div class="color-dark-${color}">
         ${dateHTML(postData)}
         ${content}
       </div>

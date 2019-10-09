@@ -97,11 +97,13 @@ const longFormPostHTML = (postData) => {
 const linkPostHTML = (postData) => {
   const link = postData.external_url;
   const title = postData.title;
+  const content = postData.content_html;
 
   return `
     <div class="link-post">
       ${dateHTML(postData)}
       <h2><a href="${link}" target="_blank">${title}</a></h2>
+      ${content}
     </div>
   `
 }

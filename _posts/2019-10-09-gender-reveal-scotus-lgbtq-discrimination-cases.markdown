@@ -5,15 +5,14 @@ categories:
 - culture
 tags:
 - gender
-- trans
-- podast
+- transgender
+- podcast
 image: gender-reveal.jpeg
 description: 'Whether you need some context on yesterday’s Supreme Court cases, some
   hope for the future, or a reminder that trans people are people: go listen to the
   latest episode of one of my new favorite podcasts, Gender Reveal, hosted by Molly
   Woodstock.'
-format: tweet
-color: cyan
+format: link
 ---
 
 Whether you need some context on yesterday’s Supreme Court cases, some hope for the future, or a reminder that trans people are people: go listen to the [latest episode](http://gender.libsyn.com/bonus-scotus-lgbtq-discrimination-cases) of one of my new favorite podcasts, Gender Reveal, hosted by Molly Woodstock.

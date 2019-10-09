@@ -1,5 +1,6 @@
 ---
 title: Culture Rot
+date: 2018-03-12 00:00:00 -04:00
 layout: post
 description: A talk at the Difficult to Name reading series about the disappearing
   web and what we can do to stop it.

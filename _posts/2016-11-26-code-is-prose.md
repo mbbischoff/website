@@ -1,5 +1,6 @@
 ---
 title: Code is Prose
+date: 2016-11-26 00:00:00 -05:00
 layout: post
 description: Great code reads like great prose. It is succinct, expressive, and clear
   the first time you read it.

@@ -1,5 +1,6 @@
 ---
 title: Once More With Feeling
+date: 2014-12-01 00:00:00 -05:00
 layout: post
 ---
 

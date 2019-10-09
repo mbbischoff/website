@@ -1,5 +1,6 @@
 ---
 title: Impossible Ideas
+date: 2019-01-15 00:00:00 -05:00
 layout: post
 description: The talk I show to every software engineer who says it’s impossible to
   build something.

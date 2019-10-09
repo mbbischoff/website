@@ -11,7 +11,7 @@ collections:
 permalink: "/:title/"
 url: https://matthewbischoff.com
 paginate: 5
-baseurl:
+baseurl: 
 author:
   name: Matthew Bischoff
   url: https://twitter.com/mb
@@ -39,8 +39,12 @@ sass:
   sass_dir: _sass
   style: compressed
 repository: mattbischoff/matthewbischoff.com
-include: ['_category']
+include:
+- _category
 text_content:
   header_title: Hey, I’m Matthew Bischoff.
-  subtitle: "I write & speak about software and the people that build it. I’ve made apps at NYTimes, Tumblr, and now run my own studio, Lickability. I obsess about cocktails, musical theater, and podcasts. Oh yeah, and I was on Jeopardy!"
-  short_subtitle: "I write & speak about software and the people that build it. I’ve made apps at NYTimes, Tumblr, and now run my own studio, Lickability"
+  subtitle: I write & speak about software and the people that build it. I’ve made
+    apps at NYTimes, Tumblr, and now run my own studio, Lickability. I obsess about
+    cocktails, musical theater, and podcasts. Oh yeah, and I was on Jeopardy!
+  short_subtitle: I write & speak about software and the people that build it. I’ve
+    made apps at NYTimes, Tumblr, and now run my own studio, Lickability

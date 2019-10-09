@@ -1,5 +1,5 @@
 ---
-title: "Now"
+title: Now
 permalink: "/now/"
 layout: page
 ---

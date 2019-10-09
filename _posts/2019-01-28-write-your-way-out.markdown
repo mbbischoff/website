@@ -1,5 +1,6 @@
 ---
 title: Write Your Way Out
+date: 2019-01-28 00:00:00 -05:00
 categories:
 - talks
 tags:

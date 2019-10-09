@@ -9,7 +9,6 @@ All posts are markdown files and they go inside the **`_posts`** folder. The tit
 
 Front matter is the meta-data that goes at the beginning of each post.
 
-
 | | |
 | --- | --- | --- |
 | `title` | required (string) | Determines the header of the post on the home page and on the show page, as well as the name that will appear when sharing the post on social media. |

@@ -16,4 +16,4 @@ format: link
 link: http://gender.libsyn.com/bonus-scotus-lgbtq-discrimination-cases
 ---
 
-Whether you need some context on yesterday’s Supreme Court cases, some hope for the future, or a reminder that trans people are people: go listen to the latest episode of one of my new favorite podcasts, [Gender Reveal(https://www.genderpodcast.com), hosted by Molly Woodstock.
+Whether you need some context on yesterday’s Supreme Court cases, some hope for the future, or a reminder that trans people are people: go listen to the latest episode of one of my new favorite podcasts, [Gender Reveal](https://www.genderpodcast.com), hosted by Molly Woodstock.

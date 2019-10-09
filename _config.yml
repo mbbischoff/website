@@ -13,15 +13,11 @@ defaults:
     path: ''
     type: posts
   values:
-    title: ''
-    permalink: ''
     layout: post
     image: 
     description: ''
     format: post
     color: 
-    categories: []
-    tags: []
 permalink: "/:title/"
 url: https://matthewbischoff.com
 paginate: 5

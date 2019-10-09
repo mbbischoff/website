@@ -17,7 +17,7 @@ Front matter is the meta-data that goes at the beginning of each post.
 | `image` | optional (string) | File name that determines the image that will appear when sharing the post on social media. Example: release-notes-2016.jpg |
 | `description` | optional (string) | Determines the description text that will when sharing the post on social media. |
 | `format` | optional (string) | Can be set to post (default), link, or tweet. Determines the layout type of the post. |
-| `colour` | conditionally required (string) | If the post is a tweet, it must be set to one of the following: red, purple, violet, blue, cyan, green~. Determines the background colour of the tweet |
+| `color` | conditionally required (string) | If the post is a tweet, it must be set to one of the following: red, purple, violet, blue, cyan, green~. Determines the background color of the tweet |
 | `categories` | optional (array) | Determines the categories the post will appear under. Each category must be already present in the _category folder (see “Creating a category”) |
 | `tags` | optional (array) | Determines the tags in the HTML meta data that is used by Facebook. |
 

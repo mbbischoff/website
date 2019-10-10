@@ -4,7 +4,7 @@ timezone: America/New_York
 collections:
   appearances:
     title: Appearances
-    output: true
+    output: false
   posts:
     title: Posts
     output: true

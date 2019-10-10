@@ -4,13 +4,13 @@ timezone: America/New_York
 collections:
   appearances:
     title: Appearances
-    output: true
+    output: false
   posts:
     title: Posts
     output: true
   talks:
     title: Talks
-    output: true
+    output: false
   uploads:
     title: Uploads
     output: true

@@ -1,6 +1,11 @@
 ---
 title: The Best of Times
 date: 2013-10-05 00:00:00 -04:00
+categories:
+- longer
+tags:
+- me
+- nytimes
 layout: post
 ---
 

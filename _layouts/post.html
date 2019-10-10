@@ -4,10 +4,10 @@ layout: default
 
  <article class="post">
           {% if page.format == "tweet" %}
-            {% include post_types/short.html %}
+            {% include /post_types/short.html %}
           {% elsif page.format == "link" %}
-            {% include post_types/link.html %}
+            {% include /post_types/link.html %}
           {% else %}
-            {% include post_types/long-expanded.html %}
+            {% include /post_types/long-expanded.html %}
           {% endif%}
 </article>

@@ -7,6 +7,8 @@ categories:
 tags:
 - talks
 - writing
+- tech
+- release notes
 image: release-notes-2016.jpg
 description: A talk I gave at Release Notes 2016 about writing and how important it
   is for programmers, product managers, and owners of software companies.

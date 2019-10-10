@@ -7,16 +7,16 @@ layout: default
       <div class="short-form-post">
         <div class="color-{{ post.color }}"></div>
         <div class="color-dark-{{ post.color }}">
-          {% include datetime.html %}
-          {{ post.content }}
+            <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date: "%B %-d, %Y" }}</time>
+          {{ page.content }}
         </div>
       </div>
   {% elsif page.format == "link" %}
       <div class="short-form-post">
         <div class="color-{{ post.color }}"></div>
         <div class="color-dark-{{ post.color }}">
-          {% include datetime.html %}
-          {{ post.content }}
+          <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date: "%B %-d, %Y" }}</time>
+          {{ page.content }}
         </div>
       </div>
   {% else %}

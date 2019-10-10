@@ -28,7 +28,7 @@ author:
   email: mb@matthewbischoff.com
   twitter: mb
 logo: "/uploads/matthew.jpg"
-version: 0.4
+version: 1
 license:
   text: Some rights reserved
   url: http://creativecommons.org/licenses/by-sa/4.0/
@@ -57,4 +57,4 @@ text_content:
     apps at NYTimes, Tumblr, and now run my own studio, Lickability. I obsess about
     cocktails, musical theater, and podcasts. Oh yeah, and I was on Jeopardy!
   short_subtitle: I write & speak about software and the people that build it. I’ve
-    made apps at NYTimes, Tumblr, and now run my own studio, Lickability
+    made apps at NYTimes, Tumblr, and now run my own studio, Lickability.

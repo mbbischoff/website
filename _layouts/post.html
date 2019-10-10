@@ -4,9 +4,19 @@ layout: default
 
 <article class="post">
   {% if page.format == "tweet" %}
-      {% include /post_types/short.html post=page %}
-  {% elsif page.format == "link" %}
-       {% include /post_types/link.html post=page %}
+<div class="short-form-post">
+  <div class="color-{{ page.color }}"></div>
+  <div class="color-dark-{{ page.color }}">
+  {% include datetime.html date=page.date %}
+    {{ page.content }}
+  </div>
+</div>  {% elsif page.format == "link" %}
+<div class="link-post">
+  {% include datetime.html date=page.date %}
+  <h2><a href="{{ page.link }}" target="_blank">{{ page.title }}</a></h2>
+
+  {{ post.content }}
+</div>
   {% else %}
       {% include /post_types/long-expanded.html %}
   {% endif%}

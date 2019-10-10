@@ -3,6 +3,7 @@ title: NSNorth
 date: 2019-04-09 00:00:00 -04:00
 categories:
 - longer
+- talks
 - tech
 - management
 tags:

@@ -6,6 +6,7 @@ categories:
 tags:
 - work
 - advice
+- startups
 layout: post
 ---
 

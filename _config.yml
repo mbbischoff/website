@@ -2,8 +2,8 @@
 title: Matthew Bischoff
 timezone: America/New_York
 collections:
-  podcasts:
-    title: Podcasts
+  appearances:
+    title: Appearances
     output: true
   posts:
     title: Posts

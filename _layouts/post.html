@@ -12,11 +12,7 @@ layout: default
         </div>
       </div>
   {% elsif page.format == "link" %}
-        <div class="link-post">
-          <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date: "%B %-d, %Y" }}</time>
-          <h2><a href="{{ page.link }}" target="_blank">{{ page.title }}</a></h2>
-          {{ page.content }}
-        </div>
+       {% include /post_types/link.html post=page %}
   {% else %}
       {% include /post_types/long-expanded.html %}
   {% endif%}

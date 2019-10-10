@@ -4,13 +4,7 @@ layout: default
 
 <article class="post">
   {% if page.format == "tweet" %}
-      <div class="short-form-post">
-        <div class="color-{{ page.color }}"></div>
-        <div class="color-dark-{{ page.color }}">
-            <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date: "%B %-d, %Y" }}</time>
-          {{ page.content }}
-        </div>
-      </div>
+      {% include /post_types/short.html post=page %}
   {% elsif page.format == "link" %}
        {% include /post_types/link.html post=page %}
   {% else %}

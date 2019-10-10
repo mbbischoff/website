@@ -2,12 +2,24 @@
 layout: default
 ---
 
- <article class="post">
-          {% if page.format == "tweet" %}
-            {% include /post_types/short.html %}
-          {% elsif page.format == "link" %}
-            {% include /post_types/link.html %}
-          {% else %}
-            {% include /post_types/long-expanded.html %}
-          {% endif%}
+<article class="post">
+  {% if page.format == "tweet" %}
+      <div class="short-form-post">
+        <div class="color-{{ post.color }}"></div>
+        <div class="color-dark-{{ post.color }}">
+          {% include datetime.html %}
+          {{ post.content }}
+        </div>
+      </div>
+  {% elsif page.format == "link" %}
+      <div class="short-form-post">
+        <div class="color-{{ post.color }}"></div>
+        <div class="color-dark-{{ post.color }}">
+          {% include datetime.html %}
+          {{ post.content }}
+        </div>
+      </div>
+  {% else %}
+      {% include /post_types/long-expanded.html %}
+  {% endif%}
 </article>

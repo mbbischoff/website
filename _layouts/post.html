@@ -5,16 +5,16 @@ layout: default
 <article class="post">
   {% if page.format == "tweet" %}
       <div class="short-form-post">
-        <div class="color-{{ post.color }}"></div>
-        <div class="color-dark-{{ post.color }}">
+        <div class="color-{{ page.color }}"></div>
+        <div class="color-dark-{{ page.color }}">
             <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date: "%B %-d, %Y" }}</time>
           {{ page.content }}
         </div>
       </div>
   {% elsif page.format == "link" %}
       <div class="short-form-post">
-        <div class="color-{{ post.color }}"></div>
-        <div class="color-dark-{{ post.color }}">
+        <div class="color-{{ page.color }}"></div>
+        <div class="color-dark-{{ page.color }}">
           <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date: "%B %-d, %Y" }}</time>
           {{ page.content }}
         </div>

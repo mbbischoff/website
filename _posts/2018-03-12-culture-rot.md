@@ -1,10 +1,20 @@
 ---
 title: Culture Rot
 date: 2018-03-12 00:00:00 -04:00
-layout: post
+categories:
+- culture
+- tech
+- talks
+- longer
+tags:
+- '404'
+- internet
+- tech
+- talks
+image: dtn-culture-rot.jpg
 description: A talk at the Difficult to Name reading series about the disappearing
   web and what we can do to stop it.
-image: dtn-culture-rot.jpg
+layout: post
 ---
 
 This weekend, I spoke to the audience of the [*Difficult to Name* reading series](http://www.ryansartor.com) at [Study Hall](https://studyhall.xyz) in Brooklyn. My talk was about the internet, my fears about building and sustaining culture there, and what we might be able to do about it. Watch the talk or read my prepared remarks below. And let me know what you think on

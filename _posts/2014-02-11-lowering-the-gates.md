@@ -1,6 +1,15 @@
 ---
 title: Lowering the Gates
 date: 2014-02-11 00:00:00 -05:00
+categories:
+- tech
+- culture
+- longer
+tags:
+- nytimes
+- tech
+- paywall
+- strategy
 layout: post
 ---
 

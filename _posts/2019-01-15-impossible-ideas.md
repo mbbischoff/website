@@ -1,10 +1,17 @@
 ---
 title: Impossible Ideas
 date: 2019-01-15 00:00:00 -05:00
-layout: post
+categories:
+- culture
+- longer
+tags:
+- creativity
+- talks
+- ideas
+image: cleese.jpg
 description: The talk I show to every software engineer who says it’s impossible to
   build something.
-image: cleese.jpg
+layout: post
 ---
 
 ![John Cleese](/uploads/cleese.jpg)

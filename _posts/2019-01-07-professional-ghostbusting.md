@@ -1,6 +1,14 @@
 ---
 title: Professional Ghostbusting
 date: 2019-01-07 00:00:00 -05:00
+categories:
+- longer
+- culture
+- tech
+tags:
+- work
+- email
+- advice
 image: ghostbusters.jpg
 description: Why do people stop answering your emails at work, and how can you stop
   it?
@@ -11,7 +19,7 @@ layout: post
 
 It’s scary how much email I get at work. Despite [Slack](https://slack.com "Slack")’s best efforts, much of the business world still “runs on email.” In 2019, the inboxes in my life are brimming with messages from new leads, existing clients, potential vendors, folks trying to network or ask for advice, and lots of transactional bullshit: newsletters, password resets, and spam. I’m sure your inboxes feel just as overwhelming. So it’s no surprise that folks (me included) sometimes get behind on responding to their email.
 
-But today, I’m writing about a particularly pernicious form of email non-response and how to stop it: **professional ghosting** . The mid-2000s millennialism “[ghosting](https://en.wikipedia.org/wiki/Ghosting_(relationships))” refers to abruptly and intentionally cutting off contact with someone you’re dating without warning or justification. You stop responding to their flirty texts and date asks and don’t tell them why. In fact, you don’t tell them anything. You’re a ghost. The word gained popularity in 2015 along with the rise of Tinder and a bevy of other dating apps where “[leaving people on read](https://www.theguardian.com/culture/2017/mar/17/i-know-theyve-seen-my-message-so-why-havent-they-replied)” has become commonplace. Professional ghosting is basically the same thing…except it’s at work, so there might be money involved.
+But today, I’m writing about a particularly pernicious form of email non-response and how to stop it: **professional ghosting**. The mid-2000s millennialism “[ghosting](https://en.wikipedia.org/wiki/Ghosting_(relationships))” refers to abruptly and intentionally cutting off contact with someone you’re dating without warning or justification. You stop responding to their flirty texts and date asks and don’t tell them why. In fact, you don’t tell them anything. You’re a ghost. The word gained popularity in 2015 along with the rise of Tinder and a bevy of other dating apps where “[leaving people on read](https://www.theguardian.com/culture/2017/mar/17/i-know-theyve-seen-my-message-so-why-havent-they-replied)” has become commonplace. Professional ghosting is basically the same thing…except it’s at work, so there might be money involved.
 
 <!-- more -->
 

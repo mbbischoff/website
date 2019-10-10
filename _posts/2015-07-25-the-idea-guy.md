@@ -1,6 +1,13 @@
 ---
 title: The Idea Guy
 date: 2015-07-25 00:00:00 -04:00
+categories:
+- tech
+- longer
+tags:
+- work
+- advice
+- startups
 layout: post
 ---
 

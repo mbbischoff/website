@@ -1,6 +1,13 @@
 ---
 title: Software Criticism
 date: 2013-12-09 00:00:00 -05:00
+categories:
+- tech
+- culture
+- longer
+tags:
+- nytimes
+- criticism
 layout: post
 ---
 

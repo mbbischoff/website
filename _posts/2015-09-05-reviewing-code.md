@@ -1,6 +1,15 @@
 ---
 title: 'Reviewing Code: A Checklist'
 date: 2015-09-05 00:00:00 -04:00
+categories:
+- longer
+- tech
+tags:
+- code
+- code review
+- programming
+- work
+- advice
 layout: post
 ---
 

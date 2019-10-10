@@ -3,6 +3,7 @@ title: 'Gender Reveal: SCOTUS LGBTQ Discrimination Cases'
 date: 2019-10-09 18:05:00 -04:00
 categories:
 - culture
+- shorter
 tags:
 - gender
 - transgender

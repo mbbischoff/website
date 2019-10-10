@@ -12,7 +12,8 @@ layout: default
       </time> 
       {{ page.content }}
     </div>
-  </div>  {% elsif page.format == "link" %}
+  </div>  
+  {% elsif page.format == "link" %}
   <div class="link-post">
     <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
       <a href="{{ page.link }}">{{ post.date | date: "%B %-d, %Y" }}</a>

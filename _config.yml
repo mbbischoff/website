@@ -64,3 +64,5 @@ text_content:
     cocktails, musical theater, and podcasts. Oh yeah, and I was on Jeopardy!
   short_subtitle: I write & speak about software and the people that build it. I’ve
     made apps at NYTimes, Tumblr, and now run my own studio, Lickability.
+feed:
+  path: feed/

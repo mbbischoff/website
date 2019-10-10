@@ -4,6 +4,12 @@ date: 2019-02-24 00:00:00 -05:00
 categories:
 - tech
 - management
+tags:
+- work
+- management
+- hiring
+- firing
+- advice
 image: firepit.jpg
 description: Many managers think a lot about how they treat their team, but few have
   a philosophy about those that leave it.

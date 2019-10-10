@@ -4,25 +4,10 @@ layout: default
 
 <article class="post">
   {% if page.format == "tweet" %}
-  <div class="short-form-post">
-    <div class="color-{{ page.color }}"></div>
-    <div class="color-dark-{{ page.color }}">
-      <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
-        <a href="{{ page.link }}">{{ page.date | date: "%B %-d, %Y" }}</a>
-      </time> 
-      {{ page.content }}
-    </div>
-  </div>  
+      {% include /post_types/short.html post=page %}
   {% elsif page.format == "link" %}
-  <div class="link-post">
-    <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
-      <a href="{{ page.link }}">{{ page.date | date: "%B %-d, %Y" }}</a>
-    </time>   
-    <h2><a href="{{ page.link }}" target="_blank">{{ page.title }}</a></h2>
-
-    {{ page.content }}
-  </div>
+       {% include /post_types/link.html post=page %}
   {% else %}
-  {% include /post_types/long-expanded.html %}
+      {% include /post_types/long-expanded.html %}
   {% endif%}
 </article>

@@ -9,7 +9,7 @@ tags:
 - journalism
 - internet
 - hyperlinks
-description: Journalists at the New York Times and its own standards editor say that
+description: Journalists at The New York Times and its own standards editor say that
   getting continually dragged by other journalists for not giving credit is embarrassing.
 format: link
 link: https://www.vice.com/en_us/article/ywaeg5/at-the-times-a-hesitance-to-hyperlink

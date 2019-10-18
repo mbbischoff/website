@@ -4,6 +4,7 @@ date: 2019-10-18 11:03:00 -04:00
 categories:
 - tech
 - culture
+- shorter
 tags:
 - nytimes
 - journalism

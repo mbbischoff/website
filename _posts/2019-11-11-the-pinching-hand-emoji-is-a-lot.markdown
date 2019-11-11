@@ -15,6 +15,6 @@ format: link
 link: https://blog.emojipedia.org/the-pinching-hand-emoji-is-a-lot/
 ---
 
-> While this is a very real way people might use the pinching gesture in both the physical world and in the emoji world, this societal obsession with penis size can be harmful. Masculinity is not defined by penis size, or even having a penis at all in the case of many trans men or nonbinary individuals.
+> While this is a very real way people might use the pinching gesture 🤏 in both the physical world and in the emoji world, this societal obsession with penis size can be harmful. Masculinity is not defined by penis size, or even having a penis at all in the case of many trans men or nonbinary individuals.
 
 When did Emojipedia get woke?

@@ -19,4 +19,4 @@ link: https://www.theatlantic.com/news/archive/2019/11/introducing-new-look-atla
 
 > It is the most dramatic new look for our magazine in its 162-year history, and one that, we hope, reflects boldness, elegance, and urgency. The redesign of the print magazine, as well as the new look of our website, was led by Peter Mendelsund, our creative director. His design work, carried out in collaboration with many teams across our magazine, is also reflected in the new Atlantic app that launched today.
 
-Really excited about this bold new look for one of my favorite publications, and honored to have gotten to work on the development of the app at [Lickability](https://lickability.com).
+Really excited about this bold new look for one of my favorite publications, and honored to have gotten to work on the development of [the app](https://apps.apple.com/app/id397599894) at [Lickability](https://lickability.com).

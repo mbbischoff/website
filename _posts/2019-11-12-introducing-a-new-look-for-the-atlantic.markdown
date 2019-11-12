@@ -1,5 +1,5 @@
 ---
-title: Introducing a New Look for The Atlantic
+title: A New Look for The Atlantic
 date: 2019-11-12 14:58:00 -05:00
 categories:
 - tech

@@ -4,6 +4,7 @@ date: 2019-11-12 14:58:00 -05:00
 categories:
 - tech
 - culture
+- shorter
 tags:
 - atlantic
 - news

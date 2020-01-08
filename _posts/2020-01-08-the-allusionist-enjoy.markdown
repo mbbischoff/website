@@ -3,6 +3,7 @@ title: 'The Allusionist: Enjoy'
 date: 2020-01-08 13:51:00 -05:00
 categories:
 - culture
+- shorter
 tags:
 - podcast
 - language

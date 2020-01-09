@@ -76,7 +76,8 @@ header {
     align-items: start;
 
     -webkit-overflow-scrolling: touch;
-    &::-webkit-scrollbar { width: 0 !important; }
+    &::-webkit-scrollbar { display: none; !important; }
+    
     overflow: -moz-scrollbars-none;
     -ms-overflow-style: none;
 

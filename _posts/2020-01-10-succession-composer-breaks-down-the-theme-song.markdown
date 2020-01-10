@@ -10,6 +10,8 @@ tags:
 - music
 - motif
 image: succession-theme-britell.jpg
+format: link
+link: https://www.youtube.com/watch?v=X0WzqanwlG0
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X0WzqanwlG0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

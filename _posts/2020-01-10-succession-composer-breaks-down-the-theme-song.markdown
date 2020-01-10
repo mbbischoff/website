@@ -1,5 +1,5 @@
 ---
-title: Succession Composer Breaks Down the Theme Song
+title: Succession Composer Breaks Down Music
 date: 2020-01-10 16:21:00 -05:00
 categories:
 - shorter

@@ -1,5 +1,5 @@
 ---
-title: Succession Composer Breaks Down Music
+title: Succession Composer Breaks Down the Show’s Score
 date: 2020-01-10 16:21:00 -05:00
 categories:
 - shorter

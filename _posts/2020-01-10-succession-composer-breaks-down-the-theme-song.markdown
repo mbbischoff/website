@@ -18,4 +18,4 @@ link: https://www.youtube.com/watch?v=X0WzqanwlG0
 
 A great video from *Vanity Fair* with [Nicholas Britell](https://www.nicholasbritell.com) who wrote the music for HBO’s [Succession](https://www.hbo.com/succession). This type of piece where you can watch a creator actually break down the _why_ behind their art is one of the most inspiring types of media for me. Seeing brilliant people work to elucidate their creations never gets old. 
 
-*See also: [Demi’s alternate lyrics to the Succession theme](https://www.youtube.com/watch?v=e-6K2CjJ6dk).*
+*See also: [Demi Adejuyigbe’s alternate lyrics to the Succession theme](https://www.youtube.com/watch?v=e-6K2CjJ6dk).*

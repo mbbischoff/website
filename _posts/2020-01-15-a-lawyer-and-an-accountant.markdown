@@ -1,7 +1,7 @@
 ---
 title: A Lawyer and an Accountant
 date: 2020-01-15 15:30:00 -05:00
-image: C1CD3345-9AEC-4706-A94E-D80514D1405F.jpg
+image: C1CD3345-9AEC-4706-A94E-D80514D1405F.jpeg
 format: link
 link: https://lickability.com/blog/a-lawyer-and-an-accountant/
 ---

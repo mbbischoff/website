@@ -14,6 +14,6 @@ format: tweet
 color: blue
 ---
 
-Hey! Do you love playing board games and tabletop games? Do you want to help beta test a new iOS app from Lickability and send us your feedback?
+Hey! Do you love playing board games and tabletop games? Do you want to help beta test a new iOS app from [Lickability](https://lickability.com) and send us your feedback?
 
 [Sign up here!](https://testflight.apple.com/join/hQHePXvu) We just opened up 75 more slots. 👅 

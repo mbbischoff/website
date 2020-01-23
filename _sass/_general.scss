@@ -12,7 +12,7 @@ a {
   }
 }
 
-blockquote, p, ul {
+p, ul {
   font-size: 1.2em;
   line-height: 30px;
   font-weight: 300;
@@ -25,8 +25,7 @@ blockquote, p, ul {
 
 blockquote {
   border-left: 1px solid $text-blue;
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
+  padding: 0 10px;
 }
 
 h1, h2 {

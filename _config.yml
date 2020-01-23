@@ -18,6 +18,7 @@ defaults:
     description: ''
     format: post
     color: 
+    link: 
 permalink: "/:title/"
 url: https://matthewbischoff.com
 paginate: 5

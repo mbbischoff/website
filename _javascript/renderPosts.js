@@ -102,7 +102,7 @@ const linkPostHTML = (postData) => {
   return `
     <div class="link-post">
       ${dateHTML(postData)}
-      <h2><a href="${link}" target="_blank">${title} →</a></h2>
+      <h2><a href="${link}" target="_blank">${title}&nbsp;→</a></h2>
       ${content}
     </div>
   `

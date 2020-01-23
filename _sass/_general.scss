@@ -12,21 +12,15 @@ a {
   }
 }
 
-p, ul {
-  font-size: 18px;
-  line-height: 1.5;
+blockquote, p, ul {
+  font-size: 1.2em;
+  line-height: 30px;
   font-weight: 300;
-  
+
   @media (max-width: $max-mobile-width) {
     font-size: 17px;
     line-height: 27px;
   }
-}
-
-blockquote {
-  margin: 1em;
-  padding: 0em 0.5em;
-  border-left: 1px solid $grey-date;
 }
 
 h1, h2 {

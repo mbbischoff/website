@@ -53,7 +53,7 @@ repository: mattbischoff/matthewbischoff.com
 include:
 - _category
 text_content:
-  header_title: Hey, I’m Matthew Bischoff
+  header_title: Hey, I’m Matthew Bischoff.
   subtitle: I write & speak about software and the people that build it. I’ve made
     apps at NYTimes, Tumblr, and now run my own studio, Lickability. I obsess about
     cocktails, musical theater, and podcasts. Oh yeah, and I was on Jeopardy!

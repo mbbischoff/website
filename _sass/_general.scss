@@ -13,18 +13,20 @@ a {
 }
 
 blockquote, p, ul {
-  // font-size: 1.2em;
-  // line-height: 30px;
-  // font-weight: 300;
+  font-size: 1.2em;
+  line-height: 30px;
+  font-weight: 300;
   
-  border-left: 1px solid $dark-blue;
+  @media (max-width: $max-mobile-width) {
+    font-size: 17px;
+    line-height: 27px;
+  }
+}
+
+blockquote {
+  border-left: 1px solid rgba(1, 1, 1, 0.5  );
   margin: 1.5em 10px;
   padding: 0.5em 10px;
-
-  // @media (max-width: $max-mobile-width) {
-  //   font-size: 17px;
-  //   line-height: 27px;
-  // }
 }
 
 h1, h2 {

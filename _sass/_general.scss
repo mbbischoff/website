@@ -1,4 +1,5 @@
 * {
+  font-size: 18px;
   color: $text-white;
   font-family: 'proxima-nova', 'sans-serif';
 }
@@ -13,7 +14,7 @@ a {
 }
 
 p, ul {
-  font-size: 1.2em;
+  font-size: 1em;
   line-height: 30px;
   font-weight: 300;
   
@@ -31,7 +32,7 @@ blockquote {
 h1, h2 {
   color: $text-blue;
   font-weight: 700;
-  font-size: 2.2em;
+  font-size: 2em;
 }
 
 body {

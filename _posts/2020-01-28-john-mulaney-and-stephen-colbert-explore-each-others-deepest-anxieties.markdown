@@ -1,6 +1,9 @@
 ---
 title: John Mulaney & Stephen Colbert On Anxiety
 date: 2020-01-28 10:38:00 -05:00
+categories:
+- shorter
+- culture
 tags:
 - john mulaney
 - stephen colber
@@ -8,6 +11,7 @@ tags:
 - anxiety
 format: tweet
 color: violet
+link: https://www.youtube.com/watch?v=zGf6CGBbWFU
 ---
 
 

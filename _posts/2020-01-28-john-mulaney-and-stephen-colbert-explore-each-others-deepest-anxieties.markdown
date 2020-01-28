@@ -9,6 +9,7 @@ tags:
 - stephen colber
 - tv
 - anxiety
+image: john-mulaney-stephen-colbert.jpg
 format: tweet
 color: violet
 link: https://www.youtube.com/watch?v=zGf6CGBbWFU

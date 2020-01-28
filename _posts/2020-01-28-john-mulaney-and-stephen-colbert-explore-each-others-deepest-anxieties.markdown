@@ -1,5 +1,5 @@
 ---
-title: John Mulaney & Stephen Colbert On Anxiety
+title: John Mulaney & Colbert On Anxiety
 date: 2020-01-28 10:38:00 -05:00
 categories:
 - shorter
@@ -15,7 +15,6 @@ format: tweet
 color: violet
 link: https://www.youtube.com/watch?v=zGf6CGBbWFU
 ---
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zGf6CGBbWFU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

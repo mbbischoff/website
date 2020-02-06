@@ -54,7 +54,9 @@ include:
 - _category
 text_content:
   header_title: Hi, I’m Matthew Bischoff
-  subtitle: I write about technology, culture, and management. I’ve made apps at NYTimes,
-    Tumblr, and now run my own studio, Lickability. I’m glad you’re here.
-  short_subtitle: I write about technology, culture, and management. I’ve made apps
-    at NYTimes, Tumblr, and now run my own studio, Lickability. I’m glad you’re here.
+  subtitle: I write about technology, culture, and their intersections. I’ve made
+    apps at NYTimes, Tumblr, and now run my own studio, Lickability. I’m glad you’re
+    here.
+  short_subtitle: I write about technology, culture, and their intersections. I’ve
+    made apps at NYTimes, Tumblr, and now run my own studio, Lickability. I’m glad
+    you’re here.

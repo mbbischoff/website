@@ -22,7 +22,7 @@ In their spare time, Matt enjoys making (and drinking) classic cocktails, going 
 
 ### Apps
 
-Matt’s contributed to the following applications:
+Matt’s contributed design and code to the following applications:
 
 * [Quotebook](http://quotebookapp.com)
 * [Accelerator](http://acceleratorapp.com)

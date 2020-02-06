@@ -37,8 +37,6 @@ Matt’s contributed to the following applications:
 
 ### Talks
 
-|[Growing Pains](https://matthewbischoff.com/nsnorth/)|NSNorth 2019|
-
 * [Growing Pains](https://matthewbischoff.com/nsnorth/) — NSNorth 2019
 * [Culture Rot](https://matthewbischoff.com/culture-rot/) — Difficult to Name Reading Series March 2018
 * [Barely Managing](https://matthewbischoff.com/barely-managing/) — [CocoaLove](https://cocoalove.org) October 2016

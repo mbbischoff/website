@@ -94,4 +94,4 @@ You can find Matt online in various places, by various usernames:
 
 # Colophon
 
-This site is published using Jekyll running on GitHub Pages. The content is managed in Siteleaf and Matt writes in Bear.
+This website is published with [Jekyll](https://jekyllrb.com). It’s hosted in a [Git repository](https://github.com/mattbischoff/matthewbischoff.com) on [GitHub Pages](https://pages.github.com). The posts are written in [Bear](https://bear.app) and managed in [Siteleaf](https://www.siteleaf.com). Headline and body type is set in [Proxima Nova](https://www.google.com/search?client=safari&rls=en&q=Proxima+Nova&ie=UTF-8&oe=UTF-8) by Mark Simonson, Matt’s favorite typeface. Photos of Matt were taken by Ashe of [Rose Glass Photography](https://www.roseglass.pictures).

@@ -8,13 +8,13 @@ layout: page
 
 ![Photo of Matthew Bischoff](https://matthewbischoff.com/uploads/matt-in-the-nomad-smiling.jpg)
 
-Matthew Bischoff is a software designer and developer in New York City. They are a founder and partner at [Lickability](https://lickability.com), an award-winning software studio known for its work for [clients](https://lickability.com/clients) including The Atlantic, The New Yorker, and Meetup, as well as their own [products](https://lickability.com/products).
+Matthew Bischoff (they/them) is a software designer and developer in New York City. They are a founder and partner at [Lickability](https://lickability.com), an award-winning software studio known for its work for [clients](https://lickability.com/clients) including The Atlantic, The New Yorker, Meetup, as well as their own [products](https://lickability.com/products).
 
 Matt began blogging and podcasting in 2003 and got their start in tech as IT Director of [PodcastPeople](https://www.podcastpeople.com/) at age 13. After high school, they studied human-computer interaction at the [New Jersey Institute of Technology](https://www.njit.edu/), before [dropping out](https://matthewbischoff.com/don-t-go-to-college/) to join the mobile engineering team at [The New York Times](https://www.nytimes.com/). They worked at [Tumblr](https://www.tumblr.com/) during its heyday, as an engineer, engineering manager, and product manager.
 
-All the while, Matt and their business partners were working to grow Lickability from a side project into what it is today. In 2015, Matt went full-time at the company, and since then, they’ve worn multiple hats within the company as a product manager, software engineer, sales lead, and office DJ. (There is no such thing as too much Carly Rae Jepsen.)
+All the while, Matt and their business partners were working to grow Lickability from a side project into the ten-person team it is today. In 2015, Matt went full-time at the company, and since then, they’ve worn multiple hats within the company as a product manager, software engineer, sales lead, and office prankster. (They may have added a HomeKit controlled rotating light 🚨.)
 
-Matt is an acclaimed speaker, and has given talks at tech conferences and events around the globe. Their talks focus on technology, culture, management, and their intersections. They write essays on these topics and others on their site at MatthewBischoff.com.
+Matt is a frequent speaker and has given talks at conferences and events around the globe. Their talks focus on technology, culture, management, and their intersections. They write about these topics and others on their [website](https://matthewbischoff.com).
 
 In their spare time, Matt enjoys making (and drinking) classic cocktails, going to the theatre, trawling Wikipedia for interesting facts, and volunteering for [Trans Lifeline](https://www.translifeline.org/). They are proud to be an out member of the bisexual, trans, and nonbinary communities. Oh yeah, and [they were on Jeopardy](https://www.j-archive.com/showgame.php?game_id=3342) once.
 

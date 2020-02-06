@@ -8,7 +8,15 @@ layout: page
 
 ![Photo of Matthew Bischoff](https://matthewbischoff.com/uploads/matt-in-the-nomad-smiling.jpg)
 
-I’m Matthew Bischoff. I run [Lickability](http://lickability.com), a small software company I founded with my best friends. I’m [nonbinary](https://en.wikipedia.org/wiki/Non-binary_gender) and use [they/them pronouns](https://pronoun.is/they).
+Matthew Bischoff software designer and developer in New York City. They are a founder and partner at Lickability, an award-winning software studio known for its work for the Atlantic, the New Yorker, Meetup, Jet, as well as its own products.
+
+Matt started blogging and podcasting in 2003 and first cut their teeth in tech when they took a position as IT director of PodcastPeople at the age 13. After high school, they studied human-computer interaction at the New Jersey Institute of Technology for a year, before dropping out to join the software engineering team at The New York Times. They worked at Tumblr during its heyday, first as an engineer and then as an engineering manager and product manager.
+
+All the while, Matt and their business partners at Lickability were working to grow it from a side project into what it is today. In 2015, Matt went full-time at the company, and since then, they’ve worn multiple hats within the company as a product manager, software engineer, sales lead, and office DJ. (There is no such thing as too much Carly Rae Jepsen.)
+
+Matt is an acclaimed speaker, and has given talks at tech conferences and events around the globe. They especially like to speak about creativity, productivity, and management. They write essays on these topics and others on their site at MatthewBischoff.com.
+
+In their spare time, Matt enjoys making (and drinking) classic cocktails, going to the theatre, trawling Wikipedia for interesting facts, and volunteering for Trans Lifeline. They are proud to be m out member of the bisexual, polyamorous, and nonbinary communities. Oh yeah, and they were on Jeopardy once.
 
 ## Projects
 

@@ -60,7 +60,7 @@ In their spare time, Matt enjoys making (and drinking) classic cocktails, going 
 
 ## Contact
 
-Say hello on Twitter at [@mb](https://twitter.com/mb), email Matt at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com), or call them <a href="tel:+16097060597">+1 (609) 706-0597</a>.
+Say hello on Twitter at [@mb](https://twitter.com/mb), email Matt at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com), or call them at <a href="tel:+16097060597">+1 (609) 706-0597</a>.
 
 ## Elsewhere
 

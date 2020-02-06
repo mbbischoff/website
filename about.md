@@ -16,7 +16,7 @@ All the while, Matt and their business partners at Lickability were working to g
 
 Matt is an acclaimed speaker, and has given talks at tech conferences and events around the globe. They especially like to speak about creativity, productivity, and management. They write essays on these topics and others on their site at MatthewBischoff.com.
 
-In their spare time, Matt enjoys making (and drinking) classic cocktails, going to the theatre, trawling Wikipedia for interesting facts, and volunteering for Trans Lifeline. They are proud to be m out member of the bisexual, polyamorous, and nonbinary communities. Oh yeah, and they were on Jeopardy once.
+In their spare time, Matt enjoys making (and drinking) classic cocktails, going to the theatre, trawling Wikipedia for interesting facts, and volunteering for Trans Lifeline. They are proud to be an out member of the bisexual, trans, and nonbinary communities. Oh yeah, and they were on Jeopardy once.
 
 ## Projects
 

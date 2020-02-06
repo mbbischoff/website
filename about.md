@@ -91,3 +91,7 @@ You can find Matt online in various places, by various usernames:
 * [Reddit](http://www.reddit.com/user/matthewbischoff/)
 * [Kickstarter](https://www.kickstarter.com/profile/matthewbischoff)
 * [Product Hunt](https://www.producthunt.com/@mb)
+
+# Colophon
+
+This site is published using Jekyll running on GitHub Pages. The content is managed in Siteleaf and Matt writes in Bear.

@@ -48,7 +48,7 @@ In their spare time, Matt enjoys making (and drinking) classic cocktails, going 
 * [Enough #23: Quotebook](http://minimalmac.com/enough/#ep23) — 7 April 2011
 * [GodCast: Matthew Bischoff Interview](http://www.godcast.org/categories/behindTheScenes/2005/02/08.html#a349) — 8 February 2005
 
-### Writing
+### Press
 
 * [Not Yet 30 New York: Interview](http://ny30ny.com/matthew-bischoff/) — July 2015
 * [objc.io Issue #10: iCloud and Core Data](http://www.objc.io/issue-10/icloud-core-data.html) — March 2014

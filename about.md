@@ -41,7 +41,7 @@ Matt’s contributed to the following applications:
 * [Culture Rot](https://matthewbischoff.com/culture-rot/) — [Difficult to Name Reading Series](http://www.ryansartor.com) March 2018
 * [Making Meetup](https://speakerdeck.com/matthewbischoff/making-meetup-6-dot-0) — [CocoaHeads NYC](http://www.cocoaheadsnyc.org)
 * [Barely Managing](https://matthewbischoff.com/barely-managing/) — [CocoaLove](https://cocoalove.org) October 2016
-* [Write Your Way Out](https://matthewbischoff.com/write-your-way-out/) September 2016
+* [Write Your Way Out](https://matthewbischoff.com/write-your-way-out/) — [Release Notes](https://2016.releasenotes.tv) September 2016
 * [Software Criticism](https://speakerdeck.com/matthewbischoff/software-criticism) — [iOSoho](http://www.meetup.com/iOSoho/events/145810582/) 2014
 * [Objective-C Sins](https://speakerdeck.com/matthewbischoff/objective-c-sins) — [Flatiron School](http://flatironschool.com) 2013
 * [RFTM: Things You Missed in the HIG](https://matthewbischoff.com/rtfm/) — [SecondConf](http://secondconf.com) September 2013

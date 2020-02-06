@@ -87,6 +87,7 @@ You can find Matt online in various places, by various usernames:
 * [GitHub](https://github.com/mattbischoff)
 * [Tumblr](http://mttb.me)
 * [Goodreads](https://goodreads.com/matthewbischoff)
+* [Letterboxd](https://letterboxd.com/matthewbischoff/)
 * [Reddit](http://www.reddit.com/user/matthewbischoff/)
 * [Kickstarter](https://www.kickstarter.com/profile/matthewbischoff)
 * [Product Hunt](https://www.producthunt.com/@mb)

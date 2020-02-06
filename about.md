@@ -39,6 +39,7 @@ Matt’s contributed to the following applications:
 
 * [Growing Pains](https://matthewbischoff.com/nsnorth/) — [NSNorth](https://nsnorth.ca) 2019
 * [Culture Rot](https://matthewbischoff.com/culture-rot/) — [Difficult to Name Reading Series](http://www.ryansartor.com) March 2018
+* [Making Meetup](https://speakerdeck.com/matthewbischoff/making-meetup-6-dot-0) — [CocoaHeads NYC](http://www.cocoaheadsnyc.org)
 * [Barely Managing](https://matthewbischoff.com/barely-managing/) — [CocoaLove](https://cocoalove.org) October 2016
 * [Write Your Way Out](https://matthewbischoff.com/write-your-way-out/) September 2016
 * [Software Criticism](https://speakerdeck.com/matthewbischoff/software-criticism) — [iOSoho](http://www.meetup.com/iOSoho/events/145810582/) 2014

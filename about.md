@@ -8,7 +8,7 @@ layout: page
 
 ![Photo of Matthew Bischoff](https://matthewbischoff.com/uploads/matt-in-the-nomad-smiling.jpg)
 
-Matthew Bischoff (they/them) is a software designer and developer in New York City. They are a founder and partner at [Lickability](https://lickability.com), an award-winning software studio known for its work for [clients](https://lickability.com/clients) including The Atlantic, The New Yorker, Meetup, as well as their own [products](https://lickability.com/products).
+Matthew Bischoff ([they/them](https://pronoun.is/they)) is a software designer and developer in New York City. They are a founder and partner at [Lickability](https://lickability.com), an award-winning software studio known for its work for [clients](https://lickability.com/clients) including The Atlantic, The New Yorker, Meetup, as well as their own [products](https://lickability.com/products).
 
 Matt began blogging and podcasting in 2003 and got their start in tech as IT Director of [PodcastPeople](https://www.podcastpeople.com/) at age 13. After high school, they studied human-computer interaction at the [New Jersey Institute of Technology](https://www.njit.edu/), before [dropping out](https://matthewbischoff.com/don-t-go-to-college/) to join the mobile engineering team at [The New York Times](https://www.nytimes.com/). They worked at [Tumblr](https://www.tumblr.com/) during its heyday, as an engineer, engineering manager, and product manager.
 

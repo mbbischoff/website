@@ -12,7 +12,7 @@ Matthew Bischoff ([they/them](https://pronoun.is/they)) is a software designer a
 
 Matt began blogging and podcasting in 2003 and got their start in tech as IT Director of [PodcastPeople](https://www.podcastpeople.com/) at age 13. After high school, they studied human-computer interaction at the [New Jersey Institute of Technology](https://www.njit.edu/), before [dropping out](https://matthewbischoff.com/don-t-go-to-college/) to join the mobile team at [The New York Times](https://www.nytimes.com/). They worked at [Tumblr](https://www.tumblr.com/) during its heyday, as an engineer, engineering manager, and product manager.
 
-All the while, Matt and their business partners were working to grow Lickability from a side project into the [ten-person team](https://lickability.com/about) it is today. In 2015, Matt went full-time at the company, and since then, they’ve worn multiple hats as a product manager, software engineer, sales lead, and office prankster (they may have added a HomeKit-controlled rotating light 🚨).
+All the while, Matt and their business partners were working to grow Lickability from a side project into the [ten-person team](https://lickability.com/about) it is today. In 2015, Matt went full-time at the company, and since then, they’ve worn multiple hats as a product manager, software engineer, sales lead, and office prankster (they may have connected a rotating light to HomeKit 🚨).
 
 Matt is a frequent speaker and gives [talks](https://matthewbischoff.com/category/talks/) at conferences around the globe focused on technology, culture, management, and their intersections. They write about these topics and others on their [website](https://matthewbischoff.com).
 

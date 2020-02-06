@@ -22,23 +22,32 @@ In their spare time, Matt enjoys making (and drinking) classic cocktails, going 
 
 ### Apps
 
+Matt’s contributed to the following applications:
+
 * [Quotebook](http://quotebookapp.com)
 * [Accelerator](http://acceleratorapp.com)
 * [Pinpoint](https://lickability.com/pinpoint)
-* [NYTimes](https://nytimes.com)
-* [NYT Now](https://itunes.apple.com/us/app/nyt-now/id798993249?mt=8)
-* [Tumblr](https://tumblr.com)
-* [Meetup](https://meetup.com)
+* [The New York Times](https://apps.apple.com/us/app/the-new-york-times/id284862083)
+* [NYT Now](https://www.niemanlab.org/2014/04/nyt-now-out-today-mixes-lots-of-good-mobile-centric-ideas-with-moments-of-caution/)
+* [Tumblr](https://apps.apple.com/us/app/tumblr/id305343404)
+* [Meetup](https://www.meetup.com/apps/)
 * [Houseparty](https://houseparty.com)
 * [Aloe Bud](https://aloebud.com/)
 * [Mimeo Photos](https://mimeophotos.com)
 
 ### Talks
 
+|a|v|c|
+|a|v|c|
+
+* [Growing Pains](https://matthewbischoff.com/nsnorth/) — NSNorth 2019
+* [Culture Rot](https://matthewbischoff.com/culture-rot/) — Difficult to Name Reading Series March 2018
+* [Barely Managing](https://matthewbischoff.com/barely-managing/) — [CocoaLove](https://cocoalove.org) October 2016
+* [Write Your Way Out](https://matthewbischoff.com/write-your-way-out/) September 2016
 * [Software Criticism](https://speakerdeck.com/matthewbischoff/software-criticism) — [iOSoho](http://www.meetup.com/iOSoho/events/145810582/) 2014
 * [Objective-C Sins](https://speakerdeck.com/matthewbischoff/objective-c-sins) — [Flatiron School](http://flatironschool.com) 2013
-* [RFTM: Things You Missed in the HIG](https://speakerdeck.com/matthewbischoff/rtfm-things-you-missed-in-the-hig) — [SecondConf](http://secondconf.com) 2013
-* [Get Excited and Make Things](https://speakerdeck.com/matthewbischoff/get-excited-and-make-things) —  [TEDxNJIT](https://www.youtube.com/watch?v=R1afhypdiBQ) 2011
+* [RFTM: Things You Missed in the HIG](https://matthewbischoff.com/rtfm/) — [SecondConf](http://secondconf.com) September 2013
+* [Get Excited and Make Things](https://speakerdeck.com/matthewbischoff/get-excited-and-make-things) —  [TEDxNJIT](https://www.youtube.com/watch?v=R1afhypdiBQ) November 2011
 
 ## Appearances
 
@@ -71,10 +80,13 @@ Follow Matt on Twitter at [@mb](https://twitter.com/mb), email [mb@matthewbischo
 
 You can find Matt online in various places, by various usernames:
 
-* [Tumblr](http://mttb.me)
-* [GitHub](https://github.com/mattbischoff)
+* [Twitter](https://twitter.com/mb)
+* [Instagram](https://instagram/mattb)
 * [Facebook](https://facebook.com/matthewbischoff)
+* [LinkedIn](https://www.linkedin.com/in/matthewbischoff/)
+* [GitHub](https://github.com/mattbischoff)
+* [Tumblr](http://mttb.me)
+* [Goodreads](https://goodreads.com/matthewbischoff)
 * [Reddit](http://www.reddit.com/user/matthewbischoff/)
 * [Kickstarter](https://www.kickstarter.com/profile/matthewbischoff)
-* [LinkedIn](https://www.linkedin.com/in/matthewbischoff/)
 * [Product Hunt](https://www.producthunt.com/@mb)

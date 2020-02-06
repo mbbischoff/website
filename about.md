@@ -32,7 +32,7 @@ Matt’s contributed to the following applications:
 * [Tumblr](https://apps.apple.com/us/app/tumblr/id305343404)
 * [Meetup](https://www.meetup.com/apps/)
 * [The New Yorker Today](https://www.newyorker.com/today)
-* [The Atlantic App](https://apps.apple.com/us/app/the-atlantic-magazine/id397599894)
+* [The Atlantic](https://apps.apple.com/us/app/the-atlantic-magazine/id397599894)
 * [Houseparty](https://houseparty.com)
 * [Aloe Bud](https://aloebud.com/)
 * [Mimeo Photos](https://mimeophotos.com)

@@ -57,11 +57,11 @@ In their spare time, Matt enjoys making (and drinking) classic cocktails, going 
 
 * [Not Yet 30 New York: Interview](http://ny30ny.com/matthew-bischoff/) — July 2015
 * [objc.io Issue #10: iCloud and Core Data](http://www.objc.io/issue-10/icloud-core-data.html) — March 2014
-* [Matt Bischoff’s Sweet iPhone Setup](http://thesweetsetup.com/matt-bischoffs-sweet-iphone-setup/) — 10 February 2014
-* [Objectively Stylish](http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/) — August, 1 2013
+* [Matt Bischoff’s Sweet iPhone Setup](http://thesweetsetup.com/matt-bischoffs-sweet-iphone-setup/) — February 10, 2014
+* [Objectively Stylish](http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/) — August 1, 2013
 * [Objective See Interview](http://www.objectivesee.com/matthew.bischoff.html)
-* [Junior Hired to Develop Apps for The New York Times](http://www.njit.edu/features/sceneandheard/matt-bischoff.php) — November, 7 2011
-* [J! Archive: Stay Clam](http://j-archive.com/help.php#stayclam) — August, 2 2003
+* [Junior Hired to Develop Apps for The New York Times](http://www.njit.edu/features/sceneandheard/matt-bischoff.php) — November 7, 2011
+* [J! Archive: Stay Clam](http://j-archive.com/help.php#stayclam) — August 2, 2003
 
 ## Contact
 

@@ -87,6 +87,11 @@ You can find Matt online in various places, by various usernames:
 * [GitHub](https://github.com/mattbischoff)
 * [Tumblr](http://mttb.me)
 * [Goodreads](https://goodreads.com/matthewbischoff)
+* [Letterboxd](https://letterboxd.com/matthewbischoff/)
 * [Reddit](http://www.reddit.com/user/matthewbischoff/)
 * [Kickstarter](https://www.kickstarter.com/profile/matthewbischoff)
 * [Product Hunt](https://www.producthunt.com/@mb)
+
+# Colophon
+
+This website is published with [Jekyll](https://jekyllrb.com). It’s hosted in a [Git repository](https://github.com/mattbischoff/matthewbischoff.com) on [GitHub Pages](https://pages.github.com). The posts are written in [Bear](https://bear.app) and managed in [Siteleaf](https://www.siteleaf.com). Headline and body type is set in [Proxima Nova](https://www.google.com/search?client=safari&rls=en&q=Proxima+Nova&ie=UTF-8&oe=UTF-8) by Mark Simonson, Matt’s favorite typeface. Photos of Matt were taken by Ashe of [Rose Glass Photography](https://www.roseglass.pictures).

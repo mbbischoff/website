@@ -43,14 +43,14 @@ In their spare time, Matt enjoys making (and drinking) classic cocktails, going 
 
 ### Podcasts
 
-* [Inquisitive #57: Favourite Album: Matthew Bischoff](https://www.relay.fm/inquisitive/57) — November, 6 2015
-* [Release Notes #72: Matthew Bischoff](http://releasenotes.tv/72-matthew-bischoff/) — September, 29 2014
-* [Inquisitive #7: We’re Better Than That](http://www.relay.fm/inquisitive/7) — October, 1 2014
-* [CMD+Space #101: Own your identity](http://5by5.tv/cmdspace/101) — June, 18 2014
+* [Inquisitive #57: Favourite Album: Matthew Bischoff](https://www.relay.fm/inquisitive/57) — November 6, 2015
+* [Release Notes #72: Matthew Bischoff](http://releasenotes.tv/72-matthew-bischoff/) — September 29, 2014
+* [Inquisitive #7: We’re Better Than That](http://www.relay.fm/inquisitive/7) — October 1, 2014
+* [CMD+Space #101: Own your identity](http://5by5.tv/cmdspace/101) — June 18, 2014
 * [CMD+Space #26: iOS 7 and Lickability](http://5by5.tv/cmdspace/66) — October 16, 2013
-* [Springboard #1: Matthew Bischoff](http://springboardshow.com/episodes/1) — March, 27 2013
-* [Enough #23: Quotebook](http://minimalmac.com/enough/#ep23) — April, 7 2011
-* [GodCast: Matthew Bischoff Interview](http://www.godcast.org/categories/behindTheScenes/2005/02/08.html#a349) —  February, 8 2005
+* [Springboard #1: Matthew Bischoff](http://springboardshow.com/episodes/1) — March 27, 2013
+* [Enough #23: Quotebook](http://minimalmac.com/enough/#ep23) — April 7, 2011
+* [GodCast: Matthew Bischoff Interview](http://www.godcast.org/categories/behindTheScenes/2005/02/08.html#a349) —  February 8, 2005
 
 ### Press
 

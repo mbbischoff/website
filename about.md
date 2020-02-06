@@ -29,7 +29,7 @@ In their spare time, Matt enjoys making (and drinking) classic cocktails, going 
 * [Tumblr](https://tumblr.com)
 * [Meetup](https://meetup.com)
 * [Houseparty](https://houseparty.com)
-* [Aloe Bud](https://aloe.club)
+* [Aloe Bud](https://aloebud.com/)
 * [Mimeo Photos](https://mimeophotos.com)
 
 ### Talks

@@ -23,7 +23,8 @@ In their spare time, Matt enjoys making (and drinking) classic cocktails, going 
 ### Apps
 
 * [Quotebook](http://quotebookapp.com)
-* [Accelerator](http://Aaceleratorapp.com)
+* [Accelerator](http://acceleratorapp.com)
+* [Pinpoint](https://lickability.com/pinpoint)
 * [NYTimes](https://nytimes.com)
 * [NYT Now](https://itunes.apple.com/us/app/nyt-now/id798993249?mt=8)
 * [Tumblr](https://tumblr.com)

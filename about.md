@@ -24,13 +24,13 @@ In their spare time, Matt enjoys making (and drinking) classic cocktails, going 
 
 * [Quotebook](http://quotebookapp.com)
 * [Accelerator](http://Aaceleratorapp.com)
-* [NYTimes](https://nytimes.com) for [iOS](https://itunes.apple.com/us/app/nytimes-breaking-national/id284862083?mt=8) and [iPad](https://itunes.apple.com/us/app/nytimes-for-ipad-breaking/id357066198?mt=8)
+* [NYTimes](https://nytimes.com)
 * [NYT Now](https://itunes.apple.com/us/app/nyt-now/id798993249?mt=8)
-* [Tumblr](https://tumblr.com) for [iOS](https://itunes.apple.com/us/app/tumblr/id305343404?mt=8) and [macOS](https://itunes.apple.com/us/app/tumblr/id929285034?ls=1&mt=12)
-* [Meetup](https://meetup.com) for iOS
+* [Tumblr](https://tumblr.com)
+* [Meetup](https://meetup.com)
 * [Houseparty](https://houseparty.com)
 * [Aloe Bud](https://aloe.club)
-* [Mimeo Photos](https://mimeophotos.com) for macOS
+* [Mimeo Photos](https://mimeophotos.com)
 
 ### Talks
 

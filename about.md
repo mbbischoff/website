@@ -76,7 +76,7 @@ Matt’s contributed design and code to the following applications:
 
 Matt’s an extovert, so they’d love to hear from you. Follow them on Twitter at [@mb](https://twitter.com/mb), email them at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com), or give them a call at <a href="tel:+16097060597">+1 (609) 706-0597</a>.
 
-## Elsewhere
+### Elsewhere
 
 You can find Matt online in various places, by various usernames:
 

@@ -54,28 +54,28 @@ Matt’s contributed design and code to the following applications:
 
 ### Podcasts
 
-* [Inquisitive #57: Favourite Album: Matthew Bischoff](https://www.relay.fm/inquisitive/57) — November 6, 2015
-* [Release Notes #72: Matthew Bischoff](http://releasenotes.tv/72-matthew-bischoff/) — September 29, 2014
-* [Inquisitive #7: We’re Better Than That](http://www.relay.fm/inquisitive/7) — October 1, 2014
-* [CMD+Space #101: Own your identity](http://5by5.tv/cmdspace/101) — June 18, 2014
-* [CMD+Space #26: iOS 7 and Lickability](http://5by5.tv/cmdspace/66) — October 16, 2013
-* [Springboard #1: Matthew Bischoff](http://springboardshow.com/episodes/1) — March 27, 2013
-* [Enough #23: Quotebook](http://minimalmac.com/enough/#ep23) — April 7, 2011
-* [GodCast: Matthew Bischoff Interview](http://www.godcast.org/categories/behindTheScenes/2005/02/08.html#a349) —  February 8, 2005
+* **[Question Box #10 - Matthew Bischoff (Kate's Partner!)](https://questionbox.libsyn.com/10-matthew-bischoff-kates-partner)**
+* **[Inquisitive #57: Favourite Album: Matthew Bischoff](https://www.relay.fm/inquisitive/57)** — November 2015
+* **[Release Notes #72: Matthew Bischoff](http://releasenotes.tv/72-matthew-bischoff/)** — September 2014
+* **[Inquisitive #7: We’re Better Than That](http://www.relay.fm/inquisitive/7)** — October 2014
+* **[CMD+Space #101: Own your identity](http://5by5.tv/cmdspace/101)** — June 2014
+* **[CMD+Space #26: iOS 7 and Lickability](http://5by5.tv/cmdspace/66)** — October 2013
+* **[Springboard #1: Matthew Bischoff](http://springboardshow.com/episodes/1)** — March 2013
+* **[Enough #23: Quotebook](http://minimalmac.com/enough/#ep23)** — April 2011
+* **[GodCast: Matthew Bischoff Interview](http://www.godcast.org/categories/behindTheScenes/2005/02/08.html#a349)** —  February 2005
 
 ### Press
 
-* [Not Yet 30 New York: Interview](http://ny30ny.com/matthew-bischoff/) — July 2015
-* [objc.io Issue #10: iCloud and Core Data](http://www.objc.io/issue-10/icloud-core-data.html) — March 2014
-* [Matt Bischoff’s Sweet iPhone Setup](http://thesweetsetup.com/matt-bischoffs-sweet-iphone-setup/) — February 10, 2014
-* [Objectively Stylish](http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/) — August 1, 2013
-* [Objective See Interview](http://www.objectivesee.com/matthew.bischoff.html)
-* [Junior Hired to Develop Apps for The New York Times](http://www.njit.edu/features/sceneandheard/matt-bischoff.php) — November 7, 2011
-* [J! Archive: Stay Clam](http://j-archive.com/help.php#stayclam) — August 2, 2003
+* **[Not Yet 30 New York: Interview](http://ny30ny.com/matthew-bischoff/)** — July 2015
+* **[objc.io Issue #10: iCloud and Core Data](http://www.objc.io/issue-10/icloud-core-data.html)** — March 2014
+* **[Matt Bischoff’s Sweet iPhone Setup](http://thesweetsetup.com/matt-bischoffs-sweet-iphone-setup/)** — February 2014
+* **[Objectively Stylish](http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/)** — August 2013
+* **[Objective See Interview](http://www.objectivesee.com/matthew.bischoff.html)**
+* **[Junior Hired to Develop Apps for The New York Times](http://www.njit.edu/features/sceneandheard/matt-bischoff.php)** — November 2011
 
 ## Contact
 
-Matt’s an extovert, so they’d love to hear from you. Follow them on Twitter at [@mb](https://twitter.com/mb), email them at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com), or give them a call at <a href="tel:+16097060597">+1 (609) 706-0597</a>.
+Matt’s an extrovert, and they’d love to hear from you. Follow them on Twitter at [@mb](https://twitter.com/mb), email them at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com), or give them a call at <a href="tel:+16097060597">+1 (609) 706-0597</a>.
 
 ### Elsewhere
 

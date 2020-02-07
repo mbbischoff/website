@@ -54,7 +54,8 @@ Matt’s contributed design and code to the following applications:
 
 ### Podcasts
 
-* **[Question Box #10 - Matthew Bischoff (Kate's Partner!)](https://questionbox.libsyn.com/10-matthew-bischoff-kates-partner)**
+* **[Question Box #10 - Matthew Bischoff (Kate's Partner!)](https://questionbox.libsyn.com/10-matthew-bischoff-kates-partner)** — September 2019
+* **[The Dildorks Episode 136: Sir-ious Business](https://thedildorks.wordpress.com/portfolio/episode-136-sir-ious-business/)** — 
 * **[Inquisitive #57: Favourite Album: Matthew Bischoff](https://www.relay.fm/inquisitive/57)** — November 2015
 * **[Release Notes #72: Matthew Bischoff](http://releasenotes.tv/72-matthew-bischoff/)** — September 2014
 * **[Inquisitive #7: We’re Better Than That](http://www.relay.fm/inquisitive/7)** — October 2014
@@ -63,6 +64,7 @@ Matt’s contributed design and code to the following applications:
 * **[Springboard #1: Matthew Bischoff](http://springboardshow.com/episodes/1)** — March 2013
 * **[Enough #23: Quotebook](http://minimalmac.com/enough/#ep23)** — April 2011
 * **[GodCast: Matthew Bischoff Interview](http://www.godcast.org/categories/behindTheScenes/2005/02/08.html#a349)** —  February 2005
+* **[Leo Laporte’s The Tech Guy on KFI #104](http://web.archive.org/web/20060624004717/http://leoville.tv/radio/pmwiki.php/ShowNotes/Show104)** — December 2004
 
 ### Press
 
@@ -72,6 +74,12 @@ Matt’s contributed design and code to the following applications:
 * **[Objectively Stylish](http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/)** — August 2013
 * **[Objective See Interview](http://www.objectivesee.com/matthew.bischoff.html)**
 * **[Junior Hired to Develop Apps for The New York Times](http://www.njit.edu/features/sceneandheard/matt-bischoff.php)** — November 2011
+* **[Red Herring: Q&A with Matthew Bischoff](http://web.archive.org/web/20060325195516/http://www.redherring.com/Article.aspx?a=13836&hed=Q%26amp%3bA%3a+Matthew+Bischoff)** — September 2005
+* **[NorthJersey.com: A Download Away from Radio Stardom](http://web.archive.org/web/20051220143434/http://northjersey.com/page.php?qstr=eXJpcnk3ZjczN2Y3dnFlZUVFeXk2NTUmZmdiZWw3Zjd2cWVlRUV5eTY2NjI3OTImeXJpcnk3ZjcxN2Y3dnFlZUVFeXk3)** — March 2005
+* **[eSchool News: Podcasting Set to Take Off](http://web.archive.org/web/20070815111749/http://www.eschoolnews.com/news/showStory.cfm?ArticleID=5381)** — November 2004
+* **[eSchool News: The Podcasting Rage](http://web.archive.org/web/20070814052819/http://www.eschoolnews.com/eti/2004/11/000371.php)** — November 2004
+* **[The New New Podcast Review](http://web.archive.org/web/20070814221338/http://podcastreviews.net/archives/podcast_review/podcast_review_esc_from_the_world_radio.html)** — October 2004
+* **[Leo Laporte: Podcaster Feed is Up](https://leolaporte.com/2004/10/04/podcaster_feed_is_up/)** — October 2004
 
 ## Contact
 

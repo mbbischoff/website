@@ -68,7 +68,7 @@ Matt’s contributed design and code to the following applications:
 
 ### Press
 
-* **[Not Yet 30 New York: Interview](http://ny30ny.com/matthew-bischoff/)** — July 2015
+* **[Not Yet 30 New York: Interview](http://web.archive.org/web/20160320020512/http://ny30ny.com/matthew-bischoff/)** — July 2015
 * **[objc.io Issue #10: iCloud and Core Data](http://www.objc.io/issue-10/icloud-core-data.html)** — March 2014
 * **[Matt Bischoff’s Sweet iPhone Setup](http://thesweetsetup.com/matt-bischoffs-sweet-iphone-setup/)** — February 2014
 * **[Objectively Stylish](http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/)** — August 2013

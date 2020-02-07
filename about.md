@@ -19,7 +19,7 @@ Matt is an acclaimed speaker, giving [talks](https://matthewbischoff.com/categor
 
 In their spare time, Matt enjoys making (and drinking) classic cocktails, going to the theatre, trawling Wikipedia for interesting facts, and volunteering for [Trans Lifeline](https://www.translifeline.org/). They are proud to be a member of the bisexual, transgender, and nonbinary communities. Oh yeah, and [they were on Jeopardy](https://www.j-archive.com/showgame.php?game_id=3342) once.
 
-## Projects
+## Work
 
 ### Apps
 

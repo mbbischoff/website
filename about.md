@@ -59,9 +59,9 @@ Matt’s contributed design and code to the following applications:
 * **[Inquisitive #57: Favourite Album: Matthew Bischoff](https://www.relay.fm/inquisitive/57)** — November 2015
 * **[Release Notes #72: Matthew Bischoff](http://releasenotes.tv/72-matthew-bischoff/)** — September 2014
 * **[Inquisitive #7: We’re Better Than That](http://www.relay.fm/inquisitive/7)** — October 2014
-* **[CMD+Space #101: Own your identity](http://5by5.tv/cmdspace/101)** — June 2014
-* **[CMD+Space #26: iOS 7 and Lickability](http://5by5.tv/cmdspace/66)** — October 2013
-* **[Springboard #1: Matthew Bischoff](http://springboardshow.com/episodes/1)** — March 2013
+* **[CMD+Space #101: Own your identity](https://www.relay.fm/cmdspace/101)** — June 2014
+* **[CMD+Space #26: iOS 7 and Lickability](https://www.relay.fm/cmdspace/66)** — October 2013
+* **[Springboard #1: Matthew Bischoff](http://web.archive.org/web/20130809181910/http://springboardshow.com/episodes/1)** — March 2013
 * **[Enough #23: Quotebook](http://minimalmac.com/enough/#ep23)** — April 2011
 * **[GodCast: Matthew Bischoff Interview](http://www.godcast.org/categories/behindTheScenes/2005/02/08.html#a349)** —  February 2005
 * **[Leo Laporte’s The Tech Guy on KFI #104](http://web.archive.org/web/20060624004717/http://leoville.tv/radio/pmwiki.php/ShowNotes/Show104)** — December 2004
@@ -76,6 +76,7 @@ Matt’s contributed design and code to the following applications:
 * **[Junior Hired to Develop Apps for The New York Times](http://web.archive.org/web/20160417051240/https://www.njit.edu/features/sceneandheard/matt-bischoff.php)** — November 2011
 * **[Red Herring: Q&A with Matthew Bischoff](http://web.archive.org/web/20060325195516/http://www.redherring.com/Article.aspx?a=13836&hed=Q%26amp%3bA%3a+Matthew+Bischoff)** — September 2005
 * **[NorthJersey.com: A Download Away from Radio Stardom](http://web.archive.org/web/20051220143434/http://northjersey.com/page.php?qstr=eXJpcnk3ZjczN2Y3dnFlZUVFeXk2NTUmZmdiZWw3Zjd2cWVlRUV5eTY2NjI3OTImeXJpcnk3ZjcxN2Y3dnFlZUVFeXk3)** — March 2005
+* **[Blogs, Wikis, Podcasts, and Other Powerful Web Tools for Classrooms](https://books.google.com/books?id=CArG5bfUy-sC&pg=PA112&dq=matthew+bischoff&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwi9tZyFsMDnAhXIrFkKHfBTA6oQ6AEwA3oECAIQAg#v=onepage&q=matthew%20bischoff&f=false)**
 * **[eSchool News: Podcasting Set to Take Off](http://web.archive.org/web/20070815111749/http://www.eschoolnews.com/news/showStory.cfm?ArticleID=5381)** — November 2004
 * **[eSchool News: The Podcasting Rage](http://web.archive.org/web/20070814052819/http://www.eschoolnews.com/eti/2004/11/000371.php)** — November 2004
 * **[The New New Podcast Review](http://web.archive.org/web/20070814221338/http://podcastreviews.net/archives/podcast_review/podcast_review_esc_from_the_world_radio.html)** — October 2004

@@ -73,7 +73,7 @@ Matt’s contributed design and code to the following applications:
 * **[Matt Bischoff’s Sweet iPhone Setup](http://thesweetsetup.com/matt-bischoffs-sweet-iphone-setup/)** — February 2014
 * **[Objectively Stylish](http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/)** — August 2013
 * **[Objective See Interview](http://www.objectivesee.com/matthew.bischoff.html)**
-* **[Junior Hired to Develop Apps for The New York Times](http://www.njit.edu/features/sceneandheard/matt-bischoff.php)** — November 2011
+* **[Junior Hired to Develop Apps for The New York Times](http://web.archive.org/web/20160417051240/https://www.njit.edu/features/sceneandheard/matt-bischoff.php)** — November 2011
 * **[Red Herring: Q&A with Matthew Bischoff](http://web.archive.org/web/20060325195516/http://www.redherring.com/Article.aspx?a=13836&hed=Q%26amp%3bA%3a+Matthew+Bischoff)** — September 2005
 * **[NorthJersey.com: A Download Away from Radio Stardom](http://web.archive.org/web/20051220143434/http://northjersey.com/page.php?qstr=eXJpcnk3ZjczN2Y3dnFlZUVFeXk2NTUmZmdiZWw3Zjd2cWVlRUV5eTY2NjI3OTImeXJpcnk3ZjcxN2Y3dnFlZUVFeXk3)** — March 2005
 * **[eSchool News: Podcasting Set to Take Off](http://web.archive.org/web/20070815111749/http://www.eschoolnews.com/news/showStory.cfm?ArticleID=5381)** — November 2004

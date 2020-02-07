@@ -9,7 +9,7 @@ layout: page
 
 ![Photo of Matthew Bischoff](/uploads/matthew-profile-43.jpeg)
 
-Matthew Bischoff ([they / them](https://pronoun.is/they)) is a designer and developer in New York City. They are a founder and partner at [Lickability](https://lickability.com), a software studio known for its [products](https://lickability.com/products) and work for [clients](https://lickability.com/clients) like The Atlantic, The New Yorker, and Meetup.
+Matthew Bischoff ([they / them](https://pronoun.is/they)) is a designer and developer in New York City. They are a founder and partner at [Lickability](https://lickability.com), a software studio known for its [products](https://lickability.com/products) and work for [clients](https://lickability.com/clients) like The Atlantic, Houseparty, and Meetup.
 
 Matt began blogging and podcasting in 2003 and got their start in tech as IT Director of [PodcastPeople](https://www.podcastpeople.com/) at age 13. After high school, they studied human-computer interaction at the [New Jersey Institute of Technology](https://www.njit.edu/), before [dropping out](https://matthewbischoff.com/don-t-go-to-college/) to join the mobile team at [The New York Times](https://www.nytimes.com/). They worked at [Tumblr](https://www.tumblr.com/) during its heyday, as an engineer, engineering manager, and product manager.
 

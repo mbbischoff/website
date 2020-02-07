@@ -55,7 +55,7 @@ Matt’s contributed design and code to the following applications:
 ### Podcasts
 
 * **[Question Box #10 - Matthew Bischoff (Kate's Partner!)](https://questionbox.libsyn.com/10-matthew-bischoff-kates-partner)** — September 2019
-* **[The Dildorks Episode 136: Sir-ious Business](https://thedildorks.wordpress.com/portfolio/episode-136-sir-ious-business/)** — 
+* **[The Dildorks Episode 136: Sir-ious Business](https://thedildorks.wordpress.com/portfolio/episode-136-sir-ious-business/)** — April 2019
 * **[Inquisitive #57: Favourite Album: Matthew Bischoff](https://www.relay.fm/inquisitive/57)** — November 2015
 * **[Release Notes #72: Matthew Bischoff](http://releasenotes.tv/72-matthew-bischoff/)** — September 2014
 * **[Inquisitive #7: We’re Better Than That](http://www.relay.fm/inquisitive/7)** — October 2014

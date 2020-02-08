@@ -95,6 +95,7 @@ You can find Matt online in various places, by various usernames:
 👍 [Facebook](https://facebook.com/matthewbischoff)
 💼 [LinkedIn](https://www.linkedin.com/in/matthewbischoff/)
 🐙 [GitHub](https://github.com/mattbischoff)
+🌐 [Wikipedia](https://en.wikipedia.org/wiki/User:Magicpop)
 🥃 [Tumblr](http://mttb.me)
 📚 [Goodreads](https://goodreads.com/matthewbischoff)
 🎥 [Letterboxd](https://letterboxd.com/matthewbischoff/)

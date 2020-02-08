@@ -90,17 +90,17 @@ Matt’s an extrovert, and they’d love to hear from you. Follow them on Twitte
 
 You can find Matt online in various places, by various usernames:
 
-* [Twitter](https://twitter.com/mb)
-* [Instagram](https://instagram/mattb)
-* [Facebook](https://facebook.com/matthewbischoff)
-* [LinkedIn](https://www.linkedin.com/in/matthewbischoff/)
-* [GitHub](https://github.com/mattbischoff)
-* [Tumblr](http://mttb.me)
-* [Goodreads](https://goodreads.com/matthewbischoff)
-* [Letterboxd](https://letterboxd.com/matthewbischoff/)
-* [Reddit](http://www.reddit.com/user/matthewbischoff/)
-* [Kickstarter](https://www.kickstarter.com/profile/matthewbischoff)
-* [Product Hunt](https://www.producthunt.com/@mb)
+* 🐦 [Twitter](https://twitter.com/mb)
+* 📷 [Instagram](https://instagram/mattb)
+* 👍 [Facebook](https://facebook.com/matthewbischoff)
+* 💼 [LinkedIn](https://www.linkedin.com/in/matthewbischoff/)
+* 🐙 [GitHub](https://github.com/mattbischoff)
+* 🥃 [Tumblr](http://mttb.me)
+* 📚 [Goodreads](https://goodreads.com/matthewbischoff)
+* 🎥 [Letterboxd](https://letterboxd.com/matthewbischoff/)
+* 👽 [Reddit](http://www.reddit.com/user/matthewbischoff/)
+* 💸 [Kickstarter](https://www.kickstarter.com/profile/matthewbischoff)
+* 😸 [Product Hunt](https://www.producthunt.com/@mb)
 
 # Colophon
 

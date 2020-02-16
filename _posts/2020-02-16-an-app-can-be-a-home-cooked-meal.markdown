@@ -14,6 +14,7 @@ tags:
 - family
 - essay
 - iOS
+image: 984B5C1D-DCBF-42BC-8128-4128D7D8D424.jpeg
 format: link
 link: https://www.robinsloan.com/notes/home-cooked-app/
 ---

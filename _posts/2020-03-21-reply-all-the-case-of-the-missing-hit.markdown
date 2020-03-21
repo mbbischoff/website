@@ -1,6 +1,19 @@
 ---
 title: 'Reply All: The Case of the Missing Hit'
 date: 2020-03-21 13:57:00 -04:00
+categories:
+- culture
+- tech
+- shorter
+tags:
+- podcast
+- reply all
+- gimlet
+- mystery
+- music
+- pop
+- journalism
+- advice
 image: replyall.jpeg
 description: After seeing this recent episode of Reply All recommended everywhere,
   I gave it a listen, and it’s as good as everyone says it is. Queue it up if you’re

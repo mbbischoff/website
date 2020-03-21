@@ -21,7 +21,7 @@ description: After seeing this recent episode of Reply All recommended everywher
   thereof. Also, if you want more like this, go back and listen to [Mystery Show](https://gimletmedia.com/shows/mystery-show).
   RIP.
 format: tweet
-color: red
+color: purple
 ---
 
 <iframe scrolling="no" allow="autoplay" frameborder="no" width="100%" height="130" style="border-radius: 3px; height: 130px; width: 100%; box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.15);" src="https://player.gimletmedia.com/o2h8bx"></iframe>

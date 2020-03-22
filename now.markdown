@@ -3,9 +3,20 @@ title: Now
 date: 2020-03-22 11:12:00 -04:00
 ---
 
-## /Now
- 
-*This is a /now page, and if you have your own site, you should make one, too.*
+*This [Now page](https://sivers.org/nowff) was inspired by Derek Sivers. It represents the things I’m thinking about and working on, well, right now.*
 
+# Now
 
-## /Then
+## Lickability
+
+## Relationships
+
+## Writing
+
+## Speaking
+
+## Volunteering
+
+## Podcasts
+
+# Then

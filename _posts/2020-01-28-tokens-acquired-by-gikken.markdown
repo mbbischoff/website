@@ -10,7 +10,7 @@ tags:
 - app
 - app store
 - apple
-image: B44B1E9D-DA56-40AE-93BE-78BD7226475D.png
+image: /uploads/B44B1E9D-DA56-40AE-93BE-78BD7226475D.png
 format: link
 link: https://blog.gikken.co/we-acquired-tokens/
 ---

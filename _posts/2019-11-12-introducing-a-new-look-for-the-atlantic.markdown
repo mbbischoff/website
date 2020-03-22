@@ -9,7 +9,7 @@ tags:
 - atlantic
 - news
 - app
-image: lead_720_405.jpg
+image: /uploads/lead_720_405.jpg
 description: Really excited about this bold new look for one of my favorite publications,
   and honored to have gotten to work on the development of the app at Lickability.
 format: link

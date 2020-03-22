@@ -59,9 +59,9 @@
 	<meta name="twitter:description" content="{{ site.text_content.header_title }} {{ site.text_content.subtitle }}">
 	{% endif %}
 	{% if page.image %}
-	<meta name="twitter:image:src" content="{{ site.url }}/uploads/{{ page.image }}">
+	<meta name="twitter:image:src" content="{{ page.image }}">
 	{% else %}
-	<meta name="twitter:image:src" content="{{ site.url }}/uploads/twitter-share-card.jpg">
+	<meta name="twitter:image:src" content="/uploads/twitter-share-card.jpg">
 	{% endif %}
 
 	<!-- Facebook Open Graph -->
@@ -90,9 +90,9 @@
 	<meta content="{{ site.url }}/about/" property="article:author">
 	{% endif %}
 	{% if page.image %}
-	<meta content="{{ site.url }}/uploads/{{ page.image }}" property="og:image">
+	<meta content="{{ page.image }}" property="og:image">
 	{% else %}
-	<meta content="{{ site.url }}/uploads/hero-image.jpg" property="og:image">
+	<meta content="/uploads/hero-image.jpg" property="og:image">
 	{% endif %}
 	{% if page.categories %}
 	{% for category in page.categories limit:1 %}

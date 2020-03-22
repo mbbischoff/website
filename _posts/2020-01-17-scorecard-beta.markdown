@@ -9,7 +9,7 @@ tags:
 - lickability
 - app
 - ios
-image: scorecard.jpeg
+image: /uploads/scorecard.jpeg
 format: tweet
 color: blue
 ---

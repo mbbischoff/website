@@ -8,7 +8,7 @@ tags:
 - gender
 - transgender
 - podcast
-image: gender-reveal.jpeg
+image: /uploads/gender-reveal.jpeg
 description: 'Whether you need some context on yesterday’s Supreme Court cases, some
   hope for the future, or a reminder that trans people are people: go listen to the
   latest episode of one of my new favorite podcasts, Gender Reveal, hosted by Molly

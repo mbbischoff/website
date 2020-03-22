@@ -11,7 +11,7 @@ tags:
 - internet
 - tech
 - talks
-image: dtn-culture-rot.jpg
+image: /uploads/dtn-culture-rot.jpg
 description: A talk at the Difficult to Name reading series about the disappearing
   web and what we can do to stop it.
 layout: post

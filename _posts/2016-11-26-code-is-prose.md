@@ -8,7 +8,7 @@ tags:
 - code
 - writing
 - tech
-image: gates-reading.jpg
+image: /uploads/gates-reading.jpg
 description: Great code reads like great prose. It is succinct, expressive, and clear
   the first time you read it.
 layout: post

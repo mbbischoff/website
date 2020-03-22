@@ -12,7 +12,7 @@ tags:
 - tech
 - code
 - politics
-image: engineer-ring.jpg
+image: /uploads/engineer-ring.jpg
 description: You’ve been there. You’re sitting in a meeting and your boss, a product
   manager, or an executive is talking about Q2 goals. They’re laying out a roadmap
   of the features that are going to be “coming down the pike”. All of a sudden you

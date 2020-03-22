@@ -10,7 +10,7 @@ tags:
 - tv
 - anxiety
 - comedy
-image: john-mulaney-stephen-colbert.jpg
+image: "/uploads/john-mulaney-stephen-colbert.jpg"
 format: tweet
 color: violet
 link: https://www.youtube.com/watch?v=zGf6CGBbWFU

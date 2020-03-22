@@ -10,7 +10,7 @@ tags:
 - management
 - philadelphia
 - cocoalove
-image: barely-managing-titlecard.jpg
+image: "/uploads/barely-managing-titlecard.jpg"
 description: A talk about why you might want to step away from the keyboard and into
   leadership, and what happens when you do.
 layout: post

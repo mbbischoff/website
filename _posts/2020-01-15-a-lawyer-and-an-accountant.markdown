@@ -12,7 +12,7 @@ tags:
 - finance
 - business
 - startups
-image: C1CD3345-9AEC-4706-A94E-D80514D1405F.jpeg
+image: "/uploads/C1CD3345-9AEC-4706-A94E-D80514D1405F.jpeg"
 format: link
 link: https://lickability.com/blog/a-lawyer-and-an-accountant/
 ---

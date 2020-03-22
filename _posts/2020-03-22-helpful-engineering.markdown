@@ -15,7 +15,7 @@ format: link
 link: https://www.helpfulengineering.org
 ---
 
-> [Helpful Engineering](https://www.helpfulengineering.org) is designing, sourcing and executing projects to help people suffering from the COVID-19 crisis worldwide.
+> Helpful Engineering is designing, sourcing and executing projects to help people suffering from the COVID-19 crisis worldwide.
 > 
 > We are an open community of volunteers without a commercial purpose. We believe that through a utilitarian approach, we can do the most good in the quickest time. Applying unused engineering and manufacturing resources, we can help the world cope with the threat of COVID-19.
 

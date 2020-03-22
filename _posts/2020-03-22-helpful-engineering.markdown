@@ -10,7 +10,7 @@ tags:
 - engineering
 - volunteering
 - nonprofit
-image: /uploads/cropped-HelpfulEngineering_logo_color_rgb_500px.png
+image: "/uploads/cropped-HelpfulEngineering_logo_color_rgb_500px.png"
 format: link
 link: https://www.helpfulengineering.org
 ---

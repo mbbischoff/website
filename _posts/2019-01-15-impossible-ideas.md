@@ -8,7 +8,7 @@ tags:
 - creativity
 - talks
 - ideas
-image: /uploads/cleese.jpg
+image: "/uploads/cleese.jpg"
 description: The talk I show to every software engineer who says it’s impossible to
   build something.
 layout: post

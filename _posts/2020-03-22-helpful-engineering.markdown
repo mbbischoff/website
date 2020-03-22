@@ -11,8 +11,7 @@ tags:
 - volunteering
 - nonprofit
 image: cropped-HelpfulEngineering_logo_color_rgb_500px.png
-format: tweet
-color: green
+format: link
 link: https://www.helpfulengineering.org
 ---
 

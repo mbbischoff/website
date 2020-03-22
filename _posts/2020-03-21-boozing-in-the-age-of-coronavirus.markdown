@@ -10,6 +10,9 @@ tags:
 - food service
 - new york
 image: "/uploads/dante-delivery.jpg"
+description: "“We could survive a month and a half on delivery,” said Nicholas Ruiz,
+  general manager at Patent Pending. “We’re just trying to be a little beam of light
+  for some people.”"
 format: link
 link: https://ny.eater.com/2020/3/18/21185048/coronavirus-alcohol-delivery-nyc-photos
 ---

@@ -45,12 +45,11 @@ layout: default
 ---
 
 {% include posts.html %}
-
+```
 
 ## How To
 
 * Serve the site locally: `bundle exec jekyll serve`
-
 
 # Rebuild JS
 

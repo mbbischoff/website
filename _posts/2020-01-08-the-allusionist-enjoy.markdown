@@ -7,7 +7,7 @@ categories:
 tags:
 - podcast
 - language
-image: /uploads/enjoy.jpg
+image: "/uploads/enjoy.jpg"
 format: link
 link: https://www.theallusionist.org/allusionist/enjoy
 ---

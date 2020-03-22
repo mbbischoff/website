@@ -10,7 +10,7 @@ tags:
 - gender
 - transgender
 - bdsm
-image: /uploads/Genderedfood-1280x533.jpg
+image: "/uploads/Genderedfood-1280x533.jpg"
 format: link
 link: https://melmagazine.com/en-us/story/restaurant-gendered-sexist-service-etiquette
 ---

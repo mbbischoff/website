@@ -9,7 +9,7 @@ tags:
 - transgender
 - nonbinary
 - language
-image: /uploads/36391D3B-2265-40C0-ADFD-52F0F29B54ED.jpeg
+image: "/uploads/36391D3B-2265-40C0-ADFD-52F0F29B54ED.jpeg"
 description: When did Emojipedia get woke?
 format: link
 link: https://blog.emojipedia.org/the-pinching-hand-emoji-is-a-lot/

@@ -14,7 +14,7 @@ tags:
 - pop
 - journalism
 - advice
-image: /uploads/replyall.jpeg
+image: "/uploads/replyall.jpeg"
 description: After seeing this recent episode of Reply All recommended everywhere,
   I gave it a listen, and it’s as good as everyone says it is. Queue it up if you’re
   interested in music, mysteries, obsessiveness, journalism, or the intersections

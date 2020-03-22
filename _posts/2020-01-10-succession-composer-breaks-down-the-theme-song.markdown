@@ -9,7 +9,7 @@ tags:
 - tv
 - music
 - motif
-image: /uploads/succession-theme-britell.jpg
+image: "/uploads/succession-theme-britell.jpg"
 format: link
 link: https://www.youtube.com/watch?v=X0WzqanwlG0
 ---

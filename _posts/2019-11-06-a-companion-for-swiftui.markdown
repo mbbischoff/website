@@ -7,7 +7,7 @@ tags:
 - ios
 - app store
 - swiftui
-image: /uploads/swift-ui-companion.png
+image: "/uploads/swift-ui-companion.png"
 description: I’m extremely tempted to spend the $50 on this nifty application that
   claims to document and expose nearly 100% of the SwiftUI API and make it super easy
   to learn. Apple’s own docs are still sorely lacking at this point with 60% of the

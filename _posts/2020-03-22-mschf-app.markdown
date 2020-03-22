@@ -23,7 +23,7 @@ format: link
 link: https://apps.apple.com/us/app/mschf/id1500457154
 ---
 
-![mschf.png](/uploads/mschf.png)
+![460x0w.png](/uploads/460x0w.png)
 
 The [delightful weirdos](https://www.nytimes.com/2020/01/30/style/millennial-entrepreneur-startups.html) over at performance art/tech company [MSCHF](https://mschf.xyz) just launched a new app. The app does what they used to do via text messages until the phone companies starting blocking their numbers: allows you to chat with them and sends you a notification every two weeks when they ~announce~ drop their new project.
 

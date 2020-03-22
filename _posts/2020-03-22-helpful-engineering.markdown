@@ -11,6 +11,8 @@ tags:
 - volunteering
 - nonprofit
 image: "/uploads/cropped-HelpfulEngineering_logo_color_rgb_500px.png"
+description: Helpful Engineering is designing, sourcing and executing projects to
+  help people suffering from the COVID-19 crisis worldwide.
 format: link
 link: https://www.helpfulengineering.org
 ---

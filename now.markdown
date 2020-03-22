@@ -20,3 +20,5 @@ date: 2020-03-22 11:12:00 -04:00
 ## Podcasts
 
 # Then
+
+*Updated March 22st, 2020, from Toronto, ON.*

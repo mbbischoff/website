@@ -9,7 +9,7 @@ tags:
 - coronavirus
 - food service
 - new york
-image: https://cdn.vox-cdn.com/thumbor/6vjZE8zBg8rkzNbAPwEOMrvKmPs=/0x0:6000x4000/2820x1586/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/66518930/A46A3532.0.jpg
+image: "/uploads/dante-delivery.jpg"
 format: link
 link: https://ny.eater.com/2020/3/18/21185048/coronavirus-alcohol-delivery-nyc-photos
 ---

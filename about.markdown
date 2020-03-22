@@ -102,6 +102,7 @@ You can find Matt online in various places, by various usernames:
 👽 [Reddit](http://www.reddit.com/user/matthewbischoff/)  
 💸 [Kickstarter](https://www.kickstarter.com/profile/matthewbischoff)  
 😸 [Product Hunt](https://www.producthunt.com/@mb)  
+🥞 [YourStack](https://yourstack.com/@mb)
 
 # Colophon
 

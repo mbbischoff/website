@@ -2,8 +2,7 @@
   "index.ignored_file_patterns" : [
     "_site",
     "node_modules",
-    ".sass-cache",
-    ".nova"
+    ".sass-cache"
   ],
   "workspace.preview_type" : "custom",
   "workspace.preview_url" : "http:\/\/localhost:4000"

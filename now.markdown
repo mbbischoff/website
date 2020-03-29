@@ -11,18 +11,6 @@ date: 2020-03-22 11:12:00 -04:00
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
 <iframe src="https://snapwidget.com/embed/807385" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
 
-## Lickability
-
-## Relationships
-
-## Writing
-
-## Speaking
-
-## Volunteering
-
-## Podcasts
-
 ## Then
 
 ![IMG_7224.jpeg](/uploads/IMG_7224.jpeg)

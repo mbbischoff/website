@@ -7,6 +7,16 @@ date: 2020-03-22 11:12:00 -04:00
 
 This [Now page](https://sivers.org/nowff) was inspired by Derek Sivers. It covers the things I’m thinking about and working on, well, right now. *Last updated: March 29, 2020, from Toronto, ON.*
 
+## Life
+
+Usually, I live in New York City in a one-bedroom apartment in Gramercy. But at the beginning of the COVID-19 global pandemic, I realized I didn’t want to be isolated all alone. So, for the time being, I’m <strike>living</strike> quarantining in Toronto, Ontario with my partner Kate Sloan.
+
+## Work
+
+## Hobbies
+
+## Speaking
+
 ## Photography
 
 I’ve been focusing more on my photography recently. Here are the latest photos I’ve shared on [Instagram](http://instagram.com/mattb).
@@ -34,12 +44,6 @@ overflow: hidden;
 }
 </style>
 <script src="https://www.goodreads.com/review/grid_widget/3162891.Matthew's%20bookshelf:%20currently-reading?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_started&widget_id=1585515205" type="text/javascript" charset="utf-8"></script>
-
-## Life
-
-Usually, I live in New York City in a one-bedroom apartment in Gramercy. But at the beginning of the COVID-19 global pandemic, I realized I didn’t want to be isolated all alone. So, for the time being, I’m <strike>living</strike> quarantining in Toronto, Ontario with my partner Kate Sloan.
-
-## Work
 
 
 # /Then

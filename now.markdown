@@ -30,7 +30,7 @@ width: 100%;
 display: inline-block;
 width: 98px;
 height: 160px;
-padding: 20px 0px;
+padding: 60px 0px;
 overflow: hidden;
 }
 </style>

@@ -8,11 +8,17 @@ date: 2020-03-22 11:12:00 -04:00
 
 ## Seeing
 
+I'm baby swag knausgaard subway tile kogi venmo. Vinyl enamel pin mixtape hashtag blog, gastropub chia fixie succulents yuccie health goth. Snackwave poutine tumblr knausgaard master cleanse prism. +1 pickled chambray meditation flannel godard. Chillwave pour-over drinking vinegar bicycle rights, hell of mustache franzen skateboard health goth pickled umami.
+
+Chillwave keffiyeh tofu fashion axe. Man braid meggings meditation, typewriter health goth man bun vegan. Before they sold out pickled letterpress knausgaard hella. Taiyaki knausgaard roof party, lumbersexual pickled cloud bread post-ironic selvage listicle.
+
 <!-- SnapWidget -->
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
 <iframe src="https://snapwidget.com/embed/807385" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
 
 ## Reading
+
+I'm baby swag knausgaard subway tile kogi venmo. Vinyl enamel pin mixtape hashtag blog, gastropub chia fixie succulents yuccie health goth. Snackwave poutine tumblr knausgaard master cleanse prism. +1 pickled chambray meditation flannel godard. Chillwave pour-over drinking vinegar bicycle rights, hell of mustache franzen skateboard health goth pickled umami.
 
 <style type="text/css" media="screen">
 .gr_grid_container {
@@ -32,9 +38,23 @@ overflow: hidden;
 
 ## Living
 
+I'm baby swag knausgaard subway tile kogi venmo. Vinyl enamel pin mixtape hashtag blog, gastropub chia fixie succulents yuccie health goth. Snackwave poutine tumblr knausgaard master cleanse prism. +1 pickled chambray meditation flannel godard. Chillwave pour-over drinking vinegar bicycle rights, hell of mustache franzen skateboard health goth pickled umami.
+
+Chillwave keffiyeh tofu fashion axe. Man braid meggings meditation, typewriter health goth man bun vegan. Before they sold out pickled letterpress knausgaard hella. Taiyaki knausgaard roof party, lumbersexual pickled cloud bread post-ironic selvage listicle.
+
 ## Working
 
+I'm baby swag knausgaard subway tile kogi venmo. Vinyl enamel pin mixtape hashtag blog, gastropub chia fixie succulents yuccie health goth. Snackwave poutine tumblr knausgaard master cleanse prism. +1 pickled chambray meditation flannel godard. Chillwave pour-over drinking vinegar bicycle rights, hell of mustache franzen skateboard health goth pickled umami.
+
+Chillwave keffiyeh tofu fashion axe. Man braid meggings meditation, typewriter health goth man bun vegan. Before they sold out pickled letterpress knausgaard hella. Taiyaki knausgaard roof party, lumbersexual pickled cloud bread post-ironic selvage listicle.
+
+
 ## Then
+
+I'm baby swag knausgaard subway tile kogi venmo. Vinyl enamel pin mixtape hashtag blog, gastropub chia fixie succulents yuccie health goth. Snackwave poutine tumblr knausgaard master cleanse prism. +1 pickled chambray meditation flannel godard. Chillwave pour-over drinking vinegar bicycle rights, hell of mustache franzen skateboard health goth pickled umami.
+
+Chillwave keffiyeh tofu fashion axe. Man braid meggings meditation, typewriter health goth man bun vegan. Before they sold out pickled letterpress knausgaard hella. Taiyaki knausgaard roof party, lumbersexual pickled cloud bread post-ironic selvage listicle.
+
 
 ![IMG_7224.jpeg](/uploads/IMG_7224.jpeg)
 

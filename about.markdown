@@ -57,11 +57,11 @@ Matt’s contributed design and code to the following applications:
 * **[Question Box #10 - Matthew Bischoff (Kate's Partner!)](https://questionbox.libsyn.com/10-matthew-bischoff-kates-partner)** — September 2019
 * **[Off the Cuffs: 176 – Sipping the Sleepy Juice](https://www.offthecuffs.org/176-sipping-the-sleepy-juice/)** — September 2019
 * **[The Bed Post Podcast: Episode 193- Hypno Kinkster Matt](https://bedpost.libsyn.com/episode-193-hypno-kinkster-matt)** — August 2019
-* **[Consult Episode 17: Matthew Bischoff]**(https://consultpodcast.com/post/162366487707/episode-17-matthew-bischoff-experienced-ios) — June 2017
+* **[Consult Episode 17: Matthew Bischoff](https://consultpodcast.com/post/162366487707/episode-17-matthew-bischoff-experienced-ios)** — June 2017
 * **[The Dildorks Episode 136: Sir-ious Business](https://thedildorks.wordpress.com/portfolio/episode-136-sir-ious-business/)** — April 2019
 * **[NSNorth 2019, Episode 57: Matthew Bischoff](http://casgrain.net/podcasts/NSNorth_57-Matthew_Bischoff.mp3)** — April 2019
-* **[Úll Radio 10: Matthew Bischoff]**(https://podcasts.apple.com/us/podcast/10-matthew-bischoff/id1159509074?i=1000384292651)  — April 2017
-* **[MacStories Lounge WWD 2016: Matt Bischoff]**(https://www.macstories.net/stories/wwdc-2016-developer-reactions-the-macstories-interviews/#matt-bischoff)
+* **[Úll Radio 10: Matthew Bischoff](https://podcasts.apple.com/us/podcast/10-matthew-bischoff/id1159509074?i=1000384292651)**  — April 2017
+* **[MacStories Lounge WWD 2016: Matt Bischoff](https://www.macstories.net/stories/wwdc-2016-developer-reactions-the-macstories-interviews/#matt-bischoff)** — June 2016
 * **[Inquisitive #57: Favourite Album: Matthew Bischoff](https://www.relay.fm/inquisitive/57)** — November 2015
 * **[Release Notes #72: Matthew Bischoff](http://releasenotes.tv/72-matthew-bischoff/)** — September 2014
 * **[Inquisitive #7: We’re Better Than That](http://www.relay.fm/inquisitive/7)** — October 2014
@@ -69,7 +69,7 @@ Matt’s contributed design and code to the following applications:
 * **[CMD+Space #26: iOS 7 and Lickability](https://www.relay.fm/cmdspace/66)** — October 2013
 * **[Springboard #1: Matthew Bischoff](http://web.archive.org/web/20130809181910/http://springboardshow.com/episodes/1)** — March 2013
 * [**Developing Perspective: Matthew Bischoff**](http://developingperspective.com/2012/07/31/bischoff/) — July 2012
-* [Maccast 2011.06.24 – Lickability](https://www.maccast.com/2011/06/24/maccast-2011-06-24-lickability/) — June 2014
+* **[Maccast 2011.06.24 – Lickability](https://www.maccast.com/2011/06/24/maccast-2011-06-24-lickability/)** — June 2014
 * **[Enough #23: Quotebook](http://minimalmac.com/enough/#ep23)** — April 2011
 * **[GodCast: Matthew Bischoff Interview](http://www.godcast.org/categories/behindTheScenes/2005/02/08.html#a349)** —  February 2005
 * **[Leo Laporte’s The Tech Guy on KFI #104](http://web.archive.org/web/20060624004717/http://leoville.tv/radio/pmwiki.php/ShowNotes/Show104)** — December 2004

@@ -35,14 +35,14 @@ overflow: hidden;
 </style>
 <script src="https://www.goodreads.com/review/grid_widget/3162891.Matthew's%20bookshelf:%20currently-reading?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_started&widget_id=1585515205" type="text/javascript" charset="utf-8"></script>
 
-### Life
+## Life
 
 Usually, I live in New York City in a one-bedroom apartment in Gramercy. But at the beginning of the COVID-19 global pandemic, I realized I didn’t want to be isolated all alone. So, for the time being, I’m <strike>living</strike> quarantining in Toronto, Ontario with my partner Kate Sloan.
 
-### Work
+## Work
 
 
-## /Then
+# /Then
 
 One time in 2003, I was on [an episode of Jeopardy!](https://www.j-archive.com/showgame.php?game_id=3342) and lost very badly.
 

@@ -14,11 +14,11 @@ published: false
 
 ##### Header 5
 
-**This is bold text.**
-
 *This is italic text.*
 
-> This is a blockquote.
+**This is bold text.**
+
+> This is a blockquote. Some folks say a lot of words when they’re quoted.
 
 `Code Block`
 

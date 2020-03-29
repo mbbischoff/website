@@ -27,6 +27,7 @@ width: 100%;
 
 .gr_grid_book_container {
 /* customize book cover container div here */
+display: inline-block;
 width: 98px;
 height: 160px;
 padding: 20px 0px;

@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "@babel/core": "^7.5.5",
-    "@babel/preset-env": "^7.5.5",
-    "babel-loader": "^8.0.6",
-    "capitalize": "^2.0.0",
-    "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.6"
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "babel-loader": "^8.1.0",
+    "capitalize": "^2.0.3",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
   }
 }

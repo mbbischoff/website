@@ -28,20 +28,16 @@ padding: 0px 0px;
 overflow: hidden;
 }
 </style>
-<div id="gr_grid_widget_1585515055">
+<div id="gr_grid_widget_1585515205">
 <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
-<h2>
-<a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/3162891-matthew-bischoff?shelf=currently-reading&utm_medium=api&utm_source=grid_widget">Matthew's bookshelf: currently-reading</a>
-</h2>
 <div class="gr_grid_container">
 <div class="gr_grid_book_container"><a title="Sex with Shakespeare: Here's Much to Do with Pain, but More with Love" rel="nofollow" href="https://www.goodreads.com/book/show/29931092-sex-with-shakespeare"><img alt="Sex with Shakespeare: Here's Much to Do with Pain, but More with Love" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460871709l/29931092._SX98_.jpg" /></a></div>
 <div class="gr_grid_book_container"><a title="How to Do Nothing: Resisting the Attention Economy" rel="nofollow" href="https://www.goodreads.com/book/show/42973186-how-to-do-nothing"><img alt="How to Do Nothing: Resisting the Attention Economy" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543414494l/42973186._SX98_.jpg" /></a></div>
-<br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/3162891-matthew-bischoff">Matthew Bischoff's favorite books »</a>
 <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Matthew, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
 </div>
 
 </div>
-<script src="https://www.goodreads.com/review/grid_widget/3162891.Matthew's%20bookshelf:%20currently-reading?cover_size=medium&hide_link=&hide_title=&num_books=20&order=a&shelf=currently-reading&sort=date_started&widget_id=1585515055" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.goodreads.com/review/grid_widget/3162891.Matthew's%20bookshelf:%20currently-reading?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_started&widget_id=1585515205" type="text/javascript" charset="utf-8"></script>
 
 ## Living
 

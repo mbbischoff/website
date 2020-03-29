@@ -3,15 +3,13 @@ title: Now
 date: 2020-03-22 11:12:00 -04:00
 ---
 
-# Now
+# /Now
 
-This [Now page](https://sivers.org/nowff) was inspired by Derek Sivers. It covers the things I’m thinking about and working on, well, right now. *Last updated: March 29, 2020, from Toronto, ON.
+This [Now page](https://sivers.org/nowff) was inspired by Derek Sivers. It covers the things I’m thinking about and working on, well, right now. *Last updated: March 29, 2020, from Toronto, ON.*
 
 ## Photography
 
-I'm baby swag knausgaard subway tile kogi venmo. Vinyl enamel pin mixtape hashtag blog, gastropub chia fixie succulents yuccie health goth. Snackwave poutine tumblr knausgaard master cleanse prism. +1 pickled chambray meditation flannel godard. Chillwave pour-over drinking vinegar bicycle rights, hell of mustache franzen skateboard health goth pickled umami.
-
-Chillwave keffiyeh tofu fashion axe. Man braid meggings meditation, typewriter health goth man bun vegan. Before they sold out pickled letterpress knausgaard hella. Taiyaki knausgaard roof party, lumbersexual pickled cloud bread post-ironic selvage listicle.
+I’ve been focusing more on my photography recently. Here are the latest photos I’ve shared on [Instagram](http://instagram.com/mattb).
 
 <!-- SnapWidget -->
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
@@ -19,7 +17,7 @@ Chillwave keffiyeh tofu fashion axe. Man braid meggings meditation, typewriter h
 
 ## Books
 
-I'm baby swag knausgaard subway tile kogi venmo. Vinyl enamel pin mixtape hashtag blog, gastropub chia fixie succulents yuccie health goth. Snackwave poutine tumblr knausgaard master cleanse prism. +1 pickled chambray meditation flannel godard. Chillwave pour-over drinking vinegar bicycle rights, hell of mustache franzen skateboard health goth pickled umami.
+These are the books I’m reading right now. My [notes and highlights](https://www.goodreads.com/notes/3162891-matthew-bischoff?ref=rnlp) are available on Goodreads. If you’d like to recommend a book, [send me an email](mailto:mb@matthewbischoff.com?subject=Book%20Reccomendation).
 
 <style type="text/css" media="screen">
 .gr_grid_container {
@@ -39,21 +37,13 @@ overflow: hidden;
 
 ### Life
 
-I'm baby swag knausgaard subway tile kogi venmo. Vinyl enamel pin mixtape hashtag blog, gastropub chia fixie succulents yuccie health goth. Snackwave poutine tumblr knausgaard master cleanse prism. +1 pickled chambray meditation flannel godard. Chillwave pour-over drinking vinegar bicycle rights, hell of mustache franzen skateboard health goth pickled umami.
-
-Chillwave keffiyeh tofu fashion axe. Man braid meggings meditation, typewriter health goth man bun vegan. Before they sold out pickled letterpress knausgaard hella. Taiyaki knausgaard roof party, lumbersexual pickled cloud bread post-ironic selvage listicle.
+Usually, I live in New York City in a one-bedroom apartment in Gramercy. But at the beginning of the COVID-19 global pandemic, I realized I didn’t want to be isolated all alone. So for the time being I’m <strike>living</strike> quarantining in Toronto, Ontario with my partner Kate Sloan.
 
 ### Work
 
-I'm baby swag knausgaard subway tile kogi venmo. Vinyl enamel pin mixtape hashtag blog, gastropub chia fixie succulents yuccie health goth. Snackwave poutine tumblr knausgaard master cleanse prism. +1 pickled chambray meditation flannel godard. Chillwave pour-over drinking vinegar bicycle rights, hell of mustache franzen skateboard health goth pickled umami.
 
-Chillwave keffiyeh tofu fashion axe. Man braid meggings meditation, typewriter health goth man bun vegan. Before they sold out pickled letterpress knausgaard hella. Taiyaki knausgaard roof party, lumbersexual pickled cloud bread post-ironic selvage listicle.
+## /Then
 
-## Then
-
-I'm baby swag knausgaard subway tile kogi venmo. Vinyl enamel pin mixtape hashtag blog, gastropub chia fixie succulents yuccie health goth. Snackwave poutine tumblr knausgaard master cleanse prism. +1 pickled chambray meditation flannel godard. Chillwave pour-over drinking vinegar bicycle rights, hell of mustache franzen skateboard health goth pickled umami.
-
-Chillwave keffiyeh tofu fashion axe. Man braid meggings meditation, typewriter health goth man bun vegan. Before they sold out pickled letterpress knausgaard hella. Taiyaki knausgaard roof party, lumbersexual pickled cloud bread post-ironic selvage listicle.
-
+One time in 2003, I was on [an episode of Jeopardy!](https://www.j-archive.com/showgame.php?game_id=3342) and lost very badly.
 
 ![IMG_7224.jpeg](/uploads/IMG_7224.jpeg)

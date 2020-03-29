@@ -4,7 +4,8 @@ date: 2020-03-22 11:12:00 -04:00
 ---
 
 # Now
-*This [Now page](https://sivers.org/nowff) was inspired by Derek Sivers. It covers the things I’m thinking about and working on, well, right now.*
+
+This [Now page](https://sivers.org/nowff) was inspired by Derek Sivers. It covers the things I’m thinking about and working on, well, right now. *Last updated: March 29, 2020, from Toronto, ON.
 
 ## Photography
 
@@ -56,5 +57,3 @@ Chillwave keffiyeh tofu fashion axe. Man braid meggings meditation, typewriter h
 
 
 ![IMG_7224.jpeg](/uploads/IMG_7224.jpeg)
-
-*Updated March 22st, 2020, from Toronto, ON.*

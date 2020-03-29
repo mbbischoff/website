@@ -16,7 +16,7 @@ date: 2020-03-22 11:12:00 -04:00
 
 <style type="text/css" media="screen">
 .gr_grid_container {
-/* customize grid container div here. eg: width: 500px; */
+width: 100%;
 }
 
 .gr_grid_book_container {
@@ -29,8 +29,6 @@ overflow: hidden;
 }
 </style>
 <script src="https://www.goodreads.com/review/grid_widget/3162891.Matthew's%20bookshelf:%20currently-reading?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_started&widget_id=1585515205" type="text/javascript" charset="utf-8"></script>
-
-<br />
 
 ## Living
 

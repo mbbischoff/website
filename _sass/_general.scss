@@ -33,9 +33,28 @@ blockquote {
   border-left: 2px solid rgba($text-blue, .5);
 }
 
-h1, h2 {
+h1, h2, h3, h4, h5 {
   font-weight: 700;
+}
+
+h1 {
   font-size: 2.2em;
+}
+
+h2 {
+  font-size: 2.0em;
+}
+
+h3 {
+  font-size: 1.8em;
+}
+
+h4 {
+  font-size: 1.6em;
+}
+
+h5 {
+  font-size: 1.4em;
 }
 
 body {

@@ -9,9 +9,11 @@ This [Now page](https://sivers.org/nowff) was inspired by Derek Sivers. It cover
 
 ## Life
 
-Usually, I live in New York City in a one-bedroom apartment in Gramercy. But at the beginning of the COVID-19 global pandemic, I realized I didn’t want to be isolated all alone. So, for the time being, I’m <strike>living</strike> quarantining in Toronto, Ontario with my partner Kate Sloan.
+Usually, I live in New York City in a one-bedroom apartment in Gramercy. But near the beginning of the [COVID-19 global pandemic](https://en.wikipedia.org/wiki/Coronavirus_disease_2019), I realized I didn’t want to be isolated alone. So, for the time being, I’m self-quarantining in Toronto, Ontario with my incredibly gracious partner [Kate Sloan](https://twitter.com/Girly_Juice).
 
 ## Work
+
+My job as one of the partners at [Lickability](https://lickability.com) involves leading the team, setting product direction, keeping an eye on day-to-day operations, and talking to new and existing clients about what we can do for them. At the moment, I’m mostly focused on making sure the team has everything they need to work well remotely, managing the development of 2-3 iOS apps for clients, and readying our next app for release.
 
 ## Hobbies
 
@@ -44,7 +46,6 @@ overflow: hidden;
 }
 </style>
 <script src="https://www.goodreads.com/review/grid_widget/3162891.Matthew's%20bookshelf:%20currently-reading?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_started&widget_id=1585515205" type="text/javascript" charset="utf-8"></script>
-
 
 # /Then
 

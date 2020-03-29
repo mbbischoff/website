@@ -37,7 +37,7 @@ overflow: hidden;
 
 ### Life
 
-Usually, I live in New York City in a one-bedroom apartment in Gramercy. But at the beginning of the COVID-19 global pandemic, I realized I didn’t want to be isolated all alone. So for the time being I’m <strike>living</strike> quarantining in Toronto, Ontario with my partner Kate Sloan.
+Usually, I live in New York City in a one-bedroom apartment in Gramercy. But at the beginning of the COVID-19 global pandemic, I realized I didn’t want to be isolated all alone. So, for the time being, I’m <strike>living</strike> quarantining in Toronto, Ontario with my partner Kate Sloan.
 
 ### Work
 

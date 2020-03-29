@@ -36,18 +36,17 @@ overflow: hidden;
 </style>
 <script src="https://www.goodreads.com/review/grid_widget/3162891.Matthew's%20bookshelf:%20currently-reading?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_started&widget_id=1585515205" type="text/javascript" charset="utf-8"></script>
 
-## Living
+### Life
 
 I'm baby swag knausgaard subway tile kogi venmo. Vinyl enamel pin mixtape hashtag blog, gastropub chia fixie succulents yuccie health goth. Snackwave poutine tumblr knausgaard master cleanse prism. +1 pickled chambray meditation flannel godard. Chillwave pour-over drinking vinegar bicycle rights, hell of mustache franzen skateboard health goth pickled umami.
 
 Chillwave keffiyeh tofu fashion axe. Man braid meggings meditation, typewriter health goth man bun vegan. Before they sold out pickled letterpress knausgaard hella. Taiyaki knausgaard roof party, lumbersexual pickled cloud bread post-ironic selvage listicle.
 
-## Working
+### Work
 
 I'm baby swag knausgaard subway tile kogi venmo. Vinyl enamel pin mixtape hashtag blog, gastropub chia fixie succulents yuccie health goth. Snackwave poutine tumblr knausgaard master cleanse prism. +1 pickled chambray meditation flannel godard. Chillwave pour-over drinking vinegar bicycle rights, hell of mustache franzen skateboard health goth pickled umami.
 
 Chillwave keffiyeh tofu fashion axe. Man braid meggings meditation, typewriter health goth man bun vegan. Before they sold out pickled letterpress knausgaard hella. Taiyaki knausgaard roof party, lumbersexual pickled cloud bread post-ironic selvage listicle.
-
 
 ## Then
 

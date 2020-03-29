@@ -54,6 +54,7 @@ Matt’s contributed design and code to the following applications:
 
 ### Podcasts
 
+* **[The Dildorks Episode 176: Love in the Time of Collars](https://thedildorks.wordpress.com/portfolio/episode-176-love-in-the-time-of-collars/)** — February 2020
 * **[Question Box #10 - Matthew Bischoff (Kate's Partner!)](https://questionbox.libsyn.com/10-matthew-bischoff-kates-partner)** — September 2019
 * **[Off the Cuffs: 176 – Sipping the Sleepy Juice](https://www.offthecuffs.org/176-sipping-the-sleepy-juice/)** — September 2019
 * **[The Bed Post Podcast: Episode 193- Hypno Kinkster Matt](https://bedpost.libsyn.com/episode-193-hypno-kinkster-matt)** — August 2019

@@ -14,6 +14,7 @@ date: 2020-03-22 11:12:00 -04:00
 <iframe src="https://snapwidget.com/embed/807385" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
 
 ## Reading
+
 <style type="text/css" media="screen">
 .gr_grid_container {
 /* customize grid container div here. eg: width: 500px; */

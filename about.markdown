@@ -68,7 +68,7 @@ Matt’s contributed design and code to the following applications:
 * **[CMD+Space #101: Own your identity](https://www.relay.fm/cmdspace/101)** — June 2014
 * **[CMD+Space #26: iOS 7 and Lickability](https://www.relay.fm/cmdspace/66)** — October 2013
 * **[Springboard #1: Matthew Bischoff](http://web.archive.org/web/20130809181910/http://springboardshow.com/episodes/1)** — March 2013
-* [**Developing Perspective: Matthew Bischoff**](http://developingperspective.com/2012/07/31/bischoff/) — July 2012
+* **[Developing Perspective: Matthew Bischoff](http://developingperspective.com/2012/07/31/bischoff/)** — July 2012
 * **[Maccast 2011.06.24 – Lickability](https://www.maccast.com/2011/06/24/maccast-2011-06-24-lickability/)** — June 2014
 * **[Enough #23: Quotebook](http://minimalmac.com/enough/#ep23)** — April 2011
 * **[GodCast: Matthew Bischoff Interview](http://www.godcast.org/categories/behindTheScenes/2005/02/08.html#a349)** —  February 2005

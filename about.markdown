@@ -58,9 +58,9 @@ Matt’s contributed design and code to the following applications:
 * **[Question Box #10 - Matthew Bischoff (Kate's Partner!)](https://questionbox.libsyn.com/10-matthew-bischoff-kates-partner)** — September 2019
 * **[Off the Cuffs: 176 – Sipping the Sleepy Juice](https://www.offthecuffs.org/176-sipping-the-sleepy-juice/)** — September 2019
 * **[The Bed Post Podcast: Episode 193- Hypno Kinkster Matt](https://bedpost.libsyn.com/episode-193-hypno-kinkster-matt)** — August 2019
-* **[Consult Episode 17: Matthew Bischoff](https://consultpodcast.com/post/162366487707/episode-17-matthew-bischoff-experienced-ios)** — June 2017
 * **[The Dildorks Episode 136: Sir-ious Business](https://thedildorks.wordpress.com/portfolio/episode-136-sir-ious-business/)** — April 2019
 * **[NSNorth 2019, Episode 57: Matthew Bischoff](http://casgrain.net/podcasts/NSNorth_57-Matthew_Bischoff.mp3)** — April 2019
+* **[Consult Episode 17: Matthew Bischoff](https://consultpodcast.com/post/162366487707/episode-17-matthew-bischoff-experienced-ios)** — June 2017
 * **[Úll Radio 10: Matthew Bischoff](https://podcasts.apple.com/us/podcast/10-matthew-bischoff/id1159509074?i=1000384292651)**  — April 2017
 * **[MacStories Lounge WWD 2016: Matt Bischoff](https://www.macstories.net/stories/wwdc-2016-developer-reactions-the-macstories-interviews/#matt-bischoff)** — June 2016
 * **[Inquisitive #57: Favourite Album: Matthew Bischoff](https://www.relay.fm/inquisitive/57)** — November 2015

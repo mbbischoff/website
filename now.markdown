@@ -57,13 +57,13 @@ width: 100%;
 .gr_grid_book_container {
 /* customize book cover container div here */
 display: inline-block;
-width: 147px;
-height: 240px;
+width: 98px;
+height: 160px;
 padding: 0px 20px 0px 0px;
 overflow: hidden;
 }
 </style>
-<script src="https://www.goodreads.com/review/grid_widget/3162891.Matthew's%20currently-reading%20book%20montage?cover_size=large&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_added&widget_id=1585539912" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.goodreads.com/review/grid_widget/3162891.Matthew's%20currently-reading%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_added&widget_id=1585539912" type="text/javascript" charset="utf-8"></script>
 
 # /Then
 

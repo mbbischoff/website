@@ -3,6 +3,7 @@ title: Now
 date: 2020-03-30 10:12:00 -04:00
 position: 1
 place: Toronto, ON
+image: "/uploads/latest-selfie.jpeg"
 ---
 
 # Now

@@ -16,7 +16,7 @@ This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](htt
 
 ## Life 👱🏻
 
-Usually, I in a one-bedroom apartment in Manhattan. But near the beginning of the [COVID-19 global pandemic](https://en.wikipedia.org/wiki/Coronavirus_disease_2019), I realized I didn’t want to be isolated alone. So, for the time being, I’m self-quarantining in Toronto with my incredibly gracious partner [Kate Sloan](https://twitter.com/Girly_Juice). I’m scratching my various extrovert itches by playing [Jackbox](https://jackboxgames.com) with friends, hanging out on [Houseparty](https://houseparty.com/add/mattbischoff), attending [virtual events](http://risk-show.com), and calling my parents.
+Usually, I live in a one-bedroom apartment in Manhattan. But near the beginning of the [COVID-19 global pandemic](https://en.wikipedia.org/wiki/Coronavirus_disease_2019), I realized I didn’t want to be isolated alone. So, for the time being, I’m self-quarantining in Toronto with my incredibly gracious partner [Kate Sloan](https://twitter.com/Girly_Juice). I’m scratching my various extrovert itches by playing [Jackbox](https://jackboxgames.com) with friends, hanging out on [Houseparty](https://houseparty.com/add/mattbischoff), attending [virtual events](http://risk-show.com), and calling my parents.
 
 ### Feelings 🙍🏼
 

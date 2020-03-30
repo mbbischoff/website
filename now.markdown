@@ -7,7 +7,7 @@ place: Toronto, ON
 
 # Now
 
-**Updated:** {{ page.date }} from {{ page.place }}*
+**Updated:** * {{ page.date | date: '%B %d, %Y' }} from {{ page.place }}*
 
 This page is [inspired by Derek Sivers](https://sivers.org/nowff). It covers the things I’m thinking, feeling, and working on, well, right now.
 

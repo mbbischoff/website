@@ -27,7 +27,7 @@ Based on [The Theme System](https://www.thethemesystem.com), which I learned abo
 
 ## Work 👅
 
-My job as one of the partners at [Lickability](https://lickability.com) involves leading the team, setting product direction, helping with day-to-day operations, and talking to new and existing clients about what we can do for them. At the moment, I’m mostly focused on making sure the team has everything they need to work well remotely, managing the development of 2 iOS apps for clients, and readying our next app, Scorecard, for release. [Join the beta here](https://testflight.apple.com/join/bkjqS6h4).
+My job as one of the partners at [Lickability](https://lickability.com) involves leading the team, setting product direction, helping with day-to-day operations, and talking to new and existing clients about what we can do for them. At the moment, I’m mostly focused on making sure our employees have everything they need to work well remotely, managing the development of 2 iOS apps for clients, and readying our next app, Scorecard, for release. [Join the beta here](https://testflight.apple.com/join/bkjqS6h4).
 
 ### App Critique 🧐
 

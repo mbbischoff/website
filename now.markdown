@@ -41,7 +41,7 @@ Working on a new talk about Accessibility for [App Builders CH](https://appbuild
 
 ## Media 💻
 
-## Photography 📷
+### Photography 📷
 
 I’ve been focusing a bit more on photography recently. Here are the latest photos I’ve shared on [Instagram](http://instagram.com/mattb).
 

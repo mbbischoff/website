@@ -9,6 +9,8 @@ date: 2020-03-22 11:12:00 -04:00
 
 This page is [inspired by Derek Sivers](https://sivers.org/nowff). It covers the things I’m thinking, feeling, and working on, well, right now.
 
+![latest-selfie.jpeg](/uploads/latest-selfie.jpeg)
+
 ## Life 👱🏻
 
 Usually, I in a one-bedroom apartment in Manhattan. But near the beginning of the [COVID-19 global pandemic](https://en.wikipedia.org/wiki/Coronavirus_disease_2019), I realized I didn’t want to be isolated alone. So, for the time being, I’m self-quarantining in Toronto, Ontario with my incredibly gracious partner [Kate Sloan](https://twitter.com/Girly_Juice). I’m scratching my various extrovert itches by playing [Jackbox](https://jackboxgames.com) with friends, hanging out on [Houseparty](https://houseparty.com/add/mattbischoff), attending [virtual events](http://risk-show.com), and calling my parents.
@@ -51,7 +53,7 @@ I’ve been focusing a bit more on photography recently. Here are the latest pho
 
 ### Bookmarks 📌
 
-<script language="javascript" src="http://pinboard.in//widgets/v1/linkroll/?user=mattb&count=5"></script>
+<script language="javascript" src="https://pinboard.in//widgets/v1/linkroll/?user=mattb&count=5"></script>
 
 ### Podcasts 🎙
 

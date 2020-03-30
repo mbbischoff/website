@@ -53,7 +53,7 @@ I’ve been focusing a bit more on photography recently. Here are the latest pho
 
 ### Bookmarks 📌
 
-I love the internet and have collected [thousands of bookmarks](https://pinboard.in/u:mattb) on [Pinboard](https://pinboard.in/). Here are the latest 5:
+I love the internet and organize [my bookmarks](https://pinboard.in/u:mattb) on [Pinboard](https://pinboard.in/). Here are the latest 5:
 
 <script language="javascript" src="https://pinboard.in//widgets/v1/linkroll/?user=mattb&count=5"></script>
 

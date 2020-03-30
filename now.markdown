@@ -45,7 +45,7 @@ If you’d like your app design scrutinized, [fill out this form](https://matthe
 
 ### Talks 🗣
 
-Working on a new talk about Accessibility for [App Builders CH](https://appbuilders.ch). I was excited to visit Switzerland for the first time in May, but now I’m psyched to be participating in their first remote event and giving folks stuck at home a great show.
+Working on a new talk about Accessibility for [App Builders CH](https://appbuilders.ch). I was excited about the chance to visit Switzerland for the first time in May, but now I’m psyched to be participating in their first remote event and giving folks stuck at home a great show.
 
 ## Media 💻
 

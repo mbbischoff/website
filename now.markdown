@@ -25,7 +25,7 @@ Based on [The Theme System](https://www.thethemesystem.com), which I learned abo
 
 * Do things all the way. Finish them. Get them right. ✅
 * Commit to a few things rather than half-assing many. 🧠
-* Dedicate your time, attention, and money to worthy projects, people, and ideas. ⏰
+* Dedicate my time, attention, and money to worthy projects, people, and ideas. ⏰
 
 ## Work 👅
 

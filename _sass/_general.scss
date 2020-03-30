@@ -124,3 +124,20 @@ iframe {
   max-width: 700px;
   padding: 0px 20px;
 }
+
+
+.pin-title {
+  font-size:1em;
+  text-decoration:none;
+  color $text-blue;
+}
+
+.pin-description {
+  color: $text-white;
+}
+
+.pin-tag {
+  color: rgba($text-white, .5);
+  text-decoration:none;
+  font-size:0.9em;
+}

@@ -49,6 +49,10 @@ I’ve been focusing a bit more on photography recently. Here are the latest pho
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
 <iframe src="https://snapwidget.com/embed/807385" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
 
+### Bookmarks 📌
+
+<script language="javascript" src="http://pinboard.in//widgets/v1/linkroll/?user=mattb&count=5"></script>
+
 ### Podcasts 🎙
 
 I love listening to (and guesting on) podcasts, but I’m chronically behind on my backlog of shows because I oversubscribe. Some shows I’m binging lately: [Gender Reveal](https://www.genderpodcast.com), [Do By Friday](http://dobyfriday.com), [The Heart](https://www.theheartradio.org) (it’s back!), and [You’re Wrong About](https://podcasts.apple.com/podcast/youre-wrong-about/id1380008439).

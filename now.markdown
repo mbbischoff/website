@@ -10,7 +10,7 @@ image: "/uploads/latest-selfie.jpeg"
 
 **Updated:** *{{ page.date | date: '%B %d, %Y' }} from {{ page.place }}*
 
-This *[now page](http://nownownow.com)* is [inspired by Derek Sivers](https://sivers.org/nowff). It covers the things I’m thinking, feeling, and working on, well, right now.
+This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](https://sivers.org/nowff). It covers the things I’m thinking, feeling, and working on, well, right now.
 
 ![latest-selfie.jpeg](/uploads/latest-selfie.jpeg)
 

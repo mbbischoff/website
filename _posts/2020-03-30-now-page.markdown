@@ -1,0 +1,29 @@
+---
+title: Now Page
+date: 2020-03-30 12:21:00 -04:00
+categories:
+- tech
+- shorter
+tags:
+- now
+- derek sivers
+- nownownow
+- page
+- meta
+- website
+image: "/uploads/latest-selfie.jpeg"
+description: I finally had some *(quaran)*time to make one this weekend, so if you’re
+  ever curious what I’m up to, you can now visit [/now](https://matthewbischoff.com/now).
+format: link
+link: https://matthewbischoff.com/now
+---
+
+Since starting on the site redesign last year, I’ve known I wanted the website to have a [*now page*](https://nownownow.com/about):
+
+> Most websites have a link that says “about”. It goes to a page that tells you something about the background of this person or business. For short, people just call it an “about page”.
+> 
+> Most websites have a link that says “contact”. It goes to a page that tells you how to contact this person or business. For short, people just call it a “contact page”.
+> 
+> So a website with a link that says “now” goes to a page that tells you what this person is focused on at this point in their life. For short, we call it a “now page”.
+
+I finally had some *(quaran)*time to make one this weekend, so if you’re ever curious what I’m up to, you can now visit [/now](https://matthewbischoff.com/now).

@@ -1,11 +1,13 @@
 ---
 title: Now
-date: 2020-03-22 11:12:00 -04:00
+date: 2020-03-30 10:12:00 -04:00
+position: 1
+place: Toronto, ON
 ---
 
 # Now
 
-**Updated:** *March 29, 2020 from Toronto, ON*
+**Updated:** {{ page.date }} from {{ page.place }}*
 
 This page is [inspired by Derek Sivers](https://sivers.org/nowff). It covers the things I’m thinking, feeling, and working on, well, right now.
 
@@ -19,7 +21,7 @@ Usually, I in a one-bedroom apartment in Manhattan. But near the beginning of th
 
 I’m a little down right now because I miss my city, my friends, and working beside all the talented people at Lickability. But I’m also really glad to be spending so much time with Kate. And grateful that I’m not sick and have everything I need to live and work from here.
 
-### Gender ⚧
+### Gender 🤷🏼
 
 I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) less than a year ago, and I’m still exploring my [gender identity](https://en.wikipedia.org/wiki/Gender_identity) and [expression](https://en.wikipedia.org/wiki/Gender_expression). New clothes, shoes, makeup, and ways of seeing myself and the world.
 

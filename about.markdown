@@ -1,6 +1,7 @@
 ---
 title: About
 permalink: "/about/"
+position: 0
 image: "/uploads/matthew-profile-43.jpeg"
 layout: page
 ---

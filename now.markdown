@@ -27,11 +27,11 @@ I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) les
 
 ### 2020 Theme: Commit 🤝
 
-Based on [The Theme System](https://www.thethemesystem.com), which I learned about through the [Cortex](http://cortex.fm) podcast, I choose a yearly theme. This year’s theme is **Commit** which means this year I want to:
+Based on [The Theme System](https://www.thethemesystem.com), which I learned about through the [Cortex](http://cortex.fm) podcast, I choose a yearly theme. This year’s theme is **Commit** which means this year I aim to:
 
 * Do things all the way. Finish them. Get them right. ✅
 * Commit to a few things rather than half-assing many. 🧠
-* Dedicate my time, attention, and money to worthy projects, people, & ideas. ⏰
+* Dedicate time, attention, and money to worthy projects, people, & ideas. ⏰
 
 ## Work 👅
 

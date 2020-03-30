@@ -31,7 +31,7 @@ Based on [The Theme System](https://www.thethemesystem.com), which I learned abo
 
 * Do things all the way. Finish them. Get them right. ✅
 * Commit to a few things rather than half-assing many. 🧠
-* Dedicate my time, attention, and money to worthy projects, people, and ideas. ⏰
+* Dedicate my time, attention, and money to worthy projects, people, & ideas. ⏰
 
 ## Work 👅
 
@@ -39,7 +39,7 @@ My job as one of the partners at [Lickability](https://lickability.com) involves
 
 ### App Critique 🧐
 
-Just [re-started a project project](https://twitter.com/mb/status/1243632324329254914) I first did in 2016 called App Critique. The goal is to show how I evaluate the design of software with short video design reviews.
+Just [re-started a project](https://twitter.com/mb/status/1243632324329254914) I first did in 2016 called App Critique. The goal is to show how I evaluate the design of software with short video design reviews.
 
 If you’d like your app design scrutinized, [fill out this form](https://matthewbischoff.typeform.com/to/RjX8si). Preference will be given to indie devs and small companies.
 

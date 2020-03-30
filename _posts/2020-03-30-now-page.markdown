@@ -18,7 +18,7 @@ format: link
 link: https://matthewbischoff.com/now
 ---
 
-Since starting on the site redesign last year, I’ve known I wanted the website to have a [*now page*](https://nownownow.com/about):
+Since starting on the site redesign last year, I’ve known I wanted the website to have a *[now page](https://nownownow.com/about)*:
 
 > Most websites have a link that says “about”. It goes to a page that tells you something about the background of this person or business. For short, people just call it an “about page”.
 > 

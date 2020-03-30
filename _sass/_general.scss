@@ -8,7 +8,7 @@ a {
   text-decoration: none;
   
   /* border-bottom:1px rgba($text-blue, .3) solid;
-  padding-bottom: 1px;  Bring back later. */ 
+  padding-bottom: 1px;  TODO: Bring back later. */ 
 
 
   &:hover {
@@ -24,6 +24,10 @@ p, ul {
   @media (max-width: $max-mobile-width) {
     font-size: 17px;
     line-height: 27px;
+  }
+  
+  a {
+    font-weight: 500;
   }
 }
 

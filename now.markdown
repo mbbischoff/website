@@ -5,7 +5,7 @@ date: 2020-03-22 11:12:00 -04:00
 
 # /Now
 
-**Last updated:** *March 29, 2020 in Toronto, ON.*
+**Last updated:** *March 29, 2020 in Toronto.*
 
 This page is [inspired by Derek Sivers](https://sivers.org/nowff). It covers the things I’m thinking, feeling, and working on, well, right now.
 

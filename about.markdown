@@ -117,7 +117,7 @@ You can find Matt online in various places, by various usernames:
 😸 [Product Hunt](https://www.producthunt.com/@mb)  
 🥞 [YourStack](https://yourstack.com/@mb)
 
-# Colophon
+## Colophon
 
 This website was designed by [Robyn Kanner](https://robynkanner.com) and developed by [Martin Giannakopoulos](https://www.linkedin.com/in/martin-giannakopoulos-2258a0134?originalSubdomain=ca). It’s published with [Jekyll](https://jekyllrb.com) and managed in [Siteleaf](https://www.siteleaf.com). The content is hosted in a [GitHub repository](https://github.com/mattbischoff/matthewbischoff.com) on [GitHub Pages](https://pages.github.com). Posts are written in [Ulysses](https://ulysses.app).
 

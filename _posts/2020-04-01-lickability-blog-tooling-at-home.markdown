@@ -21,6 +21,6 @@ format: link
 link: https://lickability.com/blog/tooling-at-home/
 ---
 
-> In the midst of the COVID-19 global pandemic, Lickability moved all its operations remote on March 10th. At this point, we’ve had a few weeks of working together remotely to figure out what works best for our little studio. While there are lots of great guides on how to work remote from companies like Notion, Zapier, and Slack, we thought share some of the specific tools we’re using to make this easier for our team. Hopefully, if you’re a newly remote employee or manager, you’ll see something here that can help smooth out a part of your workflow.
+> While there are lots of great guides on how to work remote from companies like Notion, Zapier, and Slack, we thought share some of the specific tools we’re using to make this easier for our team. Hopefully, if you’re a newly remote employee or manager, you’ll see something here that can help smooth out a part of your workflow.
 
 I wrote a new blog post over on the [Lickability blog](https://lickability.com/blog/) about the new tools we’re using to work from home better and some tips about _how_ we’re using them. 🛋

@@ -1,5 +1,5 @@
 ---
-title: "\U0001F4F1\U0001F9D0 App Critique: Learn Your Lines!"
+title: 'App Critique: Learn Your Lines!'
 date: 2020-04-01 13:28:00 -04:00
 categories:
 - tech

@@ -28,7 +28,7 @@ header {
 
   nav#page-links {
     a { color: $text-blue; font-size: 20px; }
-    div > a:nth-child(3) { margin: 0px 17px; } // middle link
+    div > a { margin: 0px 17px; } // middle link
 
     display: flex;
     justify-content: space-between;

@@ -25,7 +25,7 @@ color: purple
 link: https://gimletmedia.com/shows/reply-all/o2h8bx/158-the-case-of-the-missing-hit
 ---
 
-<iframe scrolling="no" allow="autoplay" frameborder="no" width="100%" height="130" style="border-radius: 3px; height: 130px; width: 100%; box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.15);" src="https://player.gimletmedia.com/o2h8bx"></iframe>
+<iframe scrolling="no" allow="autoplay" width="100%" height="130" style="border-radius: 3px; height: 130px; width: 100%; box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.15);" src="https://player.gimletmedia.com/o2h8bx"></iframe>
 
 > A man in California is haunted by the memory of a pop song from his youth. He can remember the lyrics and the melody. But the song itself has vanished, completely scrubbed from the internet. PJ takes on the Super Tech Support case.
 

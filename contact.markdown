@@ -26,6 +26,6 @@ Here are the best ways to get in touch:
 
 If you’d like to communicate me in an encrypted manner:
 
-💬 Text me on Telegram at [matthewbischoff](http://t.me/matthewbischoff)  
+💬 Text me on Telegram at [matthewbischoff](https://t.me/matthewbischoff)  
 🔑  Chat with me via Keybase at [matthewbischoff](https://keybase.io/matthewbischoff).  
 🔏  Send encrypted email with my [GPG key](/matthewbischoff.gpg). *Reminder: make sure I have your public key.*

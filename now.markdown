@@ -52,7 +52,7 @@ Working on a new talk about Accessibility for [App Builders CH](https://appbuild
 
 ### Photography 📷
 
-I’ve been focusing a bit more on photography recently. Here are the latest photos I’ve shared on [Instagram](http://instagram.com/mattb).
+I’ve been focusing a bit more on photography recently. Here are the latest photos I’ve shared on [Instagram](https://instagram.com/mattb).
 
 <!-- SnapWidget -->
 <script src="https://snapwidget.com/js/snapwidget.js"></script>

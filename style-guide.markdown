@@ -14,7 +14,7 @@ position: 3
 
 ##### Header 5
 
-This is an example of a regular paragraph of text. No styling has been applied to this text. Here is a [link](http://matthewbischoff.com).
+This is an example of a regular paragraph of text. No styling has been applied to this text. Here is a [link](https://matthewbischoff.com).
 
 *This is an example of italic text.*
 

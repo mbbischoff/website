@@ -18,7 +18,7 @@ layout: default
     <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
       <a href="{{ page.link }}">{{ page.date | date: "%B %-d, %Y" }}</a>
     </time>   
-    <h2><a href="{{ page.link }}" target="_blank">{{ page.title }}&nbsp;→</a></h2>
+    <h2><a href="{{ page.link }}" target="_blank" rel="noopener">{{ page.title }}&nbsp;→</a></h2>
 
     {{ page.content }}
   </div>

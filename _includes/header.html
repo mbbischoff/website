@@ -14,6 +14,12 @@
         {% else %}
           <a href="/about">About</a>
         {% endif %}
+        
+         {% if page.url == "/contact/" %}
+          <a href="/contact" class="text-weight-bold">About</a>
+        {% else %}
+          <a href="/contact">Contact</a>
+        {% endif %}
 
         {% if page.url == "/now/" %}
           <a href="/now" class="text-weight-bold">Now</a>
@@ -65,6 +71,7 @@
   <div>
     <a href="/" class="text-weight-bold">Home</a>
     <a href="/about">About</a>
+    <a href="/about">Contact</a>
     <a href="/now">Now</a> 
     <a href="https://lickability.com/">Lickability →</a>
   </div>

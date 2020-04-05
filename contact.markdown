@@ -1,7 +1,10 @@
 ---
 title: Contact
 date: 2020-04-05 10:41:00 -04:00
+position: 2
 image: "/uploads/nomad.jpeg"
+description: I’m an extrovert who loves hearing from old friends and making new ones.
+  Here are the best ways to get in touch.
 ---
 
 # Contact
@@ -26,4 +29,3 @@ If you’d like to communicate me in an encrypted manner:
 💬 Text me on Telegram at [matthewbischoff](http://t.me/matthewbischoff)  
 🔑  Chat with me via Keybase at [matthewbischoff](https://keybase.io/matthewbischoff).  
 🔏  Send encrypted email with my [GPG key](/matthewbischoff.gpg). *Reminder: make sure I have your public key.*
-

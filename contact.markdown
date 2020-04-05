@@ -19,7 +19,7 @@ Here are the best ways to get in touch:
 📲 Send me a text at <a href="sms:+16097060597">+1 (609) 706-0597</a>.  
 🗓 Schedule a [30 minute call](https://calendly.com/matthewbischoff/30-minute-call).  
 
-## Encrypted Options 🔐
+### Encrypted Options 🔐
 
 If you’d like to communicate me in an encrypted manner:
 

@@ -24,9 +24,6 @@ If you prefer to send PGP-encrypted email, you can encrypt your message with my 
 
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: https://keybase.io/download
-Version: Keybase Go 5.3.0 (darwin)
-
 xsFNBF56KRoBEAC9FhO157sCoLGo0KTNGGj1Jbgye0wlgydA4BnqMiY31KlMIC5i
 Ab6km9qKgfdcwc7WKtUYmsYyfv38uTPJwIBTPBP9iFtrQOSAU7XZYh0iLpvklyJo
 jRNJGYV/GSlTrBK9GI9kyP03/B/xD2Eb/vNq5fwMtM6iUeqeZTx7bi/8Ie08Zzdn

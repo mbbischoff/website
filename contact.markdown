@@ -11,10 +11,10 @@ I’m an extrovert, and I love hearing from old friends and meeting new ones. I 
 
 The easiest ways to get in touch:
 
-🐦 DM me on Twitter at [@mb](https://twitter.com/mb).  
-📧 Email me at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com).  
-📲 Send me a text at <a href="tel:+16097060597">+1 (609) 706-0597</a>.  
-🗓 Schedule a [30 minute call](https://calendly.com/matthewbischoff/30-minute-call).  
+🐦  DM me on Twitter at [@mb](https://twitter.com/mb).  
+📧  Email me at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com).  
+📲  Send me a text at <a href="tel:+16097060597">+1 (609) 706-0597</a>.  
+🗓  Schedule a [30 minute call](https://calendly.com/matthewbischoff/30-minute-call).  
 
 ## Encrypted Options
 

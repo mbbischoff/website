@@ -95,10 +95,6 @@ Matt’s contributed design and code to the following applications:
 * **[The New New Podcast Review](http://web.archive.org/web/20070814221338/http://podcastreviews.net/archives/podcast_review/podcast_review_esc_from_the_world_radio.html)** — October 2004
 * **[Leo Laporte: Podcaster Feed is Up](https://leolaporte.com/2004/10/04/podcaster_feed_is_up/)** — October 2004
 
-## Contact
-
-Matt’s an extrovert, and they’d love to hear from you. Follow them on Twitter at [@mb](https://twitter.com/mb), email them at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com), or give them a call at <a href="tel:+16097060597">+1 (609) 706-0597</a>.
-
 ### Elsewhere
 
 You can find Matt online in various places, by various usernames:

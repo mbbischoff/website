@@ -97,10 +97,11 @@ Matt’s contributed design and code to the following applications:
 
 ### Elsewhere
 
-You can find Matt online in various places, by various usernames:
+You can [contact Matt here](/contact) or find them online in all of these places:
 
 🐦 [Twitter](https://twitter.com/mb)  
 📷 [Instagram](https://instagram/mattb)  
+📺 [YouTube](https://youtube.com/matthewbischoffdotcom)  
 👍 [Facebook](https://facebook.com/matthewbischoff)  
 💼 [LinkedIn](https://www.linkedin.com/in/matthewbischoff)   
 🐙 [GitHub](https://github.com/mattbischoff)  

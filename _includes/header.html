@@ -15,17 +15,18 @@
           <a href="/about">About</a>
         {% endif %}
         
-         {% if page.url == "/contact/" %}
-          <a href="/contact" class="text-weight-bold">Contact</a>
-        {% else %}
-          <a href="/contact">Contact</a>
-        {% endif %}
-
         {% if page.url == "/now/" %}
           <a href="/now" class="text-weight-bold">Now</a>
         {% else %}
           <a href="/now">Now</a>
         {% endif %}         
+        
+        {% if page.url == "/contact/" %}
+          <a href="/contact" class="text-weight-bold">Contact</a>
+        {% else %}
+          <a href="/contact">Contact</a>
+        {% endif %}
+
       </div>
       <a href="https://lickability.com/" class="desktop-only">Lickability</a>
     </nav>
@@ -67,12 +68,12 @@
 </header>
 
 <div id="mobile-menu">
-  <img alt="Close button" id="close-mobile-menu" src="/uploads/close.svg" alt="Close">
+  <img alt="Close button" id="close-mobile-menu" src="/uploads/close.svg">
   <div>
     <a href="/" class="text-weight-bold">Home</a>
     <a href="/about">About</a>
-    <a href="/about">Contact</a>
     <a href="/now">Now</a> 
+    <a href="/about">Contact</a>
     <a href="https://lickability.com/">Lickability →</a>
   </div>
 </div>

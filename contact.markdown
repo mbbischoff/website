@@ -14,15 +14,16 @@ Need a conversation starter? Here’s [what I’m up to now](https://matthewbisc
 
 Here are the best ways to get in touch:
 
-🐦  DM me on Twitter at [@mb](https://twitter.com/mb).  
-📧  Email me at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com).  
-📲  Send me a text at <a href="tel:+16097060597">+1 (609) 706-0597</a>.  
-🗓  Schedule a [30 minute call](https://calendly.com/matthewbischoff/30-minute-call).  
+🐦 [Mention](https://twitter.com/intent/tweet?screen_name=mb) or [direct message](https://twitter.com/messages/compose?recipient_id=5107) me on Twitter at [@mb](https://twitter.com/mb).  
+📧 Email me at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com?subject=👋).  
+📲 Send me a text at <a href="sms:+16097060597">+1 (609) 706-0597</a>.  
+🗓 Schedule a [30 minute call](https://calendly.com/matthewbischoff/30-minute-call).  
 
 ## Encrypted Options 🔐
 
-If you’d like to communicate me in an encrypted manner, you can:
+If you’d like to communicate me in an encrypted manner:
 
-💬  Reach me on Telegram at [matthewbischoff](http://t.me/matthewbischoff).  
+💬 Text me on Telegram at [matthewbischoff](http://t.me/matthewbischoff)  
 🔑  Chat with me via Keybase at [matthewbischoff](https://keybase.io/matthewbischoff).  
-🔏  Send encrypted email with my [GPG public key](/matthewbischoff.gpg). Just remember to let me know how to find your public key through a non-encrypted channel.
+🔏  Send encrypted email with my [GPG key](/matthewbischoff.gpg). *Reminder: make sure I have your public key.*
+

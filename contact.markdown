@@ -9,7 +9,9 @@ date: 2020-04-05 10:41:00 -04:00
 
 I’m an extrovert, and I love hearing from old friends and meeting new ones. I really enjoy having conversations with folks new to the technology industry or people that want to collaborate on creative projects. While I try to get back to everyone who reaches out, it may take me a few days if things are particularly busy.
 
-The easiest ways to get in touch:
+Need a conversation starter? Here’s [what I’m up to now](https://matthewbischoff.com/now/).
+
+Here are the best ways to get in touch:
 
 🐦  DM me on Twitter at [@mb](https://twitter.com/mb).  
 📧  Email me at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com).  

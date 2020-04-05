@@ -1,13 +1,14 @@
 ---
 title: Contact
 date: 2020-04-05 10:41:00 -04:00
+image: "/uploads/nomad.jpeg"
 ---
 
 # Contact
 
 ![Matt at the NoMad](/uploads/nomad.jpeg)
 
-I’m an extrovert who loves hearing from old friends and making new ones. I really enjoy having conversations with people new to the technology industry, LGBTQ+ folks, and anyone that want to work together or collaborate on creative projects. While I try to get back to everyone who reaches out, it may take me a bit if things are particularly hectic.
+I’m an extrovert who loves hearing from old friends and making new ones. I really enjoy having conversations with people new to the technology industry, LGBTQ+ folks, and anyone that wants to work together or collaborate on creative projects. While I try to get back to everyone who reaches out, it may take me a bit if things are particularly hectic.
 
 Need a conversation starter? Here’s [what I’m up to now](https://matthewbischoff.com/now/).
 

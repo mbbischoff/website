@@ -56,7 +56,7 @@ I’ve been focusing a bit more on photography recently. Here are the latest pho
 
 <!-- SnapWidget -->
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
-<iframe src="https://snapwidget.com/embed/807385" class="snapwidget-widget" allowtransparency="true" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
+<iframe title="Latest Instagram Photos" src="https://snapwidget.com/embed/807385" class="snapwidget-widget" allowtransparency="true" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
 
 ### Bookmarks 📌
 

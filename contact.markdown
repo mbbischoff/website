@@ -7,7 +7,7 @@ date: 2020-04-05 10:41:00 -04:00
 
 # Contact
 
-I’m an extrovert, and I love hearing from old friends and meeting new ones. I really enjoy having conversations with folks new to the technology industry or people that want to collaborate on creative projects. While I try to get back to everyone who reaches out, it may take me a few days if things are particularly busy.
+I’m an extrovert, and I love hearing from old friends and meeting new ones. I really enjoy having conversations with people new to the technology industry, LGBTQ+ folks, and anyone that want to work together or collaborate on creative projects. While I try to get back to everyone who reaches out, it may take me a few days if things are particularly busy.
 
 Need a conversation starter? Here’s [what I’m up to now](https://matthewbischoff.com/now/).
 
@@ -18,100 +18,8 @@ Here are the best ways to get in touch:
 📲  Send me a text at <a href="tel:+16097060597">+1 (609) 706-0597</a>.  
 🗓  Schedule a [30 minute call](https://calendly.com/matthewbischoff/30-minute-call).  
 
-## Encrypted Options
+## Encrypted Options 🔐
 
-If you’d like to communicate me in an encrypted manner, you can reach me on Telegram at [matthewbischoff](http://t.me/matthewbischoff) or message me via Keybase at [matthewbischoff](https://keybase.io/matthewbischoff).
+If you’d like to communicate me in an encrypted manner, you can reach me on Telegram at [matthewbischoff](http://t.me/matthewbischoff) or chat with me via Keybase at [matthewbischoff](https://keybase.io/matthewbischoff).
 
-If you prefer to send PGP-encrypted email, you can encrypt your message with my public key:
-
-<pre>
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-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
-=uydQ
------END PGP PUBLIC KEY BLOCK-----
-</pre>
+If you prefer to send encrypted email, you can encrypt your message with my [GPG public key](/matthewbischoff.gpg) and send it along.

@@ -3,16 +3,115 @@ title: Contact
 date: 2020-04-05 10:41:00 -04:00
 ---
 
+![Matt at the NoMad](/uploads/nomad.jpeg)
+
 # Contact
 
-I’m an extrovert, and I’d love to hear from you. I try to get back to everyone who reaches out, but it may take me a bit if things are particularly busy. I really enjoy having conversations with folks new to the technology industry or people that want to collaborate on creative projects.
+I’m an extrovert, and I love hearing from old friends and meeting new ones. I really enjoy having conversations with folks new to the technology industry or people that want to collaborate on creative projects. While I try to get back to everyone who reaches out, it may take me a few days if things are particularly busy.
 
-The easiest ways to get in touch are:
+The easiest ways to get in touch:
 
 🐦 DM me on Twitter at [@mb](https://twitter.com/mb).  
 📧 Email me at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com).  
 📲 Send me a text at <a href="tel:+16097060597">+1 (609) 706-0597</a>.  
+🗓 Schedule a [30 minute call](https://calendly.com/matthewbischoff/30-minute-call).  
 
-## PGP Key
+## Encrypted Options
 
-If you’d like to communicate me in an encrypted manner, you can reach me on Telegram at 
+If you’d like to communicate me in an encrypted manner, you can reach me on Telegram at [matthewbischoff](http://t.me/matthewbischoff) or message me via Keybase at [matthewbischoff](https://keybase.io/matthewbischoff).
+
+If you prefer to send PGP-encrypted email, you can encrypt your message with my public key:
+
+<pre>
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: https://keybase.io/download
+Version: Keybase Go 5.3.0 (darwin)
+
+xsFNBF56KRoBEAC9FhO157sCoLGo0KTNGGj1Jbgye0wlgydA4BnqMiY31KlMIC5i
+Ab6km9qKgfdcwc7WKtUYmsYyfv38uTPJwIBTPBP9iFtrQOSAU7XZYh0iLpvklyJo
+jRNJGYV/GSlTrBK9GI9kyP03/B/xD2Eb/vNq5fwMtM6iUeqeZTx7bi/8Ie08Zzdn
+726sk4vf4NnWk6hMsmrKpKSFqRAISCpiYcV/UH59Xks0CzCeDRk5Cp5e3DUnMlc+
+zy/eaAqm9V9LC6OhMC/2hRl4Gu6+9lAcUhpNHJNEQfSr/eQxRnyFcr+8YmQPusBY
+4yHjiGKxonocxRSpBObMZL4dudwdix2NCBnGSw+8/lXLdocluD8206tgUwGOiOYb
+Yqs0Gk3Sz7e278YsPBl3YEtNa5FTcVwZW0KDP72/n5Tcs6QwZTRukcEbeAHS8Q24
+2BkOPM36aUR+EYsYZZX+WkP6WrXs+AgO9kWqtdkMDCqSn6GBBwXcRcMdYdaHnxlZ
+fEidPsKqY6NpXlgr80D/uMzW5ZdX1vbfLInMkf7uWYXNBw7bXwoIZeK6N9GIRjb2
+VVZdcCZeWcCvTF/+JUntc4pLBMbFLVWndK4kAMgghh8mltuAZxJ/95trJRYAe/jg
+QsTfyFumtuV2JAszG5k05ovoUp16w/ZNLUSO0qBcxhtQnz1A50OPXrO/NwARAQAB
+zSlNYXR0aGV3IEJpc2Nob2ZmIDxtYkBtYXR0aGV3YmlzY2hvZmYuY29tPsLBeAQT
+AQgALAUCXnopGgkQP+tf+FCS53YCGwMFCR4TOAACGQEECwcJAwUVCAoCAwQWAAEC
+AACcfxAAWF3l0VAI1N0zlnmWuLpCE7bn6oN7KJBtISnDHSaMyqZo7J6lMO7YCO6H
+ONBa6hcb1btFy3ykMcIJcAhSQX1Ab6kVk83Txt99zylLYDHGSyEsa65H2p006XL+
+bUxr7YAQqHsXwV09pbHLd/7lIQECpMz7XeSRMkyJX7hImh9ZI3zJGk7ZYU3mZmTI
+7bFTyiRrFqaeITVwfEG729NtI0Fih8bOVnOpIFhP+Z/KmU/R0IITQz7vrjSJ8TXx
+UB6I4TNSHxml4uttIKYSkthw0Q6Gv4S7yq2ZRTTsXLCC8m4RUATIfSId/5X3Ly0B
+5wn60g0RtHRv3z13vb5QuHuoFIx3amNl5kBE6J4Az6DYc4ovB1LKkBGCJRMjM6s0
+VTGA7/haA19wNqVgeSHupI0cIVS6BlBBwY9zWnd9cFklMsBu2ClTM5b/IOBYkg1h
+puexA9D6IJtLHQPiGxgLqLh9VjczRzdFLA5nEyD7iMpmfCcSWuQGtQVDiPwivp+d
+u7GlP8FyRzr5w1R0Lm+yVWiHJw6KdmkrGYoQIMP2u97Mr6+QW2mpw7Yuv3vYRXd2
+2h+5fOG7ljRda5O+khc7nc0nFJK8KiCSPvr1nWCRwRgoPgL2qV0cPK/YSMdPoKou
+uJajrVYQ0QKaT4mMLRNJijj8JrVX9F/RfIySy7Y35/8z/xxsLSTNJ01hdHRoZXcg
+QmlzY2hvZmYgPG1hdHRAbGlja2FiaWxpdHkubmV0PsLBdQQTAQgAKQUCXnopGgkQ
+P+tf+FCS53YCGwMFCR4TOAAECwcJAwUVCAoCAwQWAAECAAAP0hAAbAfs3EPWVikL
+y1m4s/FYcYXBLAs+cU4TtiUJoDOvhu6YvwuIFTc65h4j6vCfG0gl6dq63L2HZNYE
+Ug2dNrUp4a0ApYWTksqije9FVsf22NQWp6pH2vfSTXhFwCj7R1HmU1IbYhmbhW5H
+RkFfgBPAmq6Bmp+VoRlXwb2XOjKJqgAlnjuHPofPMquLgdqZwo2flJW3Vyi6vYEO
+zYlYU/qCVly1etExGHZXAD2F76kxTKy5JCCEAEUpaGvZ8FrDrhv3a2++A0CXIEHj
+WQv9CGqYHaNLLtM2YKKXpdo9A0QIsJ1Oc0gPNTtlNiYyS9aCwsqs4XEeZxILeONh
+UD2gGN1ONoUIyLSjWmj+leaOiadPDTRXn1OMkZM5HnllzGKWBR0PxNhKSZvWBknL
+JIf1bUOhi+WsQ/pO6v+b+CtLHNkI45UqvAqReLLHoN7sgkSPTVsk4IC7UuY0qU3E
+qKIG4zsV9ng4XdE+GcpJ6ub2EBhgvCSXv1uxrncN22NWwu4Mm9tXPjnlkcCRIJ8i
+uG3gJrMlipWTzJwb3ODftcN/IEgYoMD+ObE2Em6LfZI0+hLxVY/C2VzUUFI5dzu3
+GHrRIzsKXL9g9+h00GHa1JMpVWS0S85fFDlywa3VOoWMI9GRa9PdqCeQzA1RDDEO
+o1xOSTlEQj9zUmVNOwWMMa7g1MxNBW/NJ01hdHRoZXcgQmlzY2hvZmYgPG1hdHRA
+bGlja2FiaWxpdHkuY29tPsLBdQQTAQgAKQUCXnopGgkQP+tf+FCS53YCGwMFCR4T
+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
+=Wut/
+-----END PGP PUBLIC KEY BLOCK-----
+</pre>

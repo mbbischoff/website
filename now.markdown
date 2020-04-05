@@ -8,15 +8,16 @@ image: "/uploads/latest-selfie.jpeg"
 
 # Now
 
-**Updated:** *{{ page.date | date: '%B %d, %Y' }} from {{ page.place }}*
+**Updated:** *
+[{{ page.date | date: '%B %d, %Y' }}](https://github.com/mattbischoff/matthewbischoff.com/commits/gh-pages/now.markdown) from {{ page.place }}*
 
 This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](https://sivers.org/nowff). It covers the things I’m thinking, feeling, and working on, well, right now.
 
-![latest-selfie.jpeg](/uploads/latest-selfie.jpeg)
+![Latest Selfie](/uploads/latest-selfie-846e64.jpeg)
 
 ## Life 👱🏻
 
-Usually, I in a one-bedroom apartment in Manhattan. But near the beginning of the [COVID-19 global pandemic](https://en.wikipedia.org/wiki/Coronavirus_disease_2019), I realized I didn’t want to be isolated alone. So, for the time being, I’m self-quarantining in Toronto with my incredibly gracious partner [Kate Sloan](https://twitter.com/Girly_Juice). I’m scratching my various extrovert itches by playing [Jackbox](https://jackboxgames.com) with friends, hanging out on [Houseparty](https://houseparty.com/add/mattbischoff), attending [virtual events](http://risk-show.com), and calling my parents.
+Usually, I in a one-bedroom apartment in Manhattan. But near the beginning of the [COVID-19 global pandemic](https://en.wikipedia.org/wiki/Coronavirus_disease_2019), I realized I didn’t want to be isolated alone. So, for the time being, I’m self-quarantining in Toronto with my incredibly gracious partner [Kate Sloan](https://twitter.com/Girly_Juice). I’m scratching my various extrovert itches by playing [Jackbox](https://jackboxgames.com) with friends, hanging out on [Houseparty](https://houseparty.com/add/mattbischoff), attending [virtual events](http://risk-show.com), and calling my family.
 
 ### Feelings 🙍🏼
 
@@ -40,7 +41,7 @@ My job as one of the partners at [Lickability](https://lickability.com) involves
 
 ### App Critique 🧐
 
-Just [re-started a project](https://twitter.com/mb/status/1243632324329254914) I first did in 2016 called App Critique. The goal is to show how I evaluate the design of software with short video design reviews.
+Just [re-started a project](https://twitter.com/mb/status/1243632324329254914) I first did in 2016 called App Critique. The goal is to show how I evaluate the design of software with short video design reviews. You can watch the [videos as they’re released on YouTube](https://www.youtube.com/playlist?list=PLm5nKVoMBy49B-u868rgRCOMLVgUwskdT).
 
 If you’d like your app design scrutinized, [fill out this form](https://matthewbischoff.typeform.com/to/RjX8si). Preference will be given to indie devs and small companies.
 

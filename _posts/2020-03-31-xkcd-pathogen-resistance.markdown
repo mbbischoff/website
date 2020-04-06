@@ -15,5 +15,6 @@ link: https://xkcd.com/2287/
 ---
 
 ![We're not not trapped in here with the coronavirus. The coronavirus is trapped in here with us.](/uploads/pathogen_resistance.png)
+{: .lazyload}
 
 This xkcd is exactly what I needed today. Well, that, and some pasta.

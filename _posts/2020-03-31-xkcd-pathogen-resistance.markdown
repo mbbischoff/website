@@ -14,6 +14,6 @@ format: link
 link: https://xkcd.com/2287/
 ---
 
-![We're not not trapped in here with the coronavirus. The coronavirus is trapped in here with us.](https://imgs.xkcd.com/comics/pathogen_resistance.png)
+![We're not not trapped in here with the coronavirus. The coronavirus is trapped in here with us.](/uploads/pathogen_resistance_2x.png)
 
 This xkcd is exactly what I needed today. Well, that, and some pasta.

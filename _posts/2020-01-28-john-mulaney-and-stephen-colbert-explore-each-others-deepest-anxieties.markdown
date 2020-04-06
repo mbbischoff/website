@@ -16,6 +16,6 @@ color: violet
 link: https://www.youtube.com/watch?v=zGf6CGBbWFU
 ---
 
-<iframe title="John Mulaney & Colbert on Anxiety" width="560" height="315" src="https://www.youtube.com/embed/zGf6CGBbWFU" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="John Mulaney & Colbert on Anxiety" width="560" height="315" src="https://www.youtube.com/embed/zGf6CGBbWFU" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This clip is what late-night TV is at its best: funny, raw, and full of things you might not say when everyone’s awake.

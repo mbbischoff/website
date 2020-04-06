@@ -55,14 +55,14 @@ Working on a new talk about Accessibility for [App Builders CH](https://appbuild
 I’ve been focusing a bit more on photography recently. Here are the latest photos I’ve shared on [Instagram](https://instagram.com/mattb).
 
 <!-- SnapWidget -->
-<script src="https://snapwidget.com/js/snapwidget.js"></script>
-<ifram loading="eager" title="Latest Instagram Photos" src="https://snapwidget.com/embed/807385" class="snapwidget-widget" allowtransparency="true" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
+<script async src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe loading="eager" title="Latest Instagram Photos" src="https://snapwidget.com/embed/807385" class="snapwidget-widget" allowtransparency="true" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
 
 ### Bookmarks 📌
 
 I organize [my bookmarks](https://pinboard.in/u:mattb) on [Pinboard](https://pinboard.in/). Here are the latest five:
 
-<script language="javascript" src="https://pinboard.in//widgets/v1/linkroll/?user=mattb&count=5"></script>
+<script async language="javascript" src="https://pinboard.in//widgets/v1/linkroll/?user=mattb&count=5"></script>
 
 ### Podcasts 🎙
 
@@ -88,7 +88,7 @@ padding: 0px 20px 0px 0px;
 overflow: hidden;
 }
 </style>
-<script src="https://www.goodreads.com/review/grid_widget/3162891.Matthew's%20currently-reading%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_added&widget_id=1585539912" type="text/javascript" charset="utf-8"></script>
+<script async src="https://www.goodreads.com/review/grid_widget/3162891.Matthew's%20currently-reading%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_added&widget_id=1585539912" type="text/javascript" charset="utf-8"></script>
 
 # Then
 

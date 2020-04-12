@@ -68,10 +68,12 @@ Matt’s contributed design and code to the following applications:
 * **[Release Notes #72: Matthew Bischoff](http://releasenotes.tv/72-matthew-bischoff/)** — September 2014
 * **[Inquisitive #7: We’re Better Than That](http://www.relay.fm/inquisitive/7)** — October 2014
 * **[CMD+Space #101: Own your identity](https://www.relay.fm/cmdspace/101)** — June 2014
+* **[Maccast 2011.06.24 – Lickability](https://www.maccast.com/2011/06/24/maccast-2011-06-24-lickability/)** — June 2014
 * **[CMD+Space #26: iOS 7 and Lickability](https://www.relay.fm/cmdspace/66)** — October 2013
 * **[Springboard #1: Matthew Bischoff](http://web.archive.org/web/20130809181910/http://springboardshow.com/episodes/1)** — March 2013
 * **[Developing Perspective: Matthew Bischoff](http://developingperspective.com/2012/07/31/bischoff/)** — July 2012
-* **[Maccast 2011.06.24 – Lickability](https://www.maccast.com/2011/06/24/maccast-2011-06-24-lickability/)** — June 2014
+* **[Enough #145: Bischoff 3.0](https://enough.10centuries.org/2012/06/21/bischoff-30)** — June 2012
+* **[Enough #76: The Software Story](https://enough.10centuries.org/2011/10/12/the-software-story)** — October 2011
 * **[Enough #23: Quotebook](http://minimalmac.com/enough/#ep23)** — April 2011
 * **[GodCast: Matthew Bischoff Interview](http://www.godcast.org/categories/behindTheScenes/2005/02/08.html#a349)** —  February 2005
 * **[Leo Laporte’s The Tech Guy on KFI #104](http://web.archive.org/web/20060624004717/http://leoville.tv/radio/pmwiki.php/ShowNotes/Show104)** — December 2004

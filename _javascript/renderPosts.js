@@ -39,6 +39,13 @@ export const renderNewPost = (postData, postList) => {
       readMoreButton.remove();
     });
   }
+
+  // Render embedded tweets
+  // https://developer.twitter.com/en/docs/twitter-for-websites/javascript-api/guides/scripting-loading-and-initialization
+  const embeddedTweets = newPostElement.querySelectorAll(".twitter-tweet");
+  embeddedTweets.forEach((embeddedTweet) => {
+    twttr.widgets.load(embeddedTweet);
+  });
 }
 
 const postHTML = (postData) => {

@@ -1,6 +1,7 @@
 .highlight {
   font-family: monospace;
   font-size: 16px;
+  overflow-x: auto;
 }
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */

@@ -5,6 +5,7 @@ position: 2
 image: "/uploads/nomad.jpeg"
 description: I’m an extrovert who loves hearing from old friends and making new ones.
   Here are the best ways to get in touch.
+layout: page
 ---
 
 # Contact

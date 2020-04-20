@@ -25,6 +25,18 @@ time {
     /* TODO: max-width: 500px; */
     margin-bottom: 0px;
   }
+
+  img {
+    object-fit: cover;
+  }
+
+  @media (max-width: $max-mobile-width) {
+    iframe, video, audio, img {
+      margin-left: -20px;
+      margin-right: -20px;
+      width: calc(100% + 40px);
+    }
+  }
 }
 
 .read-more {
@@ -88,13 +100,5 @@ main {
 
   img {
     width: 100%;
-  }
-}
-
-.full-bleed-in-tweet {
-  @media (max-width: $max-mobile-width) {
-    margin-left: -20px;
-    margin-right: -20px;
-    width: calc(100% + 40px);
   }
 }

@@ -85,9 +85,9 @@ fetch("/feed.json").then(response => response.json()).then((data) => {
 initializeMobileMenu();
 
 // Navbar scroll into view on mobile. Commented out for now.
-// const nav = document.querySelector("#categories>div");
+const nav = document.querySelector("#categories>div");
 // const cssTransitionTime = 800;
-// 
+
 // if (window.innerWidth < 700) {
 //   window.onload = () => {
 //     nav.style.left = "-20px";
@@ -100,8 +100,8 @@ initializeMobileMenu();
 //     }, cssTransitionTime);
 //   }
 // } else {
-//   nav.style.width = "initial";
-//   nav.parentElement.style.overflowX = "visible";
+  nav.style.width = "initial";
+  nav.parentElement.style.overflowX = "visible";
 // }
-// 
-// nav.addEventListener("scroll", retractYearList);
+
+nav.addEventListener("scroll", retractYearList);

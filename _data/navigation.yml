@@ -1,0 +1,9 @@
+links:
+- title: "Home"
+  url: "/"
+- title: "About"
+  url: "/about"
+- title: "Now"
+  url: "/now"
+- title: "Contact"
+  url: "/contact"

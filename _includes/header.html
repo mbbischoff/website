@@ -3,29 +3,13 @@
     <nav id="page-links">
       <img tabindex="0" id="hamburger-button" alt="Menu Button" src="/uploads/hamburger.svg" class="mobile-only">
       <div class="desktop-only">
-        {% if page.url == "/" %}
-          <a href="/" class="text-weight-bold">Home</a>
-        {% else %}
-          <a href="/">Home</a>
-        {% endif %}
-
-        {% if page.url == "/about/" %}
-          <a href="/about" class="text-weight-bold">About</a>
-        {% else %}
-          <a href="/about">About</a>
-        {% endif %}
-        
-        {% if page.url == "/now/" %}
-          <a href="/now" class="text-weight-bold">Now</a>
-        {% else %}
-          <a href="/now">Now</a>
-        {% endif %}         
-        
-        {% if page.url == "/contact/" %}
-          <a href="/contact" class="text-weight-bold">Contact</a>
-        {% else %}
-          <a href="/contact">Contact</a>
-        {% endif %}
+        {% for item in site.data.navigation.links %}
+          {% if page.url == item.url %}
+            <a href="{{ item.url }}" class="text-weight-bold">{{ item.title }}</a>
+          {% else %}
+            <a href="{{ item.url }}">{{ item.title }}</a>
+          {% endif %}
+        {% endfor %}
 
       </div>
       <a href="https://lickability.com/" class="desktop-only">Lickability</a>
@@ -70,10 +54,12 @@
 <div id="mobile-menu">
   <img alt="Close button" id="close-mobile-menu" src="/uploads/close.svg">
   <div>
-    <a href="/" class="text-weight-bold">Home</a>
-    <a href="/about">About</a>
-    <a href="/now">Now</a> 
-    <a href="/contact">Contact</a>
-    <a href="https://lickability.com/">Lickability →</a>
+    {% for item in site.data.navigation.links %}
+      {% if item.url == "/" %}
+        <a class="text-weight-bold" href="{{ item.url }}">{{ item.title }}</a>
+      {% else %}
+        <a href="{{ item.url }}">{{ item.title }}</a>
+      {% endif %}
+    {% endfor %}
   </div>
 </div>

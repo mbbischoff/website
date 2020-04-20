@@ -17,9 +17,9 @@ Need a conversation starter? Here’s [what I’m up to now](https://matthewbisc
 
 Here are the best ways to get in touch:
 
-🐦 [Mention](https://twitter.com/intent/tweet?screen_name=mb) or [direct message](https://twitter.com/messages/compose?recipient_id=5107) me on Twitter at [@mb](https://twitter.com/mb).  
-📧 Email me at [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com?subject=👋).  
-📲 Send me a text at <a href="sms:+16097060597">+1 (609) 706-0597</a>.  
+🐦 [Mention](https://twitter.com/intent/tweet?screen_name=mb) or [direct message](https://twitter.com/messages/compose?recipient_id=5107) me on Twitter [@mb](https://twitter.com/mb).  
+📧 Email [mb@matthewbischoff.com](mailto:mb@matthewbischoff.com?subject=👋).  
+📲 Text <a href="sms:+16097060597">+1 (609) 706-0597</a>.  
 🗓 Schedule a [30 minute call](https://calendly.com/matthewbischoff/30-minute-call).  
 
 ### Encrypted Options 🔐

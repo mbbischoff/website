@@ -1,6 +1,6 @@
 .color-red { background-color: $red; }
 .color-dark-red { background-color: $dark-red; }
-.links-red a { color: $red; }
+.links-red a { color: color.scale($red, $lightness: 30%); }
 
 .color-purple { background-color: $purple; }
 .color-dark-purple { background-color: $dark-purple; }

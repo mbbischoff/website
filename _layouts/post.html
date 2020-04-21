@@ -8,16 +8,16 @@ layout: default
     <div class="color-{{ page.color }}"></div>
     <div class="color-dark-{{ page.color }}">
       <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
-        <a href="{{ page.link }}">{{ page.date | date: "%B %-d, %Y" }}</a>
+        <a href="{{ page.url }}">{{ page.date | date: "%B %-d, %Y" }}</a>
       </time> 
       {{ page.content }}
     </div>
-  </div>  
+  </div>
   {% elsif page.format == "link" %}
   <div class="link-post">
     <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
-      <a href="{{ page.link }}">{{ page.date | date: "%B %-d, %Y" }}</a>
-    </time>   
+      <a href="{{ page.url }}">{{ page.date | date: "%B %-d, %Y" }}</a>
+    </time>
     <h2><a href="{{ page.link }}" target="_blank" rel="noopener">{{ page.title }}&nbsp;→</a></h2>
 
     {{ page.content }}

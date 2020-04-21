@@ -3,7 +3,7 @@
     <nav id="page-links">
       <img tabindex="0" id="hamburger-button" alt="Menu Button" src="/uploads/hamburger.svg" class="mobile-only">
       <div class="desktop-only">
-        {% for item in site.data.navigation.links %}
+        {% for item in site.navigation_links %}
           {% if page.url == item.url %}
             <a href="{{ item.url }}" class="text-weight-bold">{{ item.title }}</a>
           {% else %}
@@ -20,7 +20,7 @@
     </div>
     <div class="wrapper mobile-only" id="mobile-header-text">
       <h1><a href="/">Hey, I’m<br>Matthew Bischoff</a></h1>
-      <p>{{ site.text_content.short_subtitle }}</p>
+      <p>{{ site.text_content.subtitle }}</p>
     </div>
     <nav id="categories">
       <div>
@@ -33,15 +33,13 @@
             <img id="carrot" src="/uploads/carrot.svg" alt=""><span>Latest</span>
           </a>
         {% endif %}
-
-        {% for category in site.categories %}
-          {% assign category_name = (category | first | url_encode %}
+        {% for category_name in site.category_names %}
           {% assign category_matcher = "/category/" | append: category_name %}
 
           {% if page.url contains category_matcher %}
-            <a data-category-name="{{category_name}}" class="category button-round blue-highlight" href="{{ site.url }}/category/{{ category_name }}">{{ category | first | capitalize }}</a>
+            <a data-category-name="{{category_name}}" class="category button-round blue-highlight" href="{{ site.url }}/category/{{ category_name }}">{{ category_name | capitalize }}</a>
           {% else %}
-            <a data-category-name="{{category_name}}" class="category button-round" href="{{ site.url }}/category/{{ category_name }}">{{ category | first | capitalize }}</a>
+            <a data-category-name="{{category_name}}" class="category button-round" href="{{ site.url }}/category/{{ category_name }}">{{ category_name | capitalize }}</a>
           {% endif %}
         {% endfor %}
       </div>
@@ -54,7 +52,7 @@
 <div id="mobile-menu">
   <img alt="Close button" id="close-mobile-menu" src="/uploads/close.svg">
   <div>
-    {% for item in site.data.navigation.links %}
+    {% for item in site.navigation_links %}
       {% if item.url == "/" %}
         <a class="text-weight-bold" href="{{ item.url }}">{{ item.title }}</a>
       {% else %}

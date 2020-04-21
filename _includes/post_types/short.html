@@ -1,7 +1,10 @@
+
 <div class="short-form-post">
   <div class="color-{{ post.color }}"></div>
   <div class="color-dark-{{ post.color }}">
     {% include datetime.html %}
-    {{ post.content }}
+    <div class="links-{{ post.color }}">
+      {{ post.content }}
+    </div>
   </div>
 </div>

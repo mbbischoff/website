@@ -117,7 +117,7 @@ const tweetPostHTML = (postData) => {
       <div class="color-${color}"></div>
       <div class="color-dark-${color}">
         ${dateHTML(postData)}
-        ${content}
+        <div class="links-${color}">${content}</div>
       </div>
     </div>
   `

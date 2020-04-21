@@ -4,25 +4,25 @@ layout: default
 
 <article class="post">
   {% if page.format == "tweet" %}
-  <div class="short-form-post">
-    <div class="color-{{ page.color }}"></div>
-    <div class="color-dark-{{ page.color }}">
+    <div class="short-form-post">
+      <div class="color-{{ page.color }}"></div>
+      <div class="color-dark-{{ page.color }}">
+        <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
+          <a href="{{ page.link }}">{{ page.date | date: "%B %-d, %Y" }}</a>
+        </time> 
+        {{ page.content }}
+      </div>
+    </div>  
+  {% elsif page.format == "link" %}
+    <div class="link-post">
       <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
         <a href="{{ page.link }}">{{ page.date | date: "%B %-d, %Y" }}</a>
-      </time> 
+      </time>   
+      <h2><a href="{{ page.link }}" target="_blank" rel="noopener">{{ page.title }}&nbsp;→</a></h2>
+
       {{ page.content }}
     </div>
-  </div>  
-  {% elsif page.format == "link" %}
-  <div class="link-post">
-    <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
-      <a href="{{ page.link }}">{{ page.date | date: "%B %-d, %Y" }}</a>
-    </time>   
-    <h2><a href="{{ page.link }}" target="_blank" rel="noopener">{{ page.title }}&nbsp;→</a></h2>
-
-    {{ page.content }}
-  </div>
   {% else %}
-  {% include /post_types/long-expanded.html %}
+    {% include /post_types/long-expanded.html %}
   {% endif%}
 </article>

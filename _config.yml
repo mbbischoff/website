@@ -55,6 +55,21 @@ include:
 text_content:
   header_title: Hi, I’m Matthew Bischoff
   subtitle: I write about technology and culture. I’ve designed and built apps at
-    NYTimes, Tumblr, and now run my own studio, Lickability. I’m glad you’re here.
-  short_subtitle: I write about technology and culture. I’ve designed and built apps
-    at NYTimes, Tumblr, and now run my own studio, Lickability. I’m glad you’re here.
+    NYTimes, Tumblr, and now run my own studio, Lickability.
+navigation_links:
+- title: "Home"
+  url: "/"
+- title: "About"
+  url: "/about"
+- title: "Now"
+  url: "/now"
+- title: "Contact"
+  url: "/contact"
+category_names:
+- culture
+- feelings
+- longer
+- shorter
+- management
+- talks
+- tech

@@ -1,20 +1,26 @@
 .color-red { background-color: $red; }
 .color-dark-red { background-color: $dark-red; }
+.links-red a { color: scale-color($red, $lightness: 50%); }
 
 .color-purple { background-color: $purple; }
 .color-dark-purple { background-color: $dark-purple; }
+.links-purple a { color: scale-color($purple, $lightness: 50%); }
 
 .color-violet { background-color: $violet; }
 .color-dark-violet { background-color: $dark-violet; }
+.links-violet a { color: scale-color($violet, $lightness: 50%); }
 
 .color-blue { background-color: $blue; }
 .color-dark-blue { background-color: $dark-blue; }
+.links-blue a { color: scale-color(blue, $lightness: 50%); }
 
 .color-cyan { background-color: $cyan; }
 .color-dark-cyan { background-color: $dark-cyan; }
+.links-cyan a { color: scale-color($cyan, $lightness: 50%); }
 
 .color-green { background-color: $green; }
 .color-dark-green { background-color: $dark-green; }
+.links-green a { color: scale-color($green, $lightness: 50%); }
 
 .text-weight-bold { font-weight: bold; }
 

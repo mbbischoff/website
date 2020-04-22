@@ -16,10 +16,9 @@ layout: default
   {% elsif page.format == "link" %}
     <div class="link-post">
       <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
-        <a href="{{ page.link }}">{{ page.date | date: "%B %-d, %Y" }}</a>
-      </time>   
+        <a href="{{ page.url }}">{{ page.date | date: "%B %-d, %Y" }}</a>
+      </time> 
       <h2><a href="{{ page.link }}" target="_blank" rel="noopener">{{ page.title }}&nbsp;→</a></h2>
-
       {{ page.content }}
     </div>
   {% else %}

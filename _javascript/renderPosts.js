@@ -156,6 +156,8 @@ const categoryAndTagsHTML = (postData) => {
     return `<a href="#">#${tagName}</a>`;
   }
 
+  const pTagClass = postData.format === "tweet" ? `categories-and-tags links-${postData.color}` : "categories-and-tags";
+
   // A post without tags will have this as the value of the property 'tags' -> [""]
   // Same for properties
 
@@ -166,19 +168,19 @@ const categoryAndTagsHTML = (postData) => {
 
   if (hasTags && !hasCategories) {
     html = `
-      <p class="categories-and-tags">
+      <p class="${pTagClass}">
         <strong>Tags</strong>: ${ postData.tags.map(tagHTML).join(", ") }
       </p>
     `
   } else if (!hasTags && hasCategories) {
     html = `
-      <p class="categories-and-tags">
+      <p class="${pTagClass}">
         <strong>Filled to</strong>: ${ postData.categories.map(categoryHTML).join(", ") }
       </p>
     `
   } else if (hasTags & hasCategories) {
     html = `
-      <p class="categories-and-tags">
+      <p class="${pTagClass}">
         <strong>Filled to</strong>: ${ postData.categories.map(categoryHTML).join(", ") }
          • 
         <strong>Tags</strong>: ${ postData.tags.map(tagHTML).join(", ") }

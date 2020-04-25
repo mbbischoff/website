@@ -10,7 +10,9 @@ layout: default
       <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
         <a href="{{ page.url }}">{{ page.date | date: "%B %-d, %Y" }}</a>
       </time> 
-      {{ page.content }}
+      <div class="links-{{ page.color }}">
+        {{ content }}
+      </div>
     </div>
   </div>
   {% elsif page.format == "link" %}

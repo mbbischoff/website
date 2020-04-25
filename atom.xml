@@ -18,6 +18,7 @@ layout:
 
   {% for post in site.posts %}
   <entry>
+    <tweet_text>{{ post.tweet_text }}</tweet_text>
     <title>{{ post.title | xml_escape }}</title>
     {% if post.format == "link" %}
       <link href="{{ post.link | xml_escape }}"/>

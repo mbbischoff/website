@@ -1,6 +1,7 @@
 ---
 title: Apps for All
 date: 2020-04-25 14:40:00 -04:00
+published: false
 ---
 
 # Talk

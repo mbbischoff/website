@@ -1,13 +1,12 @@
-
 <div class="short-form-post">
-  <div class="color-{{ post.color }}"></div>
-  <div class="color-dark-{{ post.color }}">
-    {% include datetime.html %}
-    <div class="links-{{ post.color }}">
-      {{ post.content }}
+  <div class="color-{{ include.post.color }}"></div>
+  <div class="color-dark-{{ include.post.color }}">
+    {% include datetime.html post=include.post %}
+    <div class="links-{{ include.post.color }}">
+      {{ include.post.content }}
     </div>
-    <div class="links-{{ post.color }}">
-      {% include category_and_tags.html %}
+    <div class="links-{{ include.post.color }}">
+      {% include category_and_tags.html post=include.post %}
     </div>
   </div>
 </div>

@@ -8,7 +8,7 @@ article {
 
 time {
   a {
-    color: $grey-date;
+    color: $text-light;
   }
 }
 
@@ -70,6 +70,10 @@ time {
     font-weight: bold;
     font-size: 2.2em;
   }
+}
+
+.post-tag {
+  color: $text-light;
 }
 
 .pagination {

@@ -1,18 +1,18 @@
 <p class="categories-and-tags">
-  {% if post.categories != empty %}
+  {% if include.post.categories != empty %}
     <strong>Filled to</strong>: 
 
-    {% for category in post.categories %}
+    {% for category in include.post.categories %}
       <a href="/category/{{ category }}">{{ category | capitalize}}</a>{% unless forloop.last == true %}, {% endunless %}
     {% endfor %}
   {% endif %}
 
-  {% if post.tags != empty %}
-    {% if post.categories != empty %} • {% endif %}
+  {% if include.post.tags != empty %}
+    {% if include.post.categories != empty %} • {% endif %}
     <strong>Tags</strong>: 
 
-    {% for tag in post.tags %}
-      <a href="#">#{{ tag }}</a>{% unless forloop.last == true %}, {% endunless %}
+    {% for tag in include.post.tags %}
+      <span class="post-tag">#{{ tag }}</span>{% unless forloop.last == true %}, {% endunless %}
     {% endfor %}
   {% endif %}
 </p>

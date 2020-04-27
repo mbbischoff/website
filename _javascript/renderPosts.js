@@ -153,7 +153,7 @@ const categoryAndTagsHTML = (postData) => {
   }
 
   const tagHTML = (tagName) => {
-    return `<a href="#">#${tagName}</a>`;
+    return `<span class="post-tag">#${tagName}</span>`;
   }
 
   const pTagClass = postData.format === "tweet" ? `categories-and-tags links-${postData.color}` : "categories-and-tags";

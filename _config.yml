@@ -57,13 +57,13 @@ text_content:
   subtitle: I write about technology and culture. I’ve designed and built apps at
     NYTimes, Tumblr, and now run my own studio, Lickability.
 navigation_links:
-- title: "Home"
+- title: Home
   url: "/"
-- title: "About"
+- title: About
   url: "/about"
-- title: "Now"
+- title: Now
   url: "/now"
-- title: "Contact"
+- title: Contact
   url: "/contact"
 category_names:
 - culture

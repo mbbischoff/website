@@ -63,7 +63,7 @@ I’ve been focusing a bit more on photography recently. Here are the latest pho
 
 I organize [my bookmarks](https://pinboard.in/u:mattb) on [Pinboard](https://pinboard.in/). Here are the latest five:
 
-<script async language="javascript" src="https://pinboard.in//widgets/v1/linkroll/?user=mattb&count=5"></script>
+<script async language="javascript" src="https://pinboard.in/widgets/v1/linkroll/?user=mattb&count=5"></script>
 
 ### Podcasts 🎙
 

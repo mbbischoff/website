@@ -17,11 +17,11 @@ This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](htt
 
 ## Life 👱🏻
 
-Usually, I live in a one-bedroom apartment in Manhattan. But near the beginning of the [COVID-19 global pandemic](https://en.wikipedia.org/wiki/Coronavirus_disease_2019), I realized I didn’t want to be isolated alone. So, for the time being, I’m self-quarantining in Toronto with my incredibly gracious partner [Kate Sloan](https://twitter.com/Girly_Juice). I’m scratching my various extrovert itches with group chats, [virtual events](https://comedybar.ca/sunday_live.php), and calling my family.
+Usually, I live in a one-bedroom apartment in Manhattan. But near the beginning of the [COVID-19 global pandemic](https://en.wikipedia.org/wiki/Coronavirus_disease_2019), I realized I didn’t want to be isolated alone. So, for the past few months, I’ve been isolating in Toronto with my incredibly gracious partner [Kate Sloan](https://twitter.com/Girly_Juice). I’m scratching my various extrovert itches with group chats, [virtual events](https://comedybar.ca/sunday_live.php), and phone calls home.
 
 ### Feelings 🔮
 
-I’m a little down right now because I miss my city, my friends, and working beside all the talented people at Lickability. But I’m also really glad to be spending so much time with Kate. And grateful that I’m not sick and have everything I need to live and work from here.
+The global pandemic has me thinking a lot about the future—of work, of politics, and of my own life. I’ve gotten somewhat of a handle on the day-to-day rhythm and anxiety of living in this moment, but I’m looking forward to getting to the other side of this, and helping to shape what that future is.
 
 ### Gender ⚧
 
@@ -41,14 +41,14 @@ My job as one of the partners at [Lickability](https://lickability.com) involves
 
 ### App Critique 🧐
 
-Just [re-started a project](https://twitter.com/mb/status/1243632324329254914) I first did in 2016 called App Critique. The goal is to show how I evaluate the design of software with short video design reviews. You can watch the [videos as they’re released on YouTube](https://www.youtube.com/playlist?list=PLm5nKVoMBy49B-u868rgRCOMLVgUwskdT).
+Recently [re-started a project](https://twitter.com/mb/status/1243632324329254914) I first did in 2016 called App Critique. The goal is to show how I evaluate the design of software with short video design reviews. You can watch the [videos as they’re released on YouTube](https://www.youtube.com/playlist?list=PLm5nKVoMBy49B-u868rgRCOMLVgUwskdT).
 
 If you’d like your app design scrutinized, [fill out this form](https://matthewbischoff.typeform.com/to/RjX8si). Preference will be given to indie devs and small companies.
 
 ### Talks 🗣
 
-Working on a new talk about Accessibility for [App Builders CH](https://appbuilders.ch). I was excited about the chance to visit Switzerland for the first time in May, but now I’m psyched to be participating in their first remote event and giving folks stuck at home a great show.
-
+Just finished a new talk about iOS Accessibility for [App Builders CH](https://appbuilders.ch) that I’ll be presenting tomorrow in their first remote event. [Get a ticket!
+](https://appbuilders.ch)
 ## Media 💻
 
 ### Photography 📷

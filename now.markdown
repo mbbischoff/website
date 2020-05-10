@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2020-04-05 10:12:00 -04:00
+date: 2020-05-10 08:12:00 -04:00
 position: 1
 place: Toronto, ON
 image: "/uploads/latest-selfie-846e64.jpeg"
@@ -17,13 +17,13 @@ This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](htt
 
 ## Life 👱🏻
 
-Usually, I live in a one-bedroom apartment in Manhattan. But near the beginning of the [COVID-19 global pandemic](https://en.wikipedia.org/wiki/Coronavirus_disease_2019), I realized I didn’t want to be isolated alone. So, for the time being, I’m self-quarantining in Toronto with my incredibly gracious partner [Kate Sloan](https://twitter.com/Girly_Juice). I’m scratching my various extrovert itches by playing [Jackbox](https://jackboxgames.com) with friends, hanging out on [Houseparty](https://houseparty.com/add/mattbischoff), attending [virtual events](http://risk-show.com), and calling my family.
+Usually, I live in a one-bedroom apartment in Manhattan. But near the beginning of the [COVID-19 global pandemic](https://en.wikipedia.org/wiki/Coronavirus_disease_2019), I realized I didn’t want to be isolated alone. So, for the time being, I’m self-quarantining in Toronto with my incredibly gracious partner [Kate Sloan](https://twitter.com/Girly_Juice). I’m scratching my various extrovert itches with group chats, [virtual events](https://comedybar.ca/sunday_live.php), and calling my family.
 
-### Feelings 🙍🏼
+### Feelings 🔮
 
 I’m a little down right now because I miss my city, my friends, and working beside all the talented people at Lickability. But I’m also really glad to be spending so much time with Kate. And grateful that I’m not sick and have everything I need to live and work from here.
 
-### Gender 🤷🏼
+### Gender ⚧
 
 I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) less than a year ago, and I’m still exploring my [gender identity](https://en.wikipedia.org/wiki/Gender_identity) and [expression](https://en.wikipedia.org/wiki/Gender_expression). New clothes, shoes, makeup, and ways of seeing myself and the world.
 

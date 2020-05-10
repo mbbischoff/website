@@ -14,11 +14,13 @@ tags:
 image: "/uploads/Apps%20for%20All.png"
 ---
 
-What does it take to build software that’s truly usable for as many people as possible?
+*What does it take to build software that’s truly usable for as many people as possible?*
 
-This morning I gave a talk on this topic called **Apps for All: Making Software Accessible** at App Builders CH 2020. The talk focuses on improving the accessibility of the software we build. Drawing on examples from the fields of architecture and design, as well as Matt’s experience, it will explore the how and why of iOS accessibility in the broader contexts of ability and inclusion. You’ll learn how to audit your application for accessibility and get started making changes that will open it up to new groups of customers. 
+This morning, I’m giving a talk on this topic called **Apps for All: Making Software Accessible** at App Builders CH 2020. The presentation focuses on improving the accessibility of the software we build. Drawing on examples from the fields of architecture and design, as well as my experience, it explores the how and why of iOS accessibility in the broader contexts of ability and inclusion. You’ll learn how to audit your application for accessibility and get started making changes that will open it up to new groups of customers. 
 
 ## Slides
+
+<script async class="speakerdeck-embed" data-id="7115a4f57d0c472fa1bb93fe5e67c740" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## Video
 

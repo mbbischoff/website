@@ -41,14 +41,15 @@ My job as one of the partners at [Lickability](https://lickability.com) involves
 
 ### App Critique 🧐
 
-Recently [re-started a project](https://twitter.com/mb/status/1243632324329254914) I first did in 2016 called App Critique. The goal is to show how I evaluate the design of software with short video design reviews. You can watch the [videos as they’re released on YouTube](https://www.youtube.com/playlist?list=PLm5nKVoMBy49B-u868rgRCOMLVgUwskdT).
+Recently [re-started a project](https://twitter.com/mb/status/1243632324329254914) I first did in 2016 called **App Critique**. The goal is to show how I evaluate the design of software with short video design reviews. You can watch the [videos as they’re released on YouTube](https://www.youtube.com/playlist?list=PLm5nKVoMBy49B-u868rgRCOMLVgUwskdT).
 
 If you’d like your app design scrutinized, [fill out this form](https://matthewbischoff.typeform.com/to/RjX8si). Preference will be given to indie devs and small companies.
 
 ### Talks 🗣
 
-Just finished a new talk about iOS Accessibility for [App Builders CH](https://appbuilders.ch) that I’ll be presenting tomorrow in their first remote event. [Get a ticket!
+Just finished a new talk called _Apps for All: Making Accessible Software_ for [App Builders CH](https://appbuilders.ch) that I’ll be presenting tomorrow in their first remote event. [Get a ticket!
 ](https://appbuilders.ch)
+
 ## Media 💻
 
 ### Photography 📷
@@ -69,7 +70,7 @@ I organize [my bookmarks](https://pinboard.in/u:mattb) on [Pinboard](https://pin
 
 I love listening to (and guesting on) podcasts, but I’m chronically behind on my backlog of shows because I oversubscribe. Some shows I’m binging lately: [Gender Reveal](https://www.genderpodcast.com), [Do By Friday](http://dobyfriday.com), [The Heart](https://www.theheartradio.org) (it’s back!), and [You’re Wrong About](https://podcasts.apple.com/podcast/youre-wrong-about/id1380008439).
 
-If you’d like me to have me on your podcast, I’ve got all the time in the world at the moment, and I’d really love that. [Shoot me an email](mailto:mb@matthewbischoff.com?subject=Podcast), and let’s do it.
+If you’d like me to have me on your podcast, I’ve got all the time in the world at the moment and would really love that. [Shoot me an email](mailto:mb@matthewbischoff.com?subject=Podcast), and let’s do it.
 
 ### Books 📚
 

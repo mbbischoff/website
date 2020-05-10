@@ -65,6 +65,8 @@ navigation_links:
   url: "/now"
 - title: Contact
   url: "/contact"
+- title: RSS
+  url: "/feed"
 category_names:
 - culture
 - feelings

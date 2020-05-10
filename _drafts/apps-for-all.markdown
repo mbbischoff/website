@@ -20,11 +20,13 @@ This morning, I’m giving a talk on this topic called **Apps for All: Making So
 
 ## Slides
 
+*Note: This talk relies a lot on audio, video, and demos, but here are the slides in case you missed something while watching.*
+
 <script async class="speakerdeck-embed" data-id="7115a4f57d0c472fa1bb93fe5e67c740" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## Video
 
-Once the video for this
+Once the video for this talk is available, I’ll embed it here.
 
 ## Resouces
 

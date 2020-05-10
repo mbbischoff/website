@@ -1,6 +1,6 @@
 ---
 title: 'Apps for All: Making Software Accessible'
-date: 2020-04-25 14:40:00 -04:00
+date: 2020-04-26 09:00:00 -04:00
 categories:
 - tech
 - talks

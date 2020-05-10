@@ -3,7 +3,7 @@ title: Now
 date: 2020-05-10 08:12:00 -04:00
 position: 1
 place: Toronto, ON
-image: "/uploads/latest-selfie-846e64.jpeg"
+image: "/uploads/latest-selfie-62ddc3.jpeg"
 layout: page
 ---
 
@@ -13,7 +13,7 @@ layout: page
 
 This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](https://sivers.org/nowff). It covers the things I’m thinking, feeling, and working on, well, right now.
 
-![Latest Selfie](/uploads/latest-selfie-846e64.jpeg)
+![Latest Selfie](/uploads/latest-selfie-62ddc3.jpeg)
 
 ## Life 👱🏻
 

@@ -1,9 +1,10 @@
 ---
 title: Now
-date: 2020-04-05 10:12:00 -04:00
+date: 2020-05-10 08:23:00 -04:00
 position: 1
 place: Toronto, ON
-image: "/uploads/latest-selfie-846e64.jpeg"
+image: "/uploads/latest-selfie-62ddc3.jpeg"
+layout: page
 ---
 
 # Now
@@ -12,19 +13,19 @@ image: "/uploads/latest-selfie-846e64.jpeg"
 
 This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](https://sivers.org/nowff). It covers the things I’m thinking, feeling, and working on, well, right now.
 
-![Latest Selfie](/uploads/latest-selfie-846e64.jpeg)
+![Latest Selfie](/uploads/latest-selfie-62ddc3.jpeg)
 
 ## Life 👱🏻
 
-Usually, I live in a one-bedroom apartment in Manhattan. But near the beginning of the [COVID-19 global pandemic](https://en.wikipedia.org/wiki/Coronavirus_disease_2019), I realized I didn’t want to be isolated alone. So, for the time being, I’m self-quarantining in Toronto with my incredibly gracious partner [Kate Sloan](https://twitter.com/Girly_Juice). I’m scratching my various extrovert itches by playing [Jackbox](https://jackboxgames.com) with friends, hanging out on [Houseparty](https://houseparty.com/add/mattbischoff), attending [virtual events](http://risk-show.com), and calling my family.
+Usually, I live and work in New York City. But near the beginning of the [COVID-19 global pandemic](https://en.wikipedia.org/wiki/Coronavirus_disease_2019), I realized I didn’t want to be isolated alone. So, for the past few months, I’ve been living in Toronto with my incredibly gracious partner [Kate Sloan](https://twitter.com/Girly_Juice). I’m scratching my various extrovert itches with group chats, [virtual events](https://comedybar.ca/sunday_live.php), and phone calls with friends and family.
 
-### Feelings 🙍🏼
+### Feelings 🔮
 
-I’m a little down right now because I miss my city, my friends, and working beside all the talented people at Lickability. But I’m also really glad to be spending so much time with Kate. And grateful that I’m not sick and have everything I need to live and work from here.
+The global pandemic has me thinking a lot about the future—of work, of politics, and of my own life. I’ve gotten somewhat of a handle on the day-to-day rhythm and anxiety of living in this moment, but I’m looking forward to getting to the other side of this, and helping to shape what that future is.
 
-### Gender 🤷🏼
+### Gender ⚧
 
-I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) less than a year ago, and I’m still exploring my [gender identity](https://en.wikipedia.org/wiki/Gender_identity) and [expression](https://en.wikipedia.org/wiki/Gender_expression). New clothes, shoes, makeup, and ways of seeing myself and the world.
+I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) last July, and I’m still exploring my [gender identity](https://en.wikipedia.org/wiki/Gender_identity) and [expression](https://en.wikipedia.org/wiki/Gender_expression). New clothes, shoes, makeup, and ways of seeing myself and the world.
 
 ### 2020 Theme: Commit 🤝
 
@@ -36,17 +37,18 @@ Based on [The Theme System](https://www.thethemesystem.com), which I learned abo
 
 ## Work 👅
 
-My job as one of the partners at [Lickability](https://lickability.com) involves leading the team, setting product direction, helping with day-to-day operations, and talking to new and existing clients about what we can do for them. At the moment, I’m mostly focused on making sure our employees have everything they need to work well remotely, managing the development of 2 iOS apps for clients, and readying our next app, Scorecard, for release. [Join the beta here](https://testflight.apple.com/join/bkjqS6h4).
+My job as a Partner at [Lickability](https://lickability.com) involves leading the team, setting product direction, helping with day-to-day operations, and talking to new and existing clients about what we can do for them. At the moment, I’m mostly focused on making sure our employees have everything they need to work well remotely, managing the development of 2 iOS apps for clients, and readying our next app, Scorecard, for release. [Join the beta here](https://testflight.apple.com/join/bkjqS6h4).
 
 ### App Critique 🧐
 
-Just [re-started a project](https://twitter.com/mb/status/1243632324329254914) I first did in 2016 called App Critique. The goal is to show how I evaluate the design of software with short video design reviews. You can watch the [videos as they’re released on YouTube](https://www.youtube.com/playlist?list=PLm5nKVoMBy49B-u868rgRCOMLVgUwskdT).
+Recently [re-started a video project](https://twitter.com/mb/status/1243632324329254914) I first did in 2016. The goal is to show how I evaluate the design of software with short design reviews. You can watch them as they’re released on [YouTube](https://www.youtube.com/playlist?list=PLm5nKVoMBy49B-u868rgRCOMLVgUwskdT).
 
 If you’d like your app design scrutinized, [fill out this form](https://matthewbischoff.typeform.com/to/RjX8si). Preference will be given to indie devs and small companies.
 
 ### Talks 🗣
 
-Working on a new talk about Accessibility for [App Builders CH](https://appbuilders.ch). I was excited about the chance to visit Switzerland for the first time in May, but now I’m psyched to be participating in their first remote event and giving folks stuck at home a great show.
+Just finished a new talk called _Apps for All: Making Accessible Software_ for [App Builders CH](https://appbuilders.ch) that I’ll be presenting tomorrow in their first remote event. [Get a ticket!
+](https://appbuilders.ch)
 
 ## Media 💻
 
@@ -62,13 +64,13 @@ I’ve been focusing a bit more on photography recently. Here are the latest pho
 
 I organize [my bookmarks](https://pinboard.in/u:mattb) on [Pinboard](https://pinboard.in/). Here are the latest five:
 
-<script async language="javascript" src="https://pinboard.in//widgets/v1/linkroll/?user=mattb&count=5"></script>
+<script language="javascript" src="https://pinboard.in//widgets/v1/linkroll/?user=mattb&count=5"></script>
 
 ### Podcasts 🎙
 
 I love listening to (and guesting on) podcasts, but I’m chronically behind on my backlog of shows because I oversubscribe. Some shows I’m binging lately: [Gender Reveal](https://www.genderpodcast.com), [Do By Friday](http://dobyfriday.com), [The Heart](https://www.theheartradio.org) (it’s back!), and [You’re Wrong About](https://podcasts.apple.com/podcast/youre-wrong-about/id1380008439).
 
-If you’d like me to have me on your podcast, I’ve got all the time in the world at the moment, and I’d really love that. [Shoot me an email](mailto:mb@matthewbischoff.com?subject=Book%20Reccomendation), and let’s do it.
+If you’d like me to have me on your podcast, I’ve got all the time in the world at the moment and would really love that. [Shoot me an email](mailto:mb@matthewbischoff.com?subject=Podcast), and let’s do it.
 
 ### Books 📚
 
@@ -88,7 +90,7 @@ padding: 0px 20px 0px 0px;
 overflow: hidden;
 }
 </style>
-<script async src="https://www.goodreads.com/review/grid_widget/3162891.Matthew's%20currently-reading%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_added&widget_id=1585539912" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.goodreads.com/review/grid_widget/3162891.Matthew's%20currently-reading%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=5&order=a&shelf=currently-reading&sort=date_added&widget_id=1589115163" type="text/javascript" charset="utf-8"></script>
 
 # Then
 

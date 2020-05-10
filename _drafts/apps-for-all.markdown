@@ -34,3 +34,5 @@ If you’ve seen the talk and are looking for additional resources, here are som
 • [Introduction - Accessibility - Human Interface Guidelines - Apple Developer](https://developer.apple.com/design/human-interface-
 guidelines/accessibility/overview/introduction/)
 * [Accessibility - Videos - Apple Developer](https://developer.apple.com/videos/frameworks/accessibility)
+* [Localization - Apple Developer](https://developer.apple.com/localization/)
+* [Designing forms for gender diversity and inclusion - UX Collective](https://uxdesign.cc/designing-forms-for-gender-diversity-and-inclusion-d8194cf1f51)

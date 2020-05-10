@@ -37,7 +37,7 @@ This morning, I’m giving a talk on this topic at [App Builders 2020](https://a
 
 ## Resouces
 
-If you’ve seen the talk and are looking for additional resources, here are some of the sources I consulted when writing it.
+If you’ve seen the talk and are looking for additional information, here are some of the sources I consulted when writing it.
 
 * [Universal design - Wikipedia](https://en.wikipedia.org/wiki/Universal_design)
 * [Curb cut - Wikipedia](https://en.wikipedia.org/wiki/Curb_cut)

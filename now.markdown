@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2020-05-10 08:12:00 -04:00
+date: 2020-05-10 08:23:00 -04:00
 position: 1
 place: Toronto, ON
 image: "/uploads/latest-selfie-62ddc3.jpeg"

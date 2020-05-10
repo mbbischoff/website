@@ -68,10 +68,10 @@ navigation_links:
 - title: RSS
   url: "/feed"
 category_names:
-- culture
-- feelings
-- longer
 - shorter
-- management
-- talks
+- longer
 - tech
+- culture
+- talks
+- feelings
+- management

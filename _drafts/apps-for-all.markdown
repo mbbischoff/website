@@ -35,7 +35,7 @@ This morning, I’m giving a talk on this topic at [App Builders 2020](https://a
 
 <script async class="speakerdeck-embed" data-id="7115a4f57d0c472fa1bb93fe5e67c740" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-## Resouces
+## Resources
 
 If you’ve seen the talk and are looking for additional information, here are some of the sources I consulted when writing it.
 

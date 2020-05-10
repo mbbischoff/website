@@ -22,7 +22,7 @@ description: |-
 
 *What does it take to build software that’s truly usable for as many people as possible?*
 
-This morning, I’m giving a talk on this topic at [App Builders 2020](https://appbuilders.ch). The presentation focuses on improving the accessibility of the software we build. Drawing on examples from the fields of architecture and design, as well as my experience, it explores the how and why of iOS accessibility in the broader contexts of ability and inclusion. You’ll learn how to audit your application for accessibility and get started making changes that will open it up to new groups of customers.
+This morning, I’m giving a talk on this topic at [App Builders 2020](https://appbuilders.ch). The presentation focuses on improving the accessibility of the software we build. Drawing on examples from the fields of architecture and design, as well as my experience, it explores the how and why of iOS accessibility in the broader contexts of ability and inclusion. You’ll learn how to audit your application for accessibility and get started making changes that will open it up to new customers.
 
 ## Video
 

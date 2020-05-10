@@ -17,7 +17,7 @@ This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](htt
 
 ## Life 👱🏻
 
-Usually, I live in a one-bedroom apartment in Manhattan. But near the beginning of the [COVID-19 global pandemic](https://en.wikipedia.org/wiki/Coronavirus_disease_2019), I realized I didn’t want to be isolated alone. So, for the past few months, I’ve been isolating in Toronto with my incredibly gracious partner [Kate Sloan](https://twitter.com/Girly_Juice). I’m scratching my various extrovert itches with group chats, [virtual events](https://comedybar.ca/sunday_live.php), and phone calls home.
+Usually, I live and work in New York City. But near the beginning of the [COVID-19 global pandemic](https://en.wikipedia.org/wiki/Coronavirus_disease_2019), I realized I didn’t want to be isolated alone. So, for the past few months, I’ve been living in Toronto with my incredibly gracious partner [Kate Sloan](https://twitter.com/Girly_Juice). I’m scratching my various extrovert itches with group chats, [virtual events](https://comedybar.ca/sunday_live.php), and phone calls with friends and family.
 
 ### Feelings 🔮
 
@@ -25,7 +25,7 @@ The global pandemic has me thinking a lot about the future—of work, of politic
 
 ### Gender ⚧
 
-I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) less than a year ago, and I’m still exploring my [gender identity](https://en.wikipedia.org/wiki/Gender_identity) and [expression](https://en.wikipedia.org/wiki/Gender_expression). New clothes, shoes, makeup, and ways of seeing myself and the world.
+I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) last July, and I’m still exploring my [gender identity](https://en.wikipedia.org/wiki/Gender_identity) and [expression](https://en.wikipedia.org/wiki/Gender_expression). New clothes, shoes, makeup, and ways of seeing myself and the world.
 
 ### 2020 Theme: Commit 🤝
 
@@ -37,11 +37,11 @@ Based on [The Theme System](https://www.thethemesystem.com), which I learned abo
 
 ## Work 👅
 
-My job as one of the partners at [Lickability](https://lickability.com) involves leading the team, setting product direction, helping with day-to-day operations, and talking to new and existing clients about what we can do for them. At the moment, I’m mostly focused on making sure our employees have everything they need to work well remotely, managing the development of 2 iOS apps for clients, and readying our next app, Scorecard, for release. [Join the beta here](https://testflight.apple.com/join/bkjqS6h4).
+My job as a Partner at [Lickability](https://lickability.com) involves leading the team, setting product direction, helping with day-to-day operations, and talking to new and existing clients about what we can do for them. At the moment, I’m mostly focused on making sure our employees have everything they need to work well remotely, managing the development of 2 iOS apps for clients, and readying our next app, Scorecard, for release. [Join the beta here](https://testflight.apple.com/join/bkjqS6h4).
 
 ### App Critique 🧐
 
-Recently [re-started a project](https://twitter.com/mb/status/1243632324329254914) I first did in 2016 called **App Critique**. The goal is to show how I evaluate the design of software with short video design reviews. You can watch the [videos as they’re released on YouTube](https://www.youtube.com/playlist?list=PLm5nKVoMBy49B-u868rgRCOMLVgUwskdT).
+Recently [re-started a video project](https://twitter.com/mb/status/1243632324329254914) I first did in 2016. The goal is to show how I evaluate the design of software with short design reviews. You can watch them as they’re released on [YouTube](https://www.youtube.com/playlist?list=PLm5nKVoMBy49B-u868rgRCOMLVgUwskdT).
 
 If you’d like your app design scrutinized, [fill out this form](https://matthewbischoff.typeform.com/to/RjX8si). Preference will be given to indie devs and small companies.
 

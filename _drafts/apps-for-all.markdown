@@ -1,6 +1,17 @@
 ---
 title: 'Apps for All: Making Software Accessible'
 date: 2020-04-25 14:40:00 -04:00
+categories:
+- tech
+- talks
+- culture
+- longer
+tags:
+- accessibility
+- ios
+- universal design
+- design
+image: "/uploads/Apps%20for%20All.png"
 ---
 
 ## Slides

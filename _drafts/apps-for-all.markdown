@@ -39,7 +39,7 @@ If you’ve seen the talk and are looking for additional resources, here are som
 * [Universal design - Wikipedia](https://en.wikipedia.org/wiki/Universal_design)
 * [Curb cut - Wikipedia](https://en.wikipedia.org/wiki/Curb_cut)
 * [Accessibility on iOS - Apple Developer](https://developer.apple.com/accessibility/ios/)
-• [Introduction - Accessibility - Human Interface Guidelines - Apple Developer](https://developer.apple.com/design/human-interface-
+* [Introduction - Accessibility - Human Interface Guidelines - Apple Developer](https://developer.apple.com/design/human-interface-
 guidelines/accessibility/overview/introduction/)
 * [Accessibility - Videos - Apple Developer](https://developer.apple.com/videos/frameworks/accessibility)
 * [Localization - Apple Developer](https://developer.apple.com/localization/)

@@ -32,7 +32,7 @@ This morning, I’m giving a talk on this topic at [App Builders 2020](https://a
 
 *This talk relies a lot on audio, video, and demos, but here are the slides in case you missed something while watching.*
 
-<script class="speakerdeck-embed" data-id="7115a4f57d0c472fa1bb93fe5e67c740" data-ratio="1.77777777777778" src="https://speakerdeck.com/assets/embed.js"></script>
+<script class="speakerdeck-embed" data-id="7115a4f57d0c472fa1bb93fe5e67c740" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## Resources
 

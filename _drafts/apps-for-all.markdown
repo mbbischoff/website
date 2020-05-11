@@ -18,7 +18,7 @@ description: |-
   This morning, I’m giving a talk on this topic called **Apps for All: Making Software Accessible** at App Builders CH 2020. The presentation focuses on improving the accessibility of the software we build.
 ---
 
-![Apps for All](/uploads/Apps%20for%20All.png)
+[![Apps for All](/uploads/Apps%20for%20All.png)](https://speakerdeck.com/matthewbischoff/apps-for-all-making-software-accessible)
 
 *What does it take to build software that’s truly usable for as many people as possible?*
 

@@ -27,7 +27,7 @@ This morning, I’m giving a talk on this topic at [App Builders 2020](https://a
 
 ## Video
 
-*Once the video for this talk is available, I’ll embed it here.*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LHHmx5XxIBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Slides
 

@@ -38,6 +38,7 @@ This morning, I’m giving a talk on this topic at [App Builders 2020](https://a
 
 If you’ve seen the talk and are looking for additional information, here are some of the sources I consulted when writing it.
 
+* [Curb Cuts - 99% Invisible](https://99percentinvisible.org/episode/curb-cuts/)
 * [Universal design - Wikipedia](https://en.wikipedia.org/wiki/Universal_design)
 * [Curb cut - Wikipedia](https://en.wikipedia.org/wiki/Curb_cut)
 * [Accessibility on iOS - Apple Developer](https://developer.apple.com/accessibility/ios/)

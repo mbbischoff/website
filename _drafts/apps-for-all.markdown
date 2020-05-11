@@ -39,14 +39,14 @@ This morning, I’m giving a talk on this topic at [App Builders 2020](https://a
 If you’ve seen the talk and are looking for additional information, here are some of the sources I consulted when writing it.
 
 * [Curb Cuts - 99% Invisible](https://99percentinvisible.org/episode/curb-cuts/)
-* [Universal design - Wikipedia](https://en.wikipedia.org/wiki/Universal_design)
 * [Curb cut - Wikipedia](https://en.wikipedia.org/wiki/Curb_cut)
-* [Accessibility on iOS - Apple Developer](https://developer.apple.com/accessibility/ios/)
+* [Universal design - Wikipedia](https://en.wikipedia.org/wiki/Universal_design)
 * [Introduction - Accessibility - Human Interface Guidelines - Apple Developer](https://developer.apple.com/design/human-interface-
 guidelines/accessibility/overview/introduction/)
+* [Accessibility on iOS - Apple Developer](https://developer.apple.com/accessibility/ios/)
 * [Accessibility - Videos - Apple Developer](https://developer.apple.com/videos/frameworks/accessibility)
 * [Localization - Apple Developer](https://developer.apple.com/localization/)
-* [Designing forms for gender diversity and inclusion - UX Collective](https://uxdesign.cc/designing-forms-for-gender-diversity-and-inclusion-d8194cf1f51)
 * [iOS Accessibility Tips & Tricks – Sommer Panage - YouTube](https://www.youtube.com/watch?v=dmMASdKhl_w)
 * [UIKonf 2017 – Day 2 – Sommer Panage – Accessibility: iOS for All - YouTube](https://www.youtube.com/watch?v=G01Ac5njNSs)
 * [Re-approaching Color - Lyft Design](https://design.lyft.com/re-approaching-color-9e604ba22c88)
+* [Designing forms for gender diversity and inclusion - UX Collective](https://uxdesign.cc/designing-forms-for-gender-diversity-and-inclusion-d8194cf1f51)

@@ -33,7 +33,7 @@ This talk relies a lot on audio, video, and demos, but [here are the slides](htt
 
 ## Sketchnotes
 
-Felizia Bernutz ([@felibe444](https://twitter.com/felibe444/status/1259871373566062592?s=21)) also posted these incredible [sketchnotes](https://en.wikipedia.org/wiki/Sketchnoting) from the talk.
+[Felizia Bernutz](https://twitter.com/felibe444) also posted these incredible [sketchnotes](https://en.wikipedia.org/wiki/Sketchnoting) from the talk.
 
 ![Apps for All Sketchnotes](/uploads/appbuilders-apps-for-all.jpg)
 

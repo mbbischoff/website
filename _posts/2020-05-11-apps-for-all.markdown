@@ -31,6 +31,12 @@ This talk relies a lot on audio, video, and demos, but [here are the slides](htt
 
 <iframe class="speakerdeck-iframe" frameborder="0" src="//speakerdeck.com/player/7115a4f57d0c472fa1bb93fe5e67c740?" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background: padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 700px; height: 394px;"></iframe>
 
+## Sketchnotes
+
+Twitter user [@felibe](https://twitter.com/felibe444/status/1259871373566062592?s=21) posted these incredible sketchnotes from the talk.
+
+![appbuilders-apps-for-all.jpg](/uploads/appbuilders-apps-for-all.jpg)
+
 ## Resources
 
 If you’ve seen the talk and are looking for additional information, here are some of the sources I consulted when writing it.

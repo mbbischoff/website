@@ -15,4 +15,4 @@ format: link
 link: https://jillian.cloud/blm
 ---
 
-Things are changing. People around the country and the globe are *finally* recognizing what black people have been telling us forever: that white supremacy, structural racism, and police violence are endemic in our culture. If you’re overwhelmed or having a hard time figuring out what to do right now, my friend [Jillian Meehan](http://twitter.com/jilliangmeehan) collected [this list](https://jillian.cloud/blm) of places to start. #blacklivesmatter
+Things are changing. People around the country are *finally* recognizing what black people have been telling us forever: that white supremacy, structural racism, and police violence are endemic in our culture. If you’re overwhelmed or having a hard time figuring out what to do right now, my friend [Jillian Meehan](http://twitter.com/jilliangmeehan) collected [this list](https://jillian.cloud/blm) of places to start. #blacklivesmatter

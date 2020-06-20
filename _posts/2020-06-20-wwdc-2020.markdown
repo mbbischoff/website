@@ -16,7 +16,7 @@ description: Apple’s first online-only Worldwide Developers Conference is just
 
 Apple’s first online-only [Worldwide Developers Conference](https://developer.apple.com/wwdc20/) is just a couple days away, and I’m excited to watch as many sessions as I can and chat with new and old friends in the Apple developer community. We’re even [opening up the Lickability Discord server](https://twitter.com/lickability/status/1274329972094701570) so we have a place to meetup and watch talks together. [Come join us!](https://discord.com/invite/q8H6D6Z)
 
-This week, [Apple is also under pressure from the developers of Hey](https://techcrunch.com/2020/06/18/interview-apples-schiller-says-position-on-hey-app-is-unchanged-and-no-rules-changes-are-imminent/) and the community at large to change App Store policies, but I’m not holding my breath on that.
+This week, [Apple is also under pressure from the developers of Hey](https://techcrunch.com/2020/06/18/interview-apples-schiller-says-position-on-hey-app-is-unchanged-and-no-rules-changes-are-imminent/) and the community at large to change App Store policies on in-app purchase, but I’m not holding my breath on that.
 
 Here’s what’s on my personal WWDC wishlist this year:
 

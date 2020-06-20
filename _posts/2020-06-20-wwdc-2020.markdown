@@ -1,0 +1,40 @@
+---
+title: WWDC 2020
+date: 2020-06-20 12:13:00 -04:00
+categories:
+- tech
+tags:
+- wwdc
+- apple
+- iOS
+- lickability
+image: "/uploads/A45B0C4C-8626-4B3A-8F9E-F6896461AEFB.jpeg"
+description: Apple’s first online-only Worldwide Developers Conference is just a couple
+  days away, and I’m excited to watch as many sessions as I can and chat with new
+  and old friends in the Apple developer community.
+---
+
+Apple’s first online-only [Worldwide Developers Conference](https://developer.apple.com/wwdc20/) is just a couple days away, and I’m excited to watch as many sessions as I can and chat with new and old friends in the Apple developer community. We’re even [opening up the Lickability Discord server](https://twitter.com/lickability/status/1274329972094701570) so we have a place to meetup and watch talks together. [Come join us!](https://discord.com/invite/q8H6D6Z)
+
+This week, [Apple is also under pressure from Hey](https://techcrunch.com/2020/06/18/interview-apples-schiller-says-position-on-hey-app-is-unchanged-and-no-rules-changes-are-imminent/) and the community at large to change App Store policies, but I’m not holding my breath on that.
+
+Here’s what’s on my personal WWDC wishlist this year:
+
+✍️ Documentation for all public API
+⚙️ Setting default apps
+📱Redesigned SpringBoard
+🔨 Buddybuild relaunch
+🐦 SwiftUI usable in production
+📧 Snooze + send later in Mail
+💎 Cataylst improvements
+💬 Mentions in Messages
+🔖 Pronoun sharing in iMessage/Contacts
+🖥 Shortcuts on Mac
+🔗 Universal Link Settings
+🔒 iCloud Keychain Import/Export
+🗓 Calendar Redesign
+⌚️ Apple Watch Sleep Tracking
+🧠 Smart Playlists & Albums on iOS
+🧭 iOS Safari Tab Redesign
+📲 Customizable Lock Screen Actions
+🎛 Control Center Extensions

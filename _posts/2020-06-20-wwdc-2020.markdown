@@ -20,21 +20,21 @@ This week, [Apple is also under pressure from Hey](https://techcrunch.com/2020/0
 
 Here’s what’s on my personal WWDC wishlist this year:
 
-✍️ Documentation for all public API
-⚙️ Setting default apps
-📱Redesigned SpringBoard
-🔨 Buddybuild relaunch
-🐦 SwiftUI usable in production
-📧 Snooze + send later in Mail
-💎 Cataylst improvements
-💬 Mentions in Messages
-🔖 Pronoun sharing in iMessage/Contacts
-🖥 Shortcuts on Mac
-🔗 Universal Link Settings
-🔒 iCloud Keychain Import/Export
-🗓 Calendar Redesign
-⌚️ Apple Watch Sleep Tracking
-🧠 Smart Playlists & Albums on iOS
-🧭 iOS Safari Tab Redesign
-📲 Customizable Lock Screen Actions
-🎛 Control Center Extensions
+✍️ Documentation for all public API  
+⚙️ Setting default apps  
+📱Redesigned SpringBoard  
+🔨 Buddybuild relaunch  
+🐦 SwiftUI usable in production  
+📧 Snooze + send later in Mail  
+💎 Cataylst improvements   
+💬 Mentions in Messages   
+🔖 Pronoun sharing in iMessage/Contacts   
+🖥 Shortcuts on Mac   
+🔗 Universal Link Settings   
+🔒 iCloud Keychain Import/Export   
+🗓 Calendar Redesign   
+⌚️ Apple Watch Sleep Tracking   
+🧠 Smart Playlists & Albums on iOS   
+🧭 iOS Safari Tab Redesign   
+📲 Customizable Lock Screen Actions   
+🎛 Control Center Extensions   

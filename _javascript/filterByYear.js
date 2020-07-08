@@ -5,10 +5,11 @@ import { clearSelectedCategoryButtons } from "./filterByCategory";
 const latestTag = document.querySelector("#latest");
 const latestTagSpan = latestTag.querySelector("span");
 const yearsList = document.querySelector("#years");
+const postList = document.querySelector(".posts");
 let uniqueYears;
 let latestDropdownOption;
 
-export const initializeFilterByYear = (data, postList) => {
+export const initializeFilterByYear = (data) => {
   if ([latestTag, yearsList].some(element => element === null)) { return; }
 
   const currentYear = getYear();
@@ -40,36 +41,9 @@ export const initializeFilterByYear = (data, postList) => {
 
   latestDropdownOption = document.querySelector(".latest-dropdown-option");
 
-  document.querySelectorAll(".year").forEach((yearButton) => {
-    yearButton.addEventListener("click", (event) => {
-      event.preventDefault();
-
-      const year = yearButton.dataset.year;
-
-      if (year === "latest") {
-        document.title = "Matthew Bischoff";
-        window.history.replaceState(document.title, document.title, "/");
-
-        removeYear();
-        removeCategory();
-        yearDropdownSetYear("latest");
-      } else {
-        const url = new URL(location.href);
-        url.pathname = "";
-        url.search = `year=${year}`;
-
-        document.title = `${year} · Matthew Bischoff`;
-        window.history.replaceState(document.title, document.title, url.toString());
-
-        setYear(year);
-        removeCategory();
-        yearDropdownSetYear(year);
-      }
-
-      clearSelectedCategoryButtons();
-      setAndRenderPosts(data, postList);
-    });
-  });
+  if (postList) {
+    initializeYearButtonEventListeners(data);
+  }
 
   latestTag.addEventListener("click", (event) => {
     event.preventDefault();
@@ -105,4 +79,37 @@ export const yearDropdownSetYear = (year) => {
 
   yearsList.style.height = "0px";
   yearsList.classList.toggle("show");
+}
+
+export const initializeYearButtonEventListeners = (data) => {
+  document.querySelectorAll(".year").forEach((yearButton) => {
+    yearButton.addEventListener("click", (event) => {
+      event.preventDefault();
+
+      const year = yearButton.dataset.year;
+
+      if (year === "latest") {
+        document.title = "Matthew Bischoff";
+        window.history.replaceState(document.title, document.title, "/");
+
+        removeYear();
+        removeCategory();
+        yearDropdownSetYear("latest");
+      } else {
+        const url = new URL(location.href);
+        url.pathname = "";
+        url.search = `year=${year}`;
+
+        document.title = `${year} · Matthew Bischoff`;
+        window.history.replaceState(document.title, document.title, url.toString());
+
+        setYear(year);
+        removeCategory();
+        yearDropdownSetYear(year);
+      }
+
+      clearSelectedCategoryButtons();
+      setAndRenderPosts(data);
+    });
+  });
 }

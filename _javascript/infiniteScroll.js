@@ -1,7 +1,7 @@
 import { postsThatShouldBeShown, renderNewPost } from "./renderPosts";
 import { getYear, getCategory } from "./index";
 
-export const initializeInfiniteScroll = (data, postListElement) => {
+export const initializeInfiniteScroll = (data) => {
   const posts = document.querySelector(".posts");
   if (posts === null) { return; }
 
@@ -16,7 +16,7 @@ export const initializeInfiniteScroll = (data, postListElement) => {
       const postData = postsThatShouldBeShown(data, category, year)[postIndex];
 
       if (postData !== undefined) {
-        renderNewPost(postData, postListElement);
+        renderNewPost(postData);
       }
     }
   });

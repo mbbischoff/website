@@ -4,8 +4,11 @@ import { setCategory, removeYear } from ".";
 import { retractYearList, yearDropdownSetYear } from "./filterByYear";
 
 const categoryButtons = document.querySelectorAll(".category");
+const postList = document.querySelector(".posts");
 
-export const initializeFilterByCategory = (data, postList) => {
+export const initializeFilterByCategory = (data) => {
+  if (!postList) { return; }
+
   categoryButtons.forEach((categoryButton) => {
     categoryButton.addEventListener("click", (event) => {
       event.preventDefault();

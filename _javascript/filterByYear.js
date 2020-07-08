@@ -1,23 +1,20 @@
-import { setPosts } from "./setPosts";
+import { setAndRenderPosts } from "./setPosts";
 import { getYear, setYear, removeCategory, removeYear } from "./index";
+import { clearSelectedCategoryButtons } from "./filterByCategory";
 
 const latestTag = document.querySelector("#latest");
-const latestTagCarrot = latestTag.querySelector("img");
 const latestTagSpan = latestTag.querySelector("span");
 const yearsList = document.querySelector("#years");
 let uniqueYears;
+let latestDropdownOption;
 
 export const initializeFilterByYear = (data, postList) => {
-  const footer = document.querySelector("footer");
-  const main = document.querySelector("main");
-  const categoryButtons = document.querySelectorAll(".category");
-
   if ([latestTag, yearsList].some(element => element === null)) { return; }
 
   const currentYear = getYear();
 
   if (currentYear) {
-    latestTag.innerText = currentYear;
+    latestTagSpan.innerText = currentYear;
     latestTag.classList.add("blue-highlight")
   }
 
@@ -41,52 +38,36 @@ export const initializeFilterByYear = (data, postList) => {
     `);
   });
 
-  const latestDropdownOption = document.querySelector(".latest-dropdown-option");
+  latestDropdownOption = document.querySelector(".latest-dropdown-option");
 
   document.querySelectorAll(".year").forEach((yearButton) => {
     yearButton.addEventListener("click", (event) => {
       event.preventDefault();
 
-      if (yearButton.dataset.year === "latest") {
-        removeYear();
-        removeCategory();
+      const year = yearButton.dataset.year;
 
-        latestTagSpan.innerText = "Latest";
-
+      if (year === "latest") {
         document.title = "Matthew Bischoff";
         window.history.replaceState(document.title, document.title, "/");
-        latestDropdownOption.style.display = "none";
-      } else {
-        const year = parseInt(yearButton.dataset.year);
 
-        setYear(year);
+        removeYear();
         removeCategory();
-
+        yearDropdownSetYear("latest");
+      } else {
         const url = new URL(location.href);
         url.pathname = "";
         url.search = `year=${year}`;
 
-        latestTagSpan.innerText = year;
-
         document.title = `${year} · Matthew Bischoff`;
         window.history.replaceState(document.title, document.title, url.toString());
-        setTimeout(() => latestDropdownOption.style.display = "list-item", 200); 
+
+        setYear(year);
+        removeCategory();
+        yearDropdownSetYear(year);
       }
 
-      footer.style.opacity = "0";
-      main.style.opacity = "0";
-
-      setTimeout(() => {
-        setPosts(data, postList);
-        setTimeout(() => {
-          main.style.opacity = "1";
-          footer.style.opacity = "1";
-        }, 300);
-      }, 300);
-
-      yearsList.style.height = "0px";
-      yearsList.classList.toggle("show");
-      categoryButtons.forEach(btn => btn.classList.remove("blue-highlight"));
+      clearSelectedCategoryButtons();
+      setAndRenderPosts(data, postList);
     });
   });
 
@@ -111,4 +92,17 @@ export const retractYearList = () => {
   yearsList.style.height = "0px";
   latestTag.classList.remove("blue-highlight");
   yearsList.classList.remove("show");
+}
+
+export const yearDropdownSetYear = (year) => {
+  if (year === "latest") {
+    latestTagSpan.innerText = "Latest";
+    latestDropdownOption.style.display = "none";
+  } else {
+    latestTagSpan.innerText = year;
+    setTimeout(() => latestDropdownOption.style.display = "list-item", 200);
+  }
+
+  yearsList.style.height = "0px";
+  yearsList.classList.toggle("show");
 }

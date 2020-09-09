@@ -1,6 +1,6 @@
 <p class="categories-and-tags">
   {% if include.post.categories != empty %}
-    <strong>Filled to</strong>: 
+    <strong>Filed to</strong>: 
 
     {% for category in include.post.categories %}
       <a href="/category/{{ category }}">{{ category | capitalize}}</a>{% unless forloop.last == true %}, {% endunless %}

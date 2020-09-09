@@ -8,7 +8,7 @@ article {
 
 time {
   a {
-    color: $grey-date;
+    color: $text-light;
   }
 }
 
@@ -26,11 +26,6 @@ time {
     margin-bottom: 0px;
   }
 
-  time {
-    margin-bottom: 18px;
-    display: block;
-  }
-
   img {
     object-fit: cover;
   }
@@ -41,6 +36,11 @@ time {
       margin-right: -20px;
       width: calc(100% + 40px);
     }
+  }
+  
+  time {
+    margin-bottom: 18px;
+    display: block;
   }
 }
 
@@ -70,6 +70,10 @@ time {
     font-weight: bold;
     font-size: 2.2em;
   }
+}
+
+.post-tag {
+  color: $text-light;
 }
 
 .pagination {

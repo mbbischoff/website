@@ -1,21 +1,22 @@
 <div class="long-form-post">
-  {% include datetime.html date=post.date %}
+  {% include datetime.html post=post %}
 
-  <a href="{{ post.url }}">
+  <a href="{{ include.post.url }}">
     <h2 class="post-title">
-      {{ post.title }}
+      {{ include.post.title }}
     </h2>
   </a>
 
-  {% if post.content contains "<!-- more -->" %}
-    {{ post.content | split:"<!-- more -->" | first % }}
+  {% if include.post.content contains "<!-- more -->" %}
+    {{ include.post.content | split:"<!-- more -->" | first % }}
     <div class="read-more">
-      <a href="{{ post.url }}"> Read More </a>
+      <a href="{{ include.post.url }}"> Read More </a>
     </div>
     <div style="display: none;">
-      {{ post.content | split:"<!-- more -->" | last % }}
+      {{ include.post.content | split:"<!-- more -->" | last % }}
     </div>
   {% else %}
-    {{ post.content }}
+    {{ include.post.content }}
   {% endif %}
+  {% include category_and_tags.html post=post %}
 </div>

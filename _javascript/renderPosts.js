@@ -1,3 +1,5 @@
+import { capitalize } from "./utils";
+
 export const postsThatShouldBeShown = (postsData, category, year) => {
   let posts = [];
 
@@ -81,7 +83,7 @@ const longFormPostHTML = (postData) => {
       </div>
       <div class="read-more-content">
         ${splitContent[1]}
-      <div>
+      </div>
     `
   } else {
     content = postData.content_html;
@@ -97,6 +99,7 @@ const longFormPostHTML = (postData) => {
       </a>
 
       ${content}
+      ${categoryAndTagsHTML(postData)}
     </div>
   `
 }
@@ -111,6 +114,7 @@ const linkPostHTML = (postData) => {
       ${dateHTML(postData)}
       <h2><a href="${link}" target="_blank" rel="noopener">${title}&nbsp;→</a></h2>
       ${content}
+      ${categoryAndTagsHTML(postData)}
     </div>
   `
 }
@@ -125,6 +129,7 @@ const tweetPostHTML = (postData) => {
       <div class="color-dark-${color}">
         ${dateHTML(postData)}
         <div class="links-${color}">${content}</div>
+        ${categoryAndTagsHTML(postData)}
       </div>
     </div>
   `
@@ -140,4 +145,48 @@ const dateHTML = (postData) => {
       <a href="${postData.url}">${date}</a>
     </time>
   `)
+}
+
+const categoryAndTagsHTML = (postData) => {
+  const categoryHTML = (categoryName) => {
+    return `<a href="/category/${categoryName}">${capitalize(categoryName)}</a>`;
+  }
+
+  const tagHTML = (tagName) => {
+    return `<span class="post-tag">#${tagName}</span>`;
+  }
+
+  const pTagClass = postData.format === "tweet" ? `categories-and-tags links-${postData.color}` : "categories-and-tags";
+
+  // A post without tags will have this as the value of the property 'tags' -> [""]
+  // Same for properties
+
+  const hasTags = postData.tags && !(postData.tags.length == 1 && postData.tags[0] == "");
+  const hasCategories = postData.categories && !(postData.categories.length == 1 && postData.categories[0] == "");
+
+  let html = "";
+
+  if (hasTags && !hasCategories) {
+    html = `
+      <p class="${pTagClass}">
+        <strong>Tags</strong>: ${ postData.tags.map(tagHTML).join(", ") }
+      </p>
+    `
+  } else if (!hasTags && hasCategories) {
+    html = `
+      <p class="${pTagClass}">
+        <strong>Filled to</strong>: ${ postData.categories.map(categoryHTML).join(", ") }
+      </p>
+    `
+  } else if (hasTags & hasCategories) {
+    html = `
+      <p class="${pTagClass}">
+        <strong>Filled to</strong>: ${ postData.categories.map(categoryHTML).join(", ") }
+         • 
+        <strong>Tags</strong>: ${ postData.tags.map(tagHTML).join(", ") }
+      </p>
+    `
+  }
+
+  return html;
 }

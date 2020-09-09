@@ -1,6 +1,7 @@
 <div class="link-post">
-  {% include datetime.html date=post.date %}
-  <h2><a href="{{ post.link }}" target="_blank" rel="noopener">{{ post.title }} →</a></h2>
+  {% include datetime.html post=include.post %}
+  <h2><a href="{{ include.post.link }}" target="_blank" rel="noopener">{{ include.post.title }} →</a></h2>
 
-  {{ post.content }}
+  {{ include.post.content }}
+  {% include category_and_tags.html post=include.post %}
 </div>

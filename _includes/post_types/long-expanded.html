@@ -1,9 +1,10 @@
 <div class="long-form-post">
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date: "%B %-d, %Y" }}</time>
+  {% include datetime.html post=include.post %}
 
   <h1 class="post-title">
-    {{ page.title }}
+    {{ include.post.title }}
   </h1>
 
-  {{ content }}
+  {{ include.post.content }}
+  {% include category_and_tags.html post=include.post %}
 </div>

@@ -175,7 +175,7 @@ const categoryAndTagsHTML = (postData) => {
   } else if (!hasTags && hasCategories) {
     html = `
       <p class="${pTagClass}">
-        <strong>Filled to</strong>: ${ postData.categories.map(categoryHTML).join(", ") }
+        <strong>Filed to</strong>: ${ postData.categories.map(categoryHTML).join(", ") }
       </p>
     `
   } else if (hasTags & hasCategories) {

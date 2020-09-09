@@ -1,5 +1,7 @@
 import { capitalize } from "./utils";
 
+const postList = document.querySelector(".posts");
+
 export const postsThatShouldBeShown = (postsData, category, year) => {
   let posts = [];
 
@@ -16,7 +18,7 @@ export const postsThatShouldBeShown = (postsData, category, year) => {
   return posts;
 }
 
-export const renderNewPost = (postData, postList) => {
+export const renderNewPost = (postData) => {
   postList.insertAdjacentHTML("beforeend", postHTML(postData));
   const newPostElement = postList.querySelector(".post:last-child");
 
@@ -60,7 +62,6 @@ const postHTML = (postData) => {
   } else {
     html = longFormPostHTML(postData);
   }
-
 
   return `
     <article class="post">

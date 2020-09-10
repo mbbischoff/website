@@ -50,8 +50,6 @@ if (match) {
   document.head.insertAdjacentHTML("beforeend", `<meta name="category">`);
 }
 
-const postListElement = document.querySelector(".posts");
-
 const main = document.querySelector("main");
 const footer = document.querySelector("footer");
 const posts = document.querySelector(".posts");
@@ -65,11 +63,10 @@ if (posts) {
 }
 
 fetch("/feed.json").then(response => response.json()).then((data) => {
-  setPosts(data, postListElement);
-  initializeInfiniteScroll(data, postListElement)
-  initializeFilterByYear(data, postListElement);
-
-  initializeFilterByCategory(data, postListElement)
+  setPosts(data);
+  initializeInfiniteScroll(data)
+  initializeFilterByYear(data);
+  initializeFilterByCategory(data);
 
   setTimeout(() => {
     main.style.opacity = "1";

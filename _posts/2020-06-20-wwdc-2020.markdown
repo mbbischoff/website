@@ -1,17 +1,16 @@
 ---
-title: WWDC 2020
-date: 2020-06-20 12:13:00 -04:00
-categories:
-- tech
-tags:
-- wwdc
-- apple
-- iOS
-- lickability
+title: "WWDC 2020"
+date: 2020-06-20 12:13:00 -0400
+categories: 
+- "tech"
+- "2020"
+tags: 
+- "wwdc"
+- "apple"
+- "iOS"
+- "lickability"
 image: "/uploads/A45B0C4C-8626-4B3A-8F9E-F6896461AEFB.jpeg"
-description: Apple’s first online-only Worldwide Developers Conference is just a couple
-  days away, and I’m excited to watch as many sessions as I can and chat with new
-  and old friends in the Apple developer community.
+description: "Apple’s first online-only Worldwide Developers Conference is just a couple days away, and I’m excited to watch as many sessions as I can and chat with new and old friends in the Apple developer community."
 ---
 
 Apple’s first online-only [Worldwide Developers Conference](https://developer.apple.com/wwdc20/) is just a couple days away, and I’m excited to watch as many sessions as I can and chat with new and old friends in the Apple developer community. We’re even [opening up the Lickability Discord server](https://twitter.com/lickability/status/1274329972094701570) so we have a place to meetup and watch talks together. [Come join us!](https://discord.com/invite/q8H6D6Z)

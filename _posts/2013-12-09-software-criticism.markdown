@@ -1,14 +1,15 @@
 ---
-title: Software Criticism
-date: 2013-12-09 00:00:00 -05:00
-categories:
-- tech
-- culture
-- longer
-tags:
-- nytimes
-- criticism
-layout: post
+title: "Software Criticism"
+date: 2013-12-09 00:00:00 -0500
+categories: 
+- "tech"
+- "culture"
+- "longer"
+- "2013"
+tags: 
+- "nytimes"
+- "criticism"
+layout: "post"
 ---
 
 ![Critica](/uploads/critica.jpg)

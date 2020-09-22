@@ -1,15 +1,16 @@
 ---
-title: 'The Allusionist: Enjoy'
-date: 2020-01-08 13:51:00 -05:00
-categories:
-- culture
-- shorter
-tags:
-- podcast
-- language
+title: "The Allusionist: Enjoy"
+date: 2020-01-08 13:51:00 -0500
+categories: 
+- "culture"
+- "shorter"
+- "2020"
+tags: 
+- "podcast"
+- "language"
 image: "/uploads/enjoy.jpg"
-format: link
-link: https://www.theallusionist.org/allusionist/enjoy
+format: "link"
+link: "https://www.theallusionist.org/allusionist/enjoy"
 ---
 
 <iframe loading="lazy" title="The Allusionist: Enjoy" scrolling="no" src="https://play.prx.org/e?uf=http:%2F%2Ffeeds.theallusionist.org%2FAllusionist&ge=prx_195_12c20bab-7dc1-4891-ab88-3db135d4e9ad&wmode=opaque" height="200" width="100%"></iframe>

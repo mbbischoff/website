@@ -1,15 +1,16 @@
 ---
-title: You’re Up
-date: 2013-08-03 00:00:00 -04:00
-permalink: you-are-up
-categories:
-- tech
-- longer
-tags:
-- game
-- conferences
-- advice
-layout: post
+title: "You’re Up"
+date: 2013-08-03 00:00:00 -0400
+permalink: "you-are-up"
+categories: 
+- "tech"
+- "longer"
+- "2013"
+tags: 
+- "game"
+- "conferences"
+- "advice"
+layout: "post"
 ---
 
 Whenever I go to tech conferences or meetups, I almost always end up traveling with either [Brian](http://briancapps.org) or [Andrew](http://twitter.com/twig777) from [Lickability](http://lickability.com).

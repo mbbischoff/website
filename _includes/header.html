@@ -25,11 +25,11 @@
     <nav id="categories">
       <div>
         {% if page.url contains "/archive" %}
-          <a id="latest" class="button-round blue-highlight" href="/archive">
+          <a id="latest" class="button-round blue-highlight" href="#">
             <img id="carrot" src="/uploads/carrot.svg" alt="Disclosure arrow"><span>Latest</span>
           </a>
         {% else %}
-          <a id="latest" class="button-round" href="/archive">
+          <a id="latest" class="button-round" href="#">
             <img id="carrot" src="/uploads/carrot.svg" alt=""><span>Latest</span>
           </a>
         {% endif %}
@@ -44,6 +44,18 @@
         {% endfor %}
       </div>
       <ul id="years">
+        {% for category in site.categories %}
+          {% assign category_name = category | first | strip_html %}
+
+          {% if category_name contains "20" and category_name | size == 4 %}
+            <li class="button-round">
+              <a class="year" href="/{{ category_name }}">
+                {{ category_name }}
+              </a>
+            </li>
+          {% endif %}
+
+        {% endfor %}
       </ul>
     </nav>
   </div>

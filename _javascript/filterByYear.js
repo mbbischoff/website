@@ -11,6 +11,8 @@ export const initializeFilterByYear = () => {
       extendYearList();
     }
   });
+
+  latestTag.setAttribute("href", "#");
 }
 
 const extendYearList = () => {

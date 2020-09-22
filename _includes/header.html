@@ -32,12 +32,12 @@
           </a>
         {% else %}
           {% if page.title contains "20" and page.title | size == 4 %}
-            <a id="latest" class="button-round blue-highlight" href="#">
+            <a id="latest" class="button-round blue-highlight" href="/archive">
               <img id="carrot" src="/uploads/carrot.svg" alt="">
               <span>{{ page.title }}</span>
             </a>
           {% else %}
-            <a id="latest" class="button-round" href="#">
+            <a id="latest" class="button-round" href="/archive">
               <img id="carrot" src="/uploads/carrot.svg" alt="">
               <span>Latest</span>
             </a>

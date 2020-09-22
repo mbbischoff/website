@@ -1,3 +1,5 @@
+{% comment %} {% assign this_is_a_year_categoy_page = page.title contains "20" and page.title | size == 4%} {% endcomment %}
+
 <header>
   <div class="container">
     <nav id="page-links">
@@ -29,17 +31,25 @@
             <img id="carrot" src="/uploads/carrot.svg" alt="Disclosure arrow"><span>Latest</span>
           </a>
         {% else %}
-          <a id="latest" class="button-round" href="#">
-            <img id="carrot" src="/uploads/carrot.svg" alt=""><span>Latest</span>
-          </a>
+          {% if page.title contains "20" and page.title | size == 4 %}
+            <a id="latest" class="button-round blue-highlight" href="#">
+              <img id="carrot" src="/uploads/carrot.svg" alt="">
+              <span>{{ page.title }}</span>
+            </a>
+          {% else %}
+            <a id="latest" class="button-round" href="#">
+              <img id="carrot" src="/uploads/carrot.svg" alt="">
+              <span>Latest</span>
+            </a>
+          {% endif %}
         {% endif %}
         {% for category_name in site.category_names %}
           {% assign category_matcher = "/category/" | append: category_name %}
 
           {% if page.url contains category_matcher %}
-            <a data-category-name="{{category_name}}" class="category button-round blue-highlight" href="{{ site.url }}/category/{{ category_name }}">{{ category_name | capitalize }}</a>
+            <a class="category button-round blue-highlight" href="{{ site.url }}/category/{{ category_name }}">{{ category_name | capitalize }}</a>
           {% else %}
-            <a data-category-name="{{category_name}}" class="category button-round" href="{{ site.url }}/category/{{ category_name }}">{{ category_name | capitalize }}</a>
+            <a class="category button-round" href="{{ site.url }}/category/{{ category_name }}">{{ category_name | capitalize }}</a>
           {% endif %}
         {% endfor %}
       </div>
@@ -49,13 +59,15 @@
 
           {% if category_name contains "20" and category_name | size == 4 %}
             <li class="button-round">
-              <a class="year" href="/{{ category_name }}">
-                {{ category_name }}
-              </a>
+              <a class="year" href="/{{ category_name }}">{{ category_name }}</a>
             </li>
           {% endif %}
-
         {% endfor %}
+        {% if page.title contains "20" and page.title | size == 4 %}
+          <li class="button-round">
+            <a class="year" href="{{ site.url }}/">Latest</a>
+          </li>
+        {% endif %}
       </ul>
     </nav>
   </div>

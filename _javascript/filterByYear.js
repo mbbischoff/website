@@ -14,7 +14,7 @@ export const initializeFilterByYear = () => {
 }
 
 export const extendYearList = () => {
-  yearsList.style.height = `${7 * 38}px`;
+  yearsList.style.height = `${yearsList.children.length * 38}px`;
   latestTag.classList.add("blue-highlight");
   yearsList.classList.add("show");
 }

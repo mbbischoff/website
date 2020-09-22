@@ -13,13 +13,13 @@ export const initializeFilterByYear = () => {
   });
 }
 
-export const extendYearList = () => {
+const extendYearList = () => {
   yearsList.style.height = `${yearsList.children.length * 38}px`;
   latestTag.classList.add("blue-highlight");
   yearsList.classList.add("show");
 }
 
-export const retractYearList = () => {
+const retractYearList = () => {
   yearsList.style.height = "0px";
   latestTag.classList.remove("blue-highlight");
   yearsList.classList.remove("show");

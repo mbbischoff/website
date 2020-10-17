@@ -1,5 +1,5 @@
 ---
-title: 'Everyday Robots 63: Build and Watch with Matthew Bischoff'
+title: 'Everyday Robots #63: Build and Watch'
 date: 2020-10-17 12:39:00 -04:00
 categories:
 - tech

@@ -1,17 +1,17 @@
 ---
-title: "RTFM: Things You Missed in the HIG"
-date: 2013-09-28 00:00:00 -0400
-categories: 
-- "talks"
-- "tech"
-- "longer"
-- "2013"
-tags: 
-- "me"
-- "ios"
-- "HIG"
-- "design"
-layout: "post"
+title: 'RTFM: Things You Missed in the HIG'
+date: 2013-09-28 00:00:00 -04:00
+categories:
+- talks
+- tech
+- longer
+- '2013'
+tags:
+- me
+- ios
+- HIG
+- design
+layout: post
 ---
 
 <script async class="speakerdeck-embed" data-id="3c7f53c00a970131e71b4ad4807d0c08" data-ratio="1.77777777777778" src="https://speakerdeck.com/assets/embed.js"></script>

@@ -1,17 +1,17 @@
 ---
-title: "Lowering the Gates"
-date: 2014-02-11 00:00:00 -0500
-categories: 
-- "tech"
-- "culture"
-- "longer"
-- "2014"
-tags: 
-- "nytimes"
-- "tech"
-- "paywall"
-- "strategy"
-layout: "post"
+title: Lowering the Gates
+date: 2014-02-11 00:00:00 -05:00
+categories:
+- tech
+- culture
+- longer
+- '2014'
+tags:
+- nytimes
+- tech
+- paywall
+- strategy
+layout: post
 ---
 
 ![The New York Times Building at night](/uploads/nytimes_building_at_night.jpg)

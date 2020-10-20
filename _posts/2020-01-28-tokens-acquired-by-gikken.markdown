@@ -1,19 +1,19 @@
 ---
-title: "Tokens Acquired by Gikken"
-date: 2020-01-28 10:59:00 -0500
-categories: 
-- "tech"
-- "shorter"
-- "2020"
-tags: 
-- "ios"
-- "programming"
-- "app"
-- "app store"
-- "apple"
+title: Tokens Acquired by Gikken
+date: 2020-01-28 10:59:00 -05:00
+categories:
+- tech
+- shorter
+- '2020'
+tags:
+- ios
+- programming
+- app
+- app store
+- apple
 image: "/uploads/B44B1E9D-DA56-40AE-93BE-78BD7226475D.png"
-format: "link"
-link: "https://blog.gikken.co/we-acquired-tokens/"
+format: link
+link: https://blog.gikken.co/we-acquired-tokens/
 ---
 
 > Of course, we didn't purchase it to shut down or leave unchanged, so we're planning a major makeover – Tokens 2.

@@ -1,21 +1,22 @@
 ---
-title: "Now Page"
-date: 2020-03-30 12:21:00 -0400
-categories: 
-- "tech"
-- "shorter"
-- "2020"
-tags: 
-- "now"
-- "derek sivers"
-- "nownownow"
-- "page"
-- "meta"
-- "website"
+title: Now Page
+date: 2020-03-30 12:21:00 -04:00
+categories:
+- tech
+- shorter
+- '2020'
+tags:
+- now
+- derek sivers
+- nownownow
+- page
+- meta
+- website
 image: "/uploads/latest-selfie.jpeg"
-description: "I finally had some *(quaran)*time to make one this weekend, so if you’re ever curious what I’m up to, you can now visit [/now](https://matthewbischoff.com/now)."
-format: "link"
-link: "https://matthewbischoff.com/now"
+description: I finally had some *(quaran)*time to make one this weekend, so if you’re
+  ever curious what I’m up to, you can now visit [/now](https://matthewbischoff.com/now).
+format: link
+link: https://matthewbischoff.com/now
 ---
 
 Since starting on the site redesign last year, I’ve known I wanted the website to have a *[now page](https://nownownow.com/about)*:

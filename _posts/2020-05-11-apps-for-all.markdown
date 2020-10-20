@@ -1,22 +1,22 @@
 ---
-title: "Apps for All: Making Software Accessible"
-date: 2020-05-11 09:00:00 -0400
-categories: 
-- "tech"
-- "talks"
-- "culture"
-- "longer"
-- "2020"
-tags: 
-- "accessibility"
-- "ios"
-- "universal design"
-- "design"
-- "app builders"
+title: 'Apps for All: Making Software Accessible'
+date: 2020-05-11 09:00:00 -04:00
+categories:
+- tech
+- talks
+- culture
+- longer
+- '2020'
+tags:
+- accessibility
+- ios
+- universal design
+- design
+- app builders
 image: "/uploads/Apps%20for%20All.png"
-description: "What does it take to build software that’s truly usable for as many people as possible?
-
-This morning, I’m giving a talk on this topic called Apps for All: Making Software Accessible at App Builders CH 2020. The presentation focuses on improving the accessibility of the software we build."
+description: |-
+  What does it take to build software that’s truly usable for as many people as possible?
+  This morning, I’m giving a talk on this topic called Apps for All: Making Software Accessible at App Builders CH 2020. The presentation focuses on improving the accessibility of the software we build.
 ---
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LHHmx5XxIBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

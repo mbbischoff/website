@@ -1,9 +1,9 @@
 ---
-title: "App Definition"
-date: 2013-07-26 00:00:00 -0400
-layout: "post"
-categories: 
-- "2013"
+title: App Definition
+date: 2013-07-26 00:00:00 -04:00
+categories:
+- '2013'
+layout: post
 ---
 
 ![App Store Banner](/uploads/app_store_banner.jpg)

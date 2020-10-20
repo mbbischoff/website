@@ -1,22 +1,25 @@
 ---
-title: "MSCHF App"
-date: 2020-03-22 13:39:00 -0400
-categories: 
-- "tech"
-- "culture"
-- "shorter"
-- "2020"
-tags: 
-- "app store"
-- "app"
-- "mschf"
-- "art"
-- "startups"
+title: MSCHF App
+date: 2020-03-22 13:39:00 -04:00
+categories:
+- tech
+- culture
+- shorter
+- '2020'
+tags:
+- app store
+- app
+- mschf
+- art
+- startups
 image: "/uploads/mschf.png"
-description: "The delightful weirdos over at performance-art tech company [MSCHF](https://mschf.xyz) just launched a new app. The app does what they used to do via text messages until the phone companies starting blocking their numbers: allows you to chat with them and sends you a notification every two weeks when they ~announce~ drop their new project.
-"
-format: "link"
-link: "https://apps.apple.com/us/app/mschf/id1500457154"
+description: 'The delightful weirdos over at performance-art tech company [MSCHF](https://mschf.xyz)
+  just launched a new app. The app does what they used to do via text messages until
+  the phone companies starting blocking their numbers: allows you to chat with them
+  and sends you a notification every two weeks when they ~announce~ drop their new
+  project. '
+format: link
+link: https://apps.apple.com/us/app/mschf/id1500457154
 ---
 
 [![MSCHF App Screenshot](/uploads/mschf-app.png)

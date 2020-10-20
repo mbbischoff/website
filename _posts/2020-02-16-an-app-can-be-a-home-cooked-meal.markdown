@@ -1,24 +1,25 @@
 ---
-title: "An App Can be a Home-cooked Meal"
-date: 2020-02-16 13:23:00 -0500
-categories: 
-- "tech"
-- "shorter"
-- "culture"
-- "2020"
-tags: 
-- "software"
-- "apps"
-- "tech"
-- "code"
-- "media"
-- "family"
-- "essay"
-- "iOS"
+title: An App Can be a Home-cooked Meal
+date: 2020-02-16 13:23:00 -05:00
+categories:
+- tech
+- shorter
+- culture
+- '2020'
+tags:
+- software
+- apps
+- tech
+- code
+- media
+- family
+- essay
+- iOS
 image: "/uploads/984B5C1D-DCBF-42BC-8128-4128D7D8D424.jpeg"
-description: "A very smart essay from Robin Sloan about an app he made for his family, but also about how truly personal software and its creation is powerful."
-format: "link"
-link: "https://www.robinsloan.com/notes/home-cooked-app/"
+description: A very smart essay from Robin Sloan about an app he made for his family,
+  but also about how truly personal software and its creation is powerful.
+format: link
+link: https://www.robinsloan.com/notes/home-cooked-app/
 ---
 
 > The exhortation “learn to code!” has its foundations in market value. “Learn to code” is suggested as a way up, a way out. “Learn to code” offers economic leverage, a squirt of power. “Learn to code” goes on your resume.

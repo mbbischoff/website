@@ -1,18 +1,21 @@
 ---
-title: "My Nonbinary Child"
-date: 2020-08-26 12:49:00 -0400
-categories: 
-- "culture"
-- "2020"
-tags: 
-- "gender"
-- "transgender"
-- "agender"
-- "anthropology"
+title: My Nonbinary Child
+date: 2020-08-26 12:49:00 -04:00
+categories:
+- culture
+- '2020'
+tags:
+- gender
+- transgender
+- agender
+- anthropology
 image: "/uploads/01_nonbinary-1920x1080.jpg"
-description: "If you’re a parent or thinking of becoming one, read this essay about my friend Sarah (they/them) and how their mom who’s an anthropologist responded when they came out to her as agender. I was already crying five sentences into this piece, but the conclusion is what really got me."
-format: "link"
-link: "https://www.sapiens.org/biology/nonbinary/"
+description: If you’re a parent or thinking of becoming one, read this essay about
+  my friend Sarah (they/them) and how their mom who’s an anthropologist responded
+  when they came out to her as agender. I was already crying five sentences into this
+  piece, but the conclusion is what really got me.
+format: link
+link: https://www.sapiens.org/biology/nonbinary/
 ---
 
 If you’re a parent or thinking of becoming one, read this essay about my friend Sarah (they/them) and how their mom, who’s an anthropologist, responded when they came out to her as agender. I was already crying five sentences into this piece, but the conclusion is what really got me.

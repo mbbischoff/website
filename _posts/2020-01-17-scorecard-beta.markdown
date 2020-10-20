@@ -1,18 +1,18 @@
 ---
-title: "Scorecard Beta"
-date: 2020-01-17 17:23:00 -0500
-categories: 
-- "shorter"
-- "tech"
-- "2020"
-tags: 
-- "scorecard"
-- "lickability"
-- "app"
-- "ios"
+title: Scorecard Beta
+date: 2020-01-17 17:23:00 -05:00
+categories:
+- shorter
+- tech
+- '2020'
+tags:
+- scorecard
+- lickability
+- app
+- ios
 image: "/uploads/scorecard.jpeg"
-format: "tweet"
-color: "blue"
+format: tweet
+color: blue
 ---
 
 Hey! Do you love playing board games and tabletop games? Do you want to help beta test a new iOS app from [Lickability](https://lickability.com) and send us your feedback?

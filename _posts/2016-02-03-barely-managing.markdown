@@ -1,19 +1,20 @@
 ---
-title: "Barely Managing"
-date: 2016-02-03 00:00:00 -0500
-categories: 
-- "management"
-- "talks"
-- "longer"
-- "2016"
-tags: 
-- "talks"
-- "management"
-- "philadelphia"
-- "cocoalove"
+title: Barely Managing
+date: 2016-02-03 00:00:00 -05:00
+categories:
+- management
+- talks
+- longer
+- '2016'
+tags:
+- talks
+- management
+- philadelphia
+- cocoalove
 image: "/uploads/barely-managing-titlecard.jpg"
-description: "A talk about why you might want to step away from the keyboard and into leadership, and what happens when you do."
-layout: "post"
+description: A talk about why you might want to step away from the keyboard and into
+  leadership, and what happens when you do.
+layout: post
 ---
 
 <p><div class='embed-container'><iframe loading="lazy" title="Barely Managing" src='https://player.vimeo.com/video/153709318?title=0&byline=0&portrait=0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></p>

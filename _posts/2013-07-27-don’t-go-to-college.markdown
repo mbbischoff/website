@@ -1,9 +1,9 @@
 ---
-title: "Don’t Go to College"
-date: 2013-07-27 00:00:00 -0400
-layout: "post"
-categories: 
-- "2013"
+title: Don’t Go to College
+date: 2013-07-27 00:00:00 -04:00
+categories:
+- '2013'
+layout: post
 ---
 
 ![NJIT College Flag](/uploads/njit_flag.jpg)

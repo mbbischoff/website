@@ -1,18 +1,19 @@
 ---
-title: "Write Your Way Out"
-date: 2019-01-28 00:00:00 -0500
-categories: 
-- "talks"
-- "longer"
-- "2019"
-tags: 
-- "talks"
-- "writing"
-- "tech"
-- "release notes"
+title: Write Your Way Out
+date: 2019-01-28 00:00:00 -05:00
+categories:
+- talks
+- longer
+- '2019'
+tags:
+- talks
+- writing
+- tech
+- release notes
 image: "/uploads/release-notes-2016.jpg"
-description: "A talk I gave at Release Notes 2016 about writing and how important it is for programmers, product managers, and owners of software companies."
-layout: "post"
+description: A talk I gave at Release Notes 2016 about writing and how important it
+  is for programmers, product managers, and owners of software companies.
+layout: post
 ---
 
 ![Matt speaking at Release Notes 2016](/uploads/release-notes-2016.jpg)

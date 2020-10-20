@@ -1,13 +1,13 @@
 ---
-title: "The Best of Times"
-date: 2013-10-05 00:00:00 -0400
-categories: 
-- "longer"
-- "2013"
-tags: 
-- "me"
-- "nytimes"
-layout: "post"
+title: The Best of Times
+date: 2013-10-05 00:00:00 -04:00
+categories:
+- longer
+- '2013'
+tags:
+- me
+- nytimes
+layout: post
 ---
 
 ![The New York Times Building](/uploads/nytimes_building.jpg)

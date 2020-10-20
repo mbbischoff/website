@@ -121,10 +121,12 @@ a#latest {
   margin-top: 0px;
   top: 35px;
   z-index: 2;
+  display: flex;
+  flex-direction: column-reverse;
 
   li {
     background-color: $text-blue;
-    margin: 5px 0px;
+    margin-top: 5px;
     position: relative;
     height: 17px;
   }

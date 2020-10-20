@@ -1,21 +1,20 @@
 ---
-title: NSNorth
-date: 2019-04-09 00:00:00 -04:00
-categories:
-- longer
-- talks
-- tech
-- management
-tags:
-- conferences
-- canada
-- speaking
-- nsnorth
+title: "NSNorth"
+date: 2019-04-09 00:00:00 -0400
+categories: 
+- "longer"
+- "talks"
+- "tech"
+- "management"
+- "2019"
+tags: 
+- "conferences"
+- "canada"
+- "speaking"
+- "nsnorth"
 image: "/uploads/nsnorth-2019-at-the-st-james-theatre-old-montreal.jpg"
-description: Later this month, I’ll be heading north to speak at NSNorth 2019. NSNorth
-  is Canada’s premier independent Apple developer and designer conference. Get tickets
-  today.
-layout: post
+description: "Later this month, I’ll be heading north to speak at NSNorth 2019. NSNorth is Canada’s premier independent Apple developer and designer conference. Get tickets today."
+layout: "post"
 ---
 
 ![NSNorth Pormotional Image](/uploads/nsnorth-2019-at-the-st-james-theatre-old-montreal.jpg)

@@ -1,16 +1,17 @@
 ---
-title: 'Reviewing Code: A Checklist'
-date: 2015-09-05 00:00:00 -04:00
-categories:
-- longer
-- tech
-tags:
-- code
-- code review
-- programming
-- work
-- advice
-layout: post
+title: "Reviewing Code: A Checklist"
+date: 2015-09-05 00:00:00 -0400
+categories: 
+- "longer"
+- "tech"
+- "2015"
+tags: 
+- "code"
+- "code review"
+- "programming"
+- "work"
+- "advice"
+layout: "post"
 ---
 
 You’ve been there. A 10,000 line [pull request](https://help.github.com/articles/using-pull-requests/) lands in your email and you don’t even know where to begin. _No description provided._

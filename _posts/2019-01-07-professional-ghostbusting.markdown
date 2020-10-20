@@ -1,18 +1,18 @@
 ---
-title: Professional Ghostbusting
-date: 2019-01-07 00:00:00 -05:00
-categories:
-- longer
-- culture
-- tech
-tags:
-- work
-- email
-- advice
+title: "Professional Ghostbusting"
+date: 2019-01-07 00:00:00 -0500
+categories: 
+- "longer"
+- "culture"
+- "tech"
+- "2019"
+tags: 
+- "work"
+- "email"
+- "advice"
 image: "/uploads/ghostbusters.jpg"
-description: Why do people stop answering your emails at work, and how can you stop
-  it?
-layout: post
+description: "Why do people stop answering your emails at work, and how can you stop it?"
+layout: "post"
 ---
 
 ![Ghostbusters](/uploads/ghostbusters.jpg)

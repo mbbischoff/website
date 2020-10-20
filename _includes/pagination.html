@@ -1,10 +1,8 @@
-<noscript>
-  <div class="pagination">
-    {% if paginator.next_page %}
-      <a id="pagination-older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-    {% endif %}
-    {% if paginator.previous_page %}
-      <a id="pagination-newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-    {% endif %}
-  </div>
-</noscript>
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a id="pagination-older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a id="pagination-newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  {% endif %}
+</div>

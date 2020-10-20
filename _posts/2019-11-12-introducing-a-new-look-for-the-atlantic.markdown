@@ -1,19 +1,19 @@
 ---
-title: A New Look for The Atlantic
-date: 2019-11-12 14:58:00 -05:00
-categories:
-- tech
-- culture
-- shorter
-tags:
-- atlantic
-- news
-- app
+title: "A New Look for The Atlantic"
+date: 2019-11-12 14:58:00 -0500
+categories: 
+- "tech"
+- "culture"
+- "shorter"
+- "2019"
+tags: 
+- "atlantic"
+- "news"
+- "app"
 image: "/uploads/lead_720_405.jpg"
-description: Really excited about this bold new look for one of my favorite publications,
-  and honored to have gotten to work on the development of the app at Lickability.
-format: link
-link: https://www.theatlantic.com/news/archive/2019/11/introducing-new-look-atlantic/601762/
+description: "Really excited about this bold new look for one of my favorite publications, and honored to have gotten to work on the development of the app at Lickability."
+format: "link"
+link: "https://www.theatlantic.com/news/archive/2019/11/introducing-new-look-atlantic/601762/"
 ---
 
 ![The Atlantic app](/uploads/lead_720_405.jpg)

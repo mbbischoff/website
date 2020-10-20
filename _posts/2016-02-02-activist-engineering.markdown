@@ -1,23 +1,21 @@
 ---
-title: Activist Engineering
-date: 2016-02-02 00:00:00 -05:00
-categories:
-- longer
-- tech
-- culture
-tags:
-- activism
-- programming
-- work
-- tech
-- code
-- politics
+title: "Activist Engineering"
+date: 2016-02-02 00:00:00 -0500
+categories: 
+- "longer"
+- "tech"
+- "culture"
+- "2016"
+tags: 
+- "activism"
+- "programming"
+- "work"
+- "tech"
+- "code"
+- "politics"
 image: "/uploads/engineer-ring.jpg"
-description: You’ve been there. You’re sitting in a meeting and your boss, a product
-  manager, or an executive is talking about Q2 goals. They’re laying out a roadmap
-  of the features that are going to be “coming down the pike”. All of a sudden you
-  see it.
-layout: post
+description: "You’ve been there. You’re sitting in a meeting and your boss, a product manager, or an executive is talking about Q2 goals. They’re laying out a roadmap of the features that are going to be “coming down the pike”. All of a sudden you see it."
+layout: "post"
 ---
 
 You’ve been there. You’re sitting in a meeting and your boss, a product manager, or an executive is talking about Q2 goals. They’re laying out a roadmap of the features that are going to be “coming down the pike”. All of a sudden you see it. An innocuous bullet that makes your blood boil: “[Auto-invite friends](http://www.theverge.com/2013/4/30/4286090/path-is-spamming-address-books-with-unwanted-texts-and-robocalls)”, “[Re-engagement notifications](https://marco.org/2014/12/01/app-store-rule-5-6)”, or “[Disable ATS](https://www.dzombak.com/blog/2015/09/Nobody-is-using-App-Transport-Security--what-s-next-.html)”.

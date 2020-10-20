@@ -1,20 +1,20 @@
 ---
-title: Helpful Engineering
-date: 2020-03-22 11:49:00 -04:00
-categories:
-- tech
-- culture
-- shorter
-tags:
-- coronavirus
-- engineering
-- volunteering
-- nonprofit
+title: "Helpful Engineering"
+date: 2020-03-22 11:49:00 -0400
+categories: 
+- "tech"
+- "culture"
+- "shorter"
+- "2020"
+tags: 
+- "coronavirus"
+- "engineering"
+- "volunteering"
+- "nonprofit"
 image: "/uploads/cropped-HelpfulEngineering_logo_color_rgb_500px.png"
-description: Helpful Engineering is designing, sourcing and executing projects to
-  help people suffering from the COVID-19 crisis worldwide.
-format: link
-link: https://www.helpfulengineering.org
+description: "Helpful Engineering is designing, sourcing and executing projects to help people suffering from the COVID-19 crisis worldwide."
+format: "link"
+link: "https://www.helpfulengineering.org"
 ---
 
 > Helpful Engineering is designing, sourcing and executing projects to help people suffering from the COVID-19 crisis worldwide.

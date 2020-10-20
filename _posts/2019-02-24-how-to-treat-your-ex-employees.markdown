@@ -1,20 +1,20 @@
 ---
-title: How to Treat Ex-Employees
-date: 2019-02-24 00:00:00 -05:00
-categories:
-- tech
-- culture
-- management
-- longer
-tags:
-- work
-- hiring
-- firing
-- management
+title: "How to Treat Ex-Employees"
+date: 2019-02-24 00:00:00 -0500
+categories: 
+- "tech"
+- "culture"
+- "management"
+- "longer"
+- "2019"
+tags: 
+- "work"
+- "hiring"
+- "firing"
+- "management"
 image: "/uploads/firepit.jpg"
-description: Many managers think a lot about how they treat their team, but few have
-  a philosophy about those that leave it.
-layout: post
+description: "Many managers think a lot about how they treat their team, but few have a philosophy about those that leave it."
+layout: "post"
 ---
 
 ![Fire Pit from XOXO](/uploads/firepit.jpg)

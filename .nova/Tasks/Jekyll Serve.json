@@ -1,5 +1,9 @@
 {
   "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "bundle exec jekyll serve"
+    },
     "run" : {
       "enabled" : true,
       "script" : "bundle exec jekyll serve"

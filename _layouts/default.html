@@ -1,25 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {% include head.html %}
+  {%- include head.html -%}
 
   <body>
-    <div>
-      {% include header.html %}
 
-      <main class="wrapper">
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
         {{ content }}
-      </main>
+      </div>
+    </main>
 
-      <footer>
-        <small>
-          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. <a rel="license" href="{{ site.license.url }}">{{ site.license.text }}</a>. (<a href="{{ site.url }}/feed/">RSS</a>)
-        </small>
-      </footer>
-    </div>
-    <script src="/public/javascript/index.js"></script>
-    <script src="/public/javascript/lazysizes.min.js" async=""></script>
+    {%- include footer.html -%}
 
-    {% include analytics.html %}
   </body>
+
 </html>

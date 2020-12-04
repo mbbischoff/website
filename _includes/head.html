@@ -1,115 +1,14 @@
 <head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
 
-	<link href="https://gmpg.org/xfn/11" rel="profile">
-
-	<!-- Enable responsiveness on mobile devices-->
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-	<title>
-		{% if page.title == site.title %}
-		{{ site.title }}
-		{% else %}
-		{{ page.title }} &middot; {{ site.title }}
-		{% endif %}
-	</title>
-	<!-- CSS -->
-	<link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
-
-	<!-- Icons -->
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="mask-icon" href="website_icon.svg" color="#1E9FD3">
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="manifest" href="/site.webmanifest">
+  {%- include custom-head.html -%}
   
-  	<!--  Optimizations -->  
-  	<link rel="preconnect" href="//use.typekit.net/" crossorigin>
-	<link rel="preconnect" href="//www.googletagmanager.com" crossorigin>
-	<link rel="preconnect" href="//fonts.gstatic.com" crossorigin>
-	
-	<!-- RSS -->
-	<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed/">
-
-	<!-- Load twitter utilities to dynamically render embedded tweets -->
-	<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-	<!-- Meta -->
-
-	<meta name="author" content="{{ site.author.name }}">
-	<meta name="description" content="{{ site.description | strip_html}}">
-	<meta name="generator" content="Jekyll">
-
-	<!-- Google -->
-
-	<meta name="googlebot" content="index,follow">
-	<meta name="robots" content="index,follow">
-	<meta name="google-site-verification" content="XK_j6lkDAd8qOhIn4-2eS2BIJuQyRp4D_gxjpR65wUM" />
-
-	<!-- Twitter Card -->
-
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="matthewbischoff">
-	<meta name="twitter:creator" content="mb">
-	<meta name="twitter:domain" content="https://matthewbischoff.com">
-
-	{% if page.title %}
-	<meta name="twitter:title" content="{{ page.title }}">
-	{% else %}
-	<meta name="twitter:title" content="{{ site.text_content.header_title }}">
-	{% endif %}
-	{% if page.url %}
-	<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-	{% endif %}
-	{% if page.description %}
-	<meta name="twitter:description" content="{{ page.description }}">
-	{% else %}
-	<meta name="twitter:description" content="{{ site.text_content.header_title }} {{ site.text_content.subtitle }}">
-	{% endif %}
-	{% if page.image %}
-	<meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
-	{% else %}
-	<meta name="twitter:image:src" content="{{ site.url }}/uploads/twitter-share-card.jpg">
-	{% endif %}
-
-	<!-- Facebook Open Graph -->
-
-	<meta content="{{ site.title }}" property="og:site_name">
-	{% if page.title %}
-	<meta content="{{ page.title }}" property="og:title">
-	{% else %}
-	<meta content="{{ site.text_content.header_title }}" property="og:title">
-	{% endif %}
-	{% if page.title %}
-	<meta content="article" property="og:type">
-	{% else %}
-	<meta content="website" property="og:type">
-	{% endif %}
-	{% if page.description %}
-	<meta content="{{ page.description | xml_escape }}" property="og:description">
-	{% else %}
-	<meta content="{{ site.text_content.header_title }} {{ site.text_content.subtitle | xml_escape }}" property="og:description">
-	{% endif %}
-	{% if page.url %}
-	<meta content="{{ site.url }}{{ page.url }}" property="og:url">
-	{% endif %}
-	{% if page.date %}
-	<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-	<meta content="{{ site.url }}/about/" property="article:author">
-	{% endif %}
-	{% if page.image %}
-	<meta content="{{ site.url }}{{ page.image }}" property="og:image">
-	{% else %}
-	<meta content="{{ site.url }}/uploads/hero-image.jpg" property="og:image">
-	{% endif %}
-	{% if page.categories %}
-	{% for category in page.categories limit:1 %}
-	<meta content="{{ category }}" property="article:section">
-	{% endfor %}
-	{% endif %}
-	{% if page.tags %}
-	{% for tag in page.tags %}
-	<meta content="{{ tag }}" property="article:tag">
-	{% endfor %}
-  {% endif %}
 </head>

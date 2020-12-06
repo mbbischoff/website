@@ -16,13 +16,13 @@ defaults:
     scope:
       path: ''
       type: posts
-      values:
-      layout: post
-      image: 
-      description: ''
-      format: post
-      color: 
-      link: 
+    values:
+        layout: post
+        image: 
+        description: ''
+        format: post
+        color: 
+        link: 
   -
     scope:
       path: ''

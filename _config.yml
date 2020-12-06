@@ -30,7 +30,7 @@ defaults:
 description: I write about technology & culture here and make apps at Lickability.
 permalink: "/:title/"
 url: https://matthewbischoff.com
-paginate: 10
+paginate: 5
 baseurl: 
 author:
   name: Matthew Bischoff

@@ -15,18 +15,18 @@ collections:
 defaults:
   -
     scope:
-      path: ""
+      path: ''
       type: posts
       values:
       layout: post
       image: 
-      description: ""
+      description: ''
       format: post
       color: 
       link: 
   -
     scope:
-      path: ""
+      path: ''
       type: category
     values:
       layout: "category"

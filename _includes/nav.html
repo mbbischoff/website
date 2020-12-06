@@ -1,0 +1,7 @@
+<header>
+	<nav>
+	{% for item in site.navigation_links %}
+		<a href="{{ item.url }}" class="{% if item.url == page.url %}active{% endif %}">{{ item.title }}</a>
+	{% endfor %}
+	</nav>
+</header>

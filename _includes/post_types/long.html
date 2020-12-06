@@ -1,0 +1,21 @@
+<header>
+    {% include datetime.html post=include.post %}
+
+    <a href="{{ include.post.url }}">
+      <h1>
+        {{ include.post.title }}
+      </h1>
+    </a>
+</header>
+
+{% if include.post.content contains "<!-- more -->" %}
+{{ include.post.content | split:"<!-- more -->" | first % }}
+<div class="read-more">
+  <a href="{{ include.post.url }}">Read More</a>
+</div>
+<div style="display: none;">
+  {{ include.post.content | split:"<!-- more -->" | last % }}
+</div>
+{% else %}
+{{ include.post.content }}
+{% endif %}

@@ -1,13 +1,10 @@
 ---
 title: Now
 date: 2020-05-10 08:23:00 -04:00
-position: 1
 place: Toronto, ON
 image: "/uploads/latest-selfie-62ddc3.jpeg"
 layout: page
 ---
-
-# Now
 
 **Updated:** [{{ page.date | date: "%B %-d, %Y" }}](https://github.com/mattbischoff/matthewbischoff.com/commits/gh-pages/now.markdown) from {{ page.place }}
 

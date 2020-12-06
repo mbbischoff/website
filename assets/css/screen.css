@@ -1,0 +1,316 @@
+/* -----------------------------------
+Variables
+-------------------------------------- */
+
+:root {
+	--font-serif: skolar-latin, -apple-system-ui-serif, ui-serif;
+	--font-sans: proxima-nova, -apple-system;
+	--font-mono: SFMono-Regular,Consolas,Inconsolatas,Liberation Mono,Menlo,monospace;
+
+	--font-default: clamp(16px, 2vw + 8px, 22px);
+	--font-s: 0.85rem;
+	--font-m: 1rem;
+	--font-l: 1.5rem;
+	--font-xl: 1.85rem;
+
+	--font-line-height: calc(var(--font-default) * 1.6);
+
+  --spacing-xs: calc(var(--font-line-height) * 0.25);
+	--spacing-s: calc(var(--font-line-height) * 0.5);
+	--spacing-m: calc(var(--font-line-height) * 1);
+	--spacing-l: calc(var(--font-line-height) * 3);
+	--spacing-xl: calc(5rem + 10vh);
+
+	--spacing-maxwidth:36rem;
+	--spacing-maxwidth-lg: calc(var(--spacing-maxwidth) * 1.5);
+
+	--color-bg: #FEFEFF;
+	--color-default: #131314;
+	--color-mid: #4E4F53;
+	--color-dim: #7F8088;
+	--color-link: #1E9FD3;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+	--color-bg: #0B0012;
+	--color-default: #FEFEFF;
+	--color-mid: #7F8088;
+	--color-dim: #4E4F53;
+	--color-link: #1E9FD3;
+  }
+}
+/* -----------------------------------
+Fonts TODO
+-------------------------------------- */
+
+
+/* -----------------------------------
+Layout
+-------------------------------------- */
+
+* { box-sizing: border-box; }
+
+html {
+  font-size: var(--font-default);
+  line-height: var(--font-line-height);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-default);
+  padding: var(--spacing-m);
+  max-width: var(--spacing-maxwidth);
+  margin: 0 auto;
+}
+
+main p, main blockquote, main ol, main ul,
+main h2, main h3 {
+  max-width: var(--spacing-maxwidth);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main p, main blockquote, main ol, main ul {
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+/* -----------------------------------
+Header / Footer
+-------------------------------------- */
+
+body>header, body>footer { text-align: center; }
+
+body>header a, body>footer a, body>footer p, .pagination>a {
+  font-family: var(--font-sans);
+  font-size: var(--font-s);
+  color: var(--color-mid);
+  background: none;
+  margin: 0;
+  text-decoration: none;
+}
+body>header a:not(:last-of-type), body>footer a:not(:last-of-type) {
+  margin-right: var(--spacing-s);
+}
+
+body>header>nav>a.active {
+	color: var(--color-default);
+}
+
+footer {
+	margin-top: var(--spacing-l);
+}
+
+footer>p>a {
+	border: none;
+	font-weight: bold;
+}
+
+/* -----------------------------------
+Typography
+-------------------------------------- */
+
+h1 {
+  font-size: var(--font-xl);
+  font-family: var(--font-serif);
+  margin: 0 auto var(--spacing-s);
+  line-height:1.25;
+}
+
+h2 {
+  font-size: var(--font-l);
+  font-family: var(--font-serif);
+  margin-top: var(--spacing-l);
+}
+
+h3 {
+  font-size: var(--font-m);
+  font-weight: bold;
+  font-family: var(--font-sans);
+}
+
+h4 {
+	font-size: var(--font-s);
+	font-weight: bold;
+	font-family: var(--font-serif);
+}
+
+time, time>a {
+  font-family: var(--font-sans);
+  font-size: var(--font-s);
+  color: var(--color-mid);
+}
+
+blockquote {
+  font-family: var(--font-serif);
+  font-style: italic;
+  padding-left: var(--spacing-m);
+  border-left: 2px solid var(--color-mid);
+}
+
+blockquote em { font-style: normal; }
+
+small {
+  font-family: var(--font-sans);
+  font-size: var(--font-s);
+  color: var(--color-mid);
+}
+
+figcaption {
+  font-family: var(--font-sans);
+  font-size: var(--font-s);
+  color: var(--color-mid);
+  text-align: center;
+}
+
+figcaption a { color: var(--color-mid); border-color: var(--color-mid) !important; }
+
+a {
+  color: var(--color-default);
+  text-decoration:none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--color-link);
+}
+
+a.external {
+  color: var(--color-link);
+}
+
+p a, li a, figcaption a {
+  border-bottom: 1px solid var(--color-link);
+}
+
+pre.code {
+  font-family: var(--font-mono);
+  font-size: 16px;
+  font-feature-settings: 'liga' 0;
+  max-width: var(--spacing-maxwidth);
+  background-color: var(--color-default);
+  color: var(--color-bg);
+  padding: var(--spacing-s);
+  border-radius: 0.25rem;
+  margin: var(--spacing-l) auto;
+}
+
+code {
+  font-family: var(--font-mono);
+  font-size: 80%;
+  border: 1px solid var(--color-mid);
+  border-radius: 0.25rem;
+  padding: 0.1em 0.25em;
+}
+
+main>header {
+	text-align: center;
+  padding: var(--spacing-l) 0;
+}
+
+main>header h1, article>header h1 {
+  max-width: 18em;
+  margin-bottom:0;
+}
+
+.pagination {
+  margin-bottom: var(--spacing-l);
+	display: flex;
+}
+
+.pagination>a {
+	color: var(--color-mid);
+	font-weight: bold;
+}
+
+.pagination #newer {
+	margin-left: auto;
+}
+
+
+
+/* -----------------------------------
+Article Elements
+-------------------------------------- */
+
+
+article {
+  margin-bottom: var(--spacing-l);
+}
+
+article>header {
+  padding: 0;
+}
+
+article>header h1 {
+  font-size: var(--font-l);
+  font-family: var(--font-sans);
+  margin: 0 0 var(--spacing-xs);
+  line-height:1.25;
+}
+
+/* -----------------------------------
+Design Elements
+-------------------------------------- */
+
+main>header img {
+  max-width: 8rem;
+  border-radius: 50%;
+}
+
+ul { 
+	padding-left: 0;
+ }
+
+hr {
+  max-width: 10rem;
+  border: none;
+  border-top: 1px solid var(--color-mid);
+  opacity: 0.5;
+  margin: var(--spacing-l) auto;
+}
+
+img {
+  margin: var(--spacing-s) 0;
+  width: 100%;
+}
+
+.serif { font-family: var(--font-sans); }
+
+.video-wrapper {
+	margin: var(--spacing-s) auto;
+	position: relative;
+	width: 100%;
+	padding-bottom: 56.25%; /* 16:9 */
+	height: 0;
+}
+
+.video-wrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+iframe {
+  border: none;
+}
+
+audio {
+	width: 100%;
+	display: block;
+	max-width: var(--spacing-max-width);
+	margin: var(--spacing-l) auto;
+}
+
+video {
+	width: 100%;
+	height: auto !important;
+	margin-top: var(--spacing-l);
+	margin-bottom: var(--spacing-l);
+	margin-left: auto;
+	margin-right: auto;
+}

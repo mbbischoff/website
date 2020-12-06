@@ -1,0 +1,9 @@
+<article class="post">
+  {% if page.format == "tweet" %}
+	{% include /post_types/short.html post=page %}
+  {% elsif page.format == "link" %}
+	{% include /post_types/link.html post=page %}
+  {% else %}
+	{% include /post_types/long-expanded.html post=page %}
+  {% endif%}
+</article>

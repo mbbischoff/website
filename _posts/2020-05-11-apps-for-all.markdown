@@ -19,7 +19,7 @@ description: |-
   This morning, I’m giving a talk on this topic called Apps for All: Making Software Accessible at App Builders CH 2020. The presentation focuses on improving the accessibility of the software we build.
 ---
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LHHmx5XxIBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LHHmx5XxIBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 *What does it take to build software that’s truly usable for as many people as possible?*
 
@@ -29,7 +29,7 @@ This morning, I’m giving a talk on this topic at [App Builders 2020](https://a
 
 This talk relies a lot on audio, video, and demos, but [here are the slides](https://speakerdeck.com/matthewbischoff/apps-for-all-making-software-accessible) in case you missed something while watching. [Download a PDF version here](/uploads/apps-for-all-slides.PDF).
 
-<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/7115a4f57d0c472fa1bb93fe5e67c740?" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background: padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; height: 394px;"></iframe>
+<div class="video-wrapper"><iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/7115a4f57d0c472fa1bb93fe5e67c740?" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background: padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; height: 394px;"></iframe></div>
 
 ## Sketchnotes
 

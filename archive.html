@@ -1,11 +1,13 @@
 ---
-title: Archive
+title: Then
 permalink: "/archive/"
 layout: default
 ---
 
-<section id="archive">
-<h2>Archives</h2>
+<header>
+  <h1>{{ page.title }} </h1>
+</header>
+
 <ul>
   {% for post in site.posts %}
   
@@ -22,5 +24,3 @@ layout: default
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-  
-</section>

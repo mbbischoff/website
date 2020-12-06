@@ -1,0 +1,6 @@
+<header>
+  {% include datetime.html post=include.post %}
+  <h1><a class="external" href="{{ include.post.link }}" target="_blank" rel="noopener">{{ include.post.title }}&nbsp;→</a></h1>
+</header>
+
+{{ include.post.content }}

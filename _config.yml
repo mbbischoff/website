@@ -53,7 +53,7 @@ repository: mattbischoff/matthewbischoff.com
 include:
 - _category
 text_content:
-  header_title: Hi, I’m Matthew Bischoff
+  header_title: Matthew Bischoff
   subtitle: I write about technology & culture here and make apps at <a href="https://lickability.com">Lickability</a>.
 navigation_links:
 - title: Home

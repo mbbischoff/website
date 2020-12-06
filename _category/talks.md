@@ -1,4 +1,7 @@
 ---
-category: culture
-permalink: /category/culture
+title: Talks
+permalink: "/category/culture"
+categories:
+- culture
 ---
+

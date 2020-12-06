@@ -1,4 +1,7 @@
 ---
-category: tech
-permalink: /category/tech
+title: Tech
+permalink: "/category/tech"
+categories:
+- tech
 ---
+

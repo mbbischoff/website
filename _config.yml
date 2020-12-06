@@ -2,33 +2,31 @@
 title: Matthew Bischoff
 timezone: America/New_York
 collections:
+  category:
+    title: Categories
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
-  category:
-    title: Categories
-    output: true 
 defaults:
-  -
-    scope:
-      path: ''
-      type: posts
-    values:
-        layout: post
-        image: 
-        description: ''
-        format: post
-        color: 
-        link: 
-  -
-    scope:
-      path: ''
-      type: category
-    values:
-      layout: "category"
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    image: 
+    description: ''
+    format: post
+    color: 
+    link: 
+- scope:
+    path: ''
+    type: category
+  values:
+    layout: category
 description: I write about technology & culture here and make apps at Lickability.
 permalink: "/:title/"
 url: https://matthewbischoff.com
@@ -63,7 +61,8 @@ sass:
 repository: mattbischoff/matthewbischoff.com
 text_content:
   header_title: Matthew Bischoff
-  subtitle: I write about <a href="/category/tech">technology</a> & <a href="/category/culture">culture</a> here and make apps at <a href="https://lickability.com">Lickability</a>.
+  subtitle: I write about <a href="/category/tech">technology</a> & <a href="/category/culture">culture</a>
+    here and make apps at <a href="https://lickability.com">Lickability</a>.
 navigation_links:
 - title: Home
   url: "/"

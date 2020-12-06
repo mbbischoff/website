@@ -1,4 +1,7 @@
 ---
-category: Management
-permalink: /category/management
+title: Culture
+permalink: "/category/management"
+categories:
+- Management
 ---
+

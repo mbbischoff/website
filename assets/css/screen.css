@@ -314,3 +314,37 @@ video {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+
+/* -----------------------------------
+Archive
+-------------------------------------- */
+
+section.archive {
+  width: 100%;
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom: var(--spacing-xl);
+}
+
+section.archive ul {
+  list-style: none;
+  padding: 0;
+}
+
+section.archive li {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: calc(0.25 * var(--spacing-s));
+  -webkit-font-smoothing: antialiased;
+}
+
+section.archive li time { order: 1; width: 5em; }
+section.archive li a {
+  display: inline-block;
+  order: 2;
+  width: calc(100% - 7em);
+  border: none;
+  font-family: var(--font-sans);
+}
+

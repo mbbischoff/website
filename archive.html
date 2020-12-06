@@ -4,23 +4,22 @@ permalink: "/archive/"
 layout: default
 ---
 
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+
 <header>
-  <h1>{{ page.title }} </h1>
+  <h1>{{ page.title }}</h1>
 </header>
 
-<ul>
-  {% for post in site.posts %}
-  
-    {% unless post.next %}
-      <h2>{{ post.date | date: '%Y' }}</h2>
-    {% else %}
-      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-      {% if year != nyear %}
-        <h2>{{ post.date | date: '%Y' }}</h2>
-      {% endif %}
-    {% endunless %}
-
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<section class="archive">
+  {% for year in postsByYear %}
+    <h2 id="{{ year.name }}">{{ year.name }}</h2>
+    <ul aria-label="Posts from {{ year.name }}">
+      {% for post in year.items %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          <time>{{ post.date | date: "%b %-d" }}</time>
+        </li>
+      {% endfor %}
+    </ul>
   {% endfor %}
-</ul>
+</section>

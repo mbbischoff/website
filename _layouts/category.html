@@ -1,6 +1,12 @@
+---
+layout: default
+---
 
-{% for post in paginator.posts %}
+<header>
+	<h1>{{ page.category | capitalize }}</h1>
+</header>
 
+{% for post in site.categories[page.category] %}
   <article>
 	{% if post.format == "tweet" %}
 	  {% include post_types/short.html post=post %}
@@ -10,5 +16,6 @@
 	  {% include post_types/long.html post=post %}
 	{% endif%}
   </article>
-
 {% endfor %}
+
+{% include pagination.html %}

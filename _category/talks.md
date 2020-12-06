@@ -1,6 +1,6 @@
 ---
 title: Talks
-permalink: "/category/culture"
+permalink: "/category/talks"
 category: talks
 ---
 

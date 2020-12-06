@@ -1,6 +1,6 @@
 ---
 title: Culture
-permalink: "/category/management"
+permalink: "/category/culture"
 category: culture
 ---
 

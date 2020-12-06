@@ -1,6 +1,5 @@
 ---
 title: Matthew Bischoff
-description: I write about technology & culture here and make apps at Lickability.
 timezone: America/New_York
 collections:
   posts:
@@ -20,6 +19,7 @@ defaults:
     format: post
     color: 
     link: 
+description: I write about technology & culture here and make apps at Lickability.
 permalink: "/:title/"
 url: https://matthewbischoff.com
 paginate: 5

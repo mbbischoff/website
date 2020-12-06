@@ -207,7 +207,7 @@ main>header {
 }
 
 main>header h1, article>header h1 {
-  max-width: 18em;
+  /* max-width: 18em; */
   margin-bottom:0;
 }
 

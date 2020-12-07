@@ -3,7 +3,7 @@ title: Matthew Bischoff
 timezone: America/New_York
 collections:
   category:
-    title: Category
+    title: Categories
     output: true
   posts:
     title: Posts

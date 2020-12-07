@@ -4,6 +4,8 @@ date: 2020-03-29 17:54:00 -04:00
 position: 3
 ---
 
+Inspired by: [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)
+
 # Header 1
 
 ## Header 2

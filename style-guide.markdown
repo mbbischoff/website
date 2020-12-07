@@ -32,24 +32,17 @@ Here is an example of inline code `print("Hello World!")`
 * List
 * Here
 
+Single line blockquote:
 
+> Stay hungry. Stay foolish.
 
+Multi line blockquote with a cite reference:
 
-<p>Single line blockquote:</p>
+> People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.
 
-<blockquote>
-  <p>Stay hungry. Stay foolish.</p>
-</blockquote>
+<cite>Steve Jobs</cite> — Apple Worldwide Developers’ Conference, 1997
 
-<p>Multi line blockquote with a cite reference:</p>
-
-<blockquote>
-  <p>People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.</p>
-</blockquote>
-
-<p class="small"><cite>Steve Jobs</cite> — Apple Worldwide Developers’ Conference, 1997</p>
-
-<h2 id="tables" class="active">Tables<a class="header-link" href="#tables" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h2>
+## Tables
 
 <table>
   <thead>
@@ -124,7 +117,7 @@ Here is an example of inline code `print("Hello World!")`
   </tfoot>
 </table>
 
-<h2 id="definition-lists" class="">Definition Lists<a class="header-link" href="#definition-lists" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h2>
+## Definition Lists
 
 <dl>
   <dt>Definition List Title</dt>
@@ -137,7 +130,7 @@ Here is an example of inline code `print("Hello World!")`
   <dd>I’ll let Bill O’Reilly <a href="https://www.youtube.com/watch?v=O_HyZ5aW76c" title="We'll Do It Live">explain</a> this one.</dd>
 </dl>
 
-<h2 id="unordered-lists-nested" class="">Unordered Lists (Nested)<a class="header-link" href="#unordered-lists-nested" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h2>
+## Unordered Lists
 
 <ul>
   <li>List item one
@@ -160,7 +153,7 @@ Here is an example of inline code `print("Hello World!")`
   <li>List item four</li>
 </ul>
 
-<h2 id="ordered-list-nested" class="">Ordered List (Nested)<a class="header-link" href="#ordered-list-nested" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h2>
+## Ordered Lists
 
 <ol>
   <li>List item one
@@ -183,7 +176,7 @@ Here is an example of inline code `print("Hello World!")`
   <li>List item four</li>
 </ol>
 
-<h2 id="forms" class="">Forms<a class="header-link" href="#forms" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h2>
+## Forms
 
 <form>
   <fieldset>
@@ -194,47 +187,47 @@ Here is an example of inline code `print("Hello World!")`
   </fieldset>
 </form>
 
-<h2 id="html-tags" class="">HTML Tags<a class="header-link" href="#html-tags" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h2>
+## HTML Tags
 
-<h3 id="address-tag" class="">Address Tag<a class="header-link" href="#address-tag" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
+### Addresss Tags
 
 <address>
   1 Infinite Loop<br> Cupertino, CA 95014<br> United States
 </address>
 
-<h3 id="anchor-tag-aka-link" class="">Anchor Tag (aka. Link)<a class="header-link" href="#anchor-tag-aka-link" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
+### Anchor Tag
 
 <p>This is an example of a <a href="http://apple.com" title="Apple">link</a>.</p>
 
-<h3 id="abbreviation-tag" class="">Abbreviation Tag<a class="header-link" href="#abbreviation-tag" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
+### Abbreviation Tag
 
 <p>The abbreviation <abbr title="Cascading Style Sheets">CSS</abbr> stands for “Cascading Style Sheets”.</p>
 
-<h3 id="cite-tag" class="">Cite Tag<a class="header-link" href="#cite-tag" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
+### Cite Tag
 
 <p>“Code is poetry.” —<cite>Automattic</cite></p>
 
-<h3 id="code-tag" class="">Code Tag<a class="header-link" href="#code-tag" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
+### Code
 
 <p>You will learn later on in these tests that <code class="language-plaintext highlighter-rouge">word-wrap: break-word;</code> will be your best friend.</p>
 
-<h3 id="strike-tag" class="">Strike Tag<a class="header-link" href="#strike-tag" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
+### Strike
 
 <p>This tag will let you <strike>strikeout text</strike>.</p>
 
-<h3 id="emphasize-tag" class="">Emphasize Tag<a class="header-link" href="#emphasize-tag" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
+### Emphasis
 
 <p>The emphasize tag should <em>italicize</em> text.</p>
 
-<h3 id="insert-tag" class="">Insert Tag<a class="header-link" href="#insert-tag" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
+### Insert
 
 <p>This tag should denote <ins>inserted</ins> text.</p>
 
-<h3 id="keyboard-tag" class="">Keyboard Tag<a class="header-link" href="#keyboard-tag" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
+### Keyboard
 
 <p>This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the <code class="language-plaintext highlighter-rouge">&lt;code&gt;</code> tag.</p>
 
-<h3 id="preformatted-tag" class="">Preformatted Tag<a class="header-link" href="#preformatted-tag" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
+### Preformatted
 
 <p>This tag styles large blocks of code.</p>
 
@@ -247,22 +240,22 @@ Here is an example of inline code `print("Hello World!")`
 }
 </pre>
 
-<h3 id="quote-tag" class="">Quote Tag<a class="header-link" href="#quote-tag" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
+### Qiote
 
 <p><q>Developers, developers, developers…</q> –Steve Ballmer</p>
 
-<h3 id="strong-tag" class="">Strong Tag<a class="header-link" href="#strong-tag" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
+### Strong
 
 <p>This tag shows <strong>bold text</strong>.</p>
 
-<h3 id="subscript-tag" class="">Subscript Tag<a class="header-link" href="#subscript-tag" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
+### Subscript
 
 <p>Getting our science styling on with H<sub>2</sub>O, which should push the “2” down.</p>
 
-<h3 id="superscript-tag">Superscript Tag<a class="header-link" href="#superscript-tag" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
+### Superscript
 
 <p>Still sticking with science and Albert Einstein’s E = MC<sup>2</sup>, which should lift the 2 up.</p>
 
-<h3 id="variable-tag" class="">Variable Tag<a class="header-link" href="#variable-tag" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
+### Variable
 
 <p>This allows you to denote <var>variables</var>.</p>

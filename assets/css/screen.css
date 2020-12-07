@@ -345,3 +345,7 @@ section.archive li a {
   border: none;
   font-family: var(--font-sans);
 }
+
+section.archive h2:first-child {
+  margin-top: 0;
+}

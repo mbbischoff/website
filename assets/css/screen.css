@@ -3,41 +3,42 @@ Variables
 -------------------------------------- */
 
 :root {
-	--font-serif: skolar-latin, -apple-system-ui-serif, ui-serif;
-	--font-sans: proxima-nova, -apple-system;
-	--font-mono: SFMono-Regular,Consolas,Inconsolatas,Liberation Mono,Menlo,monospace;
+  --font-serif: skolar-latin, -apple-system-ui-serif, ui-serif;
+  --font-sans: proxima-nova, -apple-system;
+  --font-mono: SFMono-Regular, Consolas, Inconsolatas, Liberation Mono, Menlo,
+    monospace;
 
-	--font-default: clamp(16px, 2vw + 8px, 22px);
-	--font-s: 0.85rem;
-	--font-m: 1rem;
-	--font-l: 1.5rem;
-	--font-xl: 1.85rem;
+  --font-default: clamp(16px, 2vw + 8px, 22px);
+  --font-s: 0.85rem;
+  --font-m: 1rem;
+  --font-l: 1.5rem;
+  --font-xl: 1.85rem;
 
-	--font-line-height: calc(var(--font-default) * 1.6);
+  --font-line-height: calc(var(--font-default) * 1.6);
 
   --spacing-xs: calc(var(--font-line-height) * 0.25);
-	--spacing-s: calc(var(--font-line-height) * 0.5);
-	--spacing-m: calc(var(--font-line-height) * 1);
-	--spacing-l: calc(var(--font-line-height) * 3);
-	--spacing-xl: calc(5rem + 10vh);
+  --spacing-s: calc(var(--font-line-height) * 0.5);
+  --spacing-m: calc(var(--font-line-height) * 1);
+  --spacing-l: calc(var(--font-line-height) * 3);
+  --spacing-xl: calc(5rem + 10vh);
 
-	--spacing-maxwidth:36rem;
-	--spacing-maxwidth-lg: calc(var(--spacing-maxwidth) * 1.5);
+  --spacing-maxwidth: 36rem;
+  --spacing-maxwidth-lg: calc(var(--spacing-maxwidth) * 1.5);
 
-	--color-bg: #FEFEFF;
-	--color-default: #131314;
-	--color-mid: #4E4F53;
-	--color-dim: #7F8088;
-	--color-link: #1E9FD3;
+  --color-bg: #fefeff;
+  --color-default: #131314;
+  --color-mid: #4e4f53;
+  --color-dim: #7f8088;
+  --color-link: #1e9fd3;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-	--color-bg: #0B0012;
-	--color-default: #FEFEFF;
-	--color-mid: #7F8088;
-	--color-dim: #4E4F53;
-	--color-link: #1E9FD3;
+    --color-bg: #0b0012;
+    --color-default: #fefeff;
+    --color-mid: #7f8088;
+    --color-dim: #4e4f53;
+    --color-link: #1e9fd3;
   }
 }
 
@@ -45,7 +46,9 @@ Variables
 Layout
 -------------------------------------- */
 
-* { box-sizing: border-box; }
+* {
+  box-sizing: border-box;
+}
 
 html {
   font-size: var(--font-default);
@@ -62,14 +65,21 @@ body {
   margin: 0 auto;
 }
 
-main p, main blockquote, main ol, main ul,
-main h2, main h3 {
+main p,
+main blockquote,
+main ol,
+main ul,
+main h2,
+main h3 {
   max-width: var(--spacing-maxwidth);
   margin-left: auto;
   margin-right: auto;
 }
 
-main p, main blockquote, main ol, main ul {
+main p,
+main blockquote,
+main ol,
+main ul {
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
@@ -77,9 +87,15 @@ main p, main blockquote, main ol, main ul {
 Header / Footer
 -------------------------------------- */
 
-body>header, body>footer { text-align: center; }
+body > header,
+body > footer {
+  text-align: center;
+}
 
-body>header a, body>footer a, body>footer p, .pagination>a {
+body > header a,
+body > footer a,
+body > footer p,
+.pagination > a {
   font-family: var(--font-sans);
   font-size: var(--font-s);
   color: var(--color-mid);
@@ -87,21 +103,22 @@ body>header a, body>footer a, body>footer p, .pagination>a {
   margin: 0;
   text-decoration: none;
 }
-body>header a:not(:last-of-type), body>footer a:not(:last-of-type) {
+body > header a:not(:last-of-type),
+body > footer a:not(:last-of-type) {
   margin-right: var(--spacing-s);
 }
 
-body>header>nav>a.active {
-	color: var(--color-default);
+body > header > nav > a.active {
+  color: var(--color-default);
 }
 
 footer {
-	margin-top: var(--spacing-l);
+  margin-top: var(--spacing-l);
 }
 
-footer>p>a {
-	border: none;
-	font-weight: bold;
+footer > p > a {
+  border: none;
+  font-weight: bold;
 }
 
 /* -----------------------------------
@@ -112,7 +129,7 @@ h1 {
   font-size: var(--font-xl);
   font-family: var(--font-serif);
   margin: 0 auto var(--spacing-s);
-  line-height:1.25;
+  line-height: 1.25;
 }
 
 h2 {
@@ -128,12 +145,13 @@ h3 {
 }
 
 h4 {
-	font-size: var(--font-s);
-	font-weight: bold;
-	font-family: var(--font-serif);
+  font-size: var(--font-s);
+  font-weight: bold;
+  font-family: var(--font-serif);
 }
 
-time, time>a {
+time,
+time > a {
   font-family: var(--font-sans);
   font-size: var(--font-s);
   color: var(--color-mid);
@@ -146,7 +164,9 @@ blockquote {
   border-left: 2px solid var(--color-mid);
 }
 
-blockquote em { font-style: normal; }
+blockquote em {
+  font-style: normal;
+}
 
 small {
   font-family: var(--font-sans);
@@ -161,11 +181,14 @@ figcaption {
   text-align: center;
 }
 
-figcaption a { color: var(--color-mid); border-color: var(--color-mid) !important; }
+figcaption a {
+  color: var(--color-mid);
+  border-color: var(--color-mid) !important;
+}
 
 a {
   color: var(--color-default);
-  text-decoration:none;
+  text-decoration: none;
   transition: color 0.2s ease;
 }
 
@@ -177,14 +200,16 @@ a.external {
   color: var(--color-link);
 }
 
-p a, li a, figcaption a {
+p a,
+li a,
+figcaption a {
   border-bottom: 1px solid var(--color-link);
 }
 
 pre.code {
   font-family: var(--font-mono);
   font-size: 16px;
-  font-feature-settings: 'liga' 0;
+  font-feature-settings: "liga" 0;
   max-width: var(--spacing-maxwidth);
   background-color: var(--color-default);
   color: var(--color-bg);
@@ -201,28 +226,29 @@ code {
   padding: 0.1em 0.25em;
 }
 
-main>header {
-	text-align: center;
+main > header {
+  text-align: center;
   padding: var(--spacing-l) 0;
 }
 
-main>header h1, article>header h1 {
+main > header h1,
+article > header h1 {
   /* max-width: 18em; */
-  margin-bottom:0;
+  margin-bottom: 0;
 }
 
 .pagination {
   margin-bottom: var(--spacing-l);
-	display: flex;
+  display: flex;
 }
 
-.pagination>a {
-	color: var(--color-mid);
-	font-weight: bold;
+.pagination > a {
+  color: var(--color-mid);
+  font-weight: bold;
 }
 
 .pagination #newer {
-	margin-left: auto;
+  margin-left: auto;
 }
 
 /* -----------------------------------
@@ -233,15 +259,15 @@ article {
   margin-bottom: var(--spacing-l);
 }
 
-article>header {
+article > header {
   padding: 0;
 }
 
-article>header h1 {
+article > header h1 {
   font-size: var(--font-l);
   font-family: var(--font-sans);
   margin: 0 0 var(--spacing-xs);
-  line-height:1.25;
+  line-height: 1.25;
 }
 
 .read-more a {
@@ -253,14 +279,14 @@ article>header h1 {
 Design Elements
 -------------------------------------- */
 
-main>header img {
+main > header img {
   max-width: 8rem;
   border-radius: 50%;
 }
 
-ul { 
-	padding-left: 0;
- }
+ul {
+  padding-left: 0;
+}
 
 hr {
   max-width: 10rem;
@@ -275,22 +301,24 @@ img {
   width: 100%;
 }
 
-.serif { font-family: var(--font-sans); }
+.serif {
+  font-family: var(--font-sans);
+}
 
 .video-wrapper {
-	margin: var(--spacing-s) auto;
-	position: relative;
-	width: 100%;
-	padding-bottom: 56.25%; /* 16:9 */
-	height: 0;
+  margin: var(--spacing-s) auto;
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
 }
 
 .video-wrapper iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 iframe {
@@ -298,21 +326,20 @@ iframe {
 }
 
 audio {
-	width: 100%;
-	display: block;
-	max-width: var(--spacing-max-width);
-	margin: var(--spacing-l) auto;
+  width: 100%;
+  display: block;
+  max-width: var(--spacing-max-width);
+  margin: var(--spacing-l) auto;
 }
 
 video {
-	width: 100%;
-	height: auto !important;
-	margin-top: var(--spacing-l);
-	margin-bottom: var(--spacing-l);
-	margin-left: auto;
-	margin-right: auto;
+  width: 100%;
+  height: auto !important;
+  margin-top: var(--spacing-l);
+  margin-bottom: var(--spacing-l);
+  margin-left: auto;
+  margin-right: auto;
 }
-
 
 /* -----------------------------------
 Archive
@@ -321,7 +348,7 @@ Archive
 section.archive {
   width: 100%;
   margin-left: auto;
-  margin-right:auto;
+  margin-right: auto;
   margin-bottom: var(--spacing-xl);
 }
 
@@ -337,7 +364,10 @@ section.archive li {
   -webkit-font-smoothing: antialiased;
 }
 
-section.archive li time { order: 1; width: 5em; }
+section.archive li time {
+  order: 1;
+  width: 5em;
+}
 section.archive li a {
   display: inline-block;
   order: 2;

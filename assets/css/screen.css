@@ -9,6 +9,7 @@ Variables
     monospace;
 
   --font-default: clamp(16px, 2vw + 8px, 22px);
+  --font-xs: 0.75rem;
   --font-s: 0.85rem;
   --font-m: 1rem;
   --font-l: 1.5rem;
@@ -147,7 +148,13 @@ h3 {
 h4 {
   font-size: var(--font-s);
   font-weight: bold;
-  font-family: var(--font-serif);
+  font-family: var(--font-sans);
+}
+
+h5 {
+  font-size: var(--font-xs);
+  font-weight: bold;
+  font-family: var(--font-sans);
 }
 
 time,
@@ -206,6 +213,10 @@ figcaption a {
   border-bottom: 1px solid var(--color-link);
 }
 
+pre {
+  overflow: scroll;
+}
+
 pre.code {
   font-family: var(--font-mono);
   font-size: 16px;
@@ -218,12 +229,26 @@ pre.code {
   margin: var(--spacing-l) auto;
 }
 
-code {
+code,
+var,
+kbd {
+  font-style: normal;
   font-family: var(--font-mono);
   font-size: 80%;
   border: 1px solid var(--color-mid);
   border-radius: 0.25rem;
   padding: 0.1em 0.25em;
+}
+
+abbr[title],
+abbr[data-original-title] {
+  text-decoration: none;
+  cursor: help;
+  border-bottom: 1px dotted var(--color-mid);
+}
+
+address {
+  font-style: normal;
 }
 
 main > header {
@@ -236,6 +261,10 @@ article > header h1 {
   /* max-width: 18em; */
   margin-bottom: 0;
 }
+
+/* -----------------------------------
+Pagination
+-------------------------------------- */
 
 .pagination {
   margin-bottom: var(--spacing-l);
@@ -282,10 +311,6 @@ Design Elements
 main > header img {
   max-width: 8rem;
   border-radius: 50%;
-}
-
-ul {
-  padding-left: 0;
 }
 
 hr {
@@ -339,6 +364,11 @@ video {
   margin-bottom: var(--spacing-l);
   margin-left: auto;
   margin-right: auto;
+}
+
+dt {
+  font-family: var(--font-serif);
+  font-weight: bold;
 }
 
 /* -----------------------------------

@@ -163,6 +163,10 @@ blockquote em {
   font-style: normal;
 }
 
+cite {
+  padding-left: var(--spacing-m);
+}
+
 small {
   font-family: var(--font-sans);
   font-size: var(--font-s);

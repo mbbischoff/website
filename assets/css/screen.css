@@ -163,10 +163,8 @@ blockquote em {
   font-style: normal;
 }
 
-blockquote + p > cite {
+blockquote + p.small {
   padding-left: var(--spacing-m);
-  font-size: var(--font-s);
-  color: var(--color-mid);
 }
 
 small {

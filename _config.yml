@@ -74,3 +74,4 @@ navigation_links:
 - title: RSS
   url: "/feed/"
 accent_color: "#1E9FD3"
+markdown: kramdown

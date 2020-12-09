@@ -12,10 +12,6 @@ Inspired by: [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/mar
 
 ### Header 3
 
-#### Header 4
-
-##### Header 5
-
 Single line blockquote:
 
 > Stay hungry. Stay foolish.

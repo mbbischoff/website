@@ -8,7 +8,7 @@ Variables
   --font-mono: SFMono-Regular, Consolas, Inconsolatas, Liberation Mono, Menlo,
     monospace;
 
-  --font-default: clamp(16px, 2vw + 8px, 22px);
+  --font-default: clamp(18px, 2vw + 8px, 22px);
   --font-xs: 0.75rem;
   --font-s: 0.85rem;
   --font-m: 1rem;
@@ -141,18 +141,6 @@ h2 {
 
 h3 {
   font-size: var(--font-m);
-  font-weight: bold;
-  font-family: var(--font-sans);
-}
-
-h4 {
-  font-size: var(--font-s);
-  font-weight: bold;
-  font-family: var(--font-sans);
-}
-
-h5 {
-  font-size: var(--font-xs);
   font-weight: bold;
   font-family: var(--font-sans);
 }

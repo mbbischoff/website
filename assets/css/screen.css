@@ -106,7 +106,7 @@ body > footer p,
 }
 body > header a:not(:last-of-type),
 body > footer a:not(:last-of-type) {
-  margin-right: var(--spacing-m);
+  margin-right: var(--spacing-s);
 }
 
 body > header > nav > a.active {

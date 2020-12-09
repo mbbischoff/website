@@ -21,4 +21,6 @@ link: https://www.nytimes.com/2020/12/09/style/tone-indicators-online.html
 > In recent weeks, several users have posted lists containing dozens of tone indicators ranging from “/j = joking” to “/lh = lighthearted” and “/nsx = nonsexual intent.”
 
 
-I love how much folks in gen Z are using the tools of the internet and their digital-literacy to improve inclusion, how much they’re thinking about the needs of neurodivergent people, and how this kind of accessibility is gaining a kind of mainstream momentum. As technologists, we should be following these conversation closely and finding ways to build support for tone indication, content notes/warnings, and other new ideas about communion directly into the tools where appropriate. We should be enabling and empowering better, more nuanced conversation within the software itself.
+I love how much folks in gen Z are using the tools of the internet and their digital-literacy to improve inclusion, how much they’re thinking about the needs of neurodivergent people, and how this kind of accessibility is gaining a kind of mainstream momentum. 
+
+As technologists, we should be following these conversations closely and finding ways to build support for tone indication, content notes/warnings, and other new ideas about communion directly into the tools where appropriate. We should be enabling and empowering better, more nuanced conversation within the software itself.

@@ -221,7 +221,7 @@ Multi line blockquote with a cite reference:
 }
 </pre>
 
-### Qiote
+### Quote
 
 <p><q>Developers, developers, developers…</q> –Steve Ballmer</p>
 
@@ -240,3 +240,12 @@ Multi line blockquote with a cite reference:
 ### Variable
 
 <p>This allows you to denote <var>variables</var>.</p>
+
+
+### HR
+
+Above.
+
+<hr>
+
+Below.

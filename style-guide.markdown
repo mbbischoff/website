@@ -241,7 +241,6 @@ Multi line blockquote with a cite reference:
 
 <p>This allows you to denote <var>variables</var>.</p>
 
-
 ### HR
 
 Above.
@@ -249,3 +248,12 @@ Above.
 <hr>
 
 Below.
+
+## TODO
+
+- summary
+- small
+- meter
+- mark
+- legend
+- caption

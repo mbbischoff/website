@@ -19,4 +19,4 @@ link: https://twitter.com/thegaychingy/
 > 
 > In general, you don’t need a reason to want to start a relationship with someone far away. Regardless of your situation, sometimes you find a person, you both feel a genuine connection, and you can just tell their company would enrich your life. That can all happen online with someone who doesn’t live near you, with the same sort of chemistry as a more proximal partnership. When it works, it just works—and it’s more than worth it.
 
-Some people have their weddings announced in _The New York Times_. [Kate](https://twitter.com/girly_juice/) and I are clearly more of a _VICE_ couple. But seriously, if you’re curious about how to date online, or whether you should consider long-distance relationships, this piece by Chingy is a must-read. 
+Some people have their weddings announced in _The New York Times_. [Kate](https://twitter.com/girly_juice/) and I are clearly more of a _VICE_ couple. But seriously, if you’re curious about how to date online or whether you should consider long-distance relationships, this piece by Chingy is a must-read. 

@@ -19,7 +19,7 @@ format: link
 link: https://buildwatch.app
 picutre:
   webp_image: "/uploads/Buildwatch_Press_Banner.webp"
-  jpeg_image: "/uploads/Buildwatch_Press_Banner.png"
+  png_image: "/uploads/Buildwatch_Press_Banner.png"
   width: 1442 
   height: 481
   alt: Buildwatch for Mac Press Banner

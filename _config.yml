@@ -26,11 +26,11 @@ defaults:
       title: 
       link: 
     picutre:
-      webp_image:
-      jpeg_image:
-      width:
-      height:
-      alt:
+      webp_image: 
+      jpeg_image: 
+      width: 
+      height: 
+      alt: 
 - scope:
     path: ''
     type: category

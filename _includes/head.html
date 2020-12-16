@@ -9,17 +9,22 @@
   <!--  CSS -->
   <link rel="stylesheet" href="{{ "/assets/css/screen.css" | relative_url }}">
 
-  <!--  Fonts -->
+  <!--  Fonts (https://web.dev/defer-non-critical-css/) -->
   <link
-    rel="stylesheet preload"
+    rel="preload"
     as="style"
-    href="https://use.typekit.net/ktb0bft.css"
+    href="//use.typekit.net/ktb0bft.css"
+    onload="this.onload=null;this.rel='stylesheet'"
   />
+  <noscript><link rel="stylesheet" href="//use.typekit.net/ktb0bft.css"></noscript>
 
   <link
-    href="//cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css"
     rel="stylesheet"
+    as="style"
+    href="//cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css"
+    onload="this.onload=null;this.rel='stylesheet'"
   />
+  <noscript><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css"></noscript>
 
   <!--  Icons -->
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />

@@ -293,7 +293,6 @@ article > header {
 
 article > header h1 {
   font-size: var(--font-l);
-  font-family: var(--font-sans);
   margin: 0 0 var(--spacing-xs);
   line-height: 1.25;
 }
@@ -403,12 +402,12 @@ section.date-list li {
 
 section.date-list li time {
   order: 1;
-  width: 4em;
+  width: 5em;
 }
 section.date-list li a {
   display: inline-block;
   order: 2;
-  width: calc(100% - 6em);
+  width: calc(100% - 7em);
   border: none;
   font-family: var(--font-sans);
 }

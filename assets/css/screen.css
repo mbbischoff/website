@@ -378,6 +378,10 @@ section.archive {
   margin-bottom: var(--spacing-xl);
 }
 
+/* -----------------------------------
+Date List
+-------------------------------------- */
+
 section.date-list {
   width: 100%;
   margin-left: auto;
@@ -398,12 +402,12 @@ section.date-list li {
 
 section.date-list li time {
   order: 1;
-  width: 5em;
+  width: 4em;
 }
 section.date-list li a {
   display: inline-block;
   order: 2;
-  width: calc(100% - 7em);
+  width: calc(100% - 6em);
   border: none;
   font-family: var(--font-sans);
 }

@@ -17,6 +17,12 @@ description: We launched a new app yesterday at Lickability. Buildwatch is a bra
   it does.
 format: link
 link: https://buildwatch.app
+picutre:
+  webp_image: "/uploads/Buildwatch_Press_Banner.webp"
+  jpeg_image: "/uploads/Buildwatch_Press_Banner.png"
+  width: 1442 
+  height: 481
+  alt: Buildwatch for Mac Press Banner
 ---
 
 {% include picture.html %}

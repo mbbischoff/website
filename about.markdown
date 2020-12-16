@@ -5,7 +5,7 @@ image: "/uploads/matthew-profile-43.jpeg"
 layout: page
 ---
 
-![Photo of Matthew Bischoff](/uploads/matthew-profile-43.jpeg)
+<img src="/uploads/matthew-profile-43.jpeg" width="1400" height="1050" alt="Photo of Matthew Bischoff looking at their phone waring a leather jacket in a park.">
 
 **Matthew Bischoff** ([they/them](https://pronoun.is/they)) is a designer and developer in New York City. They are a founder and partner at [Lickability](https://lickability.com), a software studio known for its [apps](https://lickability.com/products) and work for [clients](https://lickability.com/clients) like The Atlantic, Houseparty, and Meetup.
 

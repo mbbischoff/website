@@ -323,6 +323,7 @@ hr {
 img {
   margin: var(--spacing-s) 0;
   width: 100%;
+  height: auto;
 }
 
 .serif {

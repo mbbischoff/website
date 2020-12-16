@@ -25,7 +25,7 @@ defaults:
     audio:
       title: 
       link: 
-    picutre:
+    picture:
       webp_image: 
       jpeg_image: 
       png_image: 

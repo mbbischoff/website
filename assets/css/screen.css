@@ -354,7 +354,7 @@ audio {
   width: 100%;
   display: block;
   max-width: var(--spacing-max-width);
-  margin: var(--spacing-l) auto;
+  margin: var(--spacing-s) auto;
 }
 
 video {

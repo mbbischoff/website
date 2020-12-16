@@ -1,0 +1,11 @@
+<section class="date-list">
+  <ul>
+    {% assign sorted = include.data | sort: 'date' | reverse %} {% for item in
+    sorted %}
+    <li>
+      <a href="{{ item.link }}">{{ item.title }}</a>
+      <time>{{ item.date | date: "%b %Y" }}</time>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

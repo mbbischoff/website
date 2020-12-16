@@ -4,22 +4,25 @@ permalink: "/archive/"
 layout: default
 ---
 
-{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date:
+'%Y'" %}
 
 <header>
   <h1>{{ page.title }}</h1>
 </header>
 
 <section class="archive">
-  {% for year in postsByYear %}
+  <section class="date-list">
+    {% for year in postsByYear %}
     <h2 id="{{ year.name }}">{{ year.name }}</h2>
     <ul aria-label="Posts from {{ year.name }}">
       {% for post in year.items %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-          <time>{{ post.date | date: "%b %-d" }}</time>
-        </li>
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <time>{{ post.date | date: "%b %-d" }}</time>
+      </li>
       {% endfor %}
     </ul>
-  {% endfor %}
+    {% endfor %}
+  </section>
 </section>

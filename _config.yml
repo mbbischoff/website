@@ -12,29 +12,29 @@ collections:
     title: Uploads
     output: true
 defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      image:
-      description: ""
-      format: post
-      color:
-      link:
-      audio:
-        title:
-        link:
-  - scope:
-      path: ""
-      type: category
-    values:
-      layout: category
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    image: 
+    description: ''
+    format: post
+    color: 
+    link: 
+    audio:
+      title: 
+      link: 
+- scope:
+    path: ''
+    type: category
+  values:
+    layout: category
 description: I write about technology & culture here and make apps at Lickability.
 permalink: "/:title/"
 url: https://matthewbischoff.com
 paginate: 5
-baseurl:
+baseurl: 
 author:
   name: Matthew Bischoff
   url: https://twitter.com/mb
@@ -46,12 +46,12 @@ license:
   text: Some rights reserved
   url: http://creativecommons.org/licenses/by-sa/4.0/
 plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-redirect-from
+- jekyll-sitemap
+- jekyll-paginate
+- jekyll-gist
+- jekyll-seo-tag
+- jekyll-feed
+- jekyll-redirect-from
 twitter:
   username: mb
 facebook:
@@ -61,21 +61,20 @@ google_site_verification: XK_j6lkDAd8qOhIn4-2eS2BIJuQyRp4D_gxjpR65wUM
 repository: mattbischoff/matthewbischoff.com
 text_content:
   header_title: Matthew Bischoff
-  subtitle:
-    I write about <a href="/category/tech">technology</a> & <a href="/category/culture">culture</a>
+  subtitle: I write about <a href="/category/tech">technology</a> & <a href="/category/culture">culture</a>
     and make apps at <a href="https://lickability.com">Lickability</a>.
 navigation_links:
-  - title: Home
-    url: "/"
-  - title: About
-    url: "/about/"
-  - title: Now
-    url: "/now/"
-  - title: Then
-    url: "/archive/"
-  - title: Contact
-    url: "/contact/"
-  - title: RSS
-    url: "/feed/"
+- title: Home
+  url: "/"
+- title: About
+  url: "/about/"
+- title: Now
+  url: "/now/"
+- title: Then
+  url: "/archive/"
+- title: Contact
+  url: "/contact/"
+- title: RSS
+  url: "/feed/"
 accent_color: "#1E9FD3"
 markdown: kramdown

@@ -28,6 +28,7 @@ defaults:
     picutre:
       webp_image: 
       jpeg_image: 
+      png_image: 
       width: 
       height: 
       alt: 

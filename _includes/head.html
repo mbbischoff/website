@@ -6,23 +6,11 @@
     }} &middot; {{ site.title }} {% endif %}
   </title>
 
-  {% if page.description %}
-  <meta name="description" content="{{ page.description | strip_html}}" />
-  {% else %}
-  <meta name="description" content="{{ site.description }}" />
-  {% endif %}
-
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-
   <!--  CSS -->
   <link rel="stylesheet" href="{{ "/assets/css/screen.css" | relative_url }}">
 
   <!--  Fonts -->
-  <link
-    rel="stylesheet"
-    rel="preload"
-    href="https://use.typekit.net/ktb0bft.css"
-  />
+  <link rel="stylesheet preload" href="https://use.typekit.net/ktb0bft.css" />
 
   <link
     href="//cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css"
@@ -49,8 +37,14 @@
   />
 
   <!-- Meta -->
-  <meta name="author" content="{{ site.author.name }}" />
+  {% if page.description %}
+  <meta name="description" content="{{ page.description | strip_html}}" />
+  {% else %}
   <meta name="description" content="{{ site.description }}" />
+  {% endif %}
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="author" content="{{ site.author.name }}" />
   <meta name="generator" content="Jekyll" />
   <meta name="theme-color" content="{{ site.accent_color }}" />
 

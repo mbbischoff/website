@@ -2,24 +2,23 @@
 title: NSNorth
 date: 2019-04-09 00:00:00 -04:00
 categories:
-  - longer
-  - talks
-  - tech
-  - management
-  - "2019"
+- longer
+- talks
+- tech
+- management
+- '2019'
 tags:
-  - conferences
-  - canada
-  - speaking
-  - nsnorth
+- conferences
+- canada
+- speaking
+- nsnorth
 image: "/uploads/nsnorth-2019-at-the-st-james-theatre-old-montreal.jpg"
-description:
-  Later this month, I’ll be heading north to speak at NSNorth 2019. NSNorth
+description: Later this month, I’ll be heading north to speak at NSNorth 2019. NSNorth
   is Canada’s premier independent Apple developer and designer conference. Get tickets
   today.
 layout: post
 audio:
-  title: "NSNorth #57: Matthew Bischoff"
+  title: 'NSNorth #57: Matthew Bischoff'
   link: http://casgrain.net/podcasts/NSNorth_57-Matthew_Bischoff.mp3
 ---
 

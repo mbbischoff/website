@@ -1,3 +1,0 @@
-<div class="video-wrapper">
-	{{ include.content }}
-</div>

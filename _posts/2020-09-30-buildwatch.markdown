@@ -20,7 +20,7 @@ link: https://buildwatch.app
 picture:
   webp_image: "/uploads/Buildwatch_Press_Banner.webp"
   png_image: "/uploads/Buildwatch_Press_Banner.png"
-  width: 1442 
+  width: 1442
   height: 481
   alt: Buildwatch for Mac Press Banner
 ---

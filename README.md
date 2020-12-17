@@ -50,7 +50,3 @@ layout: default
 ## How To
 
 * Serve the site locally: `bundle exec jekyll serve`
-
-# Rebuild JS
-
-`yarn webpack`

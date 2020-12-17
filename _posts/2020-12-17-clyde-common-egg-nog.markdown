@@ -8,6 +8,7 @@ tags:
 - egg nog
 - jeffrey morgenthaler
 - christmas
+- video
 image: "/uploads/Article-Clyde-Common-Jeffrey-Morgenthaler-Tequila-Sherry-Egg-Nog-Holiday-Cocktail-Recipe.jpg"
 description: "For the last few years, every time the holidays roll around, I make
   a big batch of Jeffrey Morgenthaler’s Clyde Common Egg Nog for my family and friends.

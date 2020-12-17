@@ -52,11 +52,11 @@ Matt’s contributed design and code to the following applications:
 
 ### Podcasts
 
-{% include date-list.html data=site.data.podcasts %}
+{% include date-list.html content=site.data.podcasts %}
 
 ### Press
 
-{% include date-list.html data=site.data.press %}
+{% include date-list.html content=site.data.press %}
 
 ### Elsewhere
 

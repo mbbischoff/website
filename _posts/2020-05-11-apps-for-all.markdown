@@ -29,7 +29,7 @@ This morning, I’m giving a talk on this topic at [App Builders 2020](https://a
 
 This talk relies a lot on audio, video, and demos, but [here are the slides](https://speakerdeck.com/matthewbischoff/apps-for-all-making-software-accessible) in case you missed something while watching. [Download a PDF version here](/uploads/apps-for-all-slides.PDF).
 
-<div class="video-wrapper"><iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/7115a4f57d0c472fa1bb93fe5e67c740?" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+<div class="video-wrapper"><script async class="speakerdeck-embed" data-id="7115a4f57d0c472fa1bb93fe5e67c740" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script></div>
 
 ## Sketchnotes
 

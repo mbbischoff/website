@@ -1,6 +1,6 @@
 ---
 title: Talks
-permalink: "/category/talks"
+permalink: "/category/talks/"
 category: talks
 ---
 

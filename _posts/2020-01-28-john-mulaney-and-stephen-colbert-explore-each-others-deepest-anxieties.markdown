@@ -12,7 +12,7 @@ tags:
 - anxiety
 - comedy
 image: "/uploads/john-mulaney-stephen-colbert.jpg"
-format: tweet
+format: short
 color: violet
 link: https://www.youtube.com/watch?v=zGf6CGBbWFU
 ---

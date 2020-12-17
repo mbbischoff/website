@@ -15,7 +15,7 @@ description: "As I mentioned [on Twitter](https://twitter.com/mb/status/12436323
   yesterday, I’m bringing back a project I did in 2016 called App Critique \U0001F9D0.
   The goal is to show how I evaluate the design of software with short video design
   reviews."
-format: tweet
+format: short
 color: purple
 ---
 

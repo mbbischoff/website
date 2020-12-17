@@ -10,7 +10,7 @@ image: "/uploads/nomad.jpeg"
 description: In addition to the [now page](/now) that launched last week, there’s
   now a short and sweet [contact page](/contact) with lots of ways to get in touch
   with yours truly. ✌️
-format: tweet
+format: short
 color: red
 ---
 

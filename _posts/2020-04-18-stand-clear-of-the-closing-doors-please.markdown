@@ -14,7 +14,7 @@ image: "/uploads/460x0w-cdc203.png"
 description: Stand clear of the closing doors please. [This app](https://apps.apple.com/us/app/nyc-subway-sounds/id1508073006),
   by my pal Evan Lewis, made my day yesterday. If you’re a New Yorker, you should
   have this on your phone.
-format: tweet
+format: short
 color: blue
 ---
 

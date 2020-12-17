@@ -8,7 +8,7 @@ layout: default
 
 {% for post in site.categories[page.category] %}
   <article>
-	{% if post.format == "tweet" %}
+	{% if post.format == "short" %}
 	  {% include post_types/short.html post=post %}
 	{% elsif post.format == "link" %}
 	  {% include post_types/link.html post=post %}

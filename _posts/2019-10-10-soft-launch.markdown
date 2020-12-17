@@ -9,7 +9,7 @@ tags:
 - website
 - design
 - me
-format: tweet
+format: short
 color: blue
 ---
 

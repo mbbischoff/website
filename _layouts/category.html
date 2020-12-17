@@ -6,7 +6,7 @@ layout: default
 	<h1>{{ page.category | capitalize }}</h1>
 </header>
 
-{% for post in site.categories[page.category] %}
+{% for post in site.categories[page.name] %}
   <article class="post">
 	{% if post.format == "short" %}
 	  {% include post_types/short.html post=post %}

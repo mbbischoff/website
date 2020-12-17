@@ -1,7 +1,6 @@
 ---
 title: Culture
 permalink: "/category/culture/"
-categories:
-- culture
+name: culture
 ---
 

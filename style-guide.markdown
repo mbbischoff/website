@@ -23,6 +23,9 @@ Multi line blockquote with a cite reference:
 <cite>Steve Jobs</cite> — Apple Worldwide Developers’ Conference, 1997
 {: .small}
 
+
+This is an example of <mark>marked text</mark> in a sentence.
+
 ## Tables
 
 <table>
@@ -254,6 +257,5 @@ Below.
 - summary
 - small
 - meter
-- mark
 - legend
 - caption

@@ -25,12 +25,14 @@ Variables
 
   --spacing-maxwidth: 36rem;
   --spacing-maxwidth-lg: calc(var(--spacing-maxwidth) * 1.5);
+  
+  --rgb-accent: 30, 159, 211;
 
   --color-bg: #fefeff;
   --color-default: #131314;
   --color-mid: #4e4f53;
   --color-dim: #7f8088;
-  --color-link: #1e9fd3;
+  --color-link: rgba(var(--rgb-accent), 1.0);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -39,7 +41,7 @@ Variables
     --color-default: #fefeff;
     --color-mid: #7f8088;
     --color-dim: #4e4f53;
-    --color-link: #1e9fd3;
+    --color-link: rgba(var(--rgb-accent), 1.0);
   }
 }
 
@@ -211,6 +213,10 @@ li a,
 figcaption a {
   border-bottom: 1px solid var(--color-link);
 }
+/* 
+main>ul, article>ul  {
+  padding: 0;
+} */
 
 pre {
   overflow: scroll;
@@ -237,6 +243,14 @@ kbd {
   background: var(--color-default);
   color: var(--color-bg);
   border-radius: 0.25rem;
+  padding: 0.1em 0.25em;
+}
+
+
+mark {
+  background: rgba(var(--rgb-accent), .3);
+  color: inherit;
+  border-radius: 0.25rem 0;
   padding: 0.1em 0.25em;
 }
 

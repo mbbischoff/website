@@ -4,7 +4,7 @@
     sorted %}
     <li>
       <a href="{{ item.link }}">{{ item.title }}</a>
-      <time>{{ item.date | date: "%Y" }}</time>
+      <time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%Y" }}</time>
     </li>
     {% endfor %}
   </ul>

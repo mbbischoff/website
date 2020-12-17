@@ -1,0 +1,7 @@
+{% if include.post.tags != empty %}
+<p class="tags">      
+    {% for tag in include.post.tags %}
+      <span class="post-tag">#{{ tag }}</span>{% unless forloop.last == true %}, {% endunless %}
+    {% endfor %}
+  </p>
+{% endif %}

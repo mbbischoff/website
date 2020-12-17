@@ -7,7 +7,7 @@ layout: default
 </header>
 
 {% for post in site.categories[page.category] %}
-  <article>
+  <article class="post">
 	{% if post.format == "short" %}
 	  {% include post_types/short.html post=post %}
 	{% elsif post.format == "link" %}

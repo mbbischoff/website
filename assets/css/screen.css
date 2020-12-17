@@ -443,7 +443,9 @@ section.date-list li {
 section.date-list li time {
   order: 1;
   width: 5em;
+  font-variant-numeric: tabular-nums;
 }
+
 section.date-list li a {
   display: inline-block;
   order: 2;

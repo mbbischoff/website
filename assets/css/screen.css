@@ -457,3 +457,33 @@ section.date-list li a {
 section.date-list h2:first-child {
   margin-top: 0;
 }
+
+
+
+/* -----------------------------------
+Pinbboard
+-------------------------------------- */
+
+.pin-title {
+  font-size: 1em;
+  font-weight: bold;
+  text-decoration: none;
+  color: var(--color-link);
+  border-bottom: none;
+}
+
+.pin-description {
+  font-size: var(--font-s);
+  color: var(--color-mid);
+}
+
+.pin-tag {
+  color: var(--color-dim);
+  text-decoration: none;
+  font-size: var(--font-s);
+  border-bottom: none;
+}
+
+.pin-tag::before { 
+  content: "#";
+}

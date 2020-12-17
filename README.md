@@ -41,8 +41,8 @@ Categories must be created (and destroyed) manually. Let’s say I want to add a
 ```
 ---
 title: Animals
-permalink: "/category/animals"
-category: animals
+permalink: "/category/animals/"
+name: animals
 ---
 ```
 

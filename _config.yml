@@ -85,3 +85,7 @@ navigation_links:
   url: "/feed/"
 accent_color: "#1E9FD3"
 markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+

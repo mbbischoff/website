@@ -7,10 +7,11 @@ position: 3
 Inspired by: [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)
 
 # Header 1
-
 ## Header 2
-
 ### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 
 Single line blockquote:
 
@@ -23,12 +24,19 @@ Multi line blockquote with a cite reference:
 <cite>Steve Jobs</cite> — Apple Worldwide Developers’ Conference, 1997
 {: .small}
 
+This is an example of <small>small text</small> in a sentence.
 
 This is an example of <mark>marked text</mark> in a sentence.
+
+<details>
+<summary>This is a summary element.</summary>
+With lots and lots of details inside a disclosure triangle.
+</details>
 
 ## Tables
 
 <table>
+  <caption>Human Resources</caption>
   <thead>
     <tr>
       <th>Employee</th>
@@ -191,9 +199,31 @@ This is an example of <mark>marked text</mark> in a sentence.
 
 <p>“Code is poetry.” —<cite>Automattic</cite></p>
 
+## Meter
+
+<label for="fuel">Fuel level:</label>
+
+<meter id="fuel"
+       min="0" max="100"
+       low="33" high="66" optimum="80"
+       value="50">
+    at 50/100
+</meter>
+
+
 ### Code
 
 <p>You will learn later on in these tests that <code class="language-plaintext highlighter-rouge">word-wrap: break-word;</code> will be your best friend.</p>
+
+```javascript
+function sayHello(name) {
+  if (!name) {
+    console.log('Hello World');
+  } else {
+    console.log(`Hello ${name}`);
+  }
+}
+```
 
 ### Strike
 
@@ -244,18 +274,10 @@ This is an example of <mark>marked text</mark> in a sentence.
 
 <p>This allows you to denote <var>variables</var>.</p>
 
-### HR
+### Horizontal Rule
 
-Above.
+Above the line.
 
 <hr>
 
-Below.
-
-## TODO
-
-- summary
-- small
-- meter
-- legend
-- caption
+Below the line.

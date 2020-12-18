@@ -24,6 +24,6 @@ Here are the best ways to get in touch:
 
 If you’d like to communicate me in an encrypted manner:
 
-💬 Text via Signal to +1 (609) 706-0597.  
+💬 Text via Signal to [+1 (609) 706-0597](sgnl://text:+16097060597).  
 🔑  Message me on Keybase at [matthewbischoff](https://keybase.io/matthewbischoff).  
 🔏  Encrypt email with my [GPG key](/matthewbischoff.gpg). <small>*Reminder: I need your public key.*</small>

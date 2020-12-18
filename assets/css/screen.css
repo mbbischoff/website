@@ -253,7 +253,7 @@ mark {
   background: rgba(var(--rgb-accent), .3);
   color: inherit;
   border-radius: 0.25rem 0;
-  padding: 0.1em 0.25em;
+  padding: 0.2em 0.25em;
 }
 
 abbr[title],

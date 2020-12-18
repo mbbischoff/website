@@ -5,7 +5,6 @@ categories:
 - culture
 - tech
 - shorter
-
 tags:
 - podcast
 - reply all

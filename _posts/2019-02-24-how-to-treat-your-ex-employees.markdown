@@ -6,7 +6,6 @@ categories:
 - culture
 - management
 - longer
-
 tags:
 - work
 - hiring

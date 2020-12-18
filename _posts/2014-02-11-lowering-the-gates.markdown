@@ -5,7 +5,6 @@ categories:
 - tech
 - culture
 - longer
-
 tags:
 - nytimes
 - tech

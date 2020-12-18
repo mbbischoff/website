@@ -4,7 +4,6 @@ date: 2020-04-18 11:27:00 -04:00
 categories:
 - tech
 - shorter
-
 tags:
 - transit
 - mta

@@ -5,7 +5,6 @@ categories:
 - longer
 - culture
 - tech
-
 tags:
 - work
 - email

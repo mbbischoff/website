@@ -5,7 +5,6 @@ categories:
 - tech
 - management
 - longer
-
 tags:
 - nytimes
 - website

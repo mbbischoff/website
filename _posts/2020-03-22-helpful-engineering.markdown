@@ -5,7 +5,6 @@ categories:
 - tech
 - culture
 - shorter
-
 tags:
 - coronavirus
 - engineering

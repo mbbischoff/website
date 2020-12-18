@@ -5,7 +5,6 @@ categories:
 - tech
 - management
 - shorter
-
 tags:
 - lickability
 - lawyers

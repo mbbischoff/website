@@ -6,7 +6,6 @@ categories:
 - tech
 - talks
 - longer
-
 tags:
 - '404'
 - internet

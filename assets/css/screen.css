@@ -113,6 +113,8 @@ body > footer a:not(:last-of-type) {
 
 body > header > nav > a.active {
   color: var(--color-default);
+  
+  font-weight: bold;
 }
 
 footer {
@@ -326,9 +328,15 @@ p.tags {
 Design Elements
 -------------------------------------- */
 
-main > header img {
+main > header img.avatar {
   max-width: 8rem;
   border-radius: 50%;
+  transition: transform 0.2s ease;
+
+}
+
+main > header img.avatar:hover {
+  transform: scale(1.1);
 }
 
 hr {

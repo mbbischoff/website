@@ -26,4 +26,4 @@ If you’d like to communicate me in an encrypted manner:
 
 💬 Text via Signal to [+1 (609) 706-0597](sgnl://text:+16097060597).  
 🔑  DM via Keybase at [matthewbischoff](https://keybase.io/matthewbischoff).  
-🔏  Encrypt email with my [GPG key](/matthewbischoff.gpg).<br><small>*Reminder: I need your public key.*</small>
+🔏  Encrypt email with my [GPG key](/matthewbischoff.gpg).<br><small>*Reminder: I’ll need your public key.*</small>

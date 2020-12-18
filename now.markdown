@@ -1,7 +1,7 @@
 ---
 title: Now
 date: 2020-12-17 18:25:00 -05:00
-place: New York, NY
+place: NYC
 image: "/uploads/latest-selfie.jpg"
 layout: page
 ---

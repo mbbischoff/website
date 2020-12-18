@@ -4,7 +4,7 @@ date: 2020-03-28 11:13:00 -04:00
 categories:
 - tech
 - shorter
-- '2020'
+
 tags:
 - criticism
 - app

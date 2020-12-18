@@ -4,7 +4,7 @@ date: 2019-01-15 00:00:00 -05:00
 categories:
 - culture
 - longer
-- '2019'
+
 tags:
 - creativity
 - talks

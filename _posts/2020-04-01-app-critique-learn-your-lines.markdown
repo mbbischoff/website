@@ -3,7 +3,7 @@ title: 'App Critique: Learn Your Lines!'
 date: 2020-04-01 13:28:00 -04:00
 categories:
 - tech
-- '2020'
+
 tags:
 - video
 - app critique

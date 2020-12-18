@@ -4,7 +4,7 @@ date: 2020-09-09 09:11:00 -04:00
 categories:
 - shorter
 - culture
-- '2020'
+
 tags:
 - gender
 - transgender

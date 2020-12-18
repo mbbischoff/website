@@ -33,6 +33,7 @@ Variables
   --color-mid: #4e4f53;
   --color-dim: #7f8088;
   --color-link: rgba(var(--rgb-accent), 1.0);
+  --color-link-underline: rgba(var(--rgb-accent), 0.7);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -146,6 +147,10 @@ h3, h4, h5, h6 {
   margin-top: var(--spacing-s);
 }
 
+ul, ol {
+  padding-left: var(--spacing-m);
+}
+
 time,
 time > a {
   font-family: var(--font-sans);
@@ -206,13 +211,8 @@ a.external {
 p a,
 li a,
 figcaption a {
-  border-bottom: 1px solid var(--color-link);
+  border-bottom: 1px solid var(--color-link-underline);
 }
-
-/* 
-main>ul, article>ul  {
-  padding: 0;
-} */
 
 pre {
   font-family: var(--font-mono);
@@ -314,9 +314,14 @@ article > header h1 {
   font-weight: bold;
 }
 
-p.tags {
+p.tags, p.tags a {
+  border-bottom: none;
   color: var(--color-mid);
   font-size: var(--font-s);
+}
+
+p.tags a:hover {
+  color:var(--color-link);
 }
 
 /* -----------------------------------

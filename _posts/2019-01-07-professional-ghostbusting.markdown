@@ -5,7 +5,7 @@ categories:
 - longer
 - culture
 - tech
-- '2019'
+
 tags:
 - work
 - email

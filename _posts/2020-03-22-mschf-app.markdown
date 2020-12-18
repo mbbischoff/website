@@ -5,7 +5,7 @@ categories:
 - tech
 - culture
 - shorter
-- '2020'
+
 tags:
 - app store
 - app

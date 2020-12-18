@@ -4,7 +4,7 @@ date: 2016-11-26 00:00:00 -05:00
 categories:
 - tech
 - longer
-- '2016'
+
 tags:
 - code
 - writing

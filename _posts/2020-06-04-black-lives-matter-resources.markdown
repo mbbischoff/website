@@ -3,7 +3,7 @@ title: Black Lives Matter Resources
 date: 2020-06-04 10:53:00 -04:00
 categories:
 - culture
-- '2020'
+
 tags:
 - racism
 - blacklivesmatter

@@ -4,7 +4,7 @@ date: 2015-09-05 00:00:00 -04:00
 categories:
 - longer
 - tech
-- '2015'
+
 tags:
 - code
 - code review

@@ -5,7 +5,6 @@ categories:
 - tech
 - culture
 - longer
-- '2013'
 tags:
 - nytimes
 - criticism

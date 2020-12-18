@@ -4,7 +4,7 @@ date: 2015-07-25 00:00:00 -04:00
 categories:
 - tech
 - longer
-- '2015'
+
 tags:
 - work
 - advice

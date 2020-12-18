@@ -6,7 +6,7 @@ categories:
 - talks
 - tech
 - management
-- '2019'
+
 tags:
 - conferences
 - canada

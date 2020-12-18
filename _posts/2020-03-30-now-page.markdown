@@ -4,7 +4,7 @@ date: 2020-03-30 12:21:00 -04:00
 categories:
 - tech
 - shorter
-- '2020'
+
 tags:
 - now
 - derek sivers

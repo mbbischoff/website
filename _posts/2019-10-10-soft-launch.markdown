@@ -4,7 +4,7 @@ date: 2019-10-10 13:51:00 -04:00
 categories:
 - tech
 - shorter
-- '2019'
+
 tags:
 - website
 - design

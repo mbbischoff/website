@@ -4,7 +4,7 @@ date: 2020-01-08 13:51:00 -05:00
 categories:
 - culture
 - shorter
-- '2020'
+
 tags:
 - podcast
 - language

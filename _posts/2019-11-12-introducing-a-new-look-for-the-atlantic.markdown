@@ -5,7 +5,7 @@ categories:
 - tech
 - culture
 - shorter
-- '2019'
+
 tags:
 - atlantic
 - news

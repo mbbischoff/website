@@ -5,7 +5,7 @@ categories:
 - tech
 - management
 - longer
-- '2015'
+
 tags:
 - nytimes
 - website

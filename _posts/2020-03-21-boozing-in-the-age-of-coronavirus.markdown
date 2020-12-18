@@ -4,7 +4,7 @@ date: 2020-03-21 15:03:00 -04:00
 categories:
 - culture
 - shorter
-- '2020'
+
 tags:
 - cocktails
 - coronavirus

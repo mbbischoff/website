@@ -3,7 +3,7 @@ title: A Companion for SwiftUI
 date: 2019-11-06 14:03:00 -05:00
 categories:
 - tech
-- '2019'
+
 tags:
 - ios
 - app store

@@ -4,7 +4,7 @@ date: 2019-01-28 00:00:00 -05:00
 categories:
 - talks
 - longer
-- '2019'
+
 tags:
 - talks
 - writing

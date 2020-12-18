@@ -5,7 +5,7 @@ categories:
 - management
 - talks
 - longer
-- '2016'
+
 tags:
 - talks
 - management

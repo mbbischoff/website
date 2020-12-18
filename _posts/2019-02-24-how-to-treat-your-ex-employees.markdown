@@ -6,7 +6,7 @@ categories:
 - culture
 - management
 - longer
-- '2019'
+
 tags:
 - work
 - hiring

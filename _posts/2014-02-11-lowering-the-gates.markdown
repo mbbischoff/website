@@ -5,7 +5,7 @@ categories:
 - tech
 - culture
 - longer
-- '2014'
+
 tags:
 - nytimes
 - tech

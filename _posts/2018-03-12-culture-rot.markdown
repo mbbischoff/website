@@ -6,7 +6,7 @@ categories:
 - tech
 - talks
 - longer
-- '2018'
+
 tags:
 - '404'
 - internet

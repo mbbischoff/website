@@ -4,7 +4,7 @@ date: 2020-04-07 10:35:00 -04:00
 categories:
 - tech
 - management
-- '2020'
+
 tags:
 - tech
 - management

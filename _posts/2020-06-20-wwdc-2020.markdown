@@ -3,7 +3,7 @@ title: WWDC 2020
 date: 2020-06-20 12:13:00 -04:00
 categories:
 - tech
-- '2020'
+
 tags:
 - wwdc
 - apple

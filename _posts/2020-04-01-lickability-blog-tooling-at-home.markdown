@@ -5,7 +5,7 @@ categories:
 - tech
 - culture
 - shorter
-- '2020'
+
 tags:
 - work
 - lickability

@@ -4,7 +4,7 @@ date: 2020-04-05 09:35:00 -04:00
 categories:
 - culture
 - shorter
-- '2020'
+
 tags:
 - masks
 - coronavirus

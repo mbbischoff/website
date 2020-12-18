@@ -4,7 +4,7 @@ date: 2020-01-23 16:18:00 -05:00
 categories:
 - shorter
 - culture
-- '2020'
+
 tags:
 - restaurants
 - food service

@@ -4,7 +4,7 @@ date: 2020-02-10 19:04:00 -05:00
 categories:
 - talks
 - tech
-- '2020'
+
 tags:
 - talks
 - conferences

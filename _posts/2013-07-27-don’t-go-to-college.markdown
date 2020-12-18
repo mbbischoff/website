@@ -2,7 +2,6 @@
 title: Don’t Go to College
 date: 2013-07-27 00:00:00 -04:00
 categories:
-- '2013'
 layout: post
 ---
 

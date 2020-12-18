@@ -3,7 +3,7 @@ title: Perils of the Overworld
 date: 2020-04-13 15:51:00 -04:00
 categories:
 - tech
-- '2020'
+
 tags:
 - robin sloan
 - games

@@ -4,7 +4,7 @@ date: 2019-10-09 18:05:00 -04:00
 categories:
 - culture
 - shorter
-- '2019'
+
 tags:
 - gender
 - transgender

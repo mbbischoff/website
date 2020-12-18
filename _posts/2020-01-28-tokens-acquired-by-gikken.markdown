@@ -4,7 +4,7 @@ date: 2020-01-28 10:59:00 -05:00
 categories:
 - tech
 - shorter
-- '2020'
+
 tags:
 - ios
 - programming

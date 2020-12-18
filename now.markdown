@@ -51,7 +51,7 @@ Here are the latest photos I’ve shared on [Instagram](https://instagram.com/ma
 
 ### Bookmarks 📌
 
-I organize [my bookmarks](https://pinboard.in/u:mattb) on [Pinboard](https://pinboard.in/). Here are the latest five:
+I organize [my bookmarks](https://pinboard.in/u:mattb) on [Pinboard](https://pinboard.in/). Here are the latest five.
 
 <script language="javascript" src="https://pinboard.in//widgets/v1/linkroll/?user=mattb&count=5"></script>
 
@@ -67,19 +67,17 @@ These are the books I’m reading right now. My [notes and highlights](https://w
 
 <style type="text/css" media="screen">
 .gr_grid_container {
-width: 100%;
+  /* customize grid container div here. eg: width: 500px; */
 }
 
 .gr_grid_book_container {
-/* customize book cover container div here */
-display: inline-block;
-width: 98px;
-height: 160px;
-padding: 0px 20px 0px 0px;
-overflow: hidden;
+  /* customize book cover container div here */
+  display: inline-block;
+  padding: 0px 20px 0px 0px;
+  overflow: hidden;
 }
 </style>
-<script src="https://www.goodreads.com/review/grid_widget/3162891.Matthew's%20currently-reading%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=5&order=a&shelf=currently-reading&sort=date_added&widget_id=1589115163" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.goodreads.com/review/grid_widget/3162891.Matthew's%20currently-reading%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_added&widget_id=1608249885" type="text/javascript" charset="utf-8"></script>
 
 # Then
 

@@ -26,4 +26,4 @@ If you’d like to communicate me in an encrypted manner:
 
 💬 Text me on Telegram at [matthewbischoff](https://t.me/matthewbischoff)  
 🔑  Chat with me via Keybase at [matthewbischoff](https://keybase.io/matthewbischoff).  
-🔏  Encrypt email with my [GPG key](/matthewbischoff.gpg). *Reminder: make sure I have your public key.*
+🔏  Encrypt email with my [GPG key](/matthewbischoff.gpg). *Reminder: I need your public key.*

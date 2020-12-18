@@ -137,7 +137,7 @@ h1 {
 h2 {
   font-size: var(--font-l);
   font-family: var(--font-serif);
-  margin-top: var(--spacing-m);
+  margin-top: var(--spacing-l);
 }
 
 h3, h4, h5, h6 {

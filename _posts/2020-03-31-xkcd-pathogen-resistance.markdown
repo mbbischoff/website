@@ -3,7 +3,6 @@ title: 'xkcd: Pathogen Resistance'
 date: 2020-03-31 09:38:00 -04:00
 categories:
 - culture
-
 tags:
 - coronavirus
 - comic

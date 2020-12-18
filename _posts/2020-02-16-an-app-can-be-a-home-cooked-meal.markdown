@@ -5,7 +5,6 @@ categories:
 - tech
 - shorter
 - culture
-
 tags:
 - software
 - apps

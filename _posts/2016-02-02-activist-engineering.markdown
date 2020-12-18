@@ -5,7 +5,6 @@ categories:
 - longer
 - tech
 - culture
-
 tags:
 - activism
 - programming

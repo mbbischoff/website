@@ -6,7 +6,6 @@ categories:
 - talks
 - tech
 - management
-
 tags:
 - conferences
 - canada

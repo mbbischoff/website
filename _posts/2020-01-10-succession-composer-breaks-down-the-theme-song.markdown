@@ -4,7 +4,6 @@ date: 2020-01-10 16:21:00 -05:00
 categories:
 - shorter
 - culture
-
 tags:
 - sucession
 - tv

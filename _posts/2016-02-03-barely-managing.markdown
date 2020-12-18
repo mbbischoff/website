@@ -5,7 +5,6 @@ categories:
 - management
 - talks
 - longer
-
 tags:
 - talks
 - management

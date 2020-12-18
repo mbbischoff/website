@@ -4,7 +4,6 @@ date: 2020-01-28 10:38:00 -05:00
 categories:
 - shorter
 - culture
-
 tags:
 - john mulaney
 - stephen colber

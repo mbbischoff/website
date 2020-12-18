@@ -3,7 +3,6 @@ title: Contact Page
 date: 2020-04-06 00:34:00 -04:00
 categories:
 - shorter
-
 tags:
 - meta
 image: "/uploads/nomad.jpeg"

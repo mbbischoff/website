@@ -6,7 +6,6 @@ categories:
 - talks
 - culture
 - longer
-
 tags:
 - accessibility
 - ios

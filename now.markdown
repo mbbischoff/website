@@ -10,7 +10,7 @@ layout: page
 
 This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](https://sivers.org/nowff). It covers the things I’m thinking, feeling, and working on, well, *right now*.
 
-![Latest Selfie](/uploads/latest-selfie.jpg)
+<img src="/uploads/latest-selfie.jpg" width="1616 " height="1077" alt="Latest Selfie">
 
 ## Life 👱🏻
 
@@ -18,7 +18,7 @@ I’m back in New York City as of October of 2020 after spending a few months in
 
 ### Feelings 🔮
 
-I’m really [glad *we* won the election](https://twitter.com/mb/status/1325112439906725888), and I know there’s lot more work to do to achieve the massive political change this country needs. I’m [thankful for a lot of things](https://twitter.com/mb/status/1331973312659021824), especially being housed and employed through all of this.
+I’m really [glad ](https://twitter.com/mb/status/1325112439906725888)*[we](https://twitter.com/mb/status/1325112439906725888)*[ won the election](https://twitter.com/mb/status/1325112439906725888), and I know there’s lot more work to do to achieve the massive political change this country needs. I’m [thankful for a lot of things](https://twitter.com/mb/status/1331973312659021824), especially being housed and employed through all of this.
 
 ### Gender ⚧
 
@@ -29,7 +29,9 @@ I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) las
 Based on [The Theme System](https://www.thethemesystem.com), which I learned about through the [Cortex](http://cortex.fm) podcast, I choose a yearly theme. This year’s theme is **Commit** which means this year I aim to:
 
 * Do things all the way. Finish them. Get them right. ✅
+
 * Commit to a few things rather than half-assing many. 🧠
+
 * Dedicate time, attention, and money to worthy projects, people, & ideas. ⏰
 
 ## Work 👅
@@ -38,7 +40,7 @@ My job as a Partner at [Lickability](https://lickability.com) involves leading t
 
 ### Talks 🗣
 
-This year I gave my first remote talk, [_Apps for All: Making Accessible Software_](https://matthewbischoff.com/apps-for-all/) at [App Builders CH](https://appbuilders.ch). If you enjoyed it and you’d like me to speak at your event in 2021, [get in touch](/contact).
+This year I gave my first remote talk, *[Apps for All: Making Accessible Software](https://matthewbischoff.com/apps-for-all/)* at [App Builders CH](https://appbuilders.ch). If you enjoyed it and you’d like me to speak at your event in 2021, [get in touch](/contact).
 
 ## Media 💻
 
@@ -67,14 +69,14 @@ These are the books I’m reading right now. My [notes and highlights](https://w
 
 <style type="text/css" media="screen">
 .gr_grid_container {
-  /* customize grid container div here. eg: width: 500px; */
+/\* customize grid container div here. eg: width: 500px; \*/
 }
 
 .gr_grid_book_container {
-  /* customize book cover container div here */
-  display: inline-block;
-  padding: 0px 20px 0px 0px;
-  overflow: hidden;
+/\* customize book cover container div here \*/
+display: inline-block;
+padding: 0px 20px 0px 0px;
+overflow: hidden;
 }
 </style>
 <script src="https://www.goodreads.com/review/grid_widget/3162891.Matthew's%20currently-reading%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_added&widget_id=1608249885" type="text/javascript" charset="utf-8"></script>
@@ -83,4 +85,4 @@ These are the books I’m reading right now. My [notes and highlights](https://w
 
 One time in 2003, I was on [an episode of Jeopardy!](https://www.j-archive.com/showgame.php?game_id=3342) and lost very badly.
 
-![IMG_7224.jpeg](/uploads/IMG_7224.jpeg)
+<img src="/uploads/IMG_7224.jpeg" width="603  " height="427" alt="Jeopardy! Photo of Matt and Alex">

@@ -23,29 +23,29 @@ Variables
   --spacing-xl: calc(5rem + 10vh);
 
   --spacing-maxwidth: 36rem;
-  
+
   --border-radius: 0.25rem;
-  
+
   --rgb-accent: 30, 159, 211;
 
   --color-bg: #fefeff;
   --color-code-bg: #f8f8f8;
-  
+
   --color-default: #131314;
   --color-mid: #4e4f53;
   --color-dim: #7f8088;
-  --color-link: rgba(var(--rgb-accent), 1.0);
+  --color-link: rgba(var(--rgb-accent), 1);
   --color-link-underline: rgba(var(--rgb-accent), 0.7);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --color-bg: #0b0012;
-    
+
     --color-default: #fefeff;
     --color-mid: #7f8088;
     --color-dim: #4e4f53;
-    --color-link: rgba(var(--rgb-accent), 1.0);
+    --color-link: rgba(var(--rgb-accent), 1);
   }
 }
 
@@ -109,7 +109,7 @@ body > footer a:not(:last-of-type) {
 
 body > header > nav > a.active {
   color: var(--color-default);
-  
+
   font-weight: bold;
 }
 
@@ -143,18 +143,25 @@ h2 {
   margin-top: var(--spacing-l);
 }
 
-h3, h4, h5, h6 {
+h3,
+h4,
+h5,
+h6 {
   font-size: var(--font-m);
   font-weight: bold;
   font-family: var(--font-sans);
   margin-top: var(--spacing-s);
 }
 
-ul, ol {
+ul,
+ol {
   padding-left: var(--spacing-m);
 }
 
-main>ul, article>ul, main>ol, article>ol  {
+main > ul,
+article > ul,
+main > ol,
+article > ol {
   padding-left: 0;
 }
 
@@ -281,7 +288,7 @@ kbd {
 }
 
 mark {
-  background: rgba(var(--rgb-accent), .3);
+  background: rgba(var(--rgb-accent), 0.3);
   color: inherit;
   border-radius: var(--border-radius);
   padding: 0.2em 0.25em;
@@ -319,7 +326,7 @@ label {
   margin-right: var(--spacing-xs);
   font-weight: bold;
   color: var(--color-mid);
-  font-size: : var(--font-s);
+  font-size: var(--font-s);
 }
 
 /* -----------------------------------
@@ -363,14 +370,15 @@ article > header h1 {
   font-weight: bold;
 }
 
-p.tags, p.tags a {
+p.tags,
+p.tags a {
   border-bottom: none;
   color: var(--color-mid);
   font-size: var(--font-s);
 }
 
 p.tags a:hover {
-  color:var(--color-link);
+  color: var(--color-link);
 }
 
 /* -----------------------------------
@@ -433,7 +441,8 @@ th {
   color: white;
 }
 
-th, td {
+th,
+td {
   padding: 0.5em;
   text-align: left;
   border-bottom: 1px solid var(--color-dim);
@@ -514,7 +523,7 @@ Pinboard
   border-bottom: none;
 }
 
-.pin-tag::before { 
+.pin-tag::before {
   content: "#";
 }
 

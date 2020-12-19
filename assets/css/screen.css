@@ -27,6 +27,7 @@ Variables
   --border-radius: 0.25rem;
 
   --rgb-accent: 30, 159, 211;
+  --rgb-defaut: 19, 19, 20;
 
   --color-bg: #fefeff;
   --color-code-bg: #f8f8f8;
@@ -40,11 +41,13 @@ Variables
 
 @media (prefers-color-scheme: dark) {
   :root {
+    --rgb-defaut: 254, 254, 255;
+
     --color-bg: #0b0012;
 
-    --color-default: #fefeff;
-    --color-mid: #7f8088;
-    --color-dim: #4e4f53;
+    --color-default: rgba(var(--rgb-defaut), 1);
+    --color-mid: rgba(var(--rgb-defaut), 0.5);
+    --color-dim: rgba(var(--rgb-defaut), 0.3);
     --color-link: rgba(var(--rgb-accent), 1);
   }
 }

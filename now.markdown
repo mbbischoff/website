@@ -61,6 +61,13 @@ I love listening to (and [guesting on](/about/#podcasts)) podcasts, but I’m ch
 
 If you’d like me to have me on your podcast, I’ve got all the time in the world at the moment and would really love that. [Shoot me an email](mailto:mb@matthewbischoff.com?subject=Podcast), and let’s do it.
 
+
+### Music 🎶
+
+Here’s a playlist of the albums that I’m listening to in heavy rotation.
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/heavy-rotation/pl.u-vvRNDtBrg68"></iframe> 
+
 ### Books 📚
 
 These are the books I’m reading right now. My [notes and highlights](https://www.goodreads.com/notes/3162891-matthew-bischoff?ref=rnlp) are available on Goodreads. If you’d like to recommend a book, [send me an email](mailto:mb@matthewbischoff.com?subject=Book%20Reccomendation).

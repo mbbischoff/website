@@ -520,3 +520,19 @@ Pinboard
 .pin-tag::before { 
   content: "#";
 }
+
+/* -----------------------------------
+Goodreads
+-------------------------------------- */
+
+.gr_grid_container {
+  /* customize grid container div here. eg: width: 500px; */
+}
+
+.gr_grid_book_container {
+  display: inline-block;
+  /* width: 98px;
+  height: 160px; */
+  margin: 0px var(--font-line-height) 0px 0px;
+  overflow: hidden;
+}

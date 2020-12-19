@@ -315,10 +315,6 @@ main > header img.avatar {
   transition: transform 0.2s ease;
 }
 
-main > header img.avatar:hover {
-  transform: scale(1.1);
-}
-
 label {
   margin-right: var(--spacing-xs);
   font-weight: bold;

@@ -1,20 +1,17 @@
 <picture>
-{% if page.picture.webp_image %}
+  {% if page.picture.webp_image %}
   <source srcset="{{ page.picture.webp_image }}" type="image/webp" />
-{% endif %}
-
-{% if page.picture.jpeg_image %}
-  <source srcset="{{ page.picture.jpeg_image }}" type="image/jpeg">
-{% endif %}
-
-{% if page.picture.png_image %}
-  <source srcset="{{ page.picture.png_image }}" type="image/png">
-{% endif %}
+  {% endif %} {% if page.picture.jpeg_image %}
+  <source srcset="{{ page.picture.jpeg_image }}" type="image/jpeg" />
+  {% endif %} {% if page.picture.png_image %}
+  <source srcset="{{ page.picture.png_image }}" type="image/png" />
+  {% endif %}
 
   <img
     alt="{{ page.picture.alt }}"
     width="{{ page.picture.width }}"
     height="{{ page.picture.height }}"
+    loading="lazy"
     src="{{ page.image }}"
   />
 </picture>

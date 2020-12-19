@@ -23,11 +23,14 @@ Variables
   --spacing-xl: calc(5rem + 10vh);
 
   --spacing-maxwidth: 36rem;
-  --spacing-maxwidth-lg: calc(var(--spacing-maxwidth) * 1.5);
+  
+  --border-radius: 0.25rem;
   
   --rgb-accent: 30, 159, 211;
 
   --color-bg: #fefeff;
+  --color-code-bg: #f8f8f8;
+  
   --color-default: #131314;
   --color-mid: #4e4f53;
   --color-dim: #7f8088;
@@ -38,6 +41,7 @@ Variables
 @media (prefers-color-scheme: dark) {
   :root {
     --color-bg: #0b0012;
+    
     --color-default: #fefeff;
     --color-mid: #7f8088;
     --color-dim: #4e4f53;
@@ -123,7 +127,7 @@ footer .cc {
 }
 
 /* -----------------------------------
-Typography
+Headings
 -------------------------------------- */
 
 h1 {
@@ -148,6 +152,10 @@ h3, h4, h5, h6 {
 
 ul, ol {
   padding-left: var(--spacing-m);
+}
+
+main>ul, article>ul, main>ol, article>ol  {
+  padding-left: 0;
 }
 
 time,
@@ -181,6 +189,10 @@ small {
   color: var(--color-mid);
 }
 
+.serif {
+  font-family: var(--font-sans);
+}
+
 figcaption {
   font-family: var(--font-sans);
   font-size: var(--font-s);
@@ -207,22 +219,47 @@ a.external {
   color: var(--color-link);
 }
 
+p {
+  hanging-punctuation: first;
+}
+
 p a,
 li a,
 figcaption a {
   border-bottom: 1px solid var(--color-link-underline);
 }
 
+hr {
+  max-width: 10rem;
+  border: none;
+  border-top: 1px solid var(--color-mid);
+  opacity: 0.5;
+  margin: var(--spacing-l) auto;
+}
+
+dt {
+  font-family: var(--font-serif);
+  font-weight: bold;
+}
+
+dd {
+  color: var(--color-mid);
+}
+
 pre {
   font-family: var(--font-mono);
   overflow: scroll;
+  font-size: 16px;
+}
+
+pre.highlight {
   padding: var(--spacing-s);
   margin: var(--spacing-m) auto;
 }
 
 div .highlight {
   color: black;
-  border-radius: 0.25rem;
+  border-radius: var(--border-radius);
 }
 
 code {
@@ -236,17 +273,16 @@ kbd {
   font-style: normal;
   font-family: var(--font-mono);
   font-size: 80%;
-  background: var(--color-default);
-  color: var(--color-bg);
-  border-radius: 0.25rem;
+  background: var(--color-code-bg);
+  color: black;
+  border-radius: var(--border-radius);
   padding: 0.1em 0.25em;
 }
-
 
 mark {
   background: rgba(var(--rgb-accent), .3);
   color: inherit;
-  border-radius: 0.25rem 0;
+  border-radius: var(--border-radius) 0;
   padding: 0.2em 0.25em;
 }
 
@@ -272,6 +308,27 @@ article > header h1 {
   margin-bottom: 0;
 }
 
+main > header img.avatar {
+  max-width: 8rem;
+  border-radius: 50%;
+  transition: transform 0.2s ease;
+}
+
+main > header img.avatar:hover {
+  transform: scale(1.1);
+}
+
+label {
+  margin-right: var(--spacing-xs);
+  font-weight: bold;
+  color: var(--color-mid);
+  font-size: : var(--font-s);
+}
+
+meter {
+  height: var(--font-s);
+}
+
 /* -----------------------------------
 Pagination
 -------------------------------------- */
@@ -291,7 +348,7 @@ Pagination
 }
 
 /* -----------------------------------
-Article Elements
+Articles
 -------------------------------------- */
 
 article {
@@ -324,27 +381,8 @@ p.tags a:hover {
 }
 
 /* -----------------------------------
-Design Elements
+Media
 -------------------------------------- */
-
-main > header img.avatar {
-  max-width: 8rem;
-  border-radius: 50%;
-  transition: transform 0.2s ease;
-
-}
-
-main > header img.avatar:hover {
-  transform: scale(1.1);
-}
-
-hr {
-  max-width: 10rem;
-  border: none;
-  border-top: 1px solid var(--color-mid);
-  opacity: 0.5;
-  margin: var(--spacing-l) auto;
-}
 
 img {
   margin: var(--spacing-s) 0;
@@ -352,8 +390,20 @@ img {
   height: auto;
 }
 
-.serif {
-  font-family: var(--font-sans);
+audio {
+  width: 100%;
+  display: block;
+  max-width: var(--spacing-max-width);
+  margin: var(--spacing-s) auto;
+}
+
+video {
+  width: 100%;
+  height: auto !important;
+  margin-top: var(--spacing-l);
+  margin-bottom: var(--spacing-l);
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .video-wrapper {
@@ -376,27 +426,6 @@ iframe {
   border: none;
 }
 
-audio {
-  width: 100%;
-  display: block;
-  max-width: var(--spacing-max-width);
-  margin: var(--spacing-s) auto;
-}
-
-video {
-  width: 100%;
-  height: auto !important;
-  margin-top: var(--spacing-l);
-  margin-bottom: var(--spacing-l);
-  margin-left: auto;
-  margin-right: auto;
-}
-
-dt {
-  font-family: var(--font-serif);
-  font-weight: bold;
-}
-
 /* -----------------------------------
 Tables
 -------------------------------------- */
@@ -415,6 +444,10 @@ th, td {
   padding: 0.5em;
   text-align: left;
   border-bottom: 1px solid var(--color-dim);
+}
+
+caption {
+  font-weight: bold;
 }
 
 /* -----------------------------------
@@ -464,10 +497,8 @@ section.date-list h2:first-child {
   margin-top: 0;
 }
 
-
-
 /* -----------------------------------
-Pinbboard
+Pinboard
 -------------------------------------- */
 
 .pin-title {

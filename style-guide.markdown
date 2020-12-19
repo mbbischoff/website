@@ -24,6 +24,8 @@ Multi line blockquote with a cite reference:
 <cite>Steve Jobs</cite> — Apple Worldwide Developers’ Conference, 1997
 {: .small}
 
+“Hanging punctuation is also a thing we can and should do.”
+
 This is an example of <small>small text</small> in a sentence.
 
 This is an example of <mark>marked text</mark> in a sentence.
@@ -168,17 +170,6 @@ With lots and lots of details inside a disclosure triangle.
   <li>List item four</li>
 </ol>
 
-## Forms
-
-<form>
-  <fieldset>
-    <legend>Personalia:</legend>
-    Name: <input type="text" size="30"><br>
-    Email: <input type="text" size="30"><br>
-    Date of birth: <input type="text" size="10">
-  </fieldset>
-</form>
-
 ## HTML Tags
 
 ### Addresss Tags
@@ -201,9 +192,7 @@ With lots and lots of details inside a disclosure triangle.
 
 ### Meter
 
-<label for="fuel">Fuel level:</label>
-
-<meter id="fuel"
+<label for="fuel">Fuel level:</label><meter id="fuel"
        min="0" max="100"
        low="33" high="66" optimum="80"
        value="50">
@@ -243,15 +232,18 @@ function sayHello(name) {
 
 ### Preformatted
 
-<p>This tag styles large blocks of code.</p>
+<p>This tag styles large blocks of preformatted text.</p>
 
-<pre>.post-title {
-	margin: 0 0 5px;
-	font-weight: bold;
-	font-size: 38px;
-	line-height: 1.2;
-	and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
+<pre>
+i carry your heart with me(i carry it in
+my heart)i am never without it(anywhere
+i go you go,my dear;and whatever is done
+by only me is your doing,my darling)
+                                                      i fear
+no fate(for you are my fate,my sweet)i want
+no world(for beautiful you are my world,my true)
+and it’s you are whatever a moon has always meant
+and whatever a sun will always sing is you
 </pre>
 
 ### Quote

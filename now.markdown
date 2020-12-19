@@ -63,7 +63,7 @@ I love listening to (and [guesting on](/about/#podcasts)) podcasts, but I’m ch
 
 If you’d like me to have me on your podcast, I’ve got all the time in the world at the moment and would really love that. [Shoot me an email](mailto:mb@matthewbischoff.com?subject=Podcast), and let’s do it.
 
-### Books 📚
+<!-- ### Books 📚
 
 These are the books I’m reading right now. My [notes and highlights](https://www.goodreads.com/notes/3162891-matthew-bischoff?ref=rnlp) are available on Goodreads. If you’d like to recommend a book, [send me an email](mailto:mb@matthewbischoff.com?subject=Book%20Reccomendation).
 
@@ -80,7 +80,7 @@ overflow: hidden;
 }
 </style>
 <script src="https://www.goodreads.com/review/grid_widget/3162891.Matthew's%20currently-reading%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_added&widget_id=1608249885" type="text/javascript" charset="utf-8"></script>
-
+ -->
 # Then
 
 One time in 2003, I was on [an episode of Jeopardy!](https://www.j-archive.com/showgame.php?game_id=3342) and lost very badly.

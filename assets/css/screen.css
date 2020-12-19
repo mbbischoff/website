@@ -113,8 +113,6 @@ body > footer a:not(:last-of-type) {
 
 body > header > nav > a.active {
   color: var(--color-default);
-
-  font-weight: bold;
 }
 
 footer {

@@ -21,18 +21,7 @@ In their spare time, Matt enjoys making (and drinking) classic cocktails, going 
 
 ### Apps
 
-- [Quotebook](http://quotebookapp.com)
-- [Accelerator](http://acceleratorapp.com)
-- [Pinpoint](https://lickability.com/pinpoint)
-- [NYTimes](https://apps.apple.com/us/app/the-new-york-times/id284862083)
-- [NYT Now](https://www.niemanlab.org/2014/04/nyt-now-out-today-mixes-lots-of-good-mobile-centric-ideas-with-moments-of-caution/)
-- [Tumblr](https://apps.apple.com/us/app/tumblr/id305343404)
-- [Meetup](https://www.meetup.com/apps/)
-- [The New Yorker Today](https://www.newyorker.com/today)
-- [The Atlantic](https://apps.apple.com/us/app/the-atlantic-magazine/id397599894)
-- [Houseparty](https://houseparty.com)
-- [Aloe Bud](https://aloebud.com/)
-- [Mimeo Photos](https://mimeophotos.com)
+{% include date-list.html content=site.data.apps %}
 
 ### Talks
 

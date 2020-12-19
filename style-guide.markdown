@@ -199,7 +199,7 @@ With lots and lots of details inside a disclosure triangle.
 
 <p>“Code is poetry.” —<cite>Automattic</cite></p>
 
-## Meter
+### Meter
 
 <label for="fuel">Fuel level:</label>
 

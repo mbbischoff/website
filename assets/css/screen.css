@@ -531,8 +531,8 @@ Goodreads
 
 .gr_grid_book_container {
   display: inline-block;
-  /* width: 98px;
-  height: 160px; */
+  width: 98px;
+  height: 160px;
   margin: 0px var(--font-line-height) 0px 0px;
   overflow: hidden;
 }

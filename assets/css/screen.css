@@ -3,10 +3,12 @@ Variables
 -------------------------------------- */
 
 :root {
-  --font-serif: ff-tisa-web-pro, -apple-system-ui-serif, ui-serif;
-  --font-sans: proxima-nova, -apple-system;
-  --font-mono: SFMono-Regular, Consolas, Inconsolatas, Liberation Mono, Menlo,
-    monospace;
+  --font-serif: ff-tisa-web-pro, -apple-system-ui-serif, ui-serif, Georgia,
+    serif;
+  --font-sans: proxima-nova, -apple-system, ui-sans-serif, Helvetica, Arial,
+    sans-serif;
+  --font-mono: -apple-system-ui-monospace, -ui-monospace, SFMono-Regular, Menlo,
+    Consolas, Inconsolatas, monospace;
 
   --font-default: clamp(18px, 2vw + 8px, 22px);
   --font-s: 0.85rem;

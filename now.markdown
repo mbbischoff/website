@@ -10,7 +10,7 @@ layout: page
 
 This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](https://sivers.org/nowff). It covers the things I’m thinking, feeling, and working on, well, *right now*.
 
-<img src="/uploads/latest-selfie.jpg" width="1616 " height="1077" alt="Latest Selfie">
+<img src="/uploads/latest-selfie.jpg" width="1616" height="1077" alt="Latest Selfie">
 
 ## Life 👱🏻
 
@@ -85,4 +85,4 @@ overflow: hidden;
 
 One time in 2003, I was on [an episode of Jeopardy!](https://www.j-archive.com/showgame.php?game_id=3342) and lost very badly.
 
-<img src="/uploads/IMG_7224.jpeg" width="603  " height="427" alt="Jeopardy! Photo of Matt and Alex">
+<img src="/uploads/IMG_7224.jpeg" width="603" height="427" alt="Jeopardy! Photo of Matt and Alex">

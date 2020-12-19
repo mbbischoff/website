@@ -85,4 +85,4 @@ overflow: hidden;
 
 One time in 2003, I was on [an episode of Jeopardy!](https://www.j-archive.com/showgame.php?game_id=3342) and lost very badly.
 
-![IMG_7224.jpeg](/uploads/IMG_7224.jpeg)
+<img src="/uploads/IMG_7224.jpeg" width="603  " height="427" alt="Jeopardy! Photo of Matt and Alex">

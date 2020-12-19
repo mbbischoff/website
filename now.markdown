@@ -20,7 +20,7 @@ I’m back in New York City as of October of 2020 after spending a few months in
 
 I’m really [glad ](https://twitter.com/mb/status/1325112439906725888)_[we](https://twitter.com/mb/status/1325112439906725888)_[ won the election](https://twitter.com/mb/status/1325112439906725888), and I know there’s lot more work to do to achieve the massive political change this country needs. I’m [thankful for a lot of things](https://twitter.com/mb/status/1331973312659021824), especially being housed and employed through all of this.
 
-### Gender ⚧
+### Gender 🏳️‍⚧️
 
 I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) last year, and I’m still exploring my gender. I’ve tried a bunch of new clothes, shoes, and makeup recently and they’re helping me see myself in the mirror more as I feel internally.
 

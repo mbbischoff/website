@@ -313,7 +313,7 @@ address {
 
 main > header {
   text-align: center;
-  padding: var(--spacing-m) 0;
+  padding: var(--spacing-l) 0;
 }
 
 main > header h1,

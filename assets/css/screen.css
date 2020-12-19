@@ -533,6 +533,6 @@ Goodreads
   display: inline-block;
   width: 98px;
   height: 160px;
-  margin: 0px var(--font-line-height) 0px 0px;
+  margin: 0px 1rem 0px 0px;
   overflow: hidden;
 }

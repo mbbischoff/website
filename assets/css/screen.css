@@ -15,6 +15,7 @@ Variables
   --font-xl: 1.85rem;
 
   --font-line-height: calc(var(--font-default) * 1.6);
+  --font-letter-spacing: -0.02rem;
 
   --spacing-xs: calc(var(--font-line-height) * 0.25);
   --spacing-s: calc(var(--font-line-height) * 0.5);
@@ -138,12 +139,14 @@ h1 {
   font-family: var(--font-serif);
   margin: 0 auto var(--spacing-s);
   line-height: 1.25;
+  letter-spacing: var(--font-letter-spacing);
 }
 
 h2 {
   font-size: var(--font-l);
   font-family: var(--font-serif);
   margin-top: var(--spacing-l);
+  letter-spacing: var(--font-letter-spacing);
 }
 
 h3,
@@ -507,7 +510,7 @@ Pinboard
 -------------------------------------- */
 
 .pin-title {
-  font-size: 1em;
+  font-size: 1rem;
   font-weight: bold;
   text-decoration: none;
   color: var(--color-link);

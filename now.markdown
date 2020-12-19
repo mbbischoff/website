@@ -7,6 +7,7 @@ layout: page
 ---
 
 **Updated:** [{{ page.date | date: "%B %-d, %Y" }}](https://github.com/mattbischoff/matthewbischoff.com/commits/gh-pages/now.markdown) from {{ page.place }}.
+{:small}
 
 This _[now page](https://nownownow.com/about)_ is [inspired by Derek Sivers](https://sivers.org/nowff). It covers the things I’m thinking, feeling, and working on, well, _right now_.
 

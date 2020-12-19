@@ -7,7 +7,7 @@ description: I’m an extrovert who loves hearing from old friends and making ne
 layout: page
 ---
 
-![Matt at the NoMad](/uploads/nomad.jpeg)
+<img src="/uploads/nomad.jpeg" alt="Matt at the NoMad" width="1024" height="768">
 
 I’m an extrovert who loves hearing from old friends and making new ones. I really enjoy having conversations with people new to the technology industry, LGBTQ+ folks, and anyone that wants to work together or collaborate on creative projects. While I try to get back to everyone who reaches out, it may take me a bit if things are particularly hectic.
 

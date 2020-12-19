@@ -243,6 +243,7 @@ dt {
 }
 
 dd {
+  margin-left: var(--spacing-m);
   color: var(--color-mid);
 }
 
@@ -282,7 +283,7 @@ kbd {
 mark {
   background: rgba(var(--rgb-accent), .3);
   color: inherit;
-  border-radius: var(--border-radius) 0;
+  border-radius: var(--border-radius);
   padding: 0.2em 0.25em;
 }
 

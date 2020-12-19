@@ -5,7 +5,7 @@
     {% if page.title == site.title %} {{ site.title }} {% else %} {{ page.title
     }} &middot; {{ site.title }} {% endif %}
   </title>
-  
+
   <link rel="canonical" href="{{ page.url | absolute_url }}" />
 
   <!--  CSS -->
@@ -13,8 +13,25 @@
   <link rel="stylesheet" href="{{ "/assets/css/code.css" | relative_url }}">
 
   <!--  Fonts (https://web.dev/defer-non-critical-css/) -->
-  <link rel="stylesheet" href="https://use.typekit.net/ktb0bft.css">  
-  <link href="//cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet">
+  <link
+    rel="preload"
+    as="style"
+    href="https://use.typekit.net/ktb0bft.css"
+    onload="this.onload=null;this.rel='stylesheet'"
+  />
+  <noscript
+    ><link rel="stylesheet" href="https://use.typekit.net/ktb0bft.css"
+  /></noscript>
+
+  <link
+    rel="preload"
+    as="style"
+    href="//cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css"
+    onload="this.onload=null;this.rel='stylesheet'"
+  />
+  <noscript
+    ><link rel="stylesheet" href="https://use.typekit.net/ktb0bft.css"
+  /></noscript>
 
   <!--  Icons -->
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
@@ -23,9 +40,6 @@
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
   <link rel="icon" sizes="192x192" href="nice-highres.png" />
   <link rel="manifest" href="/site.webmanifest" />
-
-  <!--  Optimizations -->
-  <link rel="preconnect" href="//use.typekit.net/" crossorigin />
 
   <!-- RSS -->
   <link

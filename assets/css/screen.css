@@ -8,7 +8,7 @@ Variables
   --font-mono: SFMono-Regular, Consolas, Inconsolatas, Liberation Mono, Menlo,
     monospace;
 
-  --font-default: 18px;
+  --font-default: clamp(18px, 2vw + 8px, 22px);
   --font-s: 0.85rem;
   --font-m: 1rem;
   --font-l: 1.5rem;

@@ -3,6 +3,7 @@ title: How to Start a Real Relationship Online
 date: 2020-12-10 13:36:00 -05:00
 categories:
 - culture
+- shorter
 tags:
 - dating
 - long-distance relationships

@@ -3,6 +3,7 @@ title: Clyde Common Egg Nog
 date: 2020-12-17 10:16:00 -05:00
 categories:
 - culture
+- shorter
 tags:
 - cocktails
 - egg nog

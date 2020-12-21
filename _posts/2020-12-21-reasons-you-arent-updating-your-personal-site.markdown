@@ -20,6 +20,9 @@ link: https://overthought.ghost.io/reasons-you-arent-updating-your-personal-site
 > 
 > Why was this year different? In this post I've tried to tease apart factors that made writing and editing easier this time around – hopefully there's something in here that may be useful for your own personal website.
 
+<cite>Brian Lovin</cite> on Overthought.
+{: .small}
+
 Like Brian writes here, for me 2020 was the year that my personal website saw some regular updates. Looking forward to 2021, I plan to keep up the momentum and increase the number of long-form posts here. 
 
 Lovin makes some great points in this piece about ways to make that easier on yourself by maintaining an ongoing list of ideas, turning conversations you’re having on social media into articles, and making the process of publishing as seamless as possible.

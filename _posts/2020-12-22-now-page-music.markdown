@@ -9,4 +9,4 @@ tags:
 format: short
 ---
 
-The [now page](/now) now includes a playlist of music I’m enjoying lately called Heavy Rotation. In totally unrelated news, I miss [Rdio](https://www.theverge.com/2015/11/17/9750890/rdio-shutdown-pandora).
+The [now page](/now#music) now includes a playlist of music I’m enjoying lately called Heavy Rotation. In totally unrelated news, I miss [Rdio](https://www.theverge.com/2015/11/17/9750890/rdio-shutdown-pandora).

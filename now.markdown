@@ -6,11 +6,11 @@ image: "/uploads/latest-selfie.jpg"
 layout: page
 ---
 
+<img src="/uploads/latest-selfie.jpg" width="1616" height="1077" alt="Latest Selfie">
+
 **Updated:** [{{ page.date | date: "%B %-d, %Y" }}](https://github.com/mattbischoff/matthewbischoff.com/commits/gh-pages/now.markdown) from {{ page.place }}
 
 This _[now page](https://nownownow.com/about)_ is [inspired by Derek Sivers](https://sivers.org/nowff). It covers the things I’m thinking, feeling, and working on, well, _right now_.
-
-<img src="/uploads/latest-selfie.jpg" width="1616" height="1077" alt="Latest Selfie">
 
 ## Life 👱🏻
 

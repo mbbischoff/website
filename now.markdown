@@ -62,7 +62,7 @@ I love listening to (and [guesting on](/about/#podcasts)) podcasts, but I’m ch
 If you’d like me to have me on your podcast, I’ve got all the time in the world at the moment and would really love that. [Shoot me an email](mailto:mb@matthewbischoff.com?subject=Podcast), and let’s do it.
 
 
-### Music 🎶
+### <a name="music>Music</a> 🎶
 
 Here’s a playlist of the albums that I’m listening to in heavy rotation.
 

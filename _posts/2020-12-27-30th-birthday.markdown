@@ -19,6 +19,8 @@ picture:
   alt: Birthday Fundraiser
 ---
 
+{% include picture.html %}
+
 This Wednesday, December 30th is my 30th birthday! (It also happens to be my [golden birthday](https://www.urbandictionary.com/define.php?term=golden%20birthday).)
 
 While normally I’d spend it with friends and family, the pandemic is making that pretty difficult. So instead, I’ll be gathering with my pals online and streaming Jackbox Games to raise money for Trans Lifeline.

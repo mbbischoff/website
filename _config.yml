@@ -69,7 +69,7 @@ repository: mattbischoff/matthewbischoff.com
 text_content:
   header_title: Matthew Bischoff
   subtitle: They write about <a href="/category/tech/">technology</a> & <a href="/category/culture/">culture</a>
-    and make apps at <a href="https://lickability.com">Lickability</a>.
+    here and make apps at <a href="https://lickability.com">Lickability</a>.
 navigation_links:
 - title: Home
   url: "/"

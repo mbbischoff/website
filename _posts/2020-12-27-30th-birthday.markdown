@@ -11,7 +11,6 @@ description: "This Wednesday, December 30th is my 30th birthday! (It also happen
   the pandemic is making that pretty difficult. So instead, I’ll be gathering with
   pals online and streaming Jackbox Games to raise money for Trans Lifeline.\n\nJoin
   us for a fun time on 12/30 at 9 PM ET over on Twitch. \U0001F381"
-format: short
 picture:
   png_image: "/uploads/Artboard.png"
   width: 1200

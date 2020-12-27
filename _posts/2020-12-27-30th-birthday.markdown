@@ -7,10 +7,10 @@ tags:
 - me
 image: "/uploads/Artboard.png"
 description: "This Wednesday, December 30th is my 30th birthday! (It also happens
-  to be my golden birthday.) \n\nWhile normally I’d spend it with friends and family,
+  to be my golden birthday.)\n\nWhile normally I’d spend it with friends and family,
   the pandemic is making that pretty difficult. So instead, I’ll be gathering with
   pals online and streaming Jackbox Games to raise money for Trans Lifeline.\n\nJoin
-  us for a fun time on 12/30 at 9 PM ET over on Twitch. \U0001F381"
+  on 12/30 at 9 PM ET over on Twitch. \U0001F381"
 picture:
   jpeg_image: "/uploads/Artboard.webp"
   png_image: "/uploads/Artboard.png"
@@ -23,4 +23,4 @@ This Wednesday, December 30th is my 30th birthday! (It also happens to be my [go
 
 While normally I’d spend it with friends and family, the pandemic is making that pretty difficult. So instead, I’ll be gathering with my pals online and streaming Jackbox Games to raise money for Trans Lifeline.
 
-Join us for a fun time on 12/30 at 9 PM ET [over on Twitch ](https://twitch.tv/matthewbischoff)and [donate here](https://www.facebook.com/donate/1057936274632577). 🎁
+**Join us for a fun time on 12/30 at 9 PM ET [over on Twitch ](https://twitch.tv/matthewbischoff)and [donate here](https://www.facebook.com/donate/1057936274632577).** 🎁

@@ -35,7 +35,7 @@ I turned 30 years old [today](https://twitter.com/mb/status/1344146214296678400)
  9. [The best code is no code at all](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/) and [the best interface is no interface.](http://www.nointerface.com/)
 10. [Make It work, make it right, make it fast.](https://proxy.c2.com/cgi/fullSearch?search=MakeItWorkMakeItRightMakeItFast)
 
-## On Life
+## On Relationships
 
  1. [Do what you say you’re going to do. Conversely, don’t say things you have no intention of doing.](https://www.kungfugrippe.com/post/232143746/incomplete-education?is_liked_post=1)
  2. [Don’t compare someone else’s ](https://5by5.tv/b2w/299)*[onstage](https://5by5.tv/b2w/299)*[ to your ](https://5by5.tv/b2w/299)*[backstage](https://5by5.tv/b2w/299)*[.](https://5by5.tv/b2w/299)
@@ -48,7 +48,7 @@ I turned 30 years old [today](https://twitter.com/mb/status/1344146214296678400)
  9. [I’d rather be 9 people’s favorite thing than a hundred people’s 9th favorite thing.](http://www.titleofshow.com/)
 10. [The way to love someone is to lightly run your finger over that person’s soul until you find a crack, and then gently pour your love into that crack.](https://www.goodreads.com/quotes/752892-the-way-to-love-someone-is-to-lightly-run-your)
 
-## On Relationships
+## On Life
 
  1. [Life is not a zero-sum game.](https://en.wikipedia.org/wiki/Zero-sum_thinking)
  2. [Two is one and one is none.](https://www.youtube.com/watch?v=lXjrDcDNPws)

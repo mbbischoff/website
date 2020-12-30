@@ -9,7 +9,7 @@ tags:
 - lessons
 - life
 - advice
-image: "/uploads/30.png"
+image: "/uploads/30-c9d5e0.png"
 description: I turned 30 years old today so I spent some time this afternoon reflecting
   and collecting 30 lessons I’ve learned in my time on earth so far. Merlin and Roderick
   sometimes call these types of lessons "thought technologies" and that certainly

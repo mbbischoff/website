@@ -46,7 +46,7 @@ I turned 30 years old [today](https://twitter.com/mb/status/1344146214296678400)
  9. [I’d rather be 9 people’s favorite thing than a hundred people’s 9th favorite thing.](http://www.titleofshow.com/)
 10. [The way to love someone is to lightly run your finger over that person’s soul until you find a crack, and then gently pour your love into that crack.](https://www.goodreads.com/quotes/752892-the-way-to-love-someone-is-to-lightly-run-your)
 
-## On Life
+## On Relationships
 
  1. [Life is not a zero-sum game.](https://en.wikipedia.org/wiki/Zero-sum_thinking)
  2. [Two is one and one is none.](https://www.youtube.com/watch?v=lXjrDcDNPws)

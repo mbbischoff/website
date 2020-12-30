@@ -1,0 +1,28 @@
+---
+title: 30th Birthday
+date: 2020-12-27 14:01:00 -05:00
+categories:
+- shorter
+tags:
+- me
+image: "/uploads/Artboard.png"
+description: "This Wednesday, December 30th is my 30th birthday! (It also happens
+  to be my golden birthday.)\n\nWhile normally I’d spend it with friends and family,
+  the pandemic is making that pretty difficult. So instead, I’ll be gathering with
+  pals online and streaming Jackbox Games to raise money for Trans Lifeline.\n\nJoin
+  on 12/30 at 9 PM ET over on Twitch. \U0001F381"
+picture:
+  webp_image: "/uploads/Artboard.webp"
+  png_image: "/uploads/Artboard.png"
+  width: 1200
+  height: 675
+  alt: Birthday Fundraiser
+---
+
+{% include picture.html %}
+
+This Wednesday, December 30th is my 30th birthday! (It also happens to be my [golden birthday](https://www.urbandictionary.com/define.php?term=golden%20birthday).)
+
+While normally I’d spend it with friends and family, the pandemic is making that pretty difficult. So instead, I’ll be gathering with my pals online and streaming Jackbox Games to raise money for [Trans Lifeline](https://translifeline.org).
+
+**Join us on 12/30 at 9 PM ET [over on Twitch](https://twitch.tv/matthewbischoff) and [donate here](https://bit.ly/transbday).** 🎁

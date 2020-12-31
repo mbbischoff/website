@@ -22,6 +22,7 @@ Variables
   --spacing-xs: calc(var(--font-line-height) * 0.25);
   --spacing-s: calc(var(--font-line-height) * 0.5);
   --spacing-m: calc(var(--font-line-height) * 1);
+  --spacing-xm: calc(var(--font-line-height) * 1.25);
   --spacing-l: calc(var(--font-line-height) * 3);
   --spacing-xl: calc(5rem + 10vh);
 
@@ -72,7 +73,7 @@ html {
 body {
   background-color: var(--color-bg);
   color: var(--color-default);
-  padding: var(--spacing-m);
+  padding: var(--spacing-xm);
   max-width: var(--spacing-maxwidth);
   margin: 0 auto;
 }

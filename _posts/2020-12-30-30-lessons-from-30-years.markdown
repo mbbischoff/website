@@ -9,7 +9,7 @@ tags:
 - lessons
 - life
 - advice
-image: "/uploads/30.png"
+image: "/uploads/30-c9d5e0.png"
 description: I turned 30 years old today so I spent some time this afternoon reflecting
   and collecting 30 lessons I’ve learned in my time on earth so far. Merlin and Roderick
   sometimes call these types of lessons "thought technologies" and that certainly
@@ -26,7 +26,7 @@ I turned 30 years old [today](https://twitter.com/mb/status/1344146214296678400)
 
  1. [First, care.](http://www.43folders.com/2010/02/05/first-care)
  2. [If it takes less than two minutes, do it now.](https://bookshop.org/books/getting-things-done-the-art-of-stress-free-productivity-ab00c26e-b599-4650-97de-d3d54a788ef6/9780143126560)
- 3. [You mind is for having ideas, not holding them](https://www.goodreads.com/quotes/348103-your-mind-is-for-having-ideas-not-holding-them) so [if you didn’t write it down, it didn’t happen.](https://designbygravity.wordpress.com/2010/02/22/methods-of-work-it-didnt-happen-if-you-didnt-record-it/)
+ 3. [Your mind is for having ideas, not holding them](https://www.goodreads.com/quotes/348103-your-mind-is-for-having-ideas-not-holding-them) so [if you didn’t write it down, it didn’t happen.](https://designbygravity.wordpress.com/2010/02/22/methods-of-work-it-didnt-happen-if-you-didnt-record-it/)
  4. [Ideas are just a multiplier of execution.](https://sive.rs/multiply)
  5. [Putting it on paper lets you start fixing it. If it stays in your head, a perfect idea, you’ll never share it with anyone.](http://www.pixartouchbook.com/blog/2011/5/15/pixar-story-rules-one-version.html)
  6. [For the first couple years you make stuff, it’s just not that good.](https://vimeo.com/24715531)
@@ -48,7 +48,7 @@ I turned 30 years old [today](https://twitter.com/mb/status/1344146214296678400)
  9. [I’d rather be 9 people’s favorite thing than a hundred people’s 9th favorite thing.](http://www.titleofshow.com/)
 10. [The way to love someone is to lightly run your finger over that person’s soul until you find a crack, and then gently pour your love into that crack.](https://www.goodreads.com/quotes/752892-the-way-to-love-someone-is-to-lightly-run-your)
 
-## On Relationships
+## On Life
 
  1. [Life is not a zero-sum game.](https://en.wikipedia.org/wiki/Zero-sum_thinking)
  2. [Two is one and one is none.](https://www.youtube.com/watch?v=lXjrDcDNPws)

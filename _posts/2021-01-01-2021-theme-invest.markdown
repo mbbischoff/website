@@ -1,6 +1,12 @@
 ---
 title: "2021 Theme: Invest \U0001F4C8"
 date: 2021-01-01 16:18:00 -05:00
+categories:
+- shorter
+tags:
+- theme
+- yearly
+- me
 description: "My 2021 [yearly theme](https://twitter.com/mb/status/1345050751643619335)
   is **Invest** \U0001F4C8."
 format: short

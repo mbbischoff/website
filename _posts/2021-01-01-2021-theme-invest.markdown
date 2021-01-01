@@ -12,7 +12,7 @@ description: "My 2021 [yearly theme](https://twitter.com/mb/status/1345050751643
 format: short
 ---
 
-My 2021 [yearly theme](https://twitter.com/mb/status/1345050751643619335) is **Invest** 📈: 
+My 2021 [yearly theme](https://twitter.com/mb/status/1345050751643619335) is **Invest** 📈.
 
 * Spend time, attention, and money on things with long-term potential. 🕰
 * Build systems, relationships, and habits to last. 🏛

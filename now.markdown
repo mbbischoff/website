@@ -28,7 +28,7 @@ I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) las
 
 ### 2021 Theme: Invest 📈
 
-Based on [The Theme System](https://www.thethemesystem.com), which I learned about through the [Cortex](http://cortex.fm) podcast, I choose a yearly theme. [This year’s theme] is **Invest** which means this year I aim to:
+Based on [The Theme System](https://www.thethemesystem.com), which I learned about through the [Cortex](http://cortex.fm) podcast, I choose a yearly theme. [This year’s theme](https://matthewbischoff.com/2021-theme-invest/) is **Invest** which means this year I aim to:
 
 * Spend time, attention, and money on things with long-term potential. 🕰
 * Build systems, relationships, and habits to last. 🏛

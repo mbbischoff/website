@@ -18,7 +18,7 @@ I’m back in New York City as of October of 2020 after spending a few months in
 
 ### Feelings 🔮
 
-I’m really [glad we won the election](https://twitter.com/mb/status/1325112439906725888) and pretty angry at the fascists who are trying to tear down American democracy. I know there’s lot more work to do to achieve the massive political change this country needs. Right now I’m advocating for and donating to causes like [Black Lives Matter], [trans rights], [abortion access], and [prison abolition].
+I’m really [glad we won the election](https://twitter.com/mb/status/1325112439906725888) and pretty angry at the fascists who are trying to tear down American democracy. I know there’s lot more work to do to achieve the massive political change this country needs. Right now I’m advocating for and donating to causes like [Black Lives Matter](https://blacklivesmatter.com), [trans rights](https://translifeline.org), [abortion access](https://abortionfunds.org), and [prison abolition](http://criticalresistance.org).
 
 While the COVID-19 pandemic rages on, I’m [thankful for a lot of things](https://twitter.com/mb/status/1331973312659021824), especially being housed and employed through all of this.
 

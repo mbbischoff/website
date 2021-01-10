@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2020-12-17 18:25:00 -05:00
+date: 2021-01-10 14:11:00 -05:00
 place: NYC
 image: "/uploads/latest-selfie-56bbeb.jpg"
 layout: page

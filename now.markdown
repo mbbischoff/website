@@ -36,7 +36,7 @@ Based on [The Theme System](https://www.thethemesystem.com), which I learned abo
 
 ## Work 👅
 
-My job as a Partner at [Lickability](https://lickability.com) involves leading the team, setting product direction, helping with day-to-day operations, and talking to new and existing clients about what we can do for them. At the moment, I’m pitching in some engineering on a few client project. I’m also proud of our most recent release of [Buildwatch](https://buildwatch.app).
+My job as a Partner at [Lickability](https://lickability.com) involves leading the team, setting product direction, helping with day-to-day operations, and talking to new and existing clients about what we can do for them. At the moment, I’m pitching in some engineering on a few client projects. I’m also proud of our most recent release of [Buildwatch](https://buildwatch.app).
 
 ### Talks 🗣
 

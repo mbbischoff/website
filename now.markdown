@@ -14,7 +14,9 @@ This _[now page](https://nownownow.com/about)_ is [inspired by Derek Sivers](htt
 
 ## Life 👱🏻
 
-I’m back in New York City as of October of 2020 after spending a few months in Toronto at the beginning of the pandemic. My _wife_, [Kate Sloan](https://twitter.com/Girly_Juice) flew down to stay with me in October. [We got engaged in October](https://girlyjuice.net/im-engaged-heres-the-story/) and [married in November](https://girlyjuice.net/our-wedding-outfits/) after talking about it for a year. I miss my friends and being out and about in my city, but I’m scratching my various extrovert itches with group chats, virtual events, and FaceTime calls with friends and family. Feel free to [say hi](/contact).
+I’m back in New York City as of October of 2020 after spending a few months in Toronto at the beginning of the pandemic. My _wife_, [Kate Sloan](https://twitter.com/Girly_Juice) flew down to stay with me in October. [We got engaged in October](https://girlyjuice.net/im-engaged-heres-the-story/) and [married in November](https://girlyjuice.net/our-wedding-outfits/) after talking about it for a year. 
+
+I miss my friends and being out and about in my city, but I’m scratching my various extrovert itches with group chats, virtual events, and FaceTime calls with friends and family. Feel free to [say hi](/contact).
 
 ### Feelings 🔮
 

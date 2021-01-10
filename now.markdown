@@ -26,7 +26,7 @@ While the COVID-19 pandemic rages on, I’m [thankful for a lot of things](https
 
 I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) last year, and I’m still exploring my gender. I’ve tried a bunch of new clothes, shoes, and makeup recently and they’re helping me see myself in the mirror more as I feel internally. Being correctly gendered feels really good and being misgendered continues to suck.
 
-### 2020 Theme: Commit 🤝
+### 2021 Theme: Invest 📈
 
 Based on [The Theme System](https://www.thethemesystem.com), which I learned about through the [Cortex](http://cortex.fm) podcast, I choose a yearly theme. [This year’s theme] is **Invest** which means this year I aim to:
 

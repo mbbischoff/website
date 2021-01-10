@@ -2,11 +2,11 @@
 title: Now
 date: 2020-12-17 18:25:00 -05:00
 place: NYC
-image: "/uploads/latest-selfie.jpg"
+image: "/uploads/latest-selfie-56bbeb.jpg"
 layout: page
 ---
 
-<img src="/uploads/latest-selfie.jpg" width="1616" height="1077" alt="Latest Selfie">
+<img src="/uploads/latest-selfie-56bbeb.jpg" width="1616" height="1077" alt="Latest Selfie">
 
 **Updated:** [{{ page.date | date: "%B %-d, %Y" }}](https://github.com/mattbischoff/matthewbischoff.com/commits/gh-pages/now.markdown) from {{ page.place }}
 
@@ -18,23 +18,25 @@ I’m back in New York City as of October of 2020 after spending a few months in
 
 ### Feelings 🔮
 
-I’m really [glad ](https://twitter.com/mb/status/1325112439906725888)_[we](https://twitter.com/mb/status/1325112439906725888)_[ won the election](https://twitter.com/mb/status/1325112439906725888), and I know there’s lot more work to do to achieve the massive political change this country needs. I’m [thankful for a lot of things](https://twitter.com/mb/status/1331973312659021824), especially being housed and employed through all of this.
+I’m really [glad we won the election] and pretty angry at the fascists who are trying to tear down American democracy. I know there’s lot more work to do to achieve the massive political change this country needs. Right now I’m advocating for and donating to causes like [Black Lives Matter], [trans rights], [abortion access], and [prison abolition].
+
+While the COVID-19 pandemic rages on, I’m [thankful for a lot of things](https://twitter.com/mb/status/1331973312659021824), especially being housed and employed through all of this.
 
 ### Gender 🏳️‍⚧️
 
-I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) last year, and I’m still exploring my gender. I’ve tried a bunch of new clothes, shoes, and makeup recently and they’re helping me see myself in the mirror more as I feel internally.
+I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) last year, and I’m still exploring my gender. I’ve tried a bunch of new clothes, shoes, and makeup recently and they’re helping me see myself in the mirror more as I feel internally. Being correctly gendered feels really good and being misgendered continues to suck.
 
 ### 2020 Theme: Commit 🤝
 
-Based on [The Theme System](https://www.thethemesystem.com), which I learned about through the [Cortex](http://cortex.fm) podcast, I choose a yearly theme. This year’s theme is **Commit** which means this year I aim to:
+Based on [The Theme System](https://www.thethemesystem.com), which I learned about through the [Cortex](http://cortex.fm) podcast, I choose a yearly theme. [This year’s theme] is **Invest** which means this year I aim to:
 
-- Do things all the way. Finish them. Get them right. ✅
-- Commit to a few things rather than half-assing many. 🧠
-- Dedicate time, attention, & money to worthy projects, people, & ideas. ⏰
+* Spend time, attention, and money on things with long-term potential. 🕰
+* Build systems, relationships, and habits to last. 🏛
+* Evaluate bets consistently and adjust. ⚖️
 
 ## Work 👅
 
-My job as a Partner at [Lickability](https://lickability.com) involves leading the team, setting product direction, helping with day-to-day operations, and talking to new and existing clients about what we can do for them. At the moment, I’m on break for the year, but I’m proud of our most recent release of [Buildwatch](https://buildwatch.app).
+My job as a Partner at [Lickability](https://lickability.com) involves leading the team, setting product direction, helping with day-to-day operations, and talking to new and existing clients about what we can do for them. At the moment, I’m pitching in some engineering on a few client project. I’m also proud of our most recent release of [Buildwatch](https://buildwatch.app).
 
 ### Talks 🗣
 
@@ -57,10 +59,9 @@ I organize [my bookmarks](https://pinboard.in/u:mattb) on [Pinboard](https://pin
 
 ### Podcasts 🎙
 
-I love listening to (and [guesting on](/about/#podcasts)) podcasts, but I’m chronically behind on my backlog of shows because I oversubscribe. Some shows I’m binging lately: [Gender Reveal](https://www.genderpodcast.com), [Do By Friday](http://dobyfriday.com), [Election Profit Makers](http://www.electionprofitmakers.com), [The Heart](https://www.theheartradio.org), and [You’re Wrong About](https://yourewrongabout.com).
+I love listening to (and [guesting on](/about/#podcasts)) podcasts, but I’m chronically behind on my backlog of shows because I oversubscribe. Some shows I’m binging lately: [Gender Reveal](https://www.genderpodcast.com), [Do By Friday](http://dobyfriday.com), [Election Profit Makers](http://www.electionprofitmakers.com), [The Dildorks], and [You’re Wrong About](https://yourewrongabout.com).
 
 If you’d like me to have me on your podcast, I’ve got all the time in the world at the moment and would really love that. [Shoot me an email](mailto:mb@matthewbischoff.com?subject=Podcast), and let’s do it.
-
 
 ### Music 🎶
 

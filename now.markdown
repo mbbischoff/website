@@ -59,7 +59,7 @@ I organize [my bookmarks](https://pinboard.in/u:mattb) on [Pinboard](https://pin
 
 ### Podcasts 🎙
 
-I love listening to (and [guesting on](/about/#podcasts)) podcasts, but I’m chronically behind on my backlog of shows because I oversubscribe. Some shows I’m binging lately: [Gender Reveal](https://www.genderpodcast.com), [Do By Friday](http://dobyfriday.com), [Election Profit Makers](http://www.electionprofitmakers.com), [The Dildorks], and [You’re Wrong About](https://yourewrongabout.com).
+I love listening to (and [guesting on](/about/#podcasts)) podcasts, but I’m chronically behind on my backlog of shows because I oversubscribe. Some shows I’m binging lately: [Gender Reveal](https://www.genderpodcast.com), [Do By Friday](http://dobyfriday.com), [Election Profit Makers](http://www.electionprofitmakers.com), [The Dildorks](http://thedildorks.com), and [You’re Wrong About](https://yourewrongabout.com).
 
 If you’d like me to have me on your podcast, I’ve got all the time in the world at the moment and would really love that. [Shoot me an email](mailto:mb@matthewbischoff.com?subject=Podcast), and let’s do it.
 

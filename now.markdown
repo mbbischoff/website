@@ -18,6 +18,8 @@ I’m back in New York City as of October of 2020 after spending a few months in
 
 I miss my friends and being out and about in my city, but I’m scratching my various extrovert itches with group chats, virtual events, and FaceTime calls with friends and family. Feel free to [say hi](/contact).
 
+Plus, [I just turned 30](https://www.instagram.com/p/CJaNlzXJMy0/) and collected about some of the [lessons I’ve learned](https://matthewbischoff.com/30-lessons-from-30-years/) over the years. And my pals and I [raised $5,500 to benefit Trans Lifeline](https://secure.givelively.org/donate/trans-lifeline/matthew-bischoff-1). Best birthday ever.
+
 ### Feelings 🔮
 
 I’m really [glad we won the election](https://twitter.com/mb/status/1325112439906725888) and pretty angry at the fascists who are trying to tear down American democracy. I know there’s lot more work to do to achieve the massive political change this country needs. Right now I’m advocating for and donating to causes like [Black Lives Matter](https://blacklivesmatter.com), [trans rights](https://translifeline.org), [abortion access](https://abortionfunds.org), and [prison abolition](http://criticalresistance.org).

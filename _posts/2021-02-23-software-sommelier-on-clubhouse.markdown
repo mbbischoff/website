@@ -18,4 +18,6 @@ link: https://www.joinclubhouse.com/event/M4GE3BrR
 
 A few years ago, I let folks on Twitter [ask for software recommendations](https://twitter.com/mb/status/893848739437305856) for any problem they need solved with an app. People loved it and I loved helping people find the perfect software solutions to their quandaries.
 
-This Friday at 3 PM ET, I’m experimenting with a version of the same thing on Clubhouse. Co-hosted by my friend and colleague, [Jillian Meehan](https://jillian.cloud). It’ll be be a fun, nerdy time and we’d love to ~~see~~ hear you there.
+This Friday at 3 PM ET, I’m experimenting with a version of the same thing on Clubhouse co-hosted by my friend and colleague, [Jillian Meehan](https://jillian.cloud). It’ll be be a fun, nerdy time and we’d love to ~~see~~ hear you there.
+
+PS: If you still need a Clubhouse invite, [let me know](/contact) and I’ll send you one. ✌️

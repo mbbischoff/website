@@ -18,6 +18,7 @@ description: 'I’ve been reading Daniel Bogan’s Uses This interview series si
   can read all the nerdy details of my setup.
 
 '
+format: link
 link: https://usesthis.com/interviews/matthew.bischoff/
 ---
 

@@ -1,0 +1,26 @@
+---
+title: UsesThis
+date: 2021-03-29 11:36:00 -04:00
+categories:
+- tech
+- culture
+- shorter
+tags:
+- me
+- software
+- hardware
+- interview
+image: "/uploads/portrait.jpg"
+description: 'I’ve been reading Daniel Bogan’s Uses This interview series since I
+  was a teenager. They chronicle interesting people’s hardware and software setups
+  and end up being a fascinating window into the subject’s priorities and tastes when
+  it comes to tools and toys. My own interview just went up on the site, so now you
+  can read all the nerdy details of my setup.
+
+'
+link: https://usesthis.com/interviews/matthew.bischoff/
+---
+
+I’ve been reading [Daniel Bogan’s](https://waferbaby.com) [Uses This](https://usesthis.com) (née The Setup) interview series since I was a teenager. They chronicle interesting people’s hardware and software setups and end up being a fascinating window into the subject’s priorities and tastes when it comes to tools and toys. 
+
+[My own interview](https://usesthis.com/interviews/matthew.bischoff/) just went up on the site, so now you can read all the nerdy details of my setup. Let me know what you think!

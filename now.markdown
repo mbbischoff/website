@@ -2,13 +2,13 @@
 title: Now
 date: 2021-01-10 14:11:00 -05:00
 place: NYC
-image: "/uploads/latest-selfie-56bbeb.jpg"
+image: "/uploads/latest-selfie-86d74c.jpeg"
 description: This now page covers the things I’m thinking, feeling, and working on,
   well, right now.
 layout: page
 ---
 
-<img src="/uploads/latest-selfie-56bbeb.jpg" width="1616" height="1077" alt="Latest Selfie">
+<img src="latest-selfie-86d74c.jpeg" width="1616" height="1077" alt="Latest Selfie">
 
 **Updated:** [{{ page.date | date: "%B %-d, %Y" }}](https://github.com/mattbischoff/matthewbischoff.com/commits/gh-pages/now.markdown) from {{ page.place }}
 
@@ -16,21 +16,25 @@ This _[now page](https://nownownow.com/about)_ is [inspired by Derek Sivers](htt
 
 ## Life 👱🏻
 
-I’m back in New York City as of October of 2020 after spending a few months in Toronto at the beginning of the pandemic. My _wife_, [Kate Sloan](https://twitter.com/Girly_Juice) flew down to stay with me in October. [We got engaged in October](https://girlyjuice.net/im-engaged-heres-the-story/) and [married in November](https://girlyjuice.net/our-wedding-outfits/) after talking about it for a year. 
+I’m living in New York City, and I’ll be fully vaccinated as of April, 29! 💉 
 
-I miss my friends and being out and about in my city, but I’m scratching my various extrovert itches with group chats, virtual events, and FaceTime calls with friends and family. Feel free to [say hi](/contact).
+My wife, [Kate Sloan](https://twitter.com/Girly_Juice) flew down to stay with me in October but she’s gotta head back to Toronto to get vaccinated at the end of April. I’ll miss her lots.
 
-Plus, [I just turned 30](https://www.instagram.com/p/CJaNlzXJMy0/) and collected about some of the [lessons I’ve learned](https://matthewbischoff.com/30-lessons-from-30-years/) over the years. And my pals and I [raised $5,500 to benefit Trans Lifeline](https://secure.givelively.org/donate/trans-lifeline/matthew-bischoff-1). Best birthday ever.
+I’m getting really excited to be able to see my friends and family soon, but until then I’m scratching my various extrovert itches with group chats, virtual events, and FaceTime calls. Feel free to [say hi](/contact).
+
+[I turned 30](https://www.instagram.com/p/CJaNlzXJMy0/) in December and collected about some of the [lessons I’ve learned](https://matthewbischoff.com/30-lessons-from-30-years/) over the years. And my pals and I [raised $5,500 to benefit Trans Lifeline](https://secure.givelively.org/donate/trans-lifeline/matthew-bischoff-1). Best birthday ever. 🥳
+
+Oh yeah, and I’m starting to get back into card magic. 🃏
 
 ### Feelings 🔮
 
-I’m really [glad we won the election](https://twitter.com/mb/status/1325112439906725888) and pretty angry at the fascists who are trying to tear down American democracy. I know there’s lot more work to do to achieve the massive political change this country needs. Right now I’m advocating for and donating to causes like [Black Lives Matter](https://blacklivesmatter.com), [trans rights](https://translifeline.org), [abortion access](https://abortionfunds.org), and [prison abolition](http://criticalresistance.org).
+I’m really [glad we won the election](https://twitter.com/mb/status/1325112439906725888) and pretty angry at the fascists who are still trying to tear down American democracy. I know there’s lot more work to do to achieve the massive political change this country needs. Right now I’m advocating for and donating to causes like [Black Lives Matter](https://blacklivesmatter.com), [trans rights](https://translifeline.org), [abortion access](https://abortionfunds.org), and [prison abolition](http://criticalresistance.org).
 
-While the COVID-19 pandemic rages on, I’m [thankful for a lot of things](https://twitter.com/mb/status/1331973312659021824), especially being housed and employed through all of this.
+As we start to turn the corner on the COVID-19, I remain [thankful for a lot of things](https://twitter.com/mb/status/1331973312659021824), especially being housed and employed through all of this.
 
 ### Gender 🏳️‍⚧️
 
-I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) last year, and I’m still exploring my gender. I’ve tried a bunch of new clothes, shoes, and makeup recently and they’re helping me see myself in the mirror more as I feel internally. Being correctly gendered feels really good and being misgendered continues to suck.
+I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) last year, and I’m still exploring my gender. I’ve tried a bunch of new clothes, shoes, and makeup recently and they’re helping me see myself in the mirror more as I feel internally. Being correctly gendered feels really good and being misgendered continues to suck, especially at work from folks outside the company and in publications quoting me.
 
 ### 2021 Theme: Invest 📈
 
@@ -42,11 +46,13 @@ Based on [The Theme System](https://www.thethemesystem.com), which I learned abo
 
 ## Work 👅
 
-My job as a Partner at [Lickability](https://lickability.com) involves leading the team, setting product direction, helping with day-to-day operations, and talking to new and existing clients about what we can do for them. At the moment, I’m pitching in some engineering on a few client projects. I’m also proud of our most recent release of [Buildwatch](https://buildwatch.app).
+My job as a Partner at [Lickability](https://lickability.com) involves leading the team, setting product direction, helping with day-to-day operations, and talking to new and existing clients about what we can do for them. 
+
+At the moment, I’m figuring out our hiring process for the next position we want to open, doing annual reviews, leading a few client projects, and getting ready to ship a brand new app 🤫.
 
 ### Talks 🗣
 
-This year I gave my first remote talk, _[Apps for All: Making Accessible Software](https://matthewbischoff.com/apps-for-all/)_ at [App Builders CH](https://appbuilders.ch). If you enjoyed it and you’d like me to speak at your event in 2021, [get in touch](/contact).
+Last year I gave my first remote talk, _[Apps for All: Making Accessible Software](https://matthewbischoff.com/apps-for-all/)_ at [App Builders CH](https://appbuilders.ch). If you enjoyed it and you’d like me to speak at your event in 2021, [get in touch](/contact).
 
 ## Media 💻
 

@@ -18,9 +18,9 @@ This _[now page](https://nownownow.com/about)_ is [inspired by Derek Sivers](htt
 
 I’m living in New York City, and I’ll be fully vaccinated as of April, 29! 🩹
 
-My wife, [Kate Sloan](https://twitter.com/Girly_Juice) flew down to stay with me in October, but she’s gotta head back to Toronto to get vaccinated at the end of April. I’ll miss her lots.
+My wife, [Kate Sloan](https://twitter.com/Girly_Juice) flew down to stay with me in October, but she’s gotta head back to Toronto to get vaccinated at the end of April. I’ll miss her lots. 💙
 
-I’m getting really excited to be able to see my friends and family soon, but until then I’m scratching my various extrovert itches with group chats, virtual events, and FaceTime calls. Feel free to [say hi](/contact).
+I’m getting really excited to be able to see my friends and family soon, but until then I’m scratching my various extrovert itches with group chats, virtual events, and FaceTime calls. Feel free to [say hi](/contact). 👋
 
 [I turned 30](https://www.instagram.com/p/CJaNlzXJMy0/) in December and collected about some of the [lessons I’ve learned](https://matthewbischoff.com/30-lessons-from-30-years/) over the years. And my pals and I [raised $5,500 to benefit Trans Lifeline](https://secure.givelively.org/donate/trans-lifeline/matthew-bischoff-1). Best birthday ever. 🥳
 

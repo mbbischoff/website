@@ -3,10 +3,10 @@ Variables
 -------------------------------------- */
 
 :root {
-  --font-header: proxima-nova, -apple-system, ui-sans-serif, Helvetica, Arial,
-  sans-serif;
-  --font-body: ff-tisa-web-pro, -apple-system-ui-serif, ui-serif, Georgia,
-  serif;
+  --font-serif: ff-tisa-web-pro, -apple-system-ui-serif, ui-serif, Georgia,
+    serif;
+  --font-sans: proxima-nova, -apple-system, ui-sans-serif, Helvetica, Arial,
+    sans-serif;
   --font-mono: -apple-system-ui-monospace, -ui-monospace, SFMono-Regular, Menlo,
     Consolas, Inconsolatas, monospace;
 
@@ -67,7 +67,7 @@ Layout
 html {
   font-size: var(--font-default);
   line-height: var(--font-line-height);
-  font-family: var(--font-body);
+  font-family: var(--font-sans);
 }
 
 body {
@@ -102,7 +102,7 @@ body > header a,
 body > footer a,
 body > footer p,
 .pagination > a {
-  font-family: var(--font-body);
+  font-family: var(--font-sans);
   font-size: var(--font-s);
   color: var(--color-mid);
   background: none;
@@ -137,7 +137,7 @@ Headings
 
 h1 {
   font-size: var(--font-xl);
-  font-family: var(--font-header);
+  font-family: var(--font-serif);
   margin: 0 auto var(--spacing-s);
   line-height: 1.25;
   letter-spacing: var(--font-letter-spacing);
@@ -145,7 +145,7 @@ h1 {
 
 h2 {
   font-size: var(--font-l);
-  font-family: var(--font-header);
+  font-family: var(--font-serif);
   margin-top: var(--spacing-l);
   letter-spacing: var(--font-letter-spacing);
 }
@@ -156,7 +156,7 @@ h5,
 h6 {
   font-size: var(--font-m);
   font-weight: bold;
-  font-family: var(--font-body);
+  font-family: var(--font-sans);
   margin-top: var(--spacing-s);
 }
 
@@ -174,13 +174,13 @@ article > ol {
 
 time,
 time > a {
-  font-family: var(--font-body);
+  font-family: var(--font-sans);
   font-size: var(--font-s);
   color: var(--color-mid);
 }
 
 blockquote {
-  font-family: var(--font-header);
+  font-family: var(--font-serif);
   font-style: italic;
   padding-left: var(--spacing-m);
   border-left: 2px solid var(--color-mid);
@@ -198,17 +198,17 @@ blockquote + p.small {
 }
 
 small {
-  font-family: var(--font-body);
+  font-family: var(--font-sans);
   font-size: var(--font-s);
   color: var(--color-mid);
 }
 
 .serif {
-  font-family: var(--font-body);
+  font-family: var(--font-sans);
 }
 
 figcaption {
-  font-family: var(--font-body);
+  font-family: var(--font-sans);
   font-size: var(--font-s);
   color: var(--color-mid);
   text-align: center;
@@ -252,7 +252,7 @@ hr {
 }
 
 dt {
-  font-family: var(--font-header);
+  font-family: var(--font-serif);
   font-weight: bold;
 }
 
@@ -499,7 +499,7 @@ section.date-list li a {
   order: 2;
   width: calc(100% - 7em);
   border: none;
-  font-family: var(--font-body);
+  font-family: var(--font-sans);
 }
 
 section.date-list h2:first-child {

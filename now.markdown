@@ -22,7 +22,7 @@ My wife, [Kate Sloan](https://twitter.com/Girly_Juice) flew down to stay with me
 
 I’m getting really excited to be able to see my friends and family soon, but until then I’m scratching my various extrovert itches with group chats, virtual events, and FaceTime calls. Feel free to [say hi](/contact). 👋
 
-[I turned 30](https://www.instagram.com/p/CJaNlzXJMy0/) in December and collected about some of the [lessons I’ve learned](https://matthewbischoff.com/30-lessons-from-30-years/) over the years. And my pals and I [raised $5,500 to benefit Trans Lifeline](https://secure.givelively.org/donate/trans-lifeline/matthew-bischoff-1). Best birthday ever. 🥳
+[I turned 30](https://www.instagram.com/p/CJaNlzXJMy0/) in December and collected about some of the [lessons I’ve learned](https://matthewbischoff.com/30-lessons-from-30-years/) over the years. And my pals and I [raised $6,963 to benefit Trans Lifeline](https://secure.givelively.org/donate/trans-lifeline/matthew-bischoff-1). Best birthday ever. 🥳
 
 Oh yeah, and I’m starting to get back into card magic. 🃏
 

@@ -1,8 +1,8 @@
 {
   "actions" : {
     "build" : {
-      "enabled" : false,
-      "script" : "bundle exec jekyll serve"
+      "enabled" : true,
+      "script" : "docker-compose up"
     },
     "run" : {
       "enabled" : true,

@@ -1,5 +1,5 @@
 ---
-title: Let’s Hang Out ✌️
+title: Let’s Hang Out
 date: 2021-06-14 12:02:00 -04:00
 categories:
 - culture
@@ -18,4 +18,4 @@ link: https://docs.google.com/forms/d/e/1FAIpQLSflmQAEmF-VmsRroFDmPlaKk0_3p-cNC7
 
 I’m an extrovert, and lately it’s felt so good to be able to see and meet people again that I want to do a lot more of that in the next few months.
 
-So, if you’re in or around New York, [let’s hang out](https://docs.google.com/forms/d/e/1FAIpQLSflmQAEmF-VmsRroFDmPlaKk0_3p-cNC7yZci4MLb5QzP3BUQ/viewform)! I made a cute little form to keep things organized. Don’t be shy.
+So, if you’re in or around New York, [let’s hang out](https://docs.google.com/forms/d/e/1FAIpQLSflmQAEmF-VmsRroFDmPlaKk0_3p-cNC7yZci4MLb5QzP3BUQ/viewform)! I made a cute little form to keep things organized. *[Don’t be scared, don’t be shy, come on in the water’s fine](https://geo.music.apple.com/us/album/all-eyes-on-me/1571419211?i=1571419375&itsct=music_box_link&itscg=30200&ct=songs_all_eyes_on_me&app=music&ls=1)*. ✌️

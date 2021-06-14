@@ -1,6 +1,12 @@
 ---
 title: Let’s Hang Out ✌️
 date: 2021-06-14 12:02:00 -04:00
+categories:
+- culture
+- shorter
+tags:
+- new york
+- me
 image: "/uploads/Screen%20Shot%202021-06-14%20at%2012.03.21%20PM.png"
 description: 'I’m an extrovert, and lately it’s felt so good to be able to see and
   meet people again that I want to do a lot more of that in the next few months.

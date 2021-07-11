@@ -16,7 +16,7 @@ This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](htt
 
 ## Life 👱🏻
 
-I’m living in New York City, and I’m fully vaccinated as of April, 29! 🩹
+I’m living in New York City, and I’m fully vaccinated as of April 29! 🩹
 
 My wife, [Kate Sloan](https://twitter.com/Girly_Juice) and I have been separated by the U.S./Canada border since April. I miss her lots, but I
 ’m glad she was able to get the vaccine there. 💙

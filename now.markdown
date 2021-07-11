@@ -16,24 +16,26 @@ This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](htt
 
 ## Life 👱🏻
 
-I’m living in New York City, and I’m fully vaccinated as of April 29! 🩹
+I’m living in New York City (just renewed my lease actually), and I’m fully vaccinated as of April 29! 🩹
 
 My wife, [Kate Sloan](https://twitter.com/Girly_Juice) and I have been separated by the U.S./Canada border since April. I miss her lots, but I
 ’m glad she was able to get the vaccine there. 💙
 
-I’ve been hanging out with friends and family IRL again and it's absolutely wonderful. The other day I even met a stranger in a bar and spent the night learning about them. If you're in or around NYC and wanna meet up, [let's do it](https://matthewbischoff.com/lets-hang-out/)! 👋
+I’ve been hanging out with friends and family IRL again and it's absolutely wonderful. The other day I even met a stranger in a bar and spent the night learning about them. Wild! If you're in or around NYC and wanna meet up and hang out, [let's do it](https://matthewbischoff.com/lets-hang-out/)! 👋
 
-For fun I've been singing musical theatre tunes over on TikTok and I’m practicing card magic again. I’ll show you a trick sometime. 🃏
+For fun I've been singing [musical theatre tunes over on TikTok](https://www.tiktok.com/@matthew_bischoff/) and I’m practicing [card magic](https://danielroymagic.com/cardmagic101) again. I’ll show you a trick sometime. 🃏
 
 ### Feelings 🔮
 
-[I turned 30](https://www.instagram.com/p/CJaNlzXJMy0/) in December, and it's made me think a lot about how I spend my time and what impact I want to have on the world and the people around me. More to come on that once I have more time to think about it. 
+[I turned 30](https://www.instagram.com/p/CJaNlzXJMy0/) in December, and it's made me think a lot about how I spend my time and what impact I want to have on the people around me. More to come on that once I have more time to think about it. 
 
-There's so much we need to do in order achieve the massive political change this country needs. Right now I’m advocating for and donating to causes like [Black Lives Matter](https://blacklivesmatter.com), [trans rights](https://translifeline.org), [abortion access](https://abortionfunds.org), and [prison abolition](http://criticalresistance.org).
+There's *so* much we need to do in order achieve the massive political change this country needs. Right now I’m advocating for and donating to causes like [Black Lives Matter](https://blacklivesmatter.com), [trans rights](https://translifeline.org), [abortion access](https://abortionfunds.org), and [prison abolition](http://criticalresistance.org).
 
 ### Gender 🏳️‍⚧️
 
-I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) last year, and I’m still exploring my gender. I’ve tried a bunch of new clothes, shoes, and makeup recently and they’re helping me see myself in the mirror more as I feel internally. Being correctly gendered feels really good and being misgendered continues to suck, especially from people who know me and care about me.
+I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) two years ago. I’ve tried a bunch of new clothes, shoes, and makeup recently, and they’re helping me see myself as I am. I'm also beginning to explore medical transition options, and I'm excited I'll be able to have an "X" on my [license](https://www.syracuse.com/state/2020/11/new-york-to-add-nonbinary-gender-option-x-for-drivers-licenses.html) and [passport](https://www.usatoday.com/story/travel/news/2021/07/01/passport-have-new-gender-option-added-non-binary-people/7826603002/) soon.
+
+Being correctly gendered feels great, while being misgendered continues to suck, especially when it’s from people who know me and care about me.
 
 ### 2021 Theme: Invest 📈
 
@@ -49,7 +51,7 @@ Based on [The Theme System](https://www.thethemesystem.com), which I learned abo
 
 My job as a Partner at [Lickability](https://lickability.com) involves leading the team, setting product direction, helping with day-to-day operations, and talking to new and existing clients about what we can do for them.
 
-At the moment, I’m figuring out our hiring process for the next position we want to open, leading a few client projects, and marketing  🤫.
+At the moment, I’m figuring out our remote hiring process for the next position, leading a few client projects, and marketing our newest app, [Scorecard](https://getscorecard.app) 🎲.
 
 ### Talks 🗣
 
@@ -72,7 +74,7 @@ I organize [my bookmarks](https://pinboard.in/u:mattb) on [Pinboard](https://pin
 
 ### Podcasts 🎙
 
-I love listening to (and [guesting on](/about/#podcasts)) podcasts, but I’m chronically behind on my backlog of shows because I oversubscribe. Some shows I’m binging lately: [Gender Reveal](https://www.genderpodcast.com), [Do By Friday](http://dobyfriday.com), [Election Profit Makers](http://www.electionprofitmakers.com), [The Dildorks](http://thedildorks.com), and [You’re Wrong About](https://yourewrongabout.com).
+I love listening to (and [guesting on](/about/#podcasts)) podcasts, and being hone alone has allowed me to catch up on my huge backlog. Some shows I’m binging lately: [Gender Reveal](https://www.genderpodcast.com), [Do By Friday](http://dobyfriday.com), [Question Box](https://www.questionboxshow.com), [The Dildorks](http://thedildorks.com), and [You’re Wrong About](https://yourewrongabout.com).
 
 If you’d like me to have me on your podcast, I’ve got all the time in the world at the moment and would really love that. [Shoot me an email](mailto:mb@matthewbischoff.com?subject=Podcast), and let’s do it.
 

@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2021-07-11 14:53:00 -04:00
+date: 2021-08-01 16:42:00 -04:00
 place: NYC
 image: "/uploads/latest-selfie-c57f62.jpg"
 description: This now page covers the things I’m thinking, feeling, and working on,

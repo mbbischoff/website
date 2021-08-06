@@ -1,6 +1,22 @@
 ---
 title: Thought Technology
 date: 2021-08-04 18:36:00 -04:00
+categories:
+- culture
+- tech
+tags:
+- merlin mann
+- john roderick
+- psychology
+- improvosation
+- brian eno
+- peter schmidt
+- cbt
+- andy matushack
+- roam
+- obsidian
+- tiago forte
+- nick milo
 image: "/uploads/22787_zsSi.png"
 description: I was first introduced to the phrase “thought technology” by Merlin Mann
   and John Roderick on their long-running podcast Roderick on the Line. A thought

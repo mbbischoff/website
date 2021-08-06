@@ -17,7 +17,7 @@ tags:
 - obsidian
 - tiago forte
 - nick milo
-image: "/uploads/22787_zsSi.png"
+image: "/uploads/keep-moving.png"
 description: I was first introduced to the phrase “thought technology” by Merlin Mann
   and John Roderick on their long-running podcast Roderick on the Line. A thought
   technology isn’t quite the same as a belief or a philosophy, and it’s more than
@@ -28,10 +28,10 @@ description: I was first introduced to the phrase “thought technology” by Me
   problems. Sometimes having the *right* thought at the right time is all you need
   to move forward, break through, or get unstuck.
 picture:
-  webp_image: "/uploads/22787_zsSi.png-e0abe6.webp"
-  png_image: "/uploads/22787_zsSi.png"
-  width: 1446
-  height: 1446
+  webp_image: "/uploads/keep-moving.webp"
+  png_image: "/uploads/keep-moving.png"
+  width: 1024
+  height: 1024
   alt: Keep moving & get out of the way.
 ---
 

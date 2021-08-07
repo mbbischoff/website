@@ -11,11 +11,11 @@ layout: page
 
 Matt began blogging and podcasting in 2003 and got their start in tech as IT Director of [PodcastPeople](https://www.podcastpeople.com/) at age 13. After high school, they studied human-computer interaction at the [New Jersey Institute of Technology](https://www.njit.edu/), before [dropping out](https://matthewbischoff.com/don-t-go-to-college/) to join the mobile team at [The New York Times](https://www.nytimes.com/). They worked at [Tumblr](https://www.tumblr.com/) during its heyday, as an engineer, engineering manager, and product manager.
 
-All the while, Matt and their business partners were working to grow Lickability from a side project into the [ten-person team](https://lickability.com/about) it is today. In 2015, Matt went full-time at the company, and since then, they’ve worn multiple hats as a product manager, software engineer, sales lead, and office prankster (they may have connected a [rotating light](https://www.instagram.com/p/BfouMHbFutA/?igshid=i0757y9umgi8) to HomeKit 🚨).
+All the while, Matt and their business partners were working to grow Lickability from a side project into the [ten-person team](https://lickability.com/about) it is today. In 2015, Matt went full-time at the company, and since then, they’ve worn multiple hats as a product manager, software engineer, sales lead, and token extrovert.
 
-Matt is an acclaimed speaker, giving [talks](https://matthewbischoff.com/category/talks/) at conferences around the globe focused on the intersections of technology and culture. They write about these topics and others on this [website](https://matthewbischoff.com) and the [Lickability blog](https://lickability.com/blog/).
+Matt is an acclaimed speaker, giving [talks](https://matthewbischoff.com/category/talks/) at conferences around the globe focused on the intersections of technology and culture. They write about these and other topics [here](https://matthewbischoff.com) and on the [company blog](https://lickability.com/blog/).
 
-In their spare time, Matt enjoys making (and drinking) classic cocktails, going to the theatre, and trawling Wikipedia for interesting facts. They’re proudly bisexual, trans, & nonbinary. Oh yeah, and [they were on Jeopardy](https://www.j-archive.com/showgame.php?game_id=3342).
+In their spare time, Matt enjoys crafting  classic cocktails, seeing live theatre, and trawling Wikipedia for interesting facts. They’re proudly bisexual, trans, & nonbinary. Oh yeah, and [they were on Jeopardy!](https://www.j-archive.com/showgame.php?game_id=3342)
 
 ## Work
 
@@ -48,7 +48,6 @@ You can [contact Matt here](/contact) or find them online in all of these places
 💼 [LinkedIn](https://www.linkedin.com/in/matthewbischoff)  
 🐙 [GitHub](https://github.com/mattbischoff)  
 🌐 [Wikipedia](https://en.wikipedia.org/wiki/User:Matthewbischoff)  
-🥃 [Tumblr](https://mttb.me)  
 📚 [Goodreads](https://goodreads.com/matthewbischoff)  
 🎥 [Letterboxd](https://letterboxd.com/matthewbischoff)  
 👽 [Reddit](https://www.reddit.com/user/matthewbischoff/)  
@@ -60,6 +59,6 @@ You can [contact Matt here](/contact) or find them online in all of these places
 
 This website is published with [Jekyll](https://jekyllrb.com) and managed in [Siteleaf](https://www.siteleaf.com). It’s hosted on [GitHub](https://github.com/mattbischoff/matthewbischoff.com) and deployed via [GitHub Pages](https://pages.github.com). Posts are written in [Ulysses](https://ulysses.app).
 
-Display Type is set in [FF Tisa Pro](https://fonts.adobe.com/fonts/skolar) by Mitja Miklavčič. Body type is set in [Proxima Nova](https://fonts.adobe.com/fonts/proxima-nova) by Mark Simonson, Matt’s favorite typeface.
+Display type is set in [FF Tisa Pro](https://fonts.adobe.com/fonts/skolar) by Mitja Miklavčič. Body type is set in [Proxima Nova](https://fonts.adobe.com/fonts/proxima-nova) by Mark Simonson, Matt’s favorite typeface.
 
 Photos of Matt were taken by Ashe of [Rose Glass Photography](https://www.roseglass.pictures).

@@ -1,14 +1,14 @@
 ---
 title: Now
-date: 2021-08-01 16:42:00 -04:00
+date: 2021-12-05 13:10:00 -05:00
 place: NYC
-image: "/uploads/latest-selfie-c57f62.jpg"
+image: "/uploads/latest-selfie-dc3ac1.jpg"
 description: This now page covers the things I’m thinking, feeling, and working on,
   well, right now.
 layout: page
 ---
 
-<img src="/uploads/latest-selfie-c57f62.jpg" width="1024" height="768" alt="Latest Selfie">
+<img src="{{ page.image }}" width="1024" height="768" alt="Latest Selfie">
 
 **Updated:** [{{ page.date | date: "%B %-d, %Y" }}](https://github.com/mattbischoff/matthewbischoff.com/commits/gh-pages/now.markdown) from {{ page.place }}
 
@@ -16,25 +16,23 @@ This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](htt
 
 ## Life 👱🏻
 
-I’m living in New York City (recently renewed my lease actually). I’m fully vaccinated, though still being cautious because of the [Delta variant](https://en.wikipedia.org/wiki/SARS-CoV-2_Delta_variant). 💉
+I’m living in New York City but looking a Philadelphia or Brooklyn as a potential future move. I’m fully vaccinated and now boosted, though still being cautious because of the [Omicon variant](https://en.wikipedia.org/wiki/SARS-CoV-2_Omicron_variant). 💉
 
-My wife, [Kate Sloan](https://twitter.com/Girly_Juice) and I have been separated by the U.S./Canada border since April. I miss her lots, but I’m excited because I get to see her agin in a few weeks! ✈️
+My wife, [Kate Sloan](https://twitter.com/Girly_Juice) and I have spent the last few months together in New York, and it’s been so nice to be together with her again. I’ll miss her lots when she leaves on December 15<sup>th</sup>, but we already have plans to see each other in January for a wedding! ✈️
 
-I’ve been hanging out with friends and family IRL again and it’s absolutely wonderful. A few weeks ago I even met a stranger in a bar and spent the night learning about them. Wild! If you’re in or around NYC and wanna meet up and hang out, [let's do it](https://matthewbischoff.com/lets-hang-out/)! 👋
+I’ve been hanging out with friends and family IRL again and it’s absolutely wonderful. This week I also met a nonbinary bartender who [complimented my pronoun pin](https://twitter.com/mb/status/1467173074537791489). Plus, my [favorite improv show](https://www.raaaatscraps.com) is back, so I’ve been in the front row for that every Sunday night. If you’re in or around NYC and wanna meet up and hang out, [let’s do it](https://matthewbischoff.com/lets-hang-out/)! 👋
 
-For fun I've been singing [musical theatre tunes over on TikTok](https://www.tiktok.com/@matthew_bischoff/) and I’m practicing [card magic](https://danielroymagic.com/cardmagic101) again. I’ll show you a trick sometime. 🃏
+In my spare time, I’ve been singing [musical theatre tunes over on TikTok](https://www.tiktok.com/@matthew_bischoff/) and catching up on my Instapaper and YouTube queues.
 
 ### Feelings 🔮
 
-[I turned 30](https://www.instagram.com/p/CJaNlzXJMy0/) in December, and it's made me think a lot about how I spend my time and what impact I want to have on the people around me. More to come on that once I have more time to think about it. 
+[I turned 30](https://www.instagram.com/p/CJaNlzXJMy0/) last year, and it’s made me think a lot about how I spend my time and what impact I want to have on the people around me. More to come on that once I have more time to think about it. 
 
-There's *so* much we need to do in order achieve the massive political change this country needs. Right now I’m advocating for and donating to causes like [Black Lives Matter](https://blacklivesmatter.com), [trans rights](https://transequality.org), [abortion access](https://abortionfunds.org), and [prison abolition](http://criticalresistance.org).
+There’s *so* much we need to do in order achieve the massive political change this country needs. Right now I’m advocating for and donating to causes like [Black Lives Matter](https://blacklivesmatter.com), [trans rights](https://transequality.org), [abortion access](https://abortionfunds.org), and [prison abolition](http://criticalresistance.org).
 
 ### Gender 🏳️‍⚧️
 
-I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) two years ago. I’ve tried a bunch of new clothes, shoes, and makeup recently, and they’re helping me see myself as I am. I'm also beginning to explore medical transition options, and I'm excited I'll be able to have an “X” on my [license](https://www.syracuse.com/state/2020/11/new-york-to-add-nonbinary-gender-option-x-for-drivers-licenses.html) and [passport](https://www.usatoday.com/story/travel/news/2021/07/01/passport-have-new-gender-option-added-non-binary-people/7826603002/) soon.
-
-Being correctly gendered feels great, while being misgendered continues to suck, especially when it’s from people who know me well, like friends or family.
+I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) two years ago. I’ve tried a bunch of new clothes, shoes, and makeup recently, and they’re helping me see myself as I am. I’m also beginning to explore medical transition options, and I’m excited I’ll be able to have an “X” on my [license](https://www.syracuse.com/state/2020/11/new-york-to-add-nonbinary-gender-option-x-for-drivers-licenses.html) and [passport](https://www.usatoday.com/story/travel/news/2021/07/01/passport-have-new-gender-option-added-non-binary-people/7826603002/) soon.
 
 ### 2021 Theme: Invest 📈
 
@@ -48,11 +46,11 @@ Based on [The Theme System](https://www.thethemesystem.com), which I learned abo
 
 My job as a Partner at [Lickability](https://lickability.com) involves leading the team, setting product direction, helping with day-to-day operations, and talking to new and existing clients about what we can do for them.
 
-At the moment, I’m [hiring an engineer](https://jobs.lickability.com), shutting down our office, and leading a few client projects.
+At the moment, I’m helping us move to a fully remote company, finishing up reviews season, and getting prepared to close out the fiscal year.
 
 ### Talks 🗣
 
-Last year I gave my first remote talk, *[Apps for All: Making Accessible Software](https://matthewbischoff.com/apps-for-all/)* at [App Builders CH](https://appbuilders.ch). If you enjoyed it and you’d like me to speak at your event in 2021, [get in touch](/contact).
+Last year I gave my first remote talk, *[Apps for All: Making Accessible Software](https://matthewbischoff.com/apps-for-all/)* at [App Builders CH](https://appbuilders.ch). If you enjoyed it and you’d like me to speak at your event in 2022, [get in touch](/contact).
 
 ## Media 💻
 
@@ -70,13 +68,15 @@ I organize [my bookmarks](https://pinboard.in/u:mattb) on [Pinboard](https://pin
 
 ### Podcasts 🎙
 
-I love listening to (and [guesting on](/about/#podcasts)) podcasts, and being hone alone has allowed me to catch up on my huge backlog. Some shows I’m binging lately: [Gender Reveal](https://www.genderpodcast.com), [Do By Friday](http://dobyfriday.com), [Question Box](https://www.questionboxshow.com), [The Dildorks](http://thedildorks.com), and [You’re Wrong About](https://yourewrongabout.com).
+I love listening to (and [guesting on](/about/#podcasts)) podcasts, and being hone alone has allowed me to catch up on my huge backlog. Some shows I’m binging lately: [Gender Reveal](https://www.genderpodcast.com), [The Dildorks](http://thedildorks.com), and [Cortex](https://relay.fm/cortex).
+
+I’m also currently working on a new idea for a show of my own with a new friend. 🤫
 
 If you’d like me to have me on your podcast, I’ve got all the time in the world at the moment and would really love that. [Shoot me an email](mailto:mb@matthewbischoff.com?subject=Podcast), and let’s do it.
 
 ### Music 🎶
 
-Here’s a playlist of the albums that I’m listening to in heavy rotation.
+Here’s a playlist of the songs that I’m listening to in heavy rotation.
 
 <iframe allow="autoplay \*; encrypted-media \*; fullscreen \*" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/heavy-rotation/pl.u-vvRNDtBrg68"></iframe>
 

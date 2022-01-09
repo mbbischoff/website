@@ -3,7 +3,7 @@ title: The Case for “Mark as Unread” in iMessage
 date: 2021-12-16 13:39:00 -05:00
 ---
 
-For decades, email apps like Gmail, Outlook and Apple Mail have all included a button to mark a message (or conversation) as “unread”. But why? Since the software knows the message has been read, why is it allowing the user to override that truth and rewrite history?
+For decades, email apps like Gmail, Outlook, and Apple Mail have all included a button to mark a message (or conversation) as “unread”. But why? Since the software knows the message has been read, why is it allowing the user to override that truth and rewrite history?
 
 There’s a simple answer: **it’s useful**! The unread state of messages in an email app controls things like the number next to the current folder, the application’s badge, and the status indicator next to a message reminding you to look at it. A simple button to say "Oh yep, I know I clicked into it, but I didn't actually read it or fully process it yet" is a great affordance for users that has stood the test of time. While some argue that [flags should instead be used](https://www.forbes.com/sites/forbestechcouncil/2018/07/11/how-mark-as-unread-is-making-you-drop-the-ball/?sh=1dda8b98389e) for this kind of message management, they miss the point that flags cannot and do not convey, to either the user or the software, the same meaning as a message being unread.
 

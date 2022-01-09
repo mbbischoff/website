@@ -21,6 +21,6 @@ This is a compelling argument that I was initially sympathetic to, but looking d
 
 Even if this slight ambiguity is too much for Apple to handle, they could instead incorporate another feature from Mail instead: flagging. Allow users to flag a conversation (or an individual message) and then see all their flags in one place, when they're ready to respond.
 
-Whether Apple chooses to implement this feature as "Mark as Unread", "Flags", or something else entirely, they should implement it, and soon. As more of our communication, both personal and professional, moves online, it's never been more important that we keep our commitments to each other, that we respond when we say we will, and keep dialogue flowing. We have long had a great tool for doing that, now we just need to bring it to where people actually are.
+Whether Apple chooses to implement this feature as "Mark as Unread", "Flags", or something else entirely, they should implement it, and soon. As more of our communication, both personal and professional, moves online, it's never been more important that we keep our commitments to each other, that we respond when we say we will, and that we keep dialogue flowing. We have long had a great tool for doing that, now we just need to bring it to where people actually are.
 
 *This article has also been filed as feedback for Apple at FBTKTKTKTK.*

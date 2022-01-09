@@ -17,7 +17,7 @@ But the [most popular messaging app on iOS](https://www.wsj.com/articles/why-app
 
 So why hasn’t Apple added this feature? If I put on my Product Manager hat, I can think of only one argument that’s likely been made internally to keep this wildly popular feature out of the app. It goes like this: "If we add a button that says mark as unread, wouldn't users expect that it would unsend their read receipts?"
 
-This is a compelling argument that I was sympathetic to, but if you look deeper, this just isn’t a problem in the real world. Outlook, which supports both read receipts and Mark as Unread, seems to cause no significant user confusion in this regard. The read receipt exists for the sender, and the local unread status is for the recipient. Simple as that.
+This is a compelling argument that I was initially sympathetic to, but if you look deeper, this just isn’t a problem in the real world. Outlook, which supports both read receipts and Mark as Unread, seems to cause no significant user confusion in this regard. The read receipt exists for the sender, and the local unread status is for the recipient. Simple as that.
 
 Even if this slight additional mental complexity is too much for Apple to handle, there's already another perfectly fine solution they could reach for that matches another built-in application, flagging. Allow users to flag a conversation (or an individual message) and then see all their flags in one place, when they're ready to respond.
 

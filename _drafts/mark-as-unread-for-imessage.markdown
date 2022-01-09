@@ -19,7 +19,7 @@ So why hasn’t Apple added this feature? If I put on my Product Manager hat, I 
 
 This is a compelling argument that I was initially sympathetic to, but looking deeper, this just isn’t a problem in the real world. Outlook, which supports both read receipts and Mark as Unread, seems to cause no significant user confusion in this regard. The read receipt exists for the sender, and the local unread status is for the recipient. Simple as that.
 
-Even if this slight additional complexity is too much for Apple to handle, there's already another perfectly fine solution they could reach for that matches another built-in application, flagging. Allow users to flag a conversation (or an individual message) and then see all their flags in one place, when they're ready to respond.
+Even if this slight ambiguity is too much for Apple to handle, there's already another perfectly fine solution they could reach for that matches another built-in application, flagging. Allow users to flag a conversation (or an individual message) and then see all their flags in one place, when they're ready to respond.
 
 Whether Apple chooses to implement this feature as "Mark as Unread", "Flags", or something else entirely, there’s no denying they should implement it. As more of our communication, both personal and professional moves online, it's never been more important that we keep our commitments to each other, that we respond when we say we will, and keep dialogue flowing. We have long had a great tool for doing that, now we just need to bring it to where people actually are.
 

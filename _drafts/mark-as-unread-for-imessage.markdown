@@ -9,7 +9,7 @@ There’s a simple answer: it’s useful! The number of unread messages in an em
 
 "Mark as Unread" has been so successful and well-loved in email that it's been copied by many messaging apps like Facebook Messenger, WhatsApp, and Instagram. And its utility in a messaging context is much the same in the slightly more formal email context
 
-As Tine Welanly put it on Quora:
+As Tine Welanly put it [on Quora](https://www.quora.com/What-is-the-point-of-having-mark-as-unread-option-in-Facebook-messenger):
 
 > Let’s say you’re riding the bus and you open a message from a friend, maybe asking you about your plans for the weekend. You have to respond to that but maybe it’s your stop already or you don’t know yet. But if you don’t say anything now, you might forget to respond and then you’ll look like a bad friend. Not to mention you might miss out on some weekend fun.
 

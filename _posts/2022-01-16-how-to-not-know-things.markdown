@@ -45,7 +45,7 @@ Many of the answers to life’s daily questions can be uncovered using these [th
 
 ### Let’s make better mistakes tomorrow
 
-Just because you don’t know something today doesn’t mean you won’t know it tomorrow. If you cultivate an attitude that faces the unknown with curiosity, sharing, and experimentation, rather than blame, fear, and intransigence, you might just get a bit smarter every day. You’ll learn much more by remaining open to new discoveries and sharing that journey with the people around you, at work and in the rest of your life. And that continuous improvement, or *[kaizen](https://en.wikipedia.org/wiki/Kaizen)*, will accumulate like compound interest. It will, in the words of Mike Monteiro, let us “[make better mistakes tomorrow](https://www.flickr.com/photos/jenbee/3349368144/)”.
+Just because you don’t know something today doesn’t mean you won’t know it tomorrow. If you cultivate an attitude that faces the unknown with curiosity, sharing, and experimentation, rather than blame, fear, and intransigence, you might just get a bit smarter every day. You’ll learn much more by remaining open to new discoveries and sharing that journey with the people around you, at work and the rest of your life. And that continuous improvement, or *[kaizen](https://en.wikipedia.org/wiki/Kaizen)*, will accumulate like compound interest. It will, in the words of Mike Monteiro, let us “[make better mistakes tomorrow](https://www.flickr.com/photos/jenbee/3349368144/)”.
 
 * * *
 

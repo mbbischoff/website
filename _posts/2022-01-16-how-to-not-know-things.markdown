@@ -24,12 +24,12 @@ My training for the job involved being clapped at a lot while donning the signat
 
 ### I don’t know, let’s find out
 
-JB taught us that there was no way we could know everything there is to know about every Apple product, let alone every app that runs on them, and every way they can fail. He taught us that rather than making up an answer, guessing, or shrugging our shoulders, we should instead say, **“I don’t know, let’s find out”**. Admitting that we didn’t know was the first step. Then, we were to find out *together* with the customer by  walking over to a Mac and looking up the answer or pulling in another employee who might know the answer.
+JB taught us that there was no way we could know everything there is to know about every Apple product, let alone every app that runs on them, and every way they can fail. He taught us that rather than making up an answer, guessing, or shrugging our shoulders, we should instead say, **“I don’t know, let’s find out”**. Admitting that we didn’t know was the first step. Then, we were to find out *together* with the customer by walking over to a Mac and looking up the answer or pulling in another employee who might know the answer.
 
 This one sentence from a retail training manual contains many insights that I’ve relied on every day since in my personal and professional life:
 
 1. It’s okay not to know because we can’t know everything, and we shouldn’t expect that of ourselves.
-2. It’s better to admit our ignorance than to get things wrong.
+2. It’s better to admit our ignorance than get things wrong.
 3. Even if we think we *might* know, it’s okay to double-check because getting it right matters.
 4. People trust us more when we admit our shortcomings.
 5. Learning is better together.
@@ -39,13 +39,13 @@ This one sentence from a retail training manual contains many insights that I’
 
 ### Fuck around and find out
 
-This is another similar phrase that’s become popular since 2020, especially in leftist circles. It’s a useful corollary because sometimes, no amount of Googling or reading about a topic will get you to the answer. Sometimes, trial and error is the only way to learn. By experimenting or [fucking around](https://knowyourmeme.com/memes/fuck-around-and-find-out), we learn together by *playing together*. We do a little science and discover something new about the world that we can share.
+This is another similar phrase that’s become popular since 2020, especially in leftist circles. It’s a valuable corollary because sometimes, no amount of Googling or reading about a topic will get you to the answer. Sometimes, trial and error is the only way to learn. By experimenting or [fucking around](https://knowyourmeme.com/memes/fuck-around-and-find-out), we learn together by *playing together*. We do a little science and discover something new about the world that we can share.
 
-Many of the answers to life’s daily questions can be uncovered using these [thought technologies](/thought-technology/). Faced with a hard question in an interview for a new job? Try being honest with the interviewer that you don’t know the answer and explain how you’d research it in detail. Not sure what your gender is? As [Mattie Lubchansky](https://twitter.com/Lubchansky) suggested on a [recent live episode of the Gender Reveal podcast](https://gender.libsyn.com/episode-102-live-in-nyc), “fuck around and find out”. Try on makeup, a new set of pronouns, or a binder, and see how it feels!
+Many of the answers to life’s daily questions can be uncovered using these [thought technologies](/thought-technology/). Are you faced with a tricky question in an interview for a new job? Try being honest with the interviewer that you don’t know the answer and explain how you’d research it in detail. Not sure what your gender is? As [Mattie Lubchansky](https://twitter.com/Lubchansky) suggested on a [recent live episode of the Gender Reveal podcast](https://gender.libsyn.com/episode-102-live-in-nyc), “fuck around and find out”. Try on makeup, a new set of pronouns, or a binder, and see how it feels!
 
 ### Let’s make better mistakes tomorrow
 
-Just because you don’t know something today doesn’t mean you won’t know it tomorrow. If you cultivate an attitude that faces the unknown with curiosity, sharing, and experimentation, rather than blame, fear, and intransigence, you might just get a bit smarter every day. You’ll learn much more by remaining open to new discoveries and sharing that journey with the people around you, at work and the rest of your life. And that continuous improvement, or *[kaizen](https://en.wikipedia.org/wiki/Kaizen)*, will accumulate like compound interest. It will, in the words of Mike Monteiro, let us “[make better mistakes tomorrow](https://www.flickr.com/photos/jenbee/3349368144/)”.
+Just because you don’t know something today doesn’t mean you won’t know it tomorrow. If you cultivate an attitude that faces the unknown with curiosity, sharing, and experimentation, rather than blame, fear, and stubbornness, you may get a bit smarter every day. You’ll learn much more by remaining open to new discoveries and sharing that journey with the people around you, at work and in the rest of your life. And that continuous improvement, or *[kaizen](https://en.wikipedia.org/wiki/Kaizen)*, will accumulate like compound interest. It will, in the words of Mike Monteiro, let us “[make better mistakes tomorrow](https://www.flickr.com/photos/jenbee/3349368144/)”.
 
 * * *
 

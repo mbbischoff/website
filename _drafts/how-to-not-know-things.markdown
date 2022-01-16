@@ -14,19 +14,12 @@ JB taught us that there was no way we could know everything there is to know abo
 This one sentence from a retail training manual contains so many insights that I’ve relied on every day since in my personal and professional life:
 
 1. It’s okay not to know because we cannot know everything, and we shouldn’t expect that of ourselves.
-
 2. It’s better to admit our ignorance rather than to get things wrong.
-
 3. Even if we think we *might* know, it’s still okay to double-check because getting things right matters.
-
 4. People trust people more who admit their shortcomings.
-
 5. It’s better to learn together.
-
 6. People love to see and be involved in the process of discovery.
-
 7. People trust information more when you share the *way* you learned something.
-
 8. Memorization isn’t as important as knowing how and where to look.
 
 ### Fuck around and find out

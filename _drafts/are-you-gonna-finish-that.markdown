@@ -3,23 +3,27 @@ title: Are You Gonna Finish That?
 date: 2022-01-22 19:01:00 -05:00
 ---
 
-I’m a completionist by nature. When I find a new blog, podcast, or webcomic series I love, my curiosity pulls me toward consuming its backlog, often all of it. I spend hours spelunking the archives, sucking the bones of my media discovery dry. I’m overly familiar with the siren’s song of the summit.
-Growing up, I attended Catholic school, and the nuns there taught me to finish my food because children were starving halfway across the world. I was taught to finish one book before starting the next. I was taught to give equal attention to every station of the cross.
+I’m a [completionist](https://www.macmillandictionary.com/us/dictionary/american/completionist) by nature. I love checking everything off my to-do list for the day. When I discover a [blog](https://randsinrepose.com), [podcast](http://genderpodcast.com), or [webcomic](https://questionablecontent.net) I love, my curiosity pulls me toward consuming its entire backlog. I spend hours spelunking the archives, finishing every last morsel of media.
 
-Perseverance can be a valuable tool in one’s toolbelt. There are moments in life that call for grit and pushing through discomfort and disinterest. But fetishizing finishing isn’t nearly as helpful as it seems on the surface. Just the act of having completed something isn’t virtuous by itself. Context matters here.
+Growing up, I attended Catholic school, and was taught by nuns to finish my lunch because there were [children starving halfway across the world](https://en.wikipedia.org/wiki/List_of_fallacies#Fallacy_of_relative_privation). I was taught to complete one book before starting the next. Taught to give equal attention to every [station of the cross](https://en.wikipedia.org/wiki/Stations_of_the_Cross).
 
-We are living in a time of ceaseless information overload. By way of example, more than 500 hours of video are uploaded to YouTube every minute. And our time and attention are limited resources. Therefore, a more valuable skill is knowing when to finish something and when to abandon it in this context.
-I’ve gotten better at this over the years. I’ve become more attuned to what my body and brain are telling me about the value of what I’m doing to my future self. Some questions I ask myself when deciding whether to bail or stick with it:
+This type of perseverance can be a useful tool in one’s toolbelt. There are moments in life that call for grit, times when it’s crucial to push through discomfort and disinterest. But fetishizing finishing isn’t nearly as helpful as it feels. Just the act of *having completed something* isn’t virtuous by itself. The context matters.
+
+We are living in a time of ceaseless information overload and ever-expanding choice. More than [500 hours of video are uploaded to YouTube every minute](https://www.statista.com/statistics/259477/hours-of-video-uploaded-to-youtube-every-minute/), [millions of books are published every year](https://malwarwickonbooks.com/published-every-year/), and TKTKTK. You can’t consume all that “content” even if you wanted to. Plus, our time and attention are limited resources. In this context, a more useful skill than finishing is knowing when to finish something and when to abandon it.
+
+Personally, I’ve gotten better at this over the years. I’ve become more attuned to what my body and brain are telling me about the future value of the thing I’m currently doing. These are the questions I ask myself when deciding whether to stick with something or bail:
+
 * Am I enjoying it?
-* Will it make me a better person?
-* Will it help me accomplish something or solve a problem?
-* Will it matter in 5 years? 10?
-* Is there something I’d rather do?
-* Have I had enough?
-* Would it be better to set it down now and pick it up again later?
 * Is it feeding my mind or my heart?
-* What’s the worst thing that would happen if I stop now?
+* Will it help me accomplish something or solve a problem?
+* Will it matter in a year? Five? Ten?
+* Is there something I’d rather be doing?
+* Have I had enough?
+* Might it be better to set it down now and pick it up again later?
+* What’s the worst thing that would happen if I give up?
 
-These questions give you permission to quit what you’re trying to finish if it’s not serving you anymore. Maybe it’s a New Year’s resolution you regret making, a book that all your heroes recommended. Still, you keep bouncing off of, or even a friendship or relationship that doesn’t fit you anymore but that you keep maintaining out of a sense of duty.
+These questions help pressure-test the idea of continuing to follow my current trajectory. And their answers reveal that I should have pulled off the highway a few exits ago. But no matter how close to the end I am, it’s never too late to stop.
 
-You don’t have to finish everything. Quitting doesn’t make you a quitter. It makes you someone that knows their worth. Stopping gives you space to start something that serves you better. And if you make a mistake, that old thing will probably still be there if you want to come back to it.
+I want to give you permission to quit the thing that you’re trying to finish that’s not working for you anymore. Just the psychic weight of it being unfinished is stressing you out. It could be a New Year’s resolution you regret making, a book that all your heroes recommended but you keep bouncing off, or even a side project that doesn’t bring you joy any more, but that you keep maintaining out of a sense of duty.
+
+You don’t have to complete everything. You don’t need to be in it for the long haul. Quitting something doesn’t make you *a quitter*. It makes you someone that knows their worth and knows what they want. Stopping something can give you space to start something new that will serve you better. And if you make a mistake, it’ll still be there when you’re ready to pick it up again.

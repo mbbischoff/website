@@ -29,7 +29,7 @@ I’ve gotten better at this over the years. I’ve become more attuned to what 
 
 * What’s the worst thing that would happen if I give up?
 
-These questions help pressure-test the idea of continuing to follow my current trajectory. And their answers reveal that I should have pulled off the highway a few exits ago. But no matter how close to the end I am, it’s never too late to stop.
+These questions help pressure-test the idea of continuing to follow my current trajectory. And sometimes their answers reveal that I should have pulled off the highway a few exits ago. But no matter how close to the end I am, it’s never too late to stop.
 
 I want to give you permission to quit the thing that you’re trying to finish that’s not working for you anymore. It could be a New Year’s resolution you regret making, a book that all your heroes recommended but you keep bouncing off, or even a side project that doesn’t bring you joy anymore but that you keep maintaining out of a sense of duty. Whatever it is, you’ll know it because just the [psychic weight of it being unfinished](https://en.wikipedia.org/wiki/Zeigarnik_effect) is stressing you out.
 

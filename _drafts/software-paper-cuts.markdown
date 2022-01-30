@@ -13,6 +13,10 @@ description: 'Running up against a paper cut bug feels a little bit like getting
   When software isn’t polished, when it’s full of things that feel like paper cuts,
   it becomes less joyful and more frustrating. It sucks all the opportunity for delight
   out of the room.'
+picture:
+  width: 2048 
+  height: 1536
+  alt: The word ouch written on a pink background
 ---
 
 {% include picture.html %}

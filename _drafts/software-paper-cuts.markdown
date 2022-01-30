@@ -31,7 +31,7 @@ What kinds of things should you be looking for? How can we notice paper cuts whe
 
 ## Common Paper Cuts
 
-* **Lougouts**: When I open the app, sometimes I’m randomly logged out for no good reason.
+* **Logouts**: When I open the app, sometimes I’m randomly logged out for no good reason.
 * **Inconsistent Copy**: The text switches randomly between straight quotes and smart quotes or title case and sentence cases.
 * **No Undo**: I change something the UI updates instantly, but there’s no way to undo the change, so now I’m out of luck if I don’t remember what I did.
 * **Scroll Hitches**: Scrolling lists cause the app to freeze up or drop frames.

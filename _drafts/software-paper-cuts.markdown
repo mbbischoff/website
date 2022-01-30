@@ -41,7 +41,7 @@ What kinds of things should you be looking for? How can we notice paper cuts whe
 * **Typography**: An element is improperly typeset leading to inconsistent margins, cut-off descenders, or illegibility.
 * **Strict Validation**: Overly strict form validation prevents me from using the name I want to or including an emoji.
 * **Flashes & Blinks**: When things load from the network or disk, they flash or blink into place, or the content of the screen jumps around to accommodate them.
-* **No Loading State**: Something is taking a while, but there’s no spinner progress bar to keep me informed.
+* **Loading?**: Something is taking a while, but there’s no spinner progress bar to keep me informed.
 * **No Empty View**: A list becomes empty, and I’m staring into the void rather than at a nicely designed empty view so I know what I can fill it with.
 * **Wayfinding**: I can’t easily find Settings, Terms of Service, Privacy Policy, third-party code licenses, etc.
 * **No Primary Action**: The primary action on each screen isn’t differentiated or highlighted, so it’s hard to know what I’m supposed to do.

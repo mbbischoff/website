@@ -1,18 +1,18 @@
 ---
 title: Software Paper Cuts
 date: 2022-01-17 17:54:00 -05:00
+categories:
+- tech
+tags:
+- software
+- bugs
+- engineering
+- list
 image: "/uploads/nick-fewings-SG9Ycz2uqGs-unsplash.jpg"
 description: 'Running up against a paper cut bug feels a little bit like getting a
   physical one: not the end of the world, but certainly unpleasant. These types of
   tiny annoyances accrete over time, especially when no one is paying attention to
-  them. In a single day of using my phone, I encounter dozens of these minor bugs
-  that each annoy me just a little bit, making the task I’m trying to accomplish just
-  a little bit more complicated. For example, I might notice a button that’s enabled
-  even though it can’t do anything or a form field that has a scroll bar even though
-  there’s no scrolling content. The result is that I trust the software I use less.
-  When software isn’t polished, when it’s full of things that feel like paper cuts,
-  it becomes less joyful and more frustrating. It sucks all the opportunity for delight
-  out of the room.'
+  them.'
 picture:
   width: 2048 
   height: 1536

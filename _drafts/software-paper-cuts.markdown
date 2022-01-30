@@ -21,7 +21,7 @@ What kinds of things should you be looking for? How can we notice paper cuts whe
 * **Lacking Accessibility**. Some elements are missing labels for screen readers, the visuals have poor contrast, etc. I wrote an entire talk about this.
 * **Unlocalized**: The copy and date/time formatting doesn’t match my language or region settings.
 * **Typography**: An element is improperly typeset leading to inconsistent margins, cut-off descenders, or illegibility.
-* **Strict Validation. **Overly strict form validation is preventing me from using the name I want to or including an emoji.
+* **Strict Validation**: Overly strict form validation is preventing me from using the name I want to or including an emoji.
 * **Flashes & Blinks**: When things load from the network or disk they flash or blink into place or the content of the screen jumps around to accommodate them.
 * **No Loading State**: Something is taking a while but there’s no spinner progress bar to keep me informed.
 * **No Empty View**: A list becomes empty and I’m staring into the void rather than at a nicely designed empty view so I know what I can fill it with.

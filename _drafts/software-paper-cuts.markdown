@@ -13,24 +13,24 @@ What kinds of things should you be looking for? How can we notice paper cuts whe
 
 ## Common Paper Cuts
 
-* **Lougouts**. When I open the app, sometimes I’m randomly logged out for no good reason.
-* **Inconsistent Copy**. The text switches randomly between straight quotes and smart quotes or title case and sentence cases.
-* **No Undo**. When I change something the UI updates instantly but there’s no way to undo the change, so now I’m out of luck if I don’t remember what I did.
-* **Scroll Hitches**. Scrolling lists cause the app to freeze up or drop frames.
-* **Missing Options**. The app is missing an option for my gender/pronouns or forcing me to fill out a required field that doesn’t apply to me?
+* **Lougouts**: When I open the app, sometimes I’m randomly logged out for no good reason.
+* **Inconsistent Copy**: The text switches randomly between straight quotes and smart quotes or title case and sentence cases.
+* **No Undo**: When I change something the UI updates instantly but there’s no way to undo the change, so now I’m out of luck if I don’t remember what I did.
+* **Scroll Hitches**: Scrolling lists cause the app to freeze up or drop frames.
+* **Missing Options**: The app is missing an option for my gender/pronouns or forcing me to fill out a required field that doesn’t apply to me?
 * **Lacking Accessibility**. Some elements are missing labels for screen readers, the visuals have poor contrast, etc. I wrote an entire talk about this.
-* **Unlocalized**. The copy and date/time formatting doesn’t match my language or region settings.
-* **Typography.** An element is improperly typeset leading to inconsistent margins, cut-off descenders, or illegibility.
+* **Unlocalized**: The copy and date/time formatting doesn’t match my language or region settings.
+* **Typography**: An element is improperly typeset leading to inconsistent margins, cut-off descenders, or illegibility.
 * **Strict Validation. **Overly strict form validation is preventing me from using the name I want to or including an emoji.
-* **Flashes & Blinks**. When things load from the network or disk they flash or blink into place or the content of the screen jumps around to accommodate them.
-* **No Loading State**.  Something is taking a while but there’s no spinner progress bar to keep me informed.
-* **No Empty View.** A list becomes empty and I’m staring into the void rather than at a nicely designed empty view so I know what I can fill it with.
-* **Wayfinding**. I can’t easily find Settings, Terms of Service, Privacy Policy, third-party code licenses, etc.
-* **No Primary Action**. The primary action on each screen isn’t differentiated or highlighted so it’s hard to know what I’m supposed to do.
-* **Dead Ends. **There’s no way out of a screen or flow. Or there’s no way to cancel or delete my account.
-* **Missing States**. Buttons and list items don’t look any different when they’re touched, hovered, or disabled so it’s hard to know what state they’re in.
-* **Where Was I?** The app forgets where I was when I reopen it or clears my selection when I go to the background.
-* **Missing Animation**. Rather than smoothly animating to a new state, the UI just blinks and updates, like an unfortunate smash cut.
-* **No Errors or Retry. When I try to do something, the operation fails without any error message or way to retry.
+* **Flashes & Blinks**: When things load from the network or disk they flash or blink into place or the content of the screen jumps around to accommodate them.
+* **No Loading State**: Something is taking a while but there’s no spinner progress bar to keep me informed.
+* **No Empty View**: A list becomes empty and I’m staring into the void rather than at a nicely designed empty view so I know what I can fill it with.
+* **Wayfinding**: I can’t easily find Settings, Terms of Service, Privacy Policy, third-party code licenses, etc.
+* **No Primary Action**: The primary action on each screen isn’t differentiated or highlighted so it’s hard to know what I’m supposed to do.
+* **Dead Ends**: There’s no way out of a screen or flow. Or there’s no way to cancel or delete my account.
+* **Missing States**: Buttons and list items don’t look any different when they’re touched, hovered, or disabled so it’s hard to know what state they’re in.
+* **Where Was I?**: The app forgets where I was when I reopen it or clears my selection when I go to the background.
+* **Missing Animation**: Rather than smoothly animating to a new state, the UI just blinks and updates, like an unfortunate smash cut.
+* **No Errors or Retry**: When I try to do something, the operation fails without any error message or way to retry.
 
 I challenge you to use your own app with fresh eyes on Monday morning. After an hour, is your hand covered with paper cuts? What are the bugs you’ve hit so many times in the software that you forgot they were bugs? You know you can fix those, right? Well, get to it.

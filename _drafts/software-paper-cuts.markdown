@@ -1,17 +1,17 @@
 ---
-title: Software Papercuts
+title: Software Paper Cuts
 date: 2022-01-17 17:54:00 -05:00
 ---
 
-I’ve been using software every day for almost 20 years. I use it to do my work, create things in my spare time, socialize, relax, and so much more. And if you’ve met me or been reading this site for a while, you know I have very strong opinions about how it should be designed and crafted. But by far my strongest opinion is that almost no one pays enough attention to the papercuts. In the field of interaction design, a paper cut is “a trivially fixable usability bug”. The term comes from the Ubuntu team, which decided in 2009 to prioiritize fixing lots of these little niggling issues. 
+I’ve been using software every day for almost 20 years. I use it to do my work, create things in my spare time, socialize, relax, and so much more. And if you’ve met me or been reading this site for a while, you know I have very strong opinions about how it should be designed and crafted. But by far my strongest opinion is that almost no one pays enough attention to the paper cuts. In the field of interaction design, a [paper cut bug](https://en.wikipedia.org/wiki/Paper_cut_bug) is “a trivially fixable usability bug”. The term comes from the Ubuntu team, which decided in 2009 to prioritize fixing lots of these little niggling issues. 
 
-Running up against a papercut bug feels a little bit like getting a physical one: not the end of the world, but certainly unpleasant. These types of tiny annoyances accrete over time, especially when no one is paying attention to them. In a single day of using my phone, I encounter dozens of these little bugs that each annoy me just a little bit, making the task I’m trying to accomplish just a little bit more difficult.  For example, I might notice a button that’s enabled even though it can’t do anything or a form field that has a scroll bar even though there’s no scrolling content. The result is that I trust the software I use less. When software isn’t polished, when it’s full of things that feel like papercuts, it becomes less joyful and more frustrating. It sucks all the opportunity for delight out of the room.
+Running up against a paper cut bug feels a little bit like getting a physical one: not the end of the world, but certainly unpleasant. These types of tiny annoyances accrete over time, especially when no one is paying attention to them. In a single day of using my phone, I encounter dozens of these little bugs that each annoy me just a little bit, making the task I’m trying to accomplish just a little bit more difficult.  For example, I might notice a button that’s enabled even though it can’t do anything or a form field that has a scroll bar even though there’s no scrolling content. The result is that I trust the software I use less. When software isn’t polished, when it’s full of things that feel like paper cuts, it becomes less joyful and more frustrating. It sucks all the opportunity for delight out of the room.
 
 The more insidious thing about these bugs is that they’re almost never reported by users or caught by automated testing tools because they’re too small to complain about and often too obscure to be tested by engineers. Great QA testers can find and file these types of bugs, but they usually flounder at the end of a long backlog of new features. Which means that if you’re an engineer on a piece of software, **you’re the person who’s best able to notice and fix these bugs**. Yes, you might have to convince your boss or your product manager to set aside some time every so often to do so, but I promise your users will be grateful and your product will improve in meaningful ways if you do.
 
 What kinds of things should you be looking for? How can we notice paper cuts when they’re such a part of our daily reality in every app we use? Here’s a list to get you started of some of the most frequent paper cuts I see. I hope it helps in your quest to smooth out the edges of your software—to [paint the back of the fence.](https://www.linkedin.com/pulse/paint-back-fence-chris-clark/)
 
-## Common Papercuts
+## Common Paper Cuts
 
 * **Lougouts**. When I open the app, sometimes I’m randomly logged out for no good reason.
 * **Inconsistent Copy**. The text switches randomly between straight quotes and smart quotes or title case and sentence cases.

@@ -46,7 +46,7 @@ What kinds of things should you be looking for? How can we notice paper cuts whe
 * **Wayfinding**: I can’t easily find Settings, Terms of Service, Privacy Policy, third-party code licenses, etc.
 * **No Primary Action**: The primary action on each screen isn’t differentiated or highlighted, so it’s hard to know what I’m supposed to do.
 * **Dead Ends**: There’s no way out of a screen or flow. Or there’s no way to cancel or delete my account.
-* **Missing States**: Buttons and list items don’t look any different when they’re touched, hovered, or disabled, so it’s hard to know what state they’re in.
+* **Stateless**: Buttons and list items don’t look any different when they’re touched, hovered, or disabled, so it’s hard to know what state they’re in.
 * **Where Was I?**: The app forgets where I was when I reopen it or clears my selection when I go to the background.
 * **Missing Animation**: Rather than smoothly animating to a new state, the UI blinks and updates, like an unfortunate smash cut.
 * **No Errors or Retry**: When I try to do something, the operation fails without any error message or way to retry.

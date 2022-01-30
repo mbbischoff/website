@@ -3,15 +3,15 @@ title: Software Papercuts
 date: 2022-01-17 17:54:00 -05:00
 ---
 
-I’ve been using software every day for almost 20 years. I use it to do my work, create things in my spare time, socialize, relax, and so much more. And if you’ve met me or been reading this site for a while, you know I have very strong opinions about how it should be designed and crafted. But by far my strongest opinion is that almost no one pays enough attention to the papercuts.
+I’ve been using software every day for almost 20 years. I use it to do my work, create things in my spare time, socialize, relax, and so much more. And if you’ve met me or been reading this site for a while, you know I have very strong opinions about how it should be designed and crafted. But by far my strongest opinion is that almost no one pays enough attention to the papercuts. In the field of interaction design, a paper cut is “a trivially fixable usability bug”. The term comes from the Ubuntu team, which decided in 2009 to prioiritize fixing lots of these little niggling issues. 
 
-In the field of interaction design, a paper cut bug is “a trivially fixable usability bug”. Hitting one of these feels a little bit like getting a paper cut, not the end of the world, but certainly unpleasant. These types of tiny annoyances accrete over time, especially when no one is paying attention to them. In a single day of using my phone, I must hit dozens of these little bugs that each annoys me just a little bit, making the task I’m trying to accomplish just a little bit more difficult.  For example, I might notice a button that’s enabled even though it can’t do anything or a form field that has a scroll bar even though there’s no scrolling content.
+Running up against a papercut bug feels a little bit like getting a physical one: not the end of the world, but certainly unpleasant. These types of tiny annoyances accrete over time, especially when no one is paying attention to them. In a single day of using my phone, I encounter dozens of these little bugs that each annoy me just a little bit, making the task I’m trying to accomplish just a little bit more difficult.  For example, I might notice a button that’s enabled even though it can’t do anything or a form field that has a scroll bar even though there’s no scrolling content. The result is that I trust the software I use less. When software isn’t polished, when it’s full of things that feel like papercuts, it becomes less joyful and more frustrating. It sucks all the opportunity for delight out of the room.
 
-The result is that I trust the software I use less. When software isn’t polished, when it’s full of things that feel like papercuts, it becomes less joyful and more frustrating. It sucks all the opportunity for delight out of the room.
+The more insidious thing about these bugs is that they’re almost never reported by users or caught by automated testing tools because they’re too small to complain about and often too obscure to be tested by engineers. Great QA testers can find and file these types of bugs, but they usually flounder at the end of a long backlog of new features. Which means that if you’re an engineer on a piece of software, **you’re the person who’s best able to notice and fix these bugs**. Yes, you might have to convince your boss or your product manager to set aside some time every so often to do so, but I promise your users will be grateful and your product will improve in meaningful ways if you do.
 
-The more insidious thing about these bugs is that they’re almost never reported by users or caught by automated testing tools because they’re too small to complain about and often too obscure to be tested by engineers. This means that if you’re an engineer on a piece of software, you’re the person who’s best able to notice and fix these bugs. Yes, you might have to convince your boss or your product manager to set aside some time every week to do so, but I promise your users will be grateful and your product will improve in meaningful ways if you do.
+What kinds of things should you be looking for? How can we notice paper cuts when they’re such a part of our daily reality in every app we use? Here’s a list to get you started of some of the most frequent paper cuts I see. I hope it helps in your quest to smooth out the edges of your software—to [paint the back of the fence.](https://www.linkedin.com/pulse/paint-back-fence-chris-clark/)
 
-What kinds of things should you be looking for? How can we notice paper cuts when they’re such a part of our daily reality in every app we use? Here’s a list to get you started of some of the most frequent paper cuts I see. I hope it helps in your quest to smooth out the edges of your software, to paint the backside of the fence:
+## Common Papercuts
 
 * **Lougouts**. When I open the app, sometimes I’m randomly logged out for no good reason.
 
@@ -37,13 +37,13 @@ What kinds of things should you be looking for? How can we notice paper cuts whe
 
 * **No Empty View.** A list becomes empty and I’m staring into the void rather than at a nicely designed empty view so I know what I can fill it with.
 
-* **Wafinding**. Can I easily find Settings, Terms of Service, Privacy Policy, third-party code licenses?
+* **Wafinding**. I can’t easily find Settings, Terms of Service, Privacy Policy, third-party code licenses, etc..
 
-* **No Primary Action**. Is the most obvious action on each screen bold or highlighted so I know that’s probably what I want to do? Or does it look just like every other button?
+* **No Primary Action**. The primary action on each screen isn’t differentiated or highligted so it’s hard to know what I’m supposed to do.
 
 * **Dead Ends. **There’s no way out of a screen or flow. Or there’s no way to cancel or delete my account.
 
-* **Missing States**. Do buttons and list items look appropriately different when they’re touched, hovered, disabled or are there states missing?
+* **Missing States**. Buttons and list items don’t look any different when they’re touched, hovered, or disabled so it’s hard to know what state they’re in.
 
 * **Where Was I?** The app forgets where I was when I reopen it or clears my selection when I go to the background.
 
@@ -51,4 +51,4 @@ What kinds of things should you be looking for? How can we notice paper cuts whe
 
 * **No Errors or Retry. **When** **I try to do something, the operation fails without any error message or way to retry.
 
-Use your own own app like a new user on Monday morning. After an hour is your hand covered with paper cuts? What are the bugs you’ve hit so many times in your software that you forgot they were bugs? You know you can fix those, right?
+I challenge you to use your own own app with fresh eyes on Monday morning. After an hour, is your hand covered with paper cuts? What are the bugs you’ve hit so many times in your software that you forgot they were bugs? You know you can fix those, right? Well, get to it.

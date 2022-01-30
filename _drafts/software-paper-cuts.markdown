@@ -49,7 +49,6 @@ What kinds of things should you be looking for? How can we notice paper cuts whe
 * **Missing States**: Buttons and list items don’t look any different when they’re touched, hovered, or disabled, so it’s hard to know what state they’re in.
 * **Where Was I?**: The app forgets where I was when I reopen it or clears my selection when I go to the background.
 * **Missing Animation**: Rather than smoothly animating to a new state, the UI blinks and updates, like an unfortunate smash cut.
-
 * **No Errors or Retry**: When I try to do something, the operation fails without any error message or way to retry.
 
 I challenge you to use your own app with fresh eyes on Monday morning. After an hour, is your hand covered with paper cuts? What are the bugs you’ve hit so many times in the software that you forgot they were bugs? You know you can fix those, right? Well, get to it.

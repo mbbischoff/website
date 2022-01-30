@@ -18,7 +18,7 @@ What kinds of things should you be looking for? How can we notice paper cuts whe
 * **No Undo**: When I change something the UI updates instantly but there’s no way to undo the change, so now I’m out of luck if I don’t remember what I did.
 * **Scroll Hitches**: Scrolling lists cause the app to freeze up or drop frames.
 * **Missing Options**: The app is missing an option for my gender/pronouns or forcing me to fill out a required field that doesn’t apply to me?
-* **Lacking Accessibility**. Some elements are missing labels for screen readers, the visuals have poor contrast, etc. I wrote an entire talk about this.
+* **Lacking Accessibility**. Some elements are missing labels for screen readers, the visuals have poor contrast, etc. (I gave [a whole talk](https://matthewbischoff.com/apps-for-all/) about this.)
 * **Unlocalized**: The copy and date/time formatting doesn’t match my language or region settings.
 * **Typography**: An element is improperly typeset leading to inconsistent margins, cut-off descenders, or illegibility.
 * **Strict Validation**: Overly strict form validation is preventing me from using the name I want to or including an emoji.

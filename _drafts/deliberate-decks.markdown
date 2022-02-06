@@ -5,7 +5,7 @@ date: 2022-02-06 17:24:00 -05:00
 
 Powerpoint presentations get a bad reputation. That’s because most of them are terrible—they’re boring, they’re too long, and they’re full of tiny text and crammed with awkward animations. On the other end of the spectrum, there are the over-produced Keynotes from Apple that have been agonized over by legions of designers to sell you on their latest technology. These seem impossible for mere mortals to put together.
 
-So it’s no wonder that I don’t see many slide decks in my jobs on small to medium-sized software teams. And the ones I do are usually delivered by professional hypesters trying to pitch their startup, eliciting cringes from the software engineers and designers in the room (or the Zoom, as the case may be). But earlier in my career as a builder, I used decks to great effect, and you know what? I miss them. In 2022, I’ve decided I’m bringing back the deck. *Deck Back Better, baby!*
+So it’s no wonder that I don’t see many slide decks in my jobs on small to medium-sized software teams. And the ones I do are usually delivered by professional hypesters trying to pitch their startup, eliciting cringes from the software engineers and designers in the room (or the Zoom, as the case may be). But earlier in my career as a builder, I used decks to great effect, and you know what? I miss them. In 2022, I’m bringing back the deck. *Deck Back Better, baby!*
 
 * * *
 

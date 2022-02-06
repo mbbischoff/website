@@ -23,6 +23,6 @@ This technique worked so well that we used it repeatedly, improving the app many
 
 * * *
 
-**Presentations are made for persuasion.** Solid slides make information digestible; they show that you’ve thought deeply about the problem. And the effort they take to make shows that you’re serious and that you care. You see, anyone can write an email, post a Slack message, throw together an email, or toss a meeting on the books. But few people will take the time to put together a deck.
+**Presentations are made for persuasion.** Solid slides make information digestible; they show that you’ve thought deeply about the problem. And the effort they take to make shows that you’re serious and that you care. Anyone can write an email, post a Slack message, throw together an email, or toss a meeting on the books. But few people will take the time to put together a deck.
 
 The next time you’re trying to convince a group of folks at work who all have different priorities that the team should commit to something you want, give this a shot: **open your slideshow app of choice and make your argument in 40-point type, one slide at a time**. I bet your slides will change more minds than you suspect.

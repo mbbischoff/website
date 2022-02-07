@@ -1,6 +1,15 @@
 ---
 title: Deliberate Decks
-date: 2022-02-06 17:24:00 -05:00
+date: 2022-02-06 23:55:00 -05:00
+categories:
+- tech
+- culture
+- management
+tags:
+- nytimes
+- keynote
+- talks
+- slides
 image: "/uploads/release-notes-2016.jpg"
 description: So it’s no wonder I haven’t seen many slide decks while working on small-
   to medium-sized software teams. And the ones I do are usually delivered by professional

@@ -24,7 +24,7 @@ picture:
   alt: A photo by Ben McCarthy of Mat on stage presenting
 ---
 
-![A photo by Ben McCarthy of Mat on stage presenting](/uploads/release-notes-2016.jpg)
+{% include picture.html %}
 
 Powerpoint presentations get a bad reputation. That’s because most of them are terrible—they’re boring, they’re too long, and they’re full of tiny text and crammed with awkward animations.
 

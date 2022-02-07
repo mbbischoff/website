@@ -35,7 +35,7 @@ So it’s no wonder I don’t see many slide decks working on small software tea
 
 * * *
 
-When my longtime friend and collaborator [Brian Capps](http://briancapps.org) and I worked as iOS engineers and leads at *[The New York Times](https://nytimes.com)*, we noticed something interesting. There were a lot of intractable technical problems in the organization that seemed unsolvable due to politics and inter-team communication roadblocks. Everything from user bug reports, to performance issues, to new features that needed support from the newsroom got backed up this way.
+When my longtime friend and collaborator [Brian Capps](http://twitter.com/bcapps) and I worked as iOS engineers and leads at *[The New York Times](https://nytimes.com)*, we noticed something interesting. There were a lot of intractable technical problems in the organization that seemed unsolvable due to politics and inter-team communication roadblocks. Everything from user bug reports, to performance issues, to new features that needed support from the newsroom got backed up this way.
 
 So, as people who cared deeply about the quality of the products we were building, we searched for any way to get product managers, designers, and business folks all on the same page about what we wanted to fix in the iOS app. The best tool we found (after trying many) was the humble slide deck. 
 

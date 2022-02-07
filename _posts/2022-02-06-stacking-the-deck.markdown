@@ -27,11 +27,11 @@ picture:
 
 {% include picture.html %}
 
-Powerpoint presentations get a bad reputation. That’s because most of them are terrible—they’re boring, they’re too long, and they’re full of tiny text and crammed with awkward animations.
+**PowerPoint presentations get a bad reputation.** That’s because [most of them are terrible](https://en.wikipedia.org/wiki/Sturgeon's_law)—they’re boring, they’re too long, and they’re full of tiny text and awkward animations.
 
-On the other end of the spectrum, there are the [highly-produced Keynotes from Apple](https://medium.com/adventures-in-consumer-technology/this-is-how-we-make-slides-at-apple-b8a84352bf6d) that have been agonized over by legions of designers to sell you on their latest technology. These seem impossible for mere mortals to put together.
+On the other end of the spectrum, there are the [highly-produced Keynotes from Apple](https://medium.com/adventures-in-consumer-technology/this-is-how-we-make-slides-at-apple-b8a84352bf6d) that have been agonized over by legions of designers to sell you the company’s latest products. These decks are so intricate seem impossible for mere mortals to put together.
 
-So it’s no wonder I haven’t seen many slide decks while working on small software teams. And the ones I do are usually delivered by [professional hypesters trying to pitch their startup](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/), eliciting cringes from the designers and developers in the room (or the [Zoom](https://zoom.us), as the case may be). But earlier in my career as a builder, I used decks to great effect, and you know what? I miss them. In 2022, [I’m bringing back the deck](https://matthewbischoff.com/about/#talks). *[Deck Back Better](https://en.wikipedia.org/wiki/Build_Back_Better_Plan), baby!*
+So it’s no wonder I don’t see many slide decks working on small software teams. And the ones I do are usually delivered by [professional hypesters pitching their startup](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/), to cringes from the designers and developers in the room (or the [Zoom](https://zoom.us), as the case may be). But earlier in my career, [I used decks to great effect](/about#talks), and you know what? I miss them. In 2022, [I’m bringing decks(y) back](https://en.wikipedia.org/wiki/SexyBack).
 
 * * *
 
@@ -51,4 +51,4 @@ This technique worked so well that we used it repeatedly, improving the app alon
 
 **Presentations are made for persuasion.** Solid slides make information digestible; they show that you’ve thought deeply about the problem. Putting effort into them shows that you’re serious and that you care. <mark>Anyone can write an email, post a Slack message, or toss a meeting on the books. But few people will take the time to prepare a thoughtful, well-reasoned, and persuasive deck.</mark>
 
-The next time you want to convince your coworkers, despite their differing priorities, to commit to working on something you care about: **open your slideshow app of choice and make your argument in big type, one slide at a time**. I bet your slides will change more minds than you expect.
+The next time you want to convince your coworkers, despite their differing priorities, to commit to working on something you care about: <mark>open your slideshow app of choice and make your argument in big type, one slide at a time.</mark> I bet your slides will change more minds than you expect.

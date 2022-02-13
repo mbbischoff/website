@@ -4,6 +4,7 @@ date: 2022-02-13 10:57:00 -05:00
 categories:
 - tech
 - me
+- appearances
 tags:
 - shortucts
 - mac

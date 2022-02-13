@@ -9,7 +9,7 @@ This Friday, I spent an hour and a half chatting with [Matthew Cassinelli](https
 
 ## 📡 File a Radar
 
-As a power user of Apple software and developer of apps for their platform, I have a lot of, shall we say, feedback. So whenever I run into a [paper cut bug](/software-paper-cuts/) or an API I wish existed, I run this shortcut to file a new feedback (née radar) and then pray it gets addressed years from now in an OS update.
+As a power user of Apple software and developer of apps for their platform, I have a lot of, shall we say, *feedback*. So whenever I run into a [paper cut bug](/software-paper-cuts/) or an API I wish existed, I run this shortcut to file a new feedback (née radar) and then pray it gets addressed years from now in an OS update.
 
 **[⬇ Download Shortcut](https://www.icloud.com/shortcuts/09d1b78eb173464897bb7802ed7cc8a5)**
 

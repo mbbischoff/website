@@ -11,6 +11,7 @@ tags:
 - wallpaper
 - slack
 - streamdeck
+image: "/uploads/shortcuts-guest.webp"
 description: Here are 5 of those shortcuts that I use every day, with a brief explanation
   of why they save me so much time and links to download them.
 picture:

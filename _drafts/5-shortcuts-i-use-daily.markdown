@@ -36,3 +36,7 @@ We use Slack statuses at [Lickability](http://lickability.com) to communicate al
 At the end of the workday, I like to step away from my desk and start unwinding. I run this shortcut from a button on my StreamDeck. It quits all my apps, turns on my favorite screensaver, and mutes my computer so notification sounds don’t draw me back into work. A little simple ritual for leaving my Mac how I want it for the next day.
 
 **[⬇ Download Shortcut](https://www.icloud.com/shortcuts/d0de89d2ad15465dbe6fc73876bfece3)**
+
+* * *
+
+That’s all for now! I hope these shortcuts speed up your workflows as much as they have mine. If you enjoyed this post, [let me know on Twitter]( https://twitter.com/intent/tweet?text=@mb), and maybe I’ll share more in the future.

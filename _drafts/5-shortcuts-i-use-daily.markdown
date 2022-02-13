@@ -5,11 +5,29 @@ date: 2022-02-13 10:57:00 -05:00
 
 {% include youtube.html id="9T-cRosrXCc" %}
 
-This Friday I spent an hour and a half chatting with
-Matthew Cassinelli about how I use Apple’s Shortcuts app to simplify my work and life. We went through 13 of my 156 custom-built shortcuts, showing both how they work and how they’re built, and answered questions from the chat. As promised on the stream, here are 5 of those shortcuts that I use every day, with links to download and a brief explanation of why they save me so much time.
+This Friday, I spent an hour and a half chatting with Matthew Cassinelli about using Apple’s Shortcuts app to simplify my work and life. We went through 13 of my 156 custom-built shortcuts, showing how they work and how I built them, and answered questions from the chat. As promised on the stream, here are 5 of those shortcuts that I use every day, with links to download and a brief explanation of why they save me so much time.
 
-## File a Radar
+## 📡 File a Radar
 
-As a power user of Apple software and developer of apps for their platform, I have a lot of, shall we say, feedback. Every time I run into a paper cut or an API I wish existed, I run this shortcut to file a new feedback (née radar) with the mothership and pray it gets addressed years from now in an OS update.
+As a power user of Apple software and developer of apps for their platform, I have a lot of, shall we say, feedback. So whenever I run into a [paper cut bug](/software-paper-cuts/) or an API I wish existed, I run this shortcut to file a new feedback (née radar) and then pray it gets addressed years from now in an OS update.
 
 [⬇ Download Shortcut](https://www.icloud.com/shortcuts/09d1b78eb173464897bb7802ed7cc8a5)
+
+## 💻 Change Mac Wallpaper
+
+My MacBook sports a daily random [wallpaper](http://gum.co/afzw) illustrated by the supremely talented artist [David Lanham](https://www.dlanham.com/), whom I’ve followed for decades. But sometimes, macOS chooses an image that doesn’t fit the day’s mood. It’s times like these I run this shortcut to have the OS change my wallpaper to another random image from David’s collection without waiting for the following day when it will refresh again. The clever AppleScript it relies on was written by a user of the MacWorld forum.
+
+[⬇ Download Shortcut](https://www.icloud.com/shortcuts/ef404c9af0984efb87c2eff96fa2e7aa)
+
+## 🗓 Move Calendar Events
+
+I [hyperschedule](https://www.relay.fm/automators/1) my day in [Fantastical](https://flexibits.com/fantastical), blocking out events for everything from work meetings to workouts to leisure reading. But sometimes, I get delayed (or overly ambitious), and I need to shift a whole bunch of events later in the day. That’s where this shortcut comes in. It’s so much faster than tapping through every event individually. Tell it how long you want to delay things, tap the events you want to move, and you’re done.
+
+[⬇ Download Shortcut](https://www.icloud.com/shortcuts/110550cbf29341f8a1b32c99da9a3547)
+
+
+## 💬 Update Slack Status
+
+We use Slack statuses at [Lickability](http://lickability.com) to communicate all kinds of things: lunch breaks, doctor’s appointments, vacations, and more. This handy shortcut from Jake Bathman, which I’ve lightly customized, lets me update my Slack status from anywhere without even opening the Slack app. And it’s even better than that! I can even use it from _within_ other shortcuts to automate my status. Jake has written a [detailed setup guide](https://medium.com/@jakebathman/setting-up-a-slack-app-for-use-with-ios-shortcuts-e8e16b15d0f3) that makes it super simple to use.
+
+[⬇ Download Shortcut](https://routinehub.co/shortcut/2438)

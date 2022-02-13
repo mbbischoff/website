@@ -33,7 +33,7 @@ As a power user of Apple software and developer of apps for their platform, I ha
 
 ### 💻 Change Mac Wallpaper
 
-My MacBook sports a daily random [wallpaper](http://gum.co/afzw) illustrated by the supremely talented artist [David Lanham](https://www.dlanham.com/), whom I’ve followed for decades. But sometimes, macOS chooses an image that doesn’t fit the day’s mood. It’s times like these I run this shortcut to have the OS change my wallpaper to another random image from David’s collection without waiting for the following day when it will refresh again. The clever AppleScript it relies on was written by a user of the MacWorld forum.
+My MacBook sports a daily random [wallpaper](http://gum.co/afzw) illustrated by the supremely talented artist [David Lanham](https://www.dlanham.com/), whom I’ve followed for decades. But sometimes, macOS chooses an image that doesn’t fit the day’s mood. It’s times like these I run this shortcut to have the OS change my wallpaper to another random image from David’s collection without waiting for the following day when it will refresh again. The clever AppleScript it uses was written by a user of the MacWorld forum.
 
 **[⬇ Download Shortcut](https://www.icloud.com/shortcuts/ef404c9af0984efb87c2eff96fa2e7aa)**
 

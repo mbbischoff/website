@@ -3,7 +3,7 @@ title: 5 Shortcuts I Use Daily
 date: 2022-02-13 10:57:00 -05:00
 ---
 
-{% include youtube.html id="9T-cRosrXCc" %}
+{% include youtube.html id="6SBwagMm0jA" %}
 
 This Friday, I spent an hour and a half chatting with Matthew Cassinelli about using Apple’s Shortcuts app to simplify my work and life. We went through 13 of my 156 custom-built shortcuts, showing how they work and how I built them, and answered questions from the chat. As promised on the stream, here are 5 of those shortcuts that I use every day, with links to download and a brief explanation of why they save me so much time.
 

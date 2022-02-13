@@ -1,6 +1,16 @@
 ---
 title: 5 Shortcuts I Use Daily
 date: 2022-02-13 10:57:00 -05:00
+tags:
+- shortucts
+- mac
+- ios
+- Matthew Cassinelli
+- radar
+- calendar
+- wallpaper
+- slack
+- streamdeck
 description: Here are 5 of those shortcuts that I use every day, with a brief explanation
   of why they save me so much time and links to download them.
 picture:
@@ -41,7 +51,7 @@ We use Slack statuses at [Lickability](http://lickability.com) to communicate al
 
 ### 🔋 Power Down
 
-At the end of the workday, I like to step away from my desk and start unwinding. I run this shortcut from a button on my StreamDeck. It quits all my apps, turns on my favorite screensaver, and mutes my computer so notification sounds don’t draw me back into work. A little simple ritual for leaving my Mac how I want it for the next day.
+At the end of the workday, I like to step away from my desk and start unwinding. I run this shortcut from a button on my [StreamDeck](https://www.elgato.com/en/stream-deck-xl). It quits all my apps, turns on my favorite screensaver, and mutes my computer so notification sounds don’t draw me back into work. A little simple ritual for leaving my Mac how I want it for the next day.
 
 **[⬇ Download Shortcut](https://www.icloud.com/shortcuts/d0de89d2ad15465dbe6fc73876bfece3)**
 

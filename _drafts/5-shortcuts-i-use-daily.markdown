@@ -31,3 +31,10 @@ I [hyperschedule](https://www.relay.fm/automators/1) my day in [Fantastical](htt
 We use Slack statuses at [Lickability](http://lickability.com) to communicate all kinds of things: lunch breaks, doctor’s appointments, vacations, and more. This handy shortcut from Jake Bathman, which I’ve lightly customized, lets me update my Slack status from anywhere without even opening the Slack app. And it’s even better than that! I can even use it from _within_ other shortcuts to automate my status. Jake has written a [detailed setup guide](https://medium.com/@jakebathman/setting-up-a-slack-app-for-use-with-ios-shortcuts-e8e16b15d0f3) that makes it super simple to use.
 
 [⬇ Download Shortcut](https://routinehub.co/shortcut/2438)
+
+
+## 🔋 Power Down
+
+At the end of the workday, I like to step away from my desk and start unwinding. I run this shortcut from a button on my StreamDeck. It quits all my apps, turns on my favorite screensaver, and mutes my computer so notification sounds don’t draw me back into work. A little simple ritual for leaving my Mac how I want it for the next day.
+
+[⬇ Download Shortcut](https://www.icloud.com/shortcuts/d0de89d2ad15465dbe6fc73876bfece3)

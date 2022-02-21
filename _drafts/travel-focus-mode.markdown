@@ -1,6 +1,10 @@
 ---
 title: Travel Focus Mode
 date: 2021-12-04 11:52:00 -05:00
+image: "/uploads/IMG_A89BAEEA3FEE-1.jpeg"
+description: Last summer, I visited Toronto to see my wife after being separated by
+  pandemic-related border closures for months. I decided to use that trip as an excuse
+  to test out the new iOS 15 Focus Mode feature.
 ---
 
 Last summer, I visited Toronto to see my wife after being separated by pandemic-related border closures for months. I decided to use that trip as an excuse to test out the new iOS 15 Focus Mode feature.
@@ -41,3 +45,6 @@ From top to button, I include widgets that display:
 4. **Weather**: The current conditions in my destination city
 5. **Clock**: The current time at my destination, espcailly useful if changing time zones
 6. **Batteries**: Reminds me when I need to charge my devices, or where I need to conserve power while waiting through long delays
+
+## The Watch Face
+

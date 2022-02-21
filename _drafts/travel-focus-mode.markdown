@@ -49,11 +49,11 @@ I found that this tiny automation made the somewhat stressful process of interna
 
 From top to button, I include widgets that display:
 
-1. **[Flighty](https://www.flightyapp.com)**: My gate, check-in, departure, and arrival time
-2. **Find My**: The location of my suitcase (via an AirTag), so I know when it’s getting close to me on the arrival side if I’ve checked it
-3. **Notes**: A permanant note called “Travel Documents” that always contains my boarding pass screenshot, COVID test, and anything else I may need to board.
-4. **Weather**: The current conditions in my destination city
-5. **Clock**: The current time at my destination, espcailly useful if changing time zones
-6. **Batteries**: Reminds me when I need to charge my devices, or where I need to conserve power while waiting through long delays
+* **[Flighty](https://www.flightyapp.com)**: My gate, check-in, departure, and arrival time
+* **Find My**: The location of my suitcase (via an AirTag), so I know when it’s getting close to me on the arrival side if I’ve checked it
+* **Notes**: A permanant note called “Travel Documents” that always contains my boarding pass screenshot, COVID test, and anything else I may need to board.
+* **Weather**: The current conditions in my destination city
+* **Clock**: The current time at my destination, espcailly useful if changing time zones
+* **Batteries**: Reminds me when I need to charge my devices, or where I need to conserve power while waiting through long delays
 
 ## The Watch Face

@@ -29,6 +29,8 @@ I found that this tiny automation made the somewhat stressful process of interna
 
 ## The Travel Home Screen
 
+![IMG_A89BAEEA3FEE-1.jpeg](/uploads/IMG_A89BAEEA3FEE-1.jpeg)
+
 *[Create and hide this home screen](https://support.apple.com/en-me/HT211345) by tapping on the page dots on your home screen while in editing mode.*
 
 From top to button, I include widgets that display:

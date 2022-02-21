@@ -1,6 +1,15 @@
 ---
 title: Travel Focus Mode
 date: 2021-12-04 11:52:00 -05:00
+categories:
+- tech
+- me
+tags:
+- travel
+- focus modes
+- ios
+- features
+- automation
 image: "/uploads/IMG_A89BAEEA3FEE-1.jpeg"
 description: Last summer, I visited Toronto to see my wife after being separated by
   pandemic-related border closures for months. I decided to use that trip as an excuse

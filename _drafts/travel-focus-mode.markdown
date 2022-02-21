@@ -23,21 +23,22 @@ Here’s how it works. I set up a [special focus mode](https://twitter.com/mb/st
 I found that this tiny automation made the somewhat stressful process of international air travel just a little bit smoother, and I’m looking forward to using it again when I fly to see her again soon 🤞. So, in the interest of sharing, here are my settings in case you want to use them to build your own travel focus mode.
 
 ## The Travel Focus Mode
+
 ![IMG_5D589AFC3996-1.jpeg](/uploads/IMG_5D589AFC3996-1.jpeg)
 
 *[Set this up in Settings → Focus](https://support.apple.com/en-us/HT212608).*
 
 <dl>
-  <dt>Allowed Notifications</dt>
-  <dd>Messages from friends, family, Find My, Kindle, Flighty, App in The Air, Uber. I also allow any time-sensitive notifications.</dd>
-  <dt>Focus Status</dt>
-  <dd>Off. I don’t need to telegraph to the whole world that I’m traveling, because I’ll still check hidden notifications, just less frequently.</dd>
-  <dt>Home Screen</dt>
-  <dd>Enable the custom tavel page and disable all other pages.</dd>
-  <dt>Home Screen</dt>
-  <dd>Enable the custom tavel page and disable all other pages.</dd>
-  <dt>Name & Appearance</dt>
-  <dd>I use a purple map pin icon, because I wasn’t using purple for anything else, and there’s no airplane icon available. 📍</dd>
+<dt>Allowed Notifications</dt>
+<dd>Messages from friends, family, Find My, Kindle, Flighty, App in The Air, Uber. I also allow any time-sensitive notifications.</dd>
+<dt>Focus Status</dt>
+<dd>Off. I don’t need to telegraph to the whole world that I’m traveling, because I’ll still check hidden notifications, just less frequently.</dd>
+<dt>Home Screen</dt>
+<dd>Enable the custom tavel page and disable all other pages.</dd>
+<dt>Home Screen</dt>
+<dd>Enable the custom tavel page and disable all other pages.</dd>
+<dt>Name & Appearance</dt>
+<dd>I use a purple map pin icon, because I wasn’t using purple for anything else, and there’s no airplane icon available. 📍</dd>
 </dl>
 
 ## The Travel Home Screen
@@ -56,4 +57,3 @@ From top to button, I include widgets that display:
 6. **Batteries**: Reminds me when I need to charge my devices, or where I need to conserve power while waiting through long delays
 
 ## The Watch Face
-

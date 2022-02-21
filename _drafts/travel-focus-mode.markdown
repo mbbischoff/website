@@ -22,11 +22,10 @@ Here’s how it works. I set up a [special focus mode](https://twitter.com/mb/st
 
 I found that this tiny automation made the somewhat stressful process of international air travel just a little bit smoother, and I’m looking forward to using it again when I fly to see her again soon 🤞. So, in the interest of sharing, here are my settings in case you want to use them to build your own travel focus mode.
 
-## The Travel Focus Mode
-
-![IMG_5D589AFC3996-1.jpeg](/uploads/IMG_5D589AFC3996-1.jpeg)
-
+### Travel Focus Mode
 *[Set this up in Settings → Focus](https://support.apple.com/en-us/HT212608).*
+
+[travel-focus.PNG](/uploads/travel-focus.PNG)
 
 
 * **Allowed Notifications**: Messages from friends, family, Find My, Kindle, Flighty, App in The Air, Uber. I also allow any time-sensitive notifications.
@@ -34,19 +33,19 @@ I found that this tiny automation made the somewhat stressful process of interna
 * **Home Screen**: Enable the custom tavel page and disable all other pages.
 * **Name & Appearance**: I use a purple map pin icon, because I wasn’t using purple for anything else, and there’s no airplane icon available. 📍
 
-## The Travel Home Screen
-
-![IMG_A89BAEEA3FEE-1.jpeg](/uploads/IMG_A89BAEEA3FEE-1.jpeg)
-
+### Travel Home Screen
 *[Create and hide this home screen](https://support.apple.com/en-me/HT211345) by tapping on the page dots on your home screen while in editing mode.*
+
+[travel-homescreen.PNG](/uploads/travel-homescreen.PNG)
 
 From top to button, I include widgets that display:
 
-* **[Flighty](https://www.flightyapp.com)**: My gate, check-in, departure, and arrival time
-* **Find My**: The location of my suitcase (via an AirTag), so I know when it’s getting close to me on the arrival side if I’ve checked it
-* **Notes**: A permanant note called “Travel Documents” that always contains my boarding pass screenshot, COVID test, and anything else I may need to board.
-* **Weather**: The current conditions in my destination city
-* **Clock**: The current time at my destination, espcailly useful if changing time zones
-* **Batteries**: Reminds me when I need to charge my devices, or where I need to conserve power while waiting through long delays
+* ✈️ **[Flighty](https://www.flightyapp.com)**: My gate, check-in, departure, and arrival time
+* 🧳 **Find My**: The location of my suitcase (via an AirTag), so I know when it’s getting close to me on the arrival side if I’ve checked it
+* 📒 **Notes**: A permanant note called “Travel Documents” that always contains my boarding pass screenshot, COVID test, and anything else I may need to board.
+* 🌨 **Weather**: The current conditions in my destination city
+* ⏰ **Clock**: The current time at my destination, espcailly useful if changing time zones
+* 🔋 **Batteries**: Reminds me when I need to charge my devices, or where I need to conserve power while waiting through long delays
 
-## The Watch Face
+### Apple Watch Face
+

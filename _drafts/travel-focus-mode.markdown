@@ -27,7 +27,6 @@ I found that this tiny automation made the somewhat stressful process of interna
 
 [travel-focus.PNG](/uploads/travel-focus.PNG)
 
-
 * **Allowed Notifications**: Messages from friends, family, Find My, Kindle, Flighty, App in The Air, Uber. I also allow any time-sensitive notifications.
 * **Focus Status**: Off. I don’t need to telegraph to the whole world that I’m traveling, because I’ll still check hidden notifications, just less frequently.
 * **Home Screen**: Enable the custom tavel page and disable all other pages.

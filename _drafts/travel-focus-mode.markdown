@@ -30,7 +30,7 @@ I found that this automation made the process of international air travel a lot 
 🔴 **Allowed Notifications**: Messages from friends, family, Find My, Kindle, Flighty, App in The Air, Uber, and any time-sensitive notifications  
 ⛔️ **Focus Status**: Off. I don’t need to telegraph to the whole world that I’m unavailable because I still check other notifications, just less frequently  
 📱 **Home Screen**: Enable the custom travel page and disable all other pages   
-📍 **Name & Appearance**: I use a purple map pin icon because I wasn’t using purple yet, and there’s no airplane icon
+📍 **Name & Appearance**: I use a purple map pin icon because I wasn’t using purple yet, and there’s no airplane icon  
 🎛 **Turn on Automatically**: While at JFK, LaGuardia, or Toronto Pearson and when using Flighty.
 
 

@@ -23,7 +23,7 @@ I set up a [focus mode](https://twitter.com/mb/status/1429069655629500416) calle
 I found that this automation made the process of international air travel a lot smoother, and I’m looking forward to using it again when I fly to see her again soon 🤞. In the interest of sharing, here are my settings in case you want to use them as inspiration to build your personal travel focus mode.
 
 ### Travel Focus Mode
-*[Set this up in Settings → Focus](https://support.apple.com/en-us/HT212608).*
+*[Set up in Settings → Focus](https://support.apple.com/en-us/HT212608)*
 
 ![travel-focus.PNG](/uploads/travel-focus.PNG)
 
@@ -35,7 +35,7 @@ I found that this automation made the process of international air travel a lot 
 
 
 ### Travel Home Screen
-*[Create and hide this home screen](https://support.apple.com/en-me/HT211345) by tapping on the page dots on your home screen while in editing mode.*
+*[Create and hide this home screen](https://support.apple.com/en-me/HT211345) by tapping on the page dots while in editing mode*
 
 ![travel-homescreen.PNG](/uploads/travel-homescreen.PNG)
 

@@ -61,4 +61,4 @@ The watch displays the things I need to be able to glance at the most frequently
 
 * * * 
 
-Hopefully when you’re able to travel safely again, a travel focus mode will make your journey less of a headache. And for an extended discussion of how Myke Hurley and CGP Grey have adopeted this idea in their own lives, listen to [episode 124 of the wonderful Cortex podcast](https://www.relay.fm/cortex/124).
+Hopefully when you’re able to travel safely again, a travel focus mode will make your trek less of a headache. And for an extended discussion of how Myke Hurley and CGP Grey have adopeted this idea in their own lives, listen to [episode 124 of the wonderful Cortex podcast](https://www.relay.fm/cortex/124).

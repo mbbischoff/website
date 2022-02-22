@@ -27,10 +27,10 @@ I found that this tiny automation made the somewhat stressful process of interna
 
 [travel-focus.PNG](/uploads/travel-focus.PNG)
 
-* **Allowed Notifications**: Messages from friends, family, Find My, Kindle, Flighty, App in The Air, Uber. I also allow any time-sensitive notifications.
-* **Focus Status**: Off. I don’t need to telegraph to the whole world that I’m traveling, because I’ll still check hidden notifications, just less frequently.
-* **Home Screen**: Enable the custom tavel page and disable all other pages.
-* **Name & Appearance**: I use a purple map pin icon, because I wasn’t using purple for anything else, and there’s no airplane icon available. 📍
+* **Allowed Notifications**: Messages from friends, family, Find My, Kindle, Flighty, App in The Air, Uber. I also allow any time-sensitive notifications
+* **Focus Status**: Off. I don’t need to telegraph to the whole world that I’m traveling, because I’ll still check hidden notifications, just less frequently
+* **Home Screen**: Enable the custom tavel page and disable all other pages
+* **Name & Appearance**: I use a purple map pin icon, because I wasn’t using purple for anything else, and there’s no airplane icon available 📍
 
 ### Travel Home Screen
 *[Create and hide this home screen](https://support.apple.com/en-me/HT211345) by tapping on the page dots on your home screen while in editing mode.*
@@ -47,4 +47,18 @@ From top to button, I include widgets that display:
 * 🔋 **Batteries**: Reminds me when I need to charge my devices, or where I need to conserve power while waiting through long delays
 
 ### Apple Watch Face
+*Set this up in the Apple Watch app or on your watch, then use Shortcuts automation to change to it when the Travel is on.*
 
+[watch.PNG](/uploads/watch.PNG)
+
+The watch displays the things I need to be able to glance at the most frequently while in lines or moving around the airport. I use the Infograph Modular face to pack a lot of info onscreen at once.
+
+* 🌎 **Earth**: Mostly just looks cool and reminds me I’m in the travel mode
+* ✈️ **App in the Air**: Flighty doesn’t have a watch app, so I continue to use App in the Air to check my gate / boarding time from my wrist
+* 💬 **Messages**: It’s handy to have one tap way to message Kate that I’m delayed or arriving!
+* 🧳 **Find My Items**: Another way to get to info about where my suitcase is
+* 🌥 **Weather**: Gotta know whether to take that jacket out of my backpack or not when I arrive
+
+* * * 
+
+Hopefully when you’re able to travel safely again, you’ll give this a shot and it will make your travel days less of a headache. And for an extended discussion of how Myke Hurley and CGP Grey have adopeted this idea in their own lives, listen to [episode 124 of the wonderful Cortex podcast](https://www.relay.fm/cortex/124).

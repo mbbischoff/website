@@ -33,11 +33,11 @@ I found that this automation made the process of international air travel a lot 
 
 ![travel-focus.PNG](/uploads/travel-focus.PNG)
 
-🔴 **Allowed Notifications**: Messages from friends, family, Find My, Kindle, Flighty, App in The Air, Uber, and any time-sensitive notifications\
-⛔️ **Focus Status**: Off. I don’t need to telegraph to the whole world that I’m unavailable because I still check other notifications, just less frequently\
-📱 **Home Screen**: Enable the custom travel page and disable all other pages\
-📍 **Name & Appearance**: I use a purple map pin icon because I wasn’t using purple yet, and there’s no airplane icon\
-🎛 **Turn on Automatically**: While at JFK, LaGuardia, or Toronto Pearson and when using Flighty.
+🔴 **Allowed Notifications**: Messages from friends, family, Find My, Kindle, Flighty, App in The Air, Uber, and any time-sensitive notifications  
+⛔️ **Focus Status**: Off. I don’t need to telegraph to the whole world that I’m unavailable because I still check other notifications, just less frequently  
+📱 **Home Screen**: Enable the custom travel page and disable all other pages  
+📍 **Name & Appearance**: I use a purple map pin icon because I wasn’t using purple yet, and there’s no airplane icon  
+🎛 **Turn on Automatically**: While at JFK, LaGuardia, or Toronto Pearson and when using Flighty  
 
 ### Travel Home Screen
 
@@ -47,12 +47,12 @@ I found that this automation made the process of international air travel a lot 
 
 I include widgets from:
 
-✈️ **[Flighty](https://www.flightyapp.com)**: My gate, check-in, departure, and arrival time\
-🧳 **Find My**: The location of my suitcase (via an [AirTag](https://www.apple.com/airtag/)), so I know when it’s nearby if I’ve checked it\
-📒 **Notes**: A note called “Travel Documents” that always contains my boarding pass, COVID test, and anything else I may need to board\
-🌨 **Weather**: The current conditions in my destination city\
-⏰ **Clock**: The current time at my destination (useful if changing time zones)\
-🔋 **Batteries**: Reminds me when I need to charge my devices or where I need to conserve power during delays
+✈️ **[Flighty](https://www.flightyapp.com)**: My gate, check-in, departure, and arrival time  
+🧳 **Find My**: The location of my suitcase (via an [AirTag](https://www.apple.com/airtag/)), so I know when it’s nearby if I’ve checked it  
+📒 **Notes**: A note called “Travel Documents” that always contains my boarding pass, COVID test, and anything else I may need to board  
+🌨 **Weather**: The current conditions in my destination city  
+⏰ **Clock**: The current time at my destination (useful if changing time zones)  
+🔋 **Batteries**: Reminds me when I need to charge my devices or where I need to conserve power during delays  
 
 ### Apple Watch Face
 
@@ -62,11 +62,11 @@ I include widgets from:
 
 The watch displays what I need to glance at most while in line or moving around the airport. I use the Infograph Modular face to pack a lot of info onscreen at once.
 
-🌎 **Earth**:  Looks cool and reminds me I’m in the travel mode\
-✈️ **App in the Air**: Flighty doesn’t have a watch app, so I continue to use [App in the Air](https://www.appintheair.mobi) to check my gate/boarding time from my wrist\
-💬 **Messages**: It’s handy to have a one-tap way to message Kate that I’m delayed or arriving!\
-🧳 **Find My Items**: A faster way to locate my suitcase\
-🌥 **Weather**: Will I need my coat or umbrella when I arrive?
+🌎 **Earth**: Looks cool and reminds me I’m in the travel mode   
+✈️ **App in the Air**: Flighty doesn’t have a watch app, so I continue to use [App in the Air](https://www.appintheair.mobi) to check my gate/boarding time from my wrist  
+💬 **Messages**: It’s handy to have a one-tap way to message Kate that I’m delayed or arriving!  
+🧳 **Find My Items**: A faster way to locate my suitcase  
+🌥 **Weather**: Will I need my coat or umbrella when I arrive?  
 
 ---
 

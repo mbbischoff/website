@@ -27,10 +27,10 @@ I found that this tiny automation made the somewhat stressful process of interna
 
 [travel-focus.PNG](/uploads/travel-focus.PNG)
 
-* **Allowed Notifications**: Messages from friends, family, Find My, Kindle, Flighty, App in The Air, Uber. I also allow any time-sensitive notifications
-* **Focus Status**: Off. I don’t need to telegraph to the whole world that I’m traveling, because I’ll still check hidden notifications, just less frequently
-* **Home Screen**: Enable the custom tavel page and disable all other pages
-* **Name & Appearance**: I use a purple map pin icon, because I wasn’t using purple for anything else, and there’s no airplane icon available 📍
+* 🔴 **Allowed Notifications**: Messages from friends, family, Find My, Kindle, Flighty, App in The Air, Uber. I also allow any time-sensitive notifications
+* ⛔️ **Focus Status**: Off. I don’t need to telegraph to the whole world that I’m traveling, because I’ll still check hidden notifications, just less frequently
+* 📱 **Home Screen**: Enable the custom tavel page and disable all other pages
+* 📍 **Name & Appearance**: I use a purple map pin icon, because I wasn’t using purple for anything else, and there’s no airplane icon available
 
 ### Travel Home Screen
 *[Create and hide this home screen](https://support.apple.com/en-me/HT211345) by tapping on the page dots on your home screen while in editing mode.*

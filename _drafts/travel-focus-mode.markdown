@@ -63,7 +63,7 @@ I include widgets from:
 The watch displays what I need to glance at most while in line or moving around the airport. I use the Infograph Modular face to pack a lot of info onscreen at once.
 
 🌎 **Earth**: Looks cool and reminds me I’m in the travel mode   
-✈️ **App in the Air**: Flighty doesn’t have a watch app, so I continue to use [App in the Air](https://www.appintheair.mobi) to check my gate/boarding time from my wrist  
+✈️ [**App in the Air**](https://www.appintheair.mobi): Flighty doesn’t have a watch app, so I continue to use App in the Air to check my gate/boarding time from my wrist  
 💬 **Messages**: It’s handy to have a one-tap way to message Kate that I’m delayed or arriving!  
 🧳 **Find My Items**: A faster way to locate my suitcase  
 🌥 **Weather**: Will I need my coat or umbrella when I arrive?  

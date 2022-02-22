@@ -1,6 +1,6 @@
 ---
 title: The Travel Focus Mode
-date: 2021-12-04 11:52:00 -05:00
+date: 2022-02-02 11:52:00 -05:00
 categories:
 - tech
 - me

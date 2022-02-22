@@ -20,7 +20,7 @@ Last summer, I visited Toronto to see [my wife](https://twitter.com/girly_juice)
 
 I set up a [focus mode](https://twitter.com/mb/status/1429069655629500416) called **Travel** that I manually activate or switch into automatically when I launch a flight tracking app or visit frequented airports. When I’m in this mode, a few things happen: my home screen switches to a (usually hidden) page that displays widgets for apps I always find myself searching for when I fly, my Apple Watch shows a special travel watch face, and notifications silence except for the people and apps that I’m expecting to interact with while traveling.
 
-I found that this automation made the process of international air travel a lot smoother, and I’m looking forward to using it again when I fly to see her again soon 🤞. In the interest of sharing, here are my settings in case you want to use them to build your own travel focus mode.
+I found that this automation made the process of international air travel a lot smoother, and I’m looking forward to using it again when I fly to see her again soon 🤞. In the interest of sharing, here are my settings in case you want to use them to build your personal travel focus mode.
 
 ### Travel Focus Mode
 *[Set this up in Settings → Focus](https://support.apple.com/en-us/HT212608).*
@@ -28,9 +28,9 @@ I found that this automation made the process of international air travel a lot 
 ![travel-focus.PNG](/uploads/travel-focus.PNG)
 
 🔴 **Allowed Notifications**: Messages from friends, family, Find My, Kindle, Flighty, App in The Air, Uber, and any time-sensitive notifications  
-⛔️ **Focus Status**: Off. I don’t need to telegraph to the whole world that I’m unavailable, because I still check other notifications, just less frequently  
+⛔️ **Focus Status**: Off. I don’t need to telegraph to the whole world that I’m unavailable because I still check other notifications, just less frequently  
 📱 **Home Screen**: Enable the custom travel page and disable all other pages   
-📍 **Name & Appearance**: I use a purple map pin icon, because I wasn’t using purple yet, and there’s no airplane icon
+📍 **Name & Appearance**: I use a purple map pin icon because I wasn’t using purple yet, and there’s no airplane icon
 🎛 **Turn on Automatically**: While at JFK, LaGuardia, or Toronto Pearson and when using Flighty.
 
 
@@ -53,14 +53,14 @@ I include widgets from:
 
 ![watch.PNG](/uploads/watch.PNG)
 
-The watch displays the things I need to glance at most while in line or moving around the airport. I use the Infograph Modular face to pack a lot of info onscreen at once.
+The watch displays what I need to glance at most while in line or moving around the airport. I use the Infograph Modular face to pack a lot of info onscreen at once.
 
 🌎 **Earth**:  Looks cool and reminds me I’m in the travel mode  
 ✈️ **App in the Air**: Flighty doesn’t have a watch app, so I continue to use [App in the Air](https://www.appintheair.mobi) to check my gate/boarding time from my wrist  
-💬 **Messages**: It’s handy to have one-tap way to message Kate that I’m delayed or arriving!  
+💬 **Messages**: It’s handy to have a one-tap way to message Kate that I’m delayed or arriving!  
 🧳 **Find My Items**: A faster way to locate my suitcase 
 🌥 **Weather**: Should I take the jacket out of my backpack or not when I arrive?
 
 * * * 
 
-I hope when you’re able to travel safely again, a focus mode like this will make your trek less of a headache. And for an discussion of how [Myke Hurley](https://twitter.com/imyke?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and [CGP Grey](https://twitter.com/cgpgrey) have adopted this idea in their own travels, listen to [episode #124 of the Cortex podcast](https://www.relay.fm/cortex/124).
+I hope when you’re able to travel safely again, a focus mode like this will make your trek less of a headache. And for a discussion of how [Myke Hurley](https://twitter.com/imyke?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and [CGP Grey](https://twitter.com/cgpgrey) have adopted this idea in their travels, listen to [episode #124 of the Cortex podcast](https://www.relay.fm/cortex/124).

@@ -20,7 +20,7 @@ Last summer, I visited Toronto to see [my wife](https://twitter.com/girly_juice)
 
 I set up a [focus mode](https://twitter.com/mb/status/1429069655629500416) called **Travel** that I manually activate or switch into automatically when I launch a flight tracking app or arrive at the airport. When I’m in this mode, a few things happen: my home screen switches to a (usually hidden) page that displays widgets for apps I always find myself searching for when I fly, my Apple Watch shows a special travel watch face, and notifications silence except for the people and apps that I’m expecting to interact with while traveling.
 
-I found that this automation made the process of international air travel a lot smoother, and I’m looking forward to using it again when I fly to see her again soon 🤞. In the interest of sharing, here are my settings in case you want to use them to build your personal travel focus mode.
+I found that this automation made the process of international air travel a lot smoother, and I’m looking forward to using it again when I fly to see her again soon 🤞. In the interest of sharing, here are my settings in case you want to use them as inspiration to build your personal travel focus mode.
 
 ### Travel Focus Mode
 *[Set this up in Settings → Focus](https://support.apple.com/en-us/HT212608).*

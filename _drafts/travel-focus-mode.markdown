@@ -1,5 +1,5 @@
 ---
-title: Travel Focus Mode
+title: My Travel Focus Mode
 date: 2021-12-04 11:52:00 -05:00
 categories:
 - tech

@@ -70,4 +70,4 @@ The watch displays what I need to glance at most while in line or moving around 
 
 ---
 
-I hope when you’re able to travel safely again, a focus mode like this will make your trek less of a headache. For a discussion of how [Myke Hurley](https://twitter.com/imyke?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and [CGP Grey](https://twitter.com/cgpgrey) have adopted this idea in their travels, listen to [episode #124 of the Cortex podcast](https://www.relay.fm/cortex/124).
+I hope when you’re able to travel safely again, a focus mode like this will make your trek less of a headache. For a discussion of how [Myke Hurley](https://twitter.com/imyke?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and [CGP Grey](https://twitter.com/cgpgrey) have adopted this idea in their travels, listen to [episode #124 of Cortex](https://www.relay.fm/cortex/124).

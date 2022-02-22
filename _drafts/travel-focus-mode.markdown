@@ -41,7 +41,7 @@ I found that this automation made the process of international air travel a lot 
 
 ### Travel Home Screen
 
-*[Create and hide this home screen](https://support.apple.com/en-me/HT211345) by tapping on the page dots while in editing mode*
+*[Create and hide a home screen](https://support.apple.com/en-me/HT211345) from the page dots while in editing mode*
 
 ![travel-homescreen.PNG](/uploads/travel-homescreen.PNG)
 

@@ -49,7 +49,7 @@ From top to button, I include widgets that display:
 ### Apple Watch Face
 *Set this up in the Apple Watch app or on your watch, then use Shortcuts automation to change to it when the Travel is on.*
 
-[watch.PNG](/uploads/watch.PNG)
+![watch.PNG](/uploads/watch.PNG)
 
 The watch displays the things I need to be able to glance at the most frequently while in lines or moving around the airport. I use the Infograph Modular face to pack a lot of info onscreen at once.
 

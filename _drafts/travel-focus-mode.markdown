@@ -49,7 +49,7 @@ I include widgets from:
 🔋 **Batteries**: Reminds me when I need to charge my devices or where I need to conserve power during delays  
 
 ### Apple Watch Face
-*Set this up in the [Apple Watch app](https://support.apple.com/guide/watch/faces-and-features-apde9218b440/watchos) or on your watch, then [use Shortcuts automation](https://appleinsider.com/articles/20/09/28/how-to-automatically-change-apple-watch-faces-at-certain-times-or-places) to change to it when entering the Travel focus.*
+*Set up in the [Apple Watch app](https://support.apple.com/guide/watch/faces-and-features-apde9218b440/watchos) or on your watch, then [use Shortcuts automation](https://appleinsider.com/articles/20/09/28/how-to-automatically-change-apple-watch-faces-at-certain-times-or-places) to change to it when entering the Travel focus*
 
 ![watch.PNG](/uploads/watch.PNG)
 

@@ -59,7 +59,7 @@ The watch displays what I need to glance at most while in line or moving around 
 ✈️ **App in the Air**: Flighty doesn’t have a watch app, so I continue to use [App in the Air](https://www.appintheair.mobi) to check my gate/boarding time from my wrist  
 💬 **Messages**: It’s handy to have a one-tap way to message Kate that I’m delayed or arriving!  
 🧳 **Find My Items**: A faster way to locate my suitcase  
-🌥 **Weather**: Should I take the jacket out of my backpack or not when I arrive?
+🌥 **Weather**: Will I need my coat or umbrella when I arrive?
 
 * * * 
 

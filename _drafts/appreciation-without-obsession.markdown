@@ -13,4 +13,4 @@ If I go to a bar and they don’t serve excellent craft cocktails, but they have
 
 This comes up in programming circles constantly. We get so stuck in the technology we already know, whether it be Swift, React, Ruby, or otherwise, that we forget that great ideas exist in so many places. We forget to let other developers and practitioners teach us. We forget to let ourselves *not* know things.
 
-There are geeks everywhere, geeking out on almost every topic. Once in a while, make the effort to find one who’s writing or speaking on a topic you know nothing about, and just…listen. You might learn something, and who knows you may even decide to get nerdy about their thing too. Wouldn’t that be swell.
+There are geeks everywhere, geeking out on almost every topic. Once in a while, make the effort to find one who’s writing or speaking on a topic you know nothing about, and just…listen. You might learn something, and who knows you may even decide to get nerdy about their thing too. Wouldn’t that be swell?

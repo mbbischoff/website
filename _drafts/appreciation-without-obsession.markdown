@@ -1,5 +1,5 @@
 ---
-title: Appreciation without Obsession
+title: Apprecaite without Obsessing
 date: 2022-01-15 16:35:00 -05:00
 ---
 

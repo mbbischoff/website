@@ -2,7 +2,7 @@
 ---
 
 $max-width: 65ch;
-$background: white;
+$line-height-body: 1.5;
 $font-stack: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
 
 * {
@@ -10,13 +10,21 @@ $font-stack: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, h
 }
 
 html {
-  background: $background;
   font-family: $font-stack;
 }
 
 body {
   margin: 0 auto;
+  line-height: $line-height-body;
   max-width: $max-width;
+  
+  header {
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
 }
 
 main {

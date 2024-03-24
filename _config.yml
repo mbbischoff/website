@@ -71,11 +71,9 @@ facebook:
   admins: https://www.facebook.com/matthewbischoff
 google_site_verification: XK_j6lkDAd8qOhIn4-2eS2BIJuQyRp4D_gxjpR65wUM
 repository: mattbischoff/matthewbischoff.com
-text_content:
-  header_title: mb bischoff
-  subtitle: <a href="/about">They</a> design & develop apps at <a href="https://lickability.com">Lickability</a>
-    and post about <a href="/category/tech/">tech</a> & <a href="/category/culture/">culture</a>
-    here.
+header:
+  title: mb bischoff
+  subtitle: is a work in progress…
 navigation_links:
 - title: Home
   url: "/"

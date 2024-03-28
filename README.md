@@ -57,4 +57,7 @@ name: animals
 * https://jmduke.com
 * https://ped.ro
   * https://ped.ro/writing/website-refresh-2023
-* https://benji.org 
+* https://benji.org
+* https://blog.jim-nielsen.com
+* https://lakshchakraborty.com
+* https://alxmjo.com/jekyll-microblog

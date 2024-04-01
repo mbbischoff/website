@@ -6,7 +6,7 @@ position: 0
 
 ## a process of progress
 
-What if a website was designed one day, one rule at a time? What if every morning, a website got a tiny bit better? Revealed more of itself.
+What if a website was designed one day, one rule at a time? What if every morning, a website got just a tiny bit better? Revealed more of itself.
 
 This project explores the ideas of continuous improvement or kaizen ([改善](https://en.wikipedia.org/wiki/Kaizen)), incompatibility, and modest changes.
 

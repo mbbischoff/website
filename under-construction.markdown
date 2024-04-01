@@ -26,4 +26,7 @@ It’s inspired by Web 1.0 [Under Construction GIFs](http://textfiles.com/underc
 
 Each change will be documented here with a dated commit and screenshot.
 
-**2024-04-01**: Launch this project.
+### 2024-04-01
+
+![2024-04-01.png](/uploads/2024-04-01.png)
+Launch this project.

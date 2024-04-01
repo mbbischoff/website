@@ -73,7 +73,7 @@ repository: mattbischoff/matthewbischoff.com
 header:
   title: mb bischoff
   subtitle: mb makes software at Lickability. They also write, speak, and play. This
-    is under construction.
+    is [under construction](/under-construction/).
 navigation_links:
 - title: Home
   url: "/"

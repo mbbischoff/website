@@ -8,7 +8,7 @@ position: 0
 
 ![underconstruction2.gif](/uploads/underconstruction2.gif)
 
-What if something was designed one day, one change at a time? What if every day, things got just a tiny bit better? Revealed more of themselves?
+What if something was designed one day, one change at a time? What if every day, it got just a tiny bit better? Revealed more of itself?
 
 This project explores the ideas of [continuous improvement](https://en.wikipedia.org/wiki/Kaizen)), [impermanance](https://en.wikipedia.org/wiki/Wabi-sabi), and [gradual transition](https://en.wikipedia.org/wiki/Gender_transition).
 

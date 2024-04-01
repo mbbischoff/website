@@ -26,8 +26,8 @@ It’s inspired by Web 1.0 [Under Construction GIFs](http://textfiles.com/underc
 
 Each change will be documented here with a dated commit and screenshot.
 
-### 2024-04-01
+### [2024-04-01](https://github.com/mattbischoff/website/commit/c2b74918c473a0b5e86e92fd4b0cb879431f2323)
 
 ![2024-04-01.png](/uploads/2024-04-01.png)
 
-Launch this project.
+Launch this project. Images can have a maximum width of 100%.

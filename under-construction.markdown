@@ -8,7 +8,7 @@ position: 0
 
 ![underconstruction2.gif](/uploads/underconstruction2.gif)
 
-_What if a website was designed one day, one rule at a time? What if every morning, a website got just a tiny bit better? Revealed more of itself?_
+<i>What if a website was designed one day, one rule at a time? What if every morning, a website got just a tiny bit better? Revealed more of itself?</i>
 
 This project explores the ideas of continuous improvement ([kaizen](https://en.wikipedia.org/wiki/Kaizen)), [software’s incompleteness](https://media.defense.gov/2019/May/01/2002126690/-1/-1/0/SWAP%20EXECUTIVE%20SUMMARY.PDF), and [fresh starts & modest changes](http://www.43folders.com/topics/fresh-starts-modest-changes).
 

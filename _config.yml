@@ -41,7 +41,7 @@ defaults:
   values:
     layout: category
 description: mb is a software designer & developer at Lickability. They also write,
-  podcast, and give talks.
+  podcast, and give talks. [Under construction](/under-construction).
 permalink: "/:title/"
 url: https://mbbischoff.com
 paginate: 5

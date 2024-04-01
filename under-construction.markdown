@@ -8,7 +8,7 @@ position: 0
 
 ![underconstruction2.gif](/uploads/underconstruction2.gif)
 
-What if the things were designed one day, one change at a time? What if every morning, they a tiny bit better? Revealed more of themself?
+What if the things were designed one day, one change at a time? What if every day, things got a tiny bit better? Revealed more of themself?
 
 This project explores the ideas of [continuous improvement](https://en.wikipedia.org/wiki/Kaizen)), [impermanance](https://en.wikipedia.org/wiki/Wabi-sabi), and [gradual transition](https://en.wikipedia.org/wiki/Gender_transition).
 
@@ -22,6 +22,6 @@ It’s inspired by Web 1.0’s [Under Construction GIFs](http://textfiles.com/un
 
 ## Progress
 
-Each stylistic change I make will be documented here and with a time-stamped commit and screenshot.
+Each stylistic change I make will be documented here with a time-stamped commit and screenshot.
 
 **2024-04-01**: Launch this project.

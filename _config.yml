@@ -40,8 +40,8 @@ defaults:
     type: category
   values:
     layout: category
-description: mb is a software designer & developer at Lickability. They also write,
-  podcast, and give talks. [Under construction](/under-construction).
+description: mb makes software at Lickability. They also write, podcast, and give
+  talks.
 permalink: "/:title/"
 url: https://mbbischoff.com
 paginate: 5

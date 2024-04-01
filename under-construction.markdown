@@ -14,7 +14,7 @@ This project explores the ideas of continuous improvement ([kaizen](https://en.w
 
 It’s inspired by Web 1.0’s [Under Construction GIFs](http://textfiles.com/underconstruction/), [Thing a Week](https://en.wikipedia.org/wiki/Thing_a_Week), [Song a Day](https://songaday.world), [Atomic Habits](https://jamesclear.com/atomic-habits), the [IndieWeb movement](https://indieweb.org), and the [CSS Zen Garden](https://csszengarden.com).
 
-## The Process
+## Process
 
 1. Start with the minimal markup and styles needed.
 2. Make *one* small change to the styles every day.

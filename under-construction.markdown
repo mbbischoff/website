@@ -4,7 +4,7 @@ date: 2024-04-01 15:40:00 -04:00
 position: 0
 ---
 
-## a process of progress
+## The process of progress
 
 ![underconstruction2.gif](/uploads/underconstruction2.gif)
 
@@ -14,13 +14,13 @@ This project explores the ideas of continuous improvement ([kaizen](https://en.w
 
 It’s inspired by Web 1.0’s [Under Construction GIFs](http://textfiles.com/underconstruction/), [Thing a Week](https://en.wikipedia.org/wiki/Thing_a_Week), [Song a Day](https://songaday.world), [Atomic Habits](https://jamesclear.com/atomic-habits), the [IndieWeb movement](https://indieweb.org), and the [CSS Zen Garden](https://csszengarden.com).
 
-## The Process
+## Process
 
 1. Start with the minimal markup and styles needed.
 2. Make *one* small change to the styles every day.
 3. Change the markup, structure, and rules along the way.
 
-## Changelog
+## Progress
 
 Each change I make will be documented here and with a time-stamped commit and screenshot.
 

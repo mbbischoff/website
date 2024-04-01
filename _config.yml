@@ -40,8 +40,8 @@ defaults:
     type: category
   values:
     layout: category
-description: They design & develop apps at Lickability and post about tech & culture
-  here.
+description: mb is a software designer & developer at Lickability. They also write,
+  podcast, and give talks.
 permalink: "/:title/"
 url: https://mbbischoff.com
 paginate: 5

@@ -29,4 +29,5 @@ Each change will be documented here with a dated commit and screenshot.
 ### 2024-04-01
 
 ![2024-04-01.png](/uploads/2024-04-01.png)
+
 Launch this project.

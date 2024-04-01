@@ -8,17 +8,17 @@ position: 0
 
 ![underconstruction2.gif](/uploads/underconstruction2.gif)
 
-What if the web was designed one day, one rule at a time? What if every morning, a site got just a tiny bit better? Revealed more of itself?
+What if the things were designed one day, one change at a time? What if every morning, they a tiny bit better? Revealed more of themself?
 
-This project explores the ideas of continuous improvement ([kaizen](https://en.wikipedia.org/wiki/Kaizen)), [software’s incompleteness](https://media.defense.gov/2019/May/01/2002126690/-1/-1/0/SWAP%20EXECUTIVE%20SUMMARY.PDF), and [fresh starts & modest changes](http://www.43folders.com/topics/fresh-starts-modest-changes).
+This project explores the ideas of [continuous improvement](https://en.wikipedia.org/wiki/Kaizen)), [impermanance](https://en.wikipedia.org/wiki/Wabi-sabi), and [gradual transition](https://en.wikipedia.org/wiki/Gender_transition).
 
-It’s inspired by Web 1.0’s [Under Construction GIFs](http://textfiles.com/underconstruction/), [Wikipedia](http://wikipedia.org), [Thing a Week](https://en.wikipedia.org/wiki/Thing_a_Week), [Song a Day](https://songaday.world), [Atomic Habits](https://jamesclear.com/atomic-habits), the [IndieWeb movement](https://indieweb.org), and the [CSS Zen Garden](https://csszengarden.com).
+It’s inspired by Web 1.0’s [Under Construction GIFs](http://textfiles.com/underconstruction/), [Wikipedia](http://wikipedia.org), [Thing a Week](https://en.wikipedia.org/wiki/Thing_a_Week), [Song a Day](https://songaday.world), [Atomic Habits](https://jamesclear.com/atomic-habits), [HRT](https://en.wikipedia.org/wiki/Hormone_replacement_therapy), the [IndieWeb movement](https://indieweb.org), and the [CSS Zen Garden](https://csszengarden.com).
 
 ## Process
 
 1. Start with the minimal markup and styles needed.
 2. Make *one* small change to the styles every day.
-3. Change the markup, structure, and rules along the way.
+3. Change markup, structure, and rules whenever.
 
 ## Progress
 

@@ -6,14 +6,17 @@ position: 0
 
 ## a process of progress
 
-What if a website was designed one day, one rule at a time? What if every morning, a website got just a tiny bit better? Revealed more of itself?
+![underconstruction2.gif](/uploads/underconstruction2.gif)
 
-This project explores the ideas of continuous improvement or kaizen ([改善](https://en.wikipedia.org/wiki/Kaizen)), incompatibility, and modest changes.
+_What if a website was designed one day, one rule at a time? What if every morning, a website got just a tiny bit better? Revealed more of itself?_
 
-It’s inspired by Thing a Week, Atomic Habits, and the CSS Zen Garden.
+This project explores the ideas of continuous improvement ([kaizen](https://en.wikipedia.org/wiki/Kaizen)), [software’s incompleteness](https://media.defense.gov/2019/May/01/2002126690/-1/-1/0/SWAP%20EXECUTIVE%20SUMMARY.PDF), and [fresh starts & modest changes](http://www.43folders.com/topics/fresh-starts-modest-changes).
 
-## How it Works
+It’s inspired by Web 1.0’s [Under Construction GIFs](http://textfiles.com/underconstruction/), [Thing a Week](https://en.wikipedia.org/wiki/Thing_a_Week), [Song a Day](https://songaday.world), [Atomic Habits](https://jamesclear.com/atomic-habits), the [IndieWeb movement](https://indieweb.org), and the [CSS Zen Garden](https://csszengarden.com).
 
+## The Process
+
+0. Strip down this website to the bare minimum markup and styles it needs to be functional and legible.
 1. I’ll make *one* small change to the stylesheet of this website every day.
 2. The structure and markup of the site may change alongside it.
 3. These rules are subject to change.

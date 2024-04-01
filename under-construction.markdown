@@ -22,6 +22,6 @@ It’s inspired by Web 1.0’s [Under Construction GIFs](http://textfiles.com/un
 
 ## Progress
 
-Each change I make will be documented here and with a time-stamped commit and screenshot.
+Each stylistic change I make will be documented here and with a time-stamped commit and screenshot.
 
 **2024-04-01**: Launch this project.

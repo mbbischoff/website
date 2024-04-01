@@ -40,7 +40,7 @@ defaults:
     type: category
   values:
     layout: category
-description: mb makes software at Lickability. They also write, speak, and play.
+description: mb shapes apps, words, and podcasts. They are under construction.
 permalink: "/:title/"
 url: https://mbbischoff.com
 paginate: 5
@@ -72,7 +72,7 @@ google_site_verification: XK_j6lkDAd8qOhIn4-2eS2BIJuQyRp4D_gxjpR65wUM
 repository: mattbischoff/matthewbischoff.com
 header:
   title: mb bischoff
-  subtitle: mb run Lickability. They also write, speak, and play. They are <a href="/under-construction">under
+  subtitle: mb shapes apps, words, and podcasts. They are <a href="/under-construction">under
     construction</a>.
 navigation_links:
 - title: Home

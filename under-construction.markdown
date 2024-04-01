@@ -20,7 +20,7 @@ It’s inspired by Web 1.0’s [Under Construction GIFs](http://textfiles.com/un
 2. Make *one* small change to the styles every day.
 3. Change the markup, structure, and rules along the way.
 
-## Changelog
+## Progress
 
 Each change I make will be documented here and with a time-stamped commit and screenshot.
 

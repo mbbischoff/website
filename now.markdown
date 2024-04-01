@@ -1,6 +1,7 @@
 ---
 title: Now
 date: 2021-12-05 13:10:00 -05:00
+position: 3
 place: NYC
 image: "/uploads/latest-selfie-dc3ac1.jpg"
 description: This now page covers the things I’m thinking, feeling, and working on,

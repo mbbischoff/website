@@ -2,6 +2,7 @@
 title: Under Construction
 date: 2024-04-01 15:40:00 -04:00
 position: 0
+image: "/uploads/IMG_0337.gif"
 ---
 
 ## The process of progress

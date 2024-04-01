@@ -16,8 +16,8 @@ It’s inspired by Web 1.0’s [Under Construction GIFs](http://textfiles.com/un
 
 ## The Process
 
-1. Start with the bare minimum markup and styles needed to be functional and legible.
-2. Make *one* small change to the stylesheet every day.
+1. Start with the minimal markup and styles needed.
+2. Make *one* small change to the styles every day.
 3. Change the markup, structure, and rules along the way.
 
 ## Changelog

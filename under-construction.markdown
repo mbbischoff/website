@@ -4,7 +4,7 @@ date: 2024-04-01 15:40:00 -04:00
 position: 0
 ---
 
-## the process of progress
+## The process of progress
 
 ![underconstruction2.gif](/uploads/underconstruction2.gif)
 

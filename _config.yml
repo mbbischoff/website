@@ -48,7 +48,7 @@ baseurl:
 author:
   name: mb bischoff
   url: https://twitter.com/mb
-  email: mb@matthewbischoff.com
+  email: mb@mbbischoff.com
   twitter: mb
 logo: "/uploads/matthew.jpeg"
 version: 3
@@ -69,7 +69,7 @@ facebook:
   publisher: https://www.facebook.com/matthewbischoff
   admins: https://www.facebook.com/matthewbischoff
 google_site_verification: XK_j6lkDAd8qOhIn4-2eS2BIJuQyRp4D_gxjpR65wUM
-repository: mattbischoff/matthewbischoff.com
+repository: mattbischoff/website
 header:
   title: mb bischoff
   subtitle: <a href="/about/">mb</a> makes <a href="https://lickability.com">apps</a>,

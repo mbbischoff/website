@@ -12,7 +12,7 @@ layout: page
 
 I’m an extrovert who loves hearing from old friends and making new ones. I really enjoy having conversations with people new to the technology industry, <abbr title="Lesbian, Gay, Bisexual, Transgender, Queer, Questioning and More">LGBTQ+</abbr> folks, and anyone that wants to work together or collaborate on creative projects. While I try to get back to everyone who reaches out, it may take me a bit if things are particularly hectic.
 
-**Need a conversation starter?** Here’s [what I’m up to now](https://matthewbischoff.com/now/).
+**Need a conversation starter?** Here’s [what I’m up to now](/now/).
 
 Here are the best ways to get in touch:
 

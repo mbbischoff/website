@@ -1,6 +1,6 @@
 /* TEAM */
 Designer:     mb bischoff
-Contact:      mb@matthewbischoff.com
+Contact:      mb@mbbischoff.com
 Twitter:      @mb
 
 /* SITE */

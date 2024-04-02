@@ -29,7 +29,7 @@ Each change will be documented here with a dated commit and screenshot.
 
 ### [2024-04-02](https://github.com/mattbischoff/website/commit/a086a4de6b108de11e4c89394499cdb9d8675310)
 
-Padding for the body (especially for mobile).
+Padding for the `body` (especially for mobile).
 
 ![2024-04-02.png](/uploads/2024-04-02.png)
 

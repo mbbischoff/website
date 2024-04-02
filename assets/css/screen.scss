@@ -4,6 +4,7 @@
 $max-width: 60ch;
 $line-height-body: 1.5;
 $font-stack: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
+$spacing-m: 1rem;
 
 * {
   box-sizing: border-box;
@@ -15,6 +16,8 @@ html {
 
 body {
   margin: 0 auto;
+  padding: $spacing-m;
+  
   line-height: $line-height-body;
   max-width: $max-width;
   

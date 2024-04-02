@@ -11,6 +11,6 @@ format: link
 link: "/under-construction/"
 ---
 
-> What if something was designed one day, one change at a time? What if every day, it got just a tiny bit better? With time, revealed more of itself?
+> What if something was designed one day, one change at a time? What if every day, it got just a tiny bit better? With time, revealed more of itself.
 
 A [new project](/under-construction/), where this website is redesigned one day, one rule at a time.

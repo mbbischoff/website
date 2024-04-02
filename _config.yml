@@ -40,7 +40,7 @@ defaults:
     type: category
   values:
     layout: category
-description: mb makes apps, words, and podcasts. This is under construction.
+description: mb makes apps, posts, and podcasts. This is under construction.
 permalink: "/:title/"
 url: https://mbbischoff.com
 paginate: 5

@@ -40,7 +40,7 @@ defaults:
     type: category
   values:
     layout: category
-description: mb shapes apps, words, and podcasts. They are under construction.
+description: mb shapes apps, words, and podcasts. This is under construction.
 permalink: "/:title/"
 url: https://mbbischoff.com
 paginate: 5

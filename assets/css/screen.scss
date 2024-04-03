@@ -1,10 +1,14 @@
 ---
 ---
 
+/* || Variables */
+
 $max-width: 60ch;
 $line-height-body: 1.5;
 $font-stack: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
 $spacing-m: 1rem;
+
+/* || General Styles */
 
 * {
   box-sizing: border-box;
@@ -33,6 +37,8 @@ body {
 
 main {
 }
+
+/* || Media */
 
 img {
   max-width: 100%;
@@ -64,3 +70,5 @@ video {
   width: 100%;
   height: 100%;
 }
+
+/* || Lists */

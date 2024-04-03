@@ -72,3 +72,9 @@ video {
 }
 
 /* || Lists */
+
+// Hang top-level ordered and unordered lists. https://markboulton.co.uk/journal/five-simple-steps-to-better-typography-part-2/
+*:not(li)>ul, *:not(li)>ol  {
+  padding: 0;
+  list-style-position: outside;
+}

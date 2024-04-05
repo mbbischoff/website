@@ -30,7 +30,8 @@ Each change will be documented here with a dated commit and screenshot.
 ### [2024-04-05](https://github.com/mattbischoff/website/commit/2b98526e09a50db4c04138c79e09ca09e85fa2be)
 
 Updates font to Halyard.
-![IMG_0413.png](/uploads/IMG_0413.png)
+
+![2024-04-05.png](/uploads/2024-04-05.png)
 
 ### [2024-04-04](https://github.com/mattbischoff/website/commit/5d62e5274f7899851622ac623c42dbe4155b4a15)
 

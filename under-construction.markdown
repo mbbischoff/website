@@ -40,8 +40,6 @@ Applied padding to the `body` in order to account for list gutters.
 
 Hanging bullets.
 
-### [2024-04-02]()
-
 ### [2024-04-02](https://github.com/mattbischoff/website/commit/a086a4de6b108de11e4c89394499cdb9d8675310)
 
 Padding for the `body` (especially for mobile).

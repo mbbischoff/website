@@ -3,9 +3,11 @@
 
 /* || Variables */
 
-$max-width: 60ch;
-$line-height-body: 1.5;
-$font-stack: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
+$max-width: 65ch;
+
+$font-size-base: 17px;
+$line-height-multiple: 1.5;
+$font-stack: "halyard-text-variable", -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
 
 $spacing-xs: 0.25rem; // 4
 $spacing-s: 0.5rem; // 8
@@ -20,7 +22,11 @@ $spacing-xxl: 2.5rem; // 40
   box-sizing: border-box;
 }
 
-html {
+:root {
+  font-size: $font-size-base;
+  font-variation-settings: "wght" 370;
+  line-height: $line-height-multiple;
+
   font-family: $font-stack;
 }
 
@@ -28,9 +34,8 @@ body {
   margin: 0 auto;
   padding: 0 $spacing-xl;
   
-  line-height: $line-height-body;
   max-width: $max-width;
-  
+    
   header {
     nav {
       display: flex;

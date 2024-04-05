@@ -28,11 +28,17 @@ It’s inspired by Web 1.0 [Under Construction GIFs](http://textfiles.com/underc
 Each change will be documented here with a dated commit and screenshot.
 
 
-### [2024-04-05]()
+### [2024-04-05](https://github.com/mattbischoff/website/commit/2b98526e09a50db4c04138c79e09ca09e85fa2be)
 
-### [2024-04-04]()
+Updates font to Halyard.
 
-### [2024-04-03]()
+### [2024-04-04](https://github.com/mattbischoff/website/commit/5d62e5274f7899851622ac623c42dbe4155b4a15)
+
+Applied padding to the `body` in order to account for list gutters. 
+
+### [2024-04-03](https://github.com/mattbischoff/website/commit/98b235ce7dbe5ca294c0cea5b2a667faf5b5b029)
+
+Hanging bullets.
 
 ### [2024-04-02]()
 

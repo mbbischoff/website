@@ -1,11 +1,11 @@
 @use '_vendor/vertical-rhythm-reset' as vr;
-
+@use 'sass:math';
 
 /* || Variables */
 
 $text-font-stack: "halyard-text-variable", -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
 $display-font-stack: "halyard-display-variable", -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
-
+$line-height: 24px;
 
 vr.$box-sizing : border-box;
 vr.$font-size : 17px;
@@ -26,8 +26,8 @@ body {
 	// @include vr.grid();
 	
 	background-image: radial-gradient(#E2E2E2, 1px, transparent 1px);
-	background-size: 24px 24px;
-	background-position-y: 12px;
+	background-size: $line-height $line-height;
+	background-position-y: math.div($line-height, 2);
 	
 	max-width: 65ch;
 	

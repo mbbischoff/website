@@ -31,8 +31,7 @@ vr.$breakpoints : null;
 }
 
 body {
-	@include dot-grid;
-	
+	@include dot-grid;	
 	max-width: 65ch;
 	
 	margin: 0 auto;
@@ -50,11 +49,7 @@ body {
 	}
 	
 	footer {
-		@include vr.set($margin: 1 0);		
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-		width: 100%;
+		@include vr.set($margin-top: 1 0);
 	}
 }
 

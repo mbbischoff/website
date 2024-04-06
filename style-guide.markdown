@@ -2,6 +2,7 @@
 title: Style Guide
 date: 2020-03-29 17:54:00 -04:00
 position: 4
+layout: page
 ---
 
 Inspired by: [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)

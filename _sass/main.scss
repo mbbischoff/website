@@ -7,14 +7,22 @@ $text-font-stack: "halyard-text-variable", -apple-system, BlinkMacSystemFont, av
 $display-font-stack: "halyard-display-variable", -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
 $line-height: 24px;
 
+$color-gridlines: #ccc;
+
 vr.$box-sizing : border-box;
 vr.$font-size : 17px;
 vr.$line-height : 1.4;
-vr.$modular-scale: major-third;
-vr.$grid-color : blue;
+vr.$modular-scale: perfect-fourth;
+vr.$grid-color : $color-gridlines;
 vr.$breakpoints : null;
 
 @include vr.reset();
+
+@mixin dot-grid {
+	background-image: radial-gradient($color-gridlines, 1px, transparent 1px);
+	background-size: $line-height $line-height;
+	background-position-y: math.div($line-height, 2);
+}
 
 /* || General Styles */
 
@@ -23,11 +31,7 @@ vr.$breakpoints : null;
 }
 
 body {
-	// @include vr.grid();
-	
-	background-image: radial-gradient(#E2E2E2, 1px, transparent 1px);
-	background-size: $line-height $line-height;
-	background-position-y: math.div($line-height, 2);
+	@include dot-grid;
 	
 	max-width: 65ch;
 	
@@ -36,19 +40,31 @@ body {
 	
 	header {
 		@include vr.set($margin: 1 0);
+		text-transform: lowercase;
 		
 		nav {
 			display: flex;
 			justify-content: space-between;
 			align-items: center;
-			text-transform: lowercase;
 		}
 	}
 	
 	footer {
-		@include vr.set($margin: 1 0);
+		@include vr.set($margin: 1 0);		
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		width: 100%;
 	}
 }
+
+
+body:has(input[name="toggle-grid"]:checked) {
+	@include vr.grid();
+}
+
+
+body:has(input[name="toggle-grid"]:not(:checked)) {}
 
 main {}
 
@@ -60,7 +76,6 @@ h3 {
 }
 
 h1 {
-	letter-spacing: -1px;
 	@include vr.set($font-size: 4);
 }
 
@@ -72,10 +87,13 @@ h3 {
 	@include vr.set($font-size: 2);
 }
 
-h4,
+h4 {
+	@include vr.set($font-size: 1);
+}
+
 h5,
 h6 {
-	@include vr.set($font-size: 1);
+	@include vr.set($font-size: 0);
 }
 
 /* || Media */

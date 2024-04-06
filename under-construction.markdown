@@ -37,8 +37,11 @@ Updates font to Halyard.
 
 Applied padding to the `body` in order to account for list gutters. 
 
+![2024-04-04.png](/uploads/2024-04-04.png)
+
 ### [2024-04-03](https://github.com/mattbischoff/website/commit/98b235ce7dbe5ca294c0cea5b2a667faf5b5b029)
 
+![2024-04-03.png](/uploads/2024-04-03.png)
 Hanging bullets.
 
 ### [2024-04-02](https://github.com/mattbischoff/website/commit/a086a4de6b108de11e4c89394499cdb9d8675310)

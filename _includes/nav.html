@@ -1,11 +1,9 @@
-<header>
-	<nav>
+<nav>
 	{% for item in site.navigation_links %}
-	  {% if page.url == item.url %}
-		<a href="{{ item.url }}" class="active">{{ item.title }}</a>
-	  {% else %}
-		<a href="{{ item.url }}">{{ item.title }}</a>
-	  {% endif %}
+	{% if page.url == item.url %}
+	<a href="{{ item.url }}" class="active">{{ item.title }}</a>
+	{% else %}
+	<a href="{{ item.url }}">{{ item.title }}</a>
+	{% endif %}
 	{% endfor %}
-	</nav>
-</header>
+</nav>

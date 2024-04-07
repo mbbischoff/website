@@ -3,7 +3,7 @@
 
   {%- include head.html -%}
 
-  <body>
+  <body class="grid">
     {%- include header.html -%}
 
     <main aria-label="Content">
@@ -13,6 +13,15 @@
     {%- include footer.html -%}
 
     {% include analytics.html %}
+    
+    <script>
+      let checkBox = document.querySelector('#toggle-grid');
+      localStorage['show-grid'] ??= true;
+    
+      checkBox.checked = localStorage['show-grid'] === 'true';
+      
+      checkBox.onchange = () => localStorage.setItem('show-grid', checkBox.checked);
+    </script>
   </body>
 
 </html>

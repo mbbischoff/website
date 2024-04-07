@@ -1,0 +1,73 @@
+@use 'vendors/vertical-rhythm-reset' as vr;
+
+$switch-width: 40px;
+$switch-height: 24px;
+$knob-size: 20px;
+$knob-position: 2px;
+$transition-speed: .2s;
+$box-shadow: inset 0 0 5px rgba(0, 0, 0, .2);
+$knob-box-shadow: 0 1px 3px rgba(0, 0, 0, .2);
+$bg-color-off-light: #c6c6c6;
+$bg-color-on-light: #0072ff;
+$bg-color-off-dark: #555;
+$bg-color-on-dark: #0072ff;
+$bg-color-active-light: #bbb;
+$bg-color-active-dark: #777;
+
+.toggle {
+	margin-bottom: 0 !important; // Override vertical-rhythm-reset.
+
+	position: relative;
+	display: inline-block;
+	width: $switch-width;
+	height: $switch-height;
+	appearance: none;
+	outline: none;
+	background-color: $bg-color-off-light;
+	border-radius: $switch-height;
+	box-shadow: $box-shadow;
+	transition: background-color $transition-speed;
+
+	@media (prefers-color-scheme: dark) {
+		background-color: $bg-color-off-dark;
+	}
+
+	&:after {
+		content: "";
+		position: absolute;
+		top: $knob-position;
+		left: $knob-position;
+		width: $knob-size;
+		height: $knob-size;
+		border-radius: 50%;
+		background-color: #fff;
+		box-shadow: $knob-box-shadow;
+		transition: all $transition-speed;
+	}
+
+	&:active {
+		background-color: $bg-color-active-light;
+
+		@media (prefers-color-scheme: dark) {
+			background-color: $bg-color-active-dark;
+		}
+	}
+
+	&:checked {
+		background-color: $bg-color-on-light;
+
+		@media (prefers-color-scheme: dark) {
+			background-color: $bg-color-on-dark;
+		}
+
+		&:after {
+			transform: translatex($switch-width - $knob-size - $knob-position);
+		}
+	}
+}
+
+.switch {
+	label {
+		@include vr.set($font-size: 2, $margin-right: 0.5, $padding-top: 0.3);
+	}
+}

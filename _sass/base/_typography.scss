@@ -14,14 +14,12 @@ vr.$breakpoints : null;
 	font-family: $text-font-stack;
 }
 
-h1,
-h2,
-h3 {
-	font-family: $display-font-stack;
+h1, h2, h3 {
+	font-family: $display-font-stack; // Big headers use the display version of the font.
 }
 
 h1 {
-	@include vr.set($font-size: 4, $line-height: 1.5);
+	@include vr.set($font-size: 4);
 }
 
 h2 {

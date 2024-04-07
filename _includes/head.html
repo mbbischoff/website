@@ -2,8 +2,8 @@
   <meta charset="utf-8" />
 
   <title>
-    {% if page.title == site.title %} {{ site.title }} {% else %} {{ page.title
-    }} &middot; {{ site.title }} {% endif %}
+  {{ page.title }}
+  {% if page.url != '/' %} &middot; {{ site.title }} {% endif %}
   </title>
 
   <link rel="canonical" href="{{ page.url | absolute_url }}" />

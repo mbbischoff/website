@@ -1,0 +1,12 @@
+@use 'vendors/vertical-rhythm-reset' as vr;
+
+header#masthead {
+	@include vr.set($margin: 1 0);
+	text-transform: lowercase;
+	
+	nav {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+}

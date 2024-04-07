@@ -1,0 +1,5 @@
+@use 'vendors/vertical-rhythm-reset' as vr;
+
+footer {
+	@include vr.set($margin-top: 1 0);
+}

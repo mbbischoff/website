@@ -1,0 +1,49 @@
+@use 'vendors/vertical-rhythm-reset' as vr;
+@use 'abstracts/variables' as *;
+
+vr.$box-sizing : border-box;
+vr.$font-size : 17px;
+vr.$line-height : 1.4;
+vr.$modular-scale: perfect-fourth;
+vr.$grid-color : $color-gridlines;
+vr.$breakpoints : null;
+
+@include vr.reset();
+
+:root {
+	font-family: $text-font-stack;
+}
+
+h1,
+h2,
+h3 {
+	font-family: $display-font-stack;
+}
+
+h1 {
+	@include vr.set($font-size: 4, $line-height: 1.5);
+}
+
+h2 {
+	@include vr.set($font-size: 3);
+}
+
+h3 {
+	@include vr.set($font-size: 2);
+}
+
+h4 {
+	@include vr.set($font-size: 1);
+}
+
+h5,
+h6 {
+	@include vr.set($font-size: 0);
+}
+
+// Hang top-level ordered and unordered lists. https://markboulton.co.uk/journal/five-simple-steps-to-better-typography-part-2/
+*:not(li)>ul,
+*:not(li)>ol {
+	padding: 0;
+	list-style-position: outside;
+}

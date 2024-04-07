@@ -1,135 +1,22 @@
-@use '_vendor/vertical-rhythm-reset' as vr;
-@use 'sass:math';
+// Vendor
 
-/* || Variables */
+@use 'vendors/vertical-rhythm-reset';
 
-$text-font-stack: "halyard-text-variable", -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
-$display-font-stack: "halyard-display-variable", -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
-$line-height: 24px;
+// Abstracts
+// 
+@use 'abstracts/variables';
+@use 'abstracts/mixins';
 
-$color-gridlines: #ccc;
+// Base
 
-vr.$box-sizing : border-box;
-vr.$font-size : 17px;
-vr.$line-height : 1.4;
-vr.$modular-scale: perfect-fourth;
-vr.$grid-color : $color-gridlines;
-vr.$breakpoints : null;
+@use 'base/typography';
+@use 'base/body';
 
-@include vr.reset();
+// Components
 
-@mixin dot-grid {
-	background-image: radial-gradient($color-gridlines, 1px, transparent 1px);
-	background-size: $line-height $line-height;
-	background-position-y: math.div($line-height, 2);
-}
+@use 'components/media';
 
-/* || General Styles */
+// Layout
 
-:root {
-	font-family: $text-font-stack;
-}
-
-body {
-	@include dot-grid;	
-	max-width: 65ch;
-	
-	margin: 0 auto;
-	@include vr.set($padding: 0 1);
-	
-	header {
-		@include vr.set($margin: 1 0);
-		text-transform: lowercase;
-		
-		nav {
-			display: flex;
-			justify-content: space-between;
-			align-items: center;
-		}
-	}
-	
-	footer {
-		@include vr.set($margin-top: 1 0);
-	}
-}
-
-
-body:has(input[name="toggle-grid"]:checked) {
-	@include vr.grid();
-}
-
-
-body:has(input[name="toggle-grid"]:not(:checked)) {}
-
-main {}
-
-
-h1,
-h2,
-h3 {
-	font-family: $display-font-stack;
-}
-
-h1 {
-	@include vr.set($font-size: 4);
-}
-
-h2 {
-	@include vr.set($font-size: 3);
-}
-
-h3 {
-	@include vr.set($font-size: 2);
-}
-
-h4 {
-	@include vr.set($font-size: 1);
-}
-
-h5,
-h6 {
-	@include vr.set($font-size: 0);
-}
-
-/* || Media */
-
-img {
-	max-width: 100%;
-	height: auto;
-}
-
-audio {
-	width: 100%;
-	display: block;
-}
-
-video {
-	width: 100%;
-	height: auto !important;
-}
-
-.video-wrapper {
-	margin: var(--spacing-s) auto;
-	position: relative;
-	width: 100%;
-	padding-bottom: 56.25%;
-	/* 16:9 */
-	height: 0;
-}
-
-.video-wrapper iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-}
-
-/* || Lists */
-
-// Hang top-level ordered and unordered lists. https://markboulton.co.uk/journal/five-simple-steps-to-better-typography-part-2/
-*:not(li)>ul,
-*:not(li)>ol {
-	padding: 0;
-	list-style-position: outside;
-}
+@use 'layout/header';
+@use 'layout/footer';

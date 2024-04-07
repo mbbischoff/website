@@ -1,0 +1,8 @@
+@use 'sass:math';
+@use 'variables' as *;
+
+@mixin dot-grid {
+	background-image: radial-gradient($color-gridlines, 1px, transparent 1px);
+	background-size: $line-height $line-height;
+	background-position-y: math.div($line-height, 2);
+}

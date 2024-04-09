@@ -86,7 +86,6 @@ navigation_links:
   url: "/contact/"
 - title: RSS
   url: "/feed/"
-accent_color: "#000"
 markdown: kramdown
 highlighter: rouge
 kramdown:

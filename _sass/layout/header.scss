@@ -11,6 +11,11 @@ header#masthead {
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
+
+		a {
+			font-weight: 600;
+			border: none;
+		}
 	}
 
 	h1 {

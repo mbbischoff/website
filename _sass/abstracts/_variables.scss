@@ -1,5 +1,23 @@
+@use 'sass:color';
+
 $text-font-stack: "halyard-text-variable", -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
 $display-font-stack: "halyard-display-variable", -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
 $line-height: 24px;
 
-$color-gridlines: #ccc;
+$switch-box-shadow: inset 0 0 5px rgba(0, 0, 0, .2);
+$switch-knob-box-shadow: 0 1px 3px rgba(0, 0, 0, .2);
+
+$light-mode-color-gridlines: color(display-p3 0.9 0.09 0.2 / 0.2);
+$dark-mode-color-gridlines: color(display-p3 0.9 0.09 0.2 / 0.2);
+
+
+$light-mode-background: #fefafb;
+$light-mode-text: #090103;
+$light-mode-accent: color(display-p3 0.9 0.09 0.2);
+$light-mode-link-underline: color(display-p3 0.9 0.09 0.2);
+
+
+$dark-mode-background: #090103;
+$dark-mode-text: #fefafb;
+$dark-mode-accent: color(display-p3 0.9 0.3 0.4);
+$dark-mode-link-underline: color(display-p3 0.9 0.09 0.2 / 0.6);

@@ -5,7 +5,6 @@ vr.$box-sizing : border-box;
 vr.$font-size : 17px;
 vr.$line-height : 1.4;
 vr.$modular-scale: perfect-fourth;
-vr.$grid-color : $color-gridlines;
 vr.$breakpoints : null;
 
 @include vr.reset();
@@ -14,7 +13,9 @@ vr.$breakpoints : null;
 	font-family: $text-font-stack;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
 	font-family: $display-font-stack; // Big headers use the display version of the font.
 }
 

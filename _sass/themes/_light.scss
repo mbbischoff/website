@@ -1,0 +1,14 @@
+@use 'abstracts/variables' as *;
+
+@media (prefers-color-scheme: light) {
+	body {
+		background-color: $light-mode-background;
+		color: $light-mode-text;
+	}
+
+	a {
+		text-decoration: none;
+		color: inherit;
+		border-bottom: 1px solid $light-mode-link-underline;
+	}
+}

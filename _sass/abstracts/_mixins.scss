@@ -2,7 +2,15 @@
 @use 'variables' as *;
 
 @mixin dot-grid {
-	background-image: radial-gradient($color-gridlines, 1px, transparent 1px);
 	background-size: $line-height $line-height;
 	background-position-y: math.div($line-height, 2);
+
+	@media (prefers-color-scheme: light) {
+		background-image: radial-gradient($light-mode-color-gridlines, 1px, transparent 1px);
+	}
+
+	@media (prefers-color-scheme: dark) {
+		background-image: radial-gradient($dark-mode-color-gridlines, 1px, transparent 1px);
+
+	}
 }

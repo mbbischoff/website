@@ -19,5 +19,5 @@
 @use 'layout/header';
 @use 'layout/footer';
 
-
-@use 'components/toggle';
+@use "themes/light";
+@use "themes/dark";@use 'components/toggle';

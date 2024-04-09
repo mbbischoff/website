@@ -43,7 +43,7 @@ ul.posts {
 		justify-content: space-between;
 
 		time {
-			@include vr.set($margin-left: 0.5);
+			@include vr.set($margin-left: 0.5, $font-size: -1);
 
 			flex-shrink: 0;
 			/* this ensures that the time will not shrink */

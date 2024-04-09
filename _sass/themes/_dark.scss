@@ -21,7 +21,15 @@
 
 	a {
 		color: $dark-mode-text-emphasized;
-		text-decoration-thickness: 2px;
+		text-decoration-thickness: 1px;
+
+		transition: 0.1s linear;
 		text-decoration-color: $dark-mode-link-underline;
+
+		&:hover {
+			color: $dark-mode-accent;
+			transition: 0.1s linear;
+			text-decoration-color: $dark-mode-accent;
+		}
 	}
 }

@@ -21,7 +21,14 @@
 
 	a {
 		color: $light-mode-text-emphasized;
-		text-decoration-thickness: 2px;
+
+		transition: 0.1s linear;
 		text-decoration-color: $light-mode-link-underline;
+
+		&:hover {
+			color: $light-mode-accent;
+			transition: 0.1s linear;
+			text-decoration-color: $light-mode-accent;
+		}
 	}
 }

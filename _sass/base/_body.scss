@@ -17,12 +17,6 @@ body:has(input[id="toggle-grid"]:checked) {
 
 // Make headers one level smaller when they’re in the `main`.
 main {
-	header {
-		h1 {
-			text-transform: lowercase;
-		}
-	}
-
 	h1 {
 		@include vr.set($font-size: 3);
 	}
@@ -44,10 +38,16 @@ main {
 
 ul.posts {
 	li {
+		align-items: flex-start;
 		display: flex;
 		justify-content: space-between;
 
 		time {
+			@include vr.set($margin-left: 0.5);
+
+			flex-shrink: 0;
+			/* this ensures that the time will not shrink */
+			white-space: nowrap;
 			font-variant-numeric: tabular-nums;
 		}
 	}

@@ -17,6 +17,12 @@ body:has(input[id="toggle-grid"]:checked) {
 
 // Make headers one level smaller when they’re in the `main`.
 main {
+	header {
+		h1 {
+			text-transform: lowercase;
+		}
+	}
+
 	h1 {
 		@include vr.set($font-size: 3);
 	}

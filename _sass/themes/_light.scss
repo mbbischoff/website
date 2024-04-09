@@ -8,6 +8,14 @@
 
 	header#masthead {
 		color: $light-mode-text-emphasized;
+
+		nav {
+			a {
+				&.active {
+					color: $light-mode-accent;
+				}
+			}
+		}
 	}
 
 	h1,
@@ -29,6 +37,14 @@
 			color: $light-mode-accent;
 			transition: 0.1s linear;
 			text-decoration-color: $light-mode-accent;
+		}
+	}
+}
+
+ul.posts {
+	li {
+		time {
+			color: $light-mode-text-secondary;
 		}
 	}
 }

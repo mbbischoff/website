@@ -10,9 +10,18 @@
 		color: $light-mode-text-emphasized;
 	}
 
-	a {
-		text-decoration: none;
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
 		color: $light-mode-text-emphasized;
-		border-bottom: 1px solid $light-mode-link-underline;
+	}
+
+	a {
+		color: $light-mode-text-emphasized;
+		text-decoration-thickness: 2px;
+		text-decoration-color: $light-mode-link-underline;
 	}
 }

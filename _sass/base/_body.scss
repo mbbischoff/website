@@ -2,10 +2,12 @@
 @use 'abstracts/mixins';
 
 body {
-	// @include vr.grid(); Debugging
+
 	max-width: 65ch;
 
 	margin: 0 auto;
+
+	// @include vr.grid(); Debugging
 	@include vr.set($padding: 0 1);
 }
 
@@ -31,5 +33,16 @@ main {
 	h5,
 	h6 {
 		@include vr.set($font-size: 0);
+	}
+}
+
+ul.posts {
+	li {
+		display: flex;
+		justify-content: space-between;
+
+		time {
+			font-variant-numeric: tabular-nums;
+		}
 	}
 }

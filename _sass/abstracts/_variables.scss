@@ -10,16 +10,15 @@ $switch-knob-box-shadow: 0 1px 3px rgba(0, 0, 0, .2);
 $light-mode-color-gridlines: color(display-p3 0.9 0.09 0.2 / 0.2);
 $dark-mode-color-gridlines: color(display-p3 0.9 0.09 0.2 / 0.2);
 
-
 $light-mode-background: color(display-p3 0.998 0.982 0.984);
-$light-mode-text: color(display-p3 0.273 0.027 0.06);
+$light-mode-text: color(display-p3 0.364 0.036 0.08);
 $light-mode-text-emphasized: color(display-p3 0.036 0.004 0.008);
 $light-mode-accent: color(display-p3 0.9 0.09 0.2);
-$light-mode-link-underline: color(display-p3 0.9 0.09 0.2);
+$light-mode-link-underline: color(display-p3 0.9 0.09 0.2 / 0.5);
 
 
 $dark-mode-background: color(display-p3 0.018 0.002 0.004);
 $dark-mode-text: color(display-p3 0.988 0.892 0.903);
-$dark-mode-text-emphasized: color(display-p3 0.996 0.964 0.968);
+$dark-mode-text-emphasized: color(display-p3 0.998 0.982 0.984);
 $dark-mode-accent: color(display-p3 0.9 0.3 0.4);
-$dark-mode-link-underline: color(display-p3 0.9 0.09 0.2 / 0.6);
+$dark-mode-link-underline: color(display-p3 0.9 0.09 0.2 / 0.5);

@@ -1,0 +1,75 @@
+@use 'abstracts/variables' as *;
+@use "sass:map";
+
+$themes: (
+	light: (background: $light-mode-background,
+		text: $light-mode-text,
+		text-emphasized: $light-mode-text-emphasized,
+		accent: $light-mode-accent,
+		link-underline: $light-mode-link-underline,
+		text-secondary: $light-mode-text-secondary ),
+	dark: (background: $dark-mode-background,
+		text: $dark-mode-text,
+		text-emphasized: $dark-mode-text-emphasized,
+		accent: $dark-mode-accent,
+		link-underline: $dark-mode-link-underline,
+		text-secondary: $dark-mode-text-secondary )
+);
+
+@mixin theme($theme) {
+	$colors: map.get($themes, $theme);
+
+	body {
+		background-color: map.get($colors, background);
+		color: map.get($colors, text);
+	}
+
+	header#masthead {
+		color: map.get($colors, text-emphasized);
+
+		nav {
+			a {
+				&.active {
+					color: map.get($colors, accent);
+				}
+			}
+		}
+	}
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		color: map.get($colors, text-emphasized);
+	}
+
+	a {
+		color: map.get($colors, text-emphasized);
+		transition: 0.1s linear;
+		text-decoration-color: map.get($colors, link-underline);
+
+		&:hover {
+			color: map.get($colors, accent);
+			transition: 0.1s linear;
+			text-decoration-color: map.get($colors, accent);
+		}
+	}
+
+	ul.posts {
+		li {
+			time {
+				color: map.get($colors, text-secondary);
+			}
+		}
+	}
+}
+
+@media (prefers-color-scheme: light) {
+	@include theme(light);
+}
+
+@media (prefers-color-scheme: dark) {
+	@include theme(dark);
+}

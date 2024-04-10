@@ -1,3 +1,23 @@
+@use 'vendors/vertical-rhythm-reset' as vr;
+
 article {
-	
+	@include vr.set($margin-top: 1);
+
+	header {
+		display: grid;
+
+		h1 {
+			justify-self: start;
+		}
+
+		time {
+			@include vr.set($font-size: -1);
+
+			justify-self: end;
+
+			a {
+				text-decoration: none;
+			}
+		}
+	}
 }

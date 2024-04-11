@@ -28,6 +28,18 @@ It’s inspired by Web 1.0 [Under Construction GIFs](http://textfiles.com/underc
 
 Each change will be documented here with a dated commit and screenshot.
 
+### 2024-04-11
+
+### 2024-04-10
+
+### 2024-04-09
+
+### [2024-04-08](https://github.com/mattbischoff/website/commit/031cb971160b341c78901dd841b7fe80ee52c569)
+
+Dark mode.
+
+![2024-04-08.png](/uploads/2024-04-08.png)
+
 ### 2024-04-07
 
 Added toggle for dot grid.

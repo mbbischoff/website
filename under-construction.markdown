@@ -28,11 +28,17 @@ It’s inspired by Web 1.0 [Under Construction GIFs](http://textfiles.com/underc
 
 Each change will be documented here with a dated commit and screenshot.
 
-### 2024-04-11
+### [2024-04-11](https://github.com/mattbischoff/website/commit/273c0df2d36a887b3dce7e1f4f08945fdf6456ea)
 
-### 2024-04-10
+Navbar and footer dividers.
 
-### [2024-04-00](https://github.com/mattbischoff/website/commit/662b565e8792931b3ee7d3f38a83d16c860445d1)
+### [2024-04-10](https://github.com/mattbischoff/website/commit/382e907ba06aa9dd771dec15a98e9fd0154a206c)
+
+Decrease prominence of time on posts.
+
+![2024-04-10.png](/uploads/2024-04-10.png)
+
+### [2024-04-09](https://github.com/mattbischoff/website/commit/662b565e8792931b3ee7d3f38a83d16c860445d1)
 
 Smaller, better aligned post dates.
 
@@ -44,13 +50,13 @@ Dark mode.
 
 ![2024-04-08.png](/uploads/2024-04-08.png)
 
-### 2024-04-07
+### [2024-04-07](https://github.com/mattbischoff/website/commit/b6808a280118826a7230979f421266607678057c)
 
 Added toggle for dot grid.
 
 ![2024-04-07.png](/uploads/2024-04-07.png)
 
-### 2024-04-06
+### [2024-04-06](https://github.com/mattbischoff/website/commit/861c25fa13ac77738efe70920afca52b4831d23b)
 
 Added dot grid.
 

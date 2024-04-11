@@ -28,6 +28,8 @@ $themes: (
 		color: map.get($colors, text-emphasized);
 
 		nav {
+			border-color: map.get($colors, link-underline);
+
 			a {
 				&.active {
 					color: map.get($colors, accent);
@@ -67,12 +69,22 @@ $themes: (
 
 	article {
 		header {
+			h1 {
+				a {
+					color: map.get($colors, accent);
+				}
+			}
+
 			time {
 				a {
 					color: map.get($colors, text-secondary);
 				}
 			}
 		}
+	}
+
+	footer {
+		border-color: map.get($colors, link-underline);
 	}
 }
 

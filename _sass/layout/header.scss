@@ -6,8 +6,8 @@ header#masthead {
 	@include vr.set($margin: 1 0);
 
 	nav {
-		@include vr.set($margin-bottom: 1);
-
+		@include vr.set($padding-bottom: 1);
+		border-bottom: 1px solid;
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
@@ -19,7 +19,7 @@ header#masthead {
 	}
 
 	h1 {
-		@include vr.set($margin-bottom: 0);
+		@include vr.set($margin-bottom: 0, $margin-top: 1);
 
 	}
 

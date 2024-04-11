@@ -32,6 +32,8 @@ Each change will be documented here with a dated commit and screenshot.
 
 Navbar and footer dividers.
 
+![2024-04-11.png](/uploads/2024-04-11.png)
+
 ### [2024-04-10](https://github.com/mattbischoff/website/commit/382e907ba06aa9dd771dec15a98e9fd0154a206c)
 
 Decrease prominence of time on posts.

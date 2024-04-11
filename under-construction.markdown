@@ -32,7 +32,11 @@ Each change will be documented here with a dated commit and screenshot.
 
 ### 2024-04-10
 
-### 2024-04-09
+### [2024-04-00](https://github.com/mattbischoff/website/commit/662b565e8792931b3ee7d3f38a83d16c860445d1)
+
+Smaller, better aligned post dates.
+
+![2024-04-09.png](/uploads/2024-04-09.png)
 
 ### [2024-04-08](https://github.com/mattbischoff/website/commit/031cb971160b341c78901dd841b7fe80ee52c569)
 

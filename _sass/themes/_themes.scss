@@ -98,6 +98,7 @@ $themes: (
 
 
 	mark {
+		color: map.get($colors, text-emphasized);
 		color: inherit;
 		background: map.get($colors, highlight);
 	}

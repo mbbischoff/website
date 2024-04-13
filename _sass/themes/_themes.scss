@@ -53,7 +53,7 @@ $themes: (
 		color: map.get($colors, text-emphasized);
 		text-decoration-color: map.get($colors, link-underline);
 
-		transition-property: color, text-decoration-color, transform;
+		transition-property: color, text-decoration-color;
 		transition-duration: 0.1s;
 		transition-timing-function: linear;
 
@@ -61,8 +61,8 @@ $themes: (
 		&:hover {
 			color: map.get($colors, accent);
 			text-decoration-color: map.get($colors, accent);
-			transform: scale(1.04);
-			transition-property: color, text-decoration-color, transform;
+
+			transition-property: color, text-decoration-color;
 			transition-duration: 0.1s;
 			transition-timing-function: linear;
 		}

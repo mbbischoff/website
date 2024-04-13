@@ -28,6 +28,19 @@ It’s inspired by Web 1.0 [Under Construction GIFs](http://textfiles.com/underc
 
 Each change will be documented here with a dated commit and screenshot.
 
+
+### [2024-04-13](https://github.com/mattbischoff/website/commit/6fa0277835803dee345e888e5483fc779eb72352)
+
+Nav bar icons.
+
+![2024-04-13.png](/uploads/2024-04-13.png)
+
+### [2024-04-12](https://github.com/mattbischoff/website/commit/6fa0277835803dee345e888e5483fc779eb72352)
+
+Highlighted text background color.
+
+![2024-04-12.png](/uploads/2024-04-12.png)
+
 ### [2024-04-11](https://github.com/mattbischoff/website/commit/273c0df2d36a887b3dce7e1f4f08945fdf6456ea)
 
 Navbar and footer dividers.

@@ -7,13 +7,15 @@ $themes: (
 		text-emphasized: $light-mode-text-emphasized,
 		accent: $light-mode-accent,
 		link-underline: $light-mode-link-underline,
-		text-secondary: $light-mode-text-secondary),
+		text-secondary: $light-mode-text-secondary,
+		highlight: $light-mode-highlight),
 	dark: (background: $dark-mode-background,
 		text: $dark-mode-text,
 		text-emphasized: $dark-mode-text-emphasized,
 		accent: $dark-mode-accent,
 		link-underline: $dark-mode-link-underline,
-		text-secondary: $dark-mode-text-secondary)
+		text-secondary: $dark-mode-text-secondary,
+		highlight: $dark-mode-highlight)
 );
 
 @mixin theme($theme) {
@@ -85,6 +87,12 @@ $themes: (
 
 	footer {
 		border-color: map.get($colors, link-underline);
+	}
+
+
+	mark {
+		color: inherit;
+		background: map.get($colors, highlight);
 	}
 }
 

@@ -1,9 +1,8 @@
 <nav>
 	{% for item in site.navigation_links %}
-	{% if page.url == item.url %}
-	<a href="{{ item.url }}" class="active">{{ item.title }}</a>
-	{% else %}
-	<a href="{{ item.url }}">{{ item.title }}</a>
-	{% endif %}
+		<a href="{{ item.url }}" class="nav-item{% if page.url == item.url %} active{% endif %}">
+			<span class="nav-icon" aria-hidden="true">{{ item.icon }}</span>
+			<span class="nav-title">{{ item.title }}</span>
+		</a>
 	{% endfor %}
 </nav>

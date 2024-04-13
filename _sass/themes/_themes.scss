@@ -51,12 +51,12 @@ $themes: (
 
 	a {
 		color: map.get($colors, text-emphasized);
-		transition: 0.1s linear;
+		transition: color 0.1s linear;
 		text-decoration-color: map.get($colors, link-underline);
 
 		&:hover {
 			color: map.get($colors, accent);
-			transition: 0.1s linear;
+			transition: color 0.1s linear;
 			text-decoration-color: map.get($colors, accent);
 		}
 	}

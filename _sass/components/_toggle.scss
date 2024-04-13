@@ -8,6 +8,7 @@ $knob-position: 2px;
 $transition-speed: .2s;
 $box-shadow: inset 0 0 5px rgba(0, 0, 0, .2);
 $knob-box-shadow: 0 1px 3px rgba(0, 0, 0, .2);
+$knob-active-movement: 2px;
 $bg-color-off-light: #c6c6c6;
 $bg-color-on-light: $light-mode-accent;
 $bg-color-off-dark: #555;
@@ -49,6 +50,10 @@ $bg-color-active-dark: #777;
 	&:active {
 		background-color: $bg-color-active-light;
 
+		&:after {
+			transform: translatex($knob-active-movement);
+		}
+
 		@media (prefers-color-scheme: dark) {
 			background-color: $bg-color-active-dark;
 		}
@@ -61,8 +66,16 @@ $bg-color-active-dark: #777;
 			background-color: $bg-color-on-dark;
 		}
 
+		$knob-offset: $switch-width - $knob-size - $knob-position * 2;
+
 		&:after {
-			transform: translatex($switch-width - $knob-size - $knob-position);
+			transform: translatex($knob-offset);
+		}
+
+		&:active {
+			&:after {
+				transform: translatex($knob-offset - $knob-active-movement);
+			}
 		}
 	}
 }

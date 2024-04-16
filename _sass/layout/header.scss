@@ -1,4 +1,5 @@
 @use 'vendors/vertical-rhythm-reset' as vr;
+@use 'abstracts/variables' as *;
 
 header#masthead {
 	text-transform: lowercase;
@@ -7,7 +8,7 @@ header#masthead {
 
 	nav {
 		@include vr.set($padding-bottom: 1);
-		border-bottom: 1px solid;
+		border-bottom: $border-thickness solid;
 		display: flex;
 		justify-content: space-between;
 		align-items: center;

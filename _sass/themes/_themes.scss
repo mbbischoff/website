@@ -102,6 +102,10 @@ $themes: (
 		color: inherit;
 		background: map.get($colors, highlight);
 	}
+
+	blockquote {
+		border-color: map.get($colors, link-underline);
+	}
 }
 
 @media (prefers-color-scheme: light) {

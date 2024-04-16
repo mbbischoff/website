@@ -50,3 +50,8 @@ h6 {
 address {
 	font-style: inherit;
 }
+
+blockquote {
+	@include vr.set($margin: 0, $padding-left: 0.5);
+	border-left: $border-thickness solid;
+}

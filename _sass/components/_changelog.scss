@@ -1,0 +1,17 @@
+@use 'vendors/vertical-rhythm-reset' as vr;
+
+section.changelog {
+	.summary-content {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.summary-text {
+		flex-grow: 1;
+	}
+
+	.github {
+		@include vr.set($margin-left: 1);
+	}
+}

@@ -10,7 +10,7 @@ section.changelog {
 	.time-description {
 		flex-grow: 1;
 		display: flex;
-		align-items: center;
+		align-items: flex-start;
 		@include vr.set($margin-right: 0.5);
 	}
 

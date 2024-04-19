@@ -32,25 +32,41 @@ Each change will be documented here with a dated commit and screenshot.
 
 Hanging punctuation.
 
+![2024-04-19.png](/uploads/2024-04-19.png)
+
+
 ### [2024-04-18](https://github.com/mattbischoff/website/commit/c6c5c5db4a4b499a3160c876d9ebaa5f8d33482a)
 
 Better red for blockquotes.
+
+![2024-04-18.png](/uploads/2024-04-18.png)
+
 
 ### [2024-04-17](https://github.com/mattbischoff/website/commit/5b0c2b5c2a315d8f41206c7b9d972db37445c46e)
 
 Red blockquotes?
 
+![2024-04-17.png](/uploads/2024-04-17.png)
+
 ### [2024-04-16](https://github.com/mattbischoff/website/commit/1849320f7811559584abdc7ea57281508512ccad)
 
 Blockquote styling.
+
+![2024-04-16.png](/uploads/2024-04-16.png)
 
 ### [2024-04-15](https://github.com/mattbischoff/website/commit/953156ad42c0347041fb8e3d9d879845d40c5ace)
 
 `<addr>` shouldn’t be italic.
 
+![2024-04-15.png](/uploads/2024-04-15.png)
+
 ### [2024-04-14](https://github.com/mattbischoff/website/commit/bf892aa3a8e0f3960c4457f357cc5cb599601ab2)
 
 Improve toggle animation.
+
+<video autoplay>
+  <source src="/uploads/2024-04-14.mp4" type="video/mp4">
+</video>
 
 ### [2024-04-13](https://github.com/mattbischoff/website/commit/6fa0277835803dee345e888e5483fc779eb72352)
 

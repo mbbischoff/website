@@ -2,7 +2,7 @@
 @use 'abstracts/variables' as *;
 
 footer {
-	@include vr.set($margin-top: 1 0);
+	@include vr.set($margin-top: 2);
 	border-top: $border-thickness solid;
 
 	text-transform: lowercase;

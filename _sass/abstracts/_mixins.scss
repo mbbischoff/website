@@ -4,6 +4,7 @@
 @mixin dot-grid {
 	background-size: $line-height $line-height;
 	background-position-y: math.div($line-height, 2);
+	background-position-x: math.div($line-height, 2);
 
 	@media (prefers-color-scheme: light) {
 		background-image: radial-gradient($light-mode-color-gridlines, 1px, transparent 1px);

@@ -68,6 +68,12 @@ $themes: (
 		}
 	}
 
+	hr {
+		&:after {
+			background: map.get($colors, text-secondary);
+		}
+	}
+
 	ul.posts {
 		li {
 			time {
@@ -129,6 +135,8 @@ $themes: (
 			}
 		}
 	}
+
+
 }
 
 

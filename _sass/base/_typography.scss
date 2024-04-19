@@ -57,6 +57,12 @@ blockquote {
 	border-left: $border-thickness solid;
 }
 
+hr {
+	border: none;
+
+	/* or any color you prefer */
+	@include vr.set($margin-left: 2, $margin-right: 2)
+}
 
 details {
 	@include vr.set($margin-left: -1);

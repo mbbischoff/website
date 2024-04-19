@@ -11,7 +11,7 @@ vr.$breakpoints : null;
 
 :root {
 	font-family: $text-font-stack;
-	hanging-punctuation: first allow-end last;
+	hanging-punctuation: first allow-end last; // https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/
 }
 
 h1,

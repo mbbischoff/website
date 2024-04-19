@@ -104,8 +104,8 @@ $themes: (
 	}
 
 	blockquote {
-		color: map.get($colors, link-underline);
-		border-color: map.get($colors, link-underline);
+		color: map.get($colors, accent);
+		border-color: map.get($colors, accent);
 	}
 }
 

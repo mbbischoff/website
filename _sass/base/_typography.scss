@@ -62,23 +62,24 @@ details {
 	@include vr.set($margin-left: -1);
 
 	summary {
+		@include vr.set($padding-left: 1);
+
 		list-style: none; // Hide default list marker
+		cursor: pointer;
+		position: relative; // Establishes position context for pseudo-element
 
 		&::-webkit-details-marker {
 			display: none; // Hide default arrow in browsers like Chrome or Safari
 		}
 
-		position: relative; // Establishes position context for pseudo-element
-		padding-left: 26px; // Space for the icon
-
 		&::before {
-			content: '';
+			content: '›';
 			position: absolute;
-			left: 0;
-			top: 0;
-			width: 24px;
-			height: 24px;
-			mask-image: url('data:image/svg+xml;charset=UTF-8, <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon"><path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" /></svg>');
+			// left: 0;
+			// top: 0;
+			// width: 24px;
+			// height: 24px;
+			// mask-image: url('data:image/svg+xml;charset=UTF-8, <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon"><path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" /></svg>');
 		}
 
 		time {

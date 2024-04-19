@@ -95,7 +95,9 @@ $themes: (
 	details {
 		summary {
 			&::before {
+				transform: rotate(0);
 				background-color: map.get($colors, text);
+				transition: .25s transform ease;
 			}
 
 			time {
@@ -121,7 +123,7 @@ $themes: (
 	}
 
 	section.changelog {
-		.github {
+		.commit {
 			svg {
 				color: map.get($colors, accent);
 			}

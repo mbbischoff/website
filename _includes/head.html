@@ -5,6 +5,17 @@
   {{ page.title }}
   {% if page.url != '/' %} &middot; {{ site.title }} {% endif %}
   </title>
+  
+  <script type="application/ld+json">
+  {
+    "@context" : "https://schema.org",
+    "@type" : "WebSite",
+    "name" : "{{ site.title }}",
+    "alternateName" : "mb",
+    "url" : "https://mbbischoff.com/",
+    }
+  }
+  </script>
 
   <link rel="canonical" href="{{ page.url | absolute_url }}" />
 

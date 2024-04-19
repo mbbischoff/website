@@ -92,6 +92,18 @@ $themes: (
 		}
 	}
 
+	details {
+		summary {
+			&::before {
+				background-color: map.get($colors, text);
+			}
+
+			time {
+				color: map.get($colors, text-secondary);
+			}
+		}
+	}
+
 	footer {
 		border-color: map.get($colors, link-underline);
 	}
@@ -107,7 +119,17 @@ $themes: (
 		color: map.get($colors, accent);
 		border-color: map.get($colors, accent);
 	}
+
+	section.changelog {
+		.github {
+			svg {
+				color: map.get($colors, accent);
+			}
+		}
+	}
 }
+
+
 
 @media (prefers-color-scheme: light) {
 	@include theme(light);

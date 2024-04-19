@@ -56,3 +56,42 @@ blockquote {
 	@include vr.set($margin: 0, $padding-left: 0.5);
 	border-left: $border-thickness solid;
 }
+
+
+details {
+	@include vr.set($margin-left: -1);
+
+	summary {
+		list-style: none; // Hide default list marker
+
+		&::-webkit-details-marker {
+			display: none; // Hide default arrow in browsers like Chrome or Safari
+		}
+
+		position: relative; // Establishes position context for pseudo-element
+		padding-left: 26px; // Space for the icon
+
+		&::before {
+			content: '';
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 24px;
+			height: 24px;
+			mask-image: url('data:image/svg+xml;charset=UTF-8, <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon"><path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" /></svg>');
+		}
+
+		time {
+			font-variant-numeric: tabular-nums;
+			@include vr.set($font-size: -1, $margin-right: 0.5);
+		}
+	}
+
+	&[open] {
+		@include vr.set($margin-bottom: 1);
+	}
+
+	&[open] summary::before {
+		transform: rotate(90deg); // Rotate icon when details are open
+	}
+}

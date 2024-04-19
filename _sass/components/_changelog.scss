@@ -12,6 +12,8 @@ section.changelog {
 	}
 
 	.github {
-		@include vr.set($margin-left: 1);
+		svg {
+			@include vr.set($margin-left: 1, $height: 0.7);
+		}
 	}
 }

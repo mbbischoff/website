@@ -11,6 +11,7 @@ vr.$breakpoints : null;
 
 :root {
 	font-family: $text-font-stack;
+	hanging-punctuation: first allow-end last;
 }
 
 h1,

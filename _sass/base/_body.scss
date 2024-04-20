@@ -6,7 +6,7 @@ body {
 	grid-template-rows: repeat(3, auto);
 	gap: 0;
 
-	max-width: 696px;
+	max-width: calc(1rlh * 29);
 
 	margin: 0 auto;
 	padding-inline: 1rlh;

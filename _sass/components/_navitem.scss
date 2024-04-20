@@ -1,4 +1,3 @@
-@use 'vendors/vertical-rhythm-reset' as vr;
 @use 'sass:math';
 
 .nav-item {
@@ -6,13 +5,15 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    //@include vr.set($margin-right: 0.5);
+    margin-inline-end: 0.5rlh; // TODO: Pull into variable
 }
 
 .nav-icon {
-    //@include vr.set($height: 1, $width: 1, $margin-right: math.div(1, 3));
+    height: 1rlh;
+    width: 1rlh;
+    margin-inline-end: calc(1/3 * 1rlh); // TODO: Pull into variable
     flex: 0 0 auto;
-    max-width: 24px; // natural size from heroicons.
+    max-width: 1rlh; // 24px natural size from heroicons.
 }
 
 .nav-title {

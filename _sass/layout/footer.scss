@@ -1,9 +1,9 @@
-@use 'vendors/vertical-rhythm-reset' as vr;
 @use 'abstracts/variables' as *;
 
 footer {
-	//@include vr.set($margin-top: 2);
+	padding-block: 1rlh;
 
+	margin-block-start: 1rlh;
 	border-top: $border-thickness solid;
 
 	text-transform: lowercase;

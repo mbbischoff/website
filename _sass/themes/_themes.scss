@@ -71,9 +71,7 @@ $themes: (
 	}
 
 	hr {
-		&:after {
-			background: map.get($colors, text-secondary);
-		}
+		// TODO: color: map.get($colors, text-secondary);
 	}
 
 	ul.posts {

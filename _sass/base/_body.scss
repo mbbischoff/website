@@ -1,14 +1,19 @@
-@use 'vendors/vertical-rhythm-reset' as vr;
 @use 'abstracts/mixins';
 
 body {
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: repeat(3, auto);
+	gap: 0;
 
 	max-width: 696px;
 
 	margin: 0 auto;
+	padding-inline: 1rlh;
 
-	// @include vr.grid(); Debugging
-	//@include vr.set($padding: 0 1);
+	// GRID
+	background-image: linear-gradient(rgba(50, 50, 50, 0.2) 1px, transparent 1px);
+	background-size: 100% 1rlh;
 }
 
 body:has(input[id="toggle-grid"]:checked) {
@@ -18,22 +23,39 @@ body:has(input[id="toggle-grid"]:checked) {
 // Make headers one level smaller when they’re in the `main`.
 main {
 	h1 {
-		// font-size: var(--s2);
-		// line-height: 2rlh;
+		font-size: var(--s4);
+		line-height: 2rlh;
+		margin-block: 1rlh;
+
 	}
 
 	h2 {
-		//@include vr.set($font-size: 2);
+		font-size: var(--s3);
+		line-height: 2rlh;
+		margin-block: 1rlh;
+
 	}
 
 	h3 {
-		//@include vr.set($font-size: 1);
+		font-size: var(--s2);
+		line-height: 1rlh;
+		margin-block: 1rlh;
+
 	}
 
-	h4,
+	h4 {
+		font-size: var(--s1);
+		line-height: 1rlh;
+	}
+
 	h5,
 	h6 {
-		//@include vr.set($font-size: 0);
+		font-size: var(--s0);
+		line-height: 1rlh;
+	}
+
+	p {
+		margin-block: 1rlh;
 	}
 }
 
@@ -44,7 +66,9 @@ ul.posts {
 		justify-content: space-between;
 
 		time {
-			@include vr.set($margin-left: 0.5, $font-size: -1);
+			margin-inline-start: 0.5rlh;
+			font-size: var(--s-1);
+			line-height: 1rlh;
 
 			flex-shrink: 0;
 			/* this ensures that the time will not shrink */

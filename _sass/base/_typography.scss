@@ -1,44 +1,57 @@
 @use 'vendors/vertical-rhythm-reset' as vr;
 @use 'abstracts/variables' as *;
 
-vr.$box-sizing : border-box;
-vr.$font-size : 17px;
-vr.$line-height : 1.4;
-vr.$modular-scale: perfect-fourth;
-vr.$breakpoints : null;
-
-@include vr.reset();
-
 :root {
-	font-family: $text-font-stack;
+	font-size: 100%;
+	// font-family: $text-font-stack;
 	hanging-punctuation: first allow-end last; // https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/
+}
+
+body {
+	background-image: linear-gradient(to bottom, #0ff 0, transparent 1px);
+	background-repeat: repeat-y;
+	background-size: 100% 1rem;
+
 }
 
 h1,
 h2,
 h3 {
-	font-family: $display-font-stack; // Big headers use the display version of the font.
+	// font-family: $display-font-stack; // Big headers use the display version of the font.
+
+	--baselines: 2.8;
+	--beneath: 1;
+	--baseline-shift: calc(calc(calc(var(--baselines) * 1rem) - 1cap) / 2);
+	--baseline-push: calc(calc(var(--beneath) * 1rem) - var(--baseline-shift));
+
+	line-height: calc(var(--baselines) * 1rem);
+
+	margin: 0;
+	padding: 0;
+
+	padding-top: var(--baseline-shift);
+	margin-bottom: var(--baseline-push);
 }
 
 h1 {
-	@include vr.set($font-size: 4);
+	// @include vr.set($font-size: 4);
 }
 
 h2 {
-	@include vr.set($font-size: 3);
+	// @include vr.set($font-size: 3);
 }
 
 h3 {
-	@include vr.set($font-size: 2);
+	// @include vr.set($font-size: 2);
 }
 
 h4 {
-	@include vr.set($font-size: 1);
+	// @include vr.set($font-size: 1);
 }
 
 h5,
 h6 {
-	@include vr.set($font-size: 0);
+	// @include vr.set($font-size: 0);
 }
 
 // Hang top-level ordered and unordered lists. https://markboulton.co.uk/journal/five-simple-steps-to-better-typography-part-2/
@@ -53,7 +66,8 @@ address {
 }
 
 blockquote {
-	@include vr.set($margin-left: -1, $padding-left: 1);
+	//@include vr.set($margin-left: -1, $padding-left: 1);
+
 	border-left: $border-thickness solid;
 }
 
@@ -61,7 +75,7 @@ hr {
 	border: none;
 
 	/* or any color you prefer */
-	@include vr.set($margin-left: 2, $margin-right: 2)
+	//@include vr.set($margin-left: 2, $margin-right: 2)
 }
 
 details {
@@ -77,7 +91,7 @@ details {
 		}
 
 		&::before {
-			@include vr.set($margin-left: -1);
+			// @include vr.set($margin-left: -1);
 
 			content: '';
 			position: absolute;
@@ -90,12 +104,12 @@ details {
 
 		time {
 			font-variant-numeric: tabular-nums;
-			@include vr.set($font-size: -1, $margin-right: 0.5);
+			// @include vr.set($font-size: -1, $margin-right: 0.5);
 		}
 	}
 
 	&[open] {
-		@include vr.set($margin-bottom: 1);
+		//@include vr.set($margin-bottom: 1);
 	}
 
 	&[open] summary::before {

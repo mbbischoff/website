@@ -4,10 +4,10 @@
 header#masthead {
 	text-transform: lowercase;
 
-	@include vr.set($margin: 1 0);
+	//@include vr.set($margin: 1 0);
 
 	nav {
-		@include vr.set($padding-bottom: 1);
+		//@include vr.set($padding-bottom: 1);
 		border-bottom: $border-thickness solid;
 		display: flex;
 		justify-content: space-between;
@@ -21,11 +21,10 @@ header#masthead {
 	}
 
 	h1 {
-		@include vr.set($margin-bottom: 0, $margin-top: 1);
-
+		//@include vr.set($margin-bottom: 0, $margin-top: 1);
 	}
 
 	p {
-		@include vr.set($margin-top: 0);
+		//@include vr.set($margin-top: 0);
 	}
 }

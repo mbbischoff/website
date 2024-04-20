@@ -11,11 +11,13 @@ section.changelog {
 		flex-grow: 1;
 		display: flex;
 		align-items: flex-start;
-		@include vr.set($margin-right: 0.5);
+		
+		//@include vr.set($margin-right: 0.5);
 	}
 
 	time {
-		@include vr.set($margin-right: 0.5);
+		//@include vr.set($margin-right: 0.5);
+		
 		white-space: nowrap;
 
 	}
@@ -23,10 +25,10 @@ section.changelog {
 	.commit {
 		display: flex;
 		align-items: center;
-		@include vr.set($margin-left: 0.5);
+		//@include vr.set($margin-left: 0.5);
 
 		svg {
-			@include vr.set($height: 1);
+			//@include vr.set($height: 1);
 		}
 	}
 
@@ -37,7 +39,7 @@ section.changelog {
 		}
 
 		.github-logo {
-			@include vr.set($margin-top: 0.5, $margin-left: 0);
+			//@include vr.set($margin-top: 0.5, $margin-left: 0);
 		}
 	}
 }

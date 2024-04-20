@@ -82,6 +82,6 @@ $bg-color-active-dark: #777;
 
 .switch {
 	label {
-		@include vr.set($margin-right: 0.5);
+		//@include vr.set($margin-right: 0.5);
 	}
 }

@@ -6,11 +6,11 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    @include vr.set($margin-right: 0.5);
+    //@include vr.set($margin-right: 0.5);
 }
 
 .nav-icon {
-    @include vr.set($height: 1, $width: 1, $margin-right: math.div(1, 3));
+    //@include vr.set($height: 1, $width: 1, $margin-right: math.div(1, 3));
     flex: 0 0 auto;
     max-width: 24px; // natural size from heroicons.
 }

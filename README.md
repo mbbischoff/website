@@ -63,3 +63,5 @@ name: animals
 * https://alxmjo.com/jekyll-microblog
 * https://tbrown.org
 * https://chriscoyier.net
+* https://pawelgrzybek.com/
+* https://lmnt.me

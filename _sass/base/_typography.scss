@@ -65,10 +65,8 @@ hr {
 }
 
 details {
-	@include vr.set($margin-left: -1);
 
 	summary {
-		@include vr.set($padding-left: 1);
 
 		list-style: none; // Hide default list marker
 		cursor: pointer;
@@ -79,6 +77,8 @@ details {
 		}
 
 		&::before {
+			@include vr.set($margin-left: -1);
+
 			content: '';
 			position: absolute;
 			left: 0;

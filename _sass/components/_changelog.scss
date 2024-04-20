@@ -1,5 +1,3 @@
-@use 'vendors/vertical-rhythm-reset' as vr;
-
 section.changelog {
 	.summary {
 		display: flex;
@@ -11,33 +9,24 @@ section.changelog {
 		flex-grow: 1;
 		display: flex;
 		align-items: flex-start;
-		@include vr.set($margin-right: 0.5);
+		margin-inline-end: 0.5rlh;
 	}
 
 	time {
-		@include vr.set($margin-right: 0.5);
+		margin-inline-end: 0.5rlh;
 		white-space: nowrap;
 
 	}
 
 	.commit {
+		margin-inline-start: 0.5rlh;
+
 		display: flex;
-		align-items: center;
-		@include vr.set($margin-left: 0.5);
+		flex-shrink: 0;
+		align-items: flex-start;
 
 		svg {
-			@include vr.set($height: 1);
-		}
-	}
-
-	@media (max-width: 600px) {
-		.summary-flex {
-			flex-direction: column;
-			align-items: flex-start;
-		}
-
-		.github-logo {
-			@include vr.set($margin-top: 0.5, $margin-left: 0);
+			height: 1rlh;
 		}
 	}
 }

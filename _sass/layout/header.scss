@@ -1,31 +1,23 @@
-@use 'vendors/vertical-rhythm-reset' as vr;
 @use 'abstracts/variables' as *;
 
 header#masthead {
 	text-transform: lowercase;
 
-	@include vr.set($margin: 1 0);
-
 	nav {
-		@include vr.set($padding-bottom: 1);
+		padding-block: 1rlh;
+		margin-block-end: 1rlh;
 		border-bottom: $border-thickness solid;
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
 
 		a {
-			font-variation-settings: 'wght' 400;
+			font-variation-settings: 'wght' 470;
 			text-decoration: none;
 		}
-
 	}
 
 	h1 {
-		@include vr.set($margin-bottom: 0, $margin-top: 1);
-
-	}
-
-	p {
-		@include vr.set($margin-top: 0);
+		margin-block-end: 0;
 	}
 }

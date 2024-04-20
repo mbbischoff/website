@@ -1,4 +1,3 @@
-@use 'vendors/vertical-rhythm-reset' as vr;
 @use 'abstracts/variables' as *;
 
 $switch-width: 40px;
@@ -82,6 +81,6 @@ $bg-color-active-dark: #777;
 
 .switch {
 	label {
-		@include vr.set($margin-right: 0.5);
+		margin-inline-end: 0.5rlh;
 	}
 }

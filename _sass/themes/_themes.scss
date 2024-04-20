@@ -3,6 +3,7 @@
 
 $themes: (
 	light: (background: $light-mode-background,
+		background-secondary: $light-mode-background-secondary,
 		text: $light-mode-text,
 		text-emphasized: $light-mode-text-emphasized,
 		accent: $light-mode-accent,
@@ -10,6 +11,7 @@ $themes: (
 		text-secondary: $light-mode-text-secondary,
 		highlight: $light-mode-highlight),
 	dark: (background: $dark-mode-background,
+		background-secondary: $dark-mode-background-secondary,
 		text: $dark-mode-text,
 		text-emphasized: $dark-mode-text-emphasized,
 		accent: $dark-mode-accent,
@@ -69,9 +71,7 @@ $themes: (
 	}
 
 	hr {
-		&:after {
-			background: map.get($colors, text-secondary);
-		}
+		background-color: map.get($colors, text-secondary);
 	}
 
 	ul.posts {
@@ -124,7 +124,8 @@ $themes: (
 	}
 
 	blockquote {
-		color: map.get($colors, accent);
+		background: map.get($colors, background-secondary);
+
 		border-color: map.get($colors, accent);
 	}
 

@@ -1,6 +1,12 @@
 img {
 	max-width: 100%;
 	height: auto;
+
+	&.inline {
+		display: inline;
+		max-height: 1lh;
+		vertical-align: middle;
+	}
 }
 
 audio {

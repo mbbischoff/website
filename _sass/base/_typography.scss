@@ -53,7 +53,7 @@ address {
 }
 
 blockquote {
-	@include vr.set($margin: 0, $padding-left: 0.5);
+	@include vr.set($margin-left: -1, $padding-left: 1);
 	border-left: $border-thickness solid;
 }
 

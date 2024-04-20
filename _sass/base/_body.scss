@@ -18,7 +18,8 @@ body:has(input[id="toggle-grid"]:checked) {
 // Make headers one level smaller when they’re in the `main`.
 main {
 	h1 {
-		//@include vr.set($font-size: 3);
+		// font-size: var(--s2);
+		// line-height: 2rlh;
 	}
 
 	h2 {

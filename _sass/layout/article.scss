@@ -1,12 +1,12 @@
 @use 'vendors/vertical-rhythm-reset' as vr;
 
 article {
-	//@include vr.set($margin-top: 1);
-
 	header {
 		display: grid;
 
 		h1 {
+			margin-block-start: 0; // Post title don’t need a top margin because of the time.
+
 			justify-self: start;
 
 			a {
@@ -15,7 +15,8 @@ article {
 		}
 
 		time {
-			//@include vr.set($font-size: -1);
+			font-size: var(--s-1);
+			line-height: 1lh;
 
 			justify-self: end;
 

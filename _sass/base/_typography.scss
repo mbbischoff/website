@@ -1,57 +1,89 @@
 @use 'vendors/vertical-rhythm-reset' as vr;
 @use 'abstracts/variables' as *;
 
-:root {
-	font-size: 100%;
-	// font-family: $text-font-stack;
-	hanging-punctuation: first allow-end last; // https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 
-body {
-	background-image: linear-gradient(to bottom, #0ff 0, transparent 1px);
-	background-repeat: repeat-y;
-	background-size: 100% 1rem;
+:root {
+	font-size: 16px;
+	line-height: 1.5;
 
+	font-family: $text-font-stack;
+	hanging-punctuation: first allow-end last; // https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/
+
+	--ratio: 1.333;
+	--s-5: calc(var(--s-4) / var(--ratio));
+	--s-4: calc(var(--s-3) / var(--ratio));
+	--s-3: calc(var(--s-2) / var(--ratio));
+	--s-2: calc(var(--s-1) / var(--ratio));
+	--s-1: calc(var(--s0) / var(--ratio));
+	--s0: 1rem;
+	--s1: calc(var(--s0) * var(--ratio));
+	--s2: calc(var(--s1) * var(--ratio));
+	--s3: calc(var(--s2) * var(--ratio));
+	--s4: calc(var(--s3) * var(--ratio));
+	--s5: calc(var(--s4) * var(--ratio));
+}
+
+
+body {
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: repeat(3, auto);
+	gap: 1rlh;
+	padding: 1rlh;
+
+	// GRID
+	background-image: linear-gradient(rgba(50, 50, 50, 0.2) 1px, transparent 1px);
+	background-size: 100% 1rlh;
+
+}
+
+header {
+	// margin-block-end: 1rlh;
 }
 
 h1,
 h2,
-h3 {
-	// font-family: $display-font-stack; // Big headers use the display version of the font.
-
-	--baselines: 2.8;
-	--beneath: 1;
-	--baseline-shift: calc(calc(calc(var(--baselines) * 1rem) - 1cap) / 2);
-	--baseline-push: calc(calc(var(--beneath) * 1rem) - var(--baseline-shift));
-
-	line-height: calc(var(--baselines) * 1rem);
-
-	margin: 0;
-	padding: 0;
-
-	padding-top: var(--baseline-shift);
-	margin-bottom: var(--baseline-push);
+h3,
+h4,
+h5,
+h6 {
+	font-family: $display-font-stack;
 }
 
 h1 {
-	// @include vr.set($font-size: 4);
+	font-size: var(--s4);
+	line-height: 2rlh;
+	margin-block: 1rlh;
+
 }
 
 h2 {
-	// @include vr.set($font-size: 3);
+	font-size: var(--s3);
+	line-height: 2rlh;
+	margin-block: 1rlh;
 }
 
 h3 {
-	// @include vr.set($font-size: 2);
+	font-size: var(--s2);
+	line-height: 1rlh;
+	margin-block: 1rlh;
 }
 
 h4 {
-	// @include vr.set($font-size: 1);
+	font-size: var(--s1);
+	line-height: 1rlh;
+	margin-block: 1rlh;
 }
 
 h5,
 h6 {
-	// @include vr.set($font-size: 0);
+	font-size: var(--s0);
 }
 
 // Hang top-level ordered and unordered lists. https://markboulton.co.uk/journal/five-simple-steps-to-better-typography-part-2/
@@ -66,8 +98,8 @@ address {
 }
 
 blockquote {
-	//@include vr.set($margin-left: -1, $padding-left: 1);
-
+	margin-left: -1rlh;
+	padding-left: 1rlh;
 	border-left: $border-thickness solid;
 }
 
@@ -81,7 +113,6 @@ hr {
 details {
 
 	summary {
-
 		list-style: none; // Hide default list marker
 		cursor: pointer;
 		position: relative; // Establishes position context for pseudo-element
@@ -91,7 +122,7 @@ details {
 		}
 
 		&::before {
-			// @include vr.set($margin-left: -1);
+			margin-left: -1rlh;
 
 			content: '';
 			position: absolute;
@@ -104,12 +135,12 @@ details {
 
 		time {
 			font-variant-numeric: tabular-nums;
-			// @include vr.set($font-size: -1, $margin-right: 0.5);
+			margin-inline-end: 1rlh;
 		}
 	}
 
 	&[open] {
-		//@include vr.set($margin-bottom: 1);
+		margin-block-end: 1rlh;
 	}
 
 	&[open] summary::before {

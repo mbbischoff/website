@@ -4,10 +4,8 @@
 header#masthead {
 	text-transform: lowercase;
 
-	//@include vr.set($margin: 1 0);
-
 	nav {
-		//@include vr.set($padding-bottom: 1);
+		margin-block-end: 1rlh;
 		border-bottom: $border-thickness solid;
 		display: flex;
 		justify-content: space-between;
@@ -18,13 +16,5 @@ header#masthead {
 			text-decoration: none;
 		}
 
-	}
-
-	h1 {
-		//@include vr.set($margin-bottom: 0, $margin-top: 1);
-	}
-
-	p {
-		//@include vr.set($margin-top: 0);
 	}
 }

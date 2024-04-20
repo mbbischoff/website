@@ -23,32 +23,38 @@ body:has(input[id="toggle-grid"]:checked) {
 // Make headers one level smaller when they’re in the `main`.
 main {
 	h1 {
-		font-size: var(--s4);
-		line-height: 2rlh;
-		margin-block: 1rlh;
-
-	}
-
-	h2 {
 		font-size: var(--s3);
 		line-height: 2rlh;
 		margin-block: 1rlh;
 
 	}
 
-	h3 {
+	h2 {
 		font-size: var(--s2);
+		line-height: 2rlh;
+		margin-block: 1rlh;
+
+	}
+
+	h3 {
+		font-size: var(--s1);
 		line-height: 1rlh;
 		margin-block: 1rlh;
 
 	}
 
 	h4 {
-		font-size: var(--s1);
+		font-size: var(--s0);
 		line-height: 1rlh;
+
 	}
 
-	h5,
+	h5 {
+		font-size: var(--s0);
+		line-height: 1rlh;
+
+	}
+
 	h6 {
 		font-size: var(--s0);
 		line-height: 1rlh;
@@ -56,6 +62,7 @@ main {
 
 	p {
 		margin-block: 1rlh;
+
 	}
 }
 

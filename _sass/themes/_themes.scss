@@ -125,8 +125,6 @@ $themes: (
 
 	blockquote {
 		background: map.get($colors, background-secondary);
-		;
-		border-radius: 4px;
 
 		border-color: map.get($colors, accent);
 	}

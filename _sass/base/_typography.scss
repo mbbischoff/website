@@ -1,12 +1,5 @@
 @use 'abstracts/variables' as *;
 
-
-* {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-}
-
 :root {
 	font-size: 17px;
 	line-height: 1.5;
@@ -39,32 +32,32 @@ h6 {
 }
 
 h1 {
-	font-size: var(--s5);
+	font-size: var(--s4);
 	line-height: 3rlh;
 	margin-block: 1rlh;
 
 }
 
 h2 {
-	font-size: var(--s4);
-	line-height: 2rlh;
-	margin-block: 1rlh;
-}
-
-h3 {
 	font-size: var(--s3);
 	line-height: 2rlh;
 	margin-block: 1rlh;
 }
 
-h4 {
+h3 {
 	font-size: var(--s2);
+	line-height: 2rlh;
+	margin-block: 1rlh;
+}
+
+h4 {
+	font-size: var(--s1);
 	line-height: 1rlh;
 	margin-block: 1rlh;
 }
 
 h5 {
-	font-size: var(--s1);
+	font-size: var(--s0);
 	line-height: 1rlh;
 }
 

@@ -11,9 +11,9 @@ body {
 	margin: 0 auto;
 	padding-inline: 1rlh;
 
-	// GRID
-	background-image: linear-gradient(rgba(50, 50, 50, 0.2) 1px, transparent 1px);
-	background-size: 100% 1rlh;
+	// Debugging GRID
+	// background-image: linear-gradient(rgba(50, 50, 50, 0.2) 1px, transparent 1px);
+	// background-size: 100% 1rlh;
 }
 
 body:has(input[id="toggle-grid"]:checked) {

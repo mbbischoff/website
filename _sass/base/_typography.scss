@@ -67,6 +67,30 @@ h6 {
 	line-height: 1rlh;
 }
 
+small,
+sub,
+sup {
+	font-size: 0.875em;
+}
+
+sub,
+sup {
+	position: relative;
+	line-height: 0;
+}
+
+dl {
+	margin-block: 1lh;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin-inline-start: 1lh;
+}
+
 // Hang top-level ordered and unordered lists. https://markboulton.co.uk/journal/five-simple-steps-to-better-typography-part-2/
 *:not(li)>ul,
 *:not(li)>ol {
@@ -86,6 +110,10 @@ blockquote {
 
 hr {
 	margin: 2rlh;
+	/* Specifies the thickness of the hr */
+	height: $border-thickness;
+	/* Removes the default border */
+	border: none;
 }
 
 details {

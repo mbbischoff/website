@@ -1,5 +1,5 @@
 ---
-title: 'beestung #12: TRANS IS THE FUTURE. THE FUTURE IS TRANS.'
+title: 'beestung Issue #12'
 date: 2022-08-24 18:31:00 -04:00
 categories:
 - shorter

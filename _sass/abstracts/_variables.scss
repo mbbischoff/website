@@ -38,7 +38,7 @@
   --highlight: light-dark(var(--light-highlight), var(--dark-highlight));
 
   --light-gridlines: color(display-p3 0.9 0.09 0.2 / 0.25);
-  --dark-gridlines: color(display-p3 0.9 0.09 0.2 / 0.3);
+  --dark-gridlines: color(display-p3 0.9 0.09 0.2 / 0.35);
   --gridlines-color: light-dark(var(--light-gridlines), var(--dark-gridlines));
 
   --gridlines: radial-gradient(var(--gridlines-color), 1px, transparent 1px);

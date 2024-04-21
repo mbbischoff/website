@@ -14,6 +14,10 @@
 // Components
 
 @use 'components/media';
+@use 'components/toggle';
+@use 'components/navitem';
+@use 'components/changelog';
+@use 'components/mb';
 
 // Layout
 
@@ -22,6 +26,3 @@
 @use 'layout/article';
 
 @use "themes/themes";
-@use 'components/toggle';
-@use 'components/navitem';
-@use 'components/changelog'

@@ -1,5 +1,5 @@
 ---
-title: "Software Sommelier on Clubhouse \U0001F4F1\U0001F377"
+title: "Software Sommelier on Clubhouse"
 date: 2021-02-23 12:17:00 -05:00
 categories:
 - tech

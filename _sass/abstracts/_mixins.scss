@@ -7,3 +7,32 @@
 	background-position-y: math.div(1rlh, 2);
 	background-image: var(--gridlines);
 }
+
+@mixin fontVariations($mono: null, $casl: null, $wght: null, $slnt: null, $crsv: null) {
+	$settings: (
+	);
+
+@if $mono !=null {
+	$settings: append($settings, "MONO"#{$mono}, comma);
+}
+
+@if $casl !=null {
+	$settings: append($settings, "CASL"#{$casl}, comma);
+}
+
+@if $wght !=null {
+	$settings: append($settings, "wght"#{$wght}, comma);
+}
+
+@if $slnt !=null {
+	$settings: append($settings, "slnt"#{$slnt}, comma);
+}
+
+@if $crsv !=null {
+	$settings: append($settings, "CRSV"#{$crsv}, comma);
+}
+
+@if length($settings)>0 {
+	font-variation-settings: $settings;
+}
+}

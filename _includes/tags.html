@@ -1,17 +1,16 @@
 <p class="tags">
   {% if include.post.categories != empty %}
-    <strong>Filed to</strong>: 
+    <!-- <strong>Filed to</strong>: 
     
     {% assign sorted_categories = include.post.categories | sort %}
     {% for category in sorted_categories %}
         <a href="/category/{{ category }}">{{ category | capitalize}}</a>{% unless forloop.last == true %}, {% endunless %}
     {% endfor %}
-  {% endif %}
+  {% endif %} -->
 
   {% if include.post.tags != empty %}
-    {% if include.post.categories != empty %} • {% endif %}
-    <strong>Tagged</strong>:
-    
+    <!-- {% if include.post.categories != empty %} • {% endif %} -->
+    <!-- <strong>Tagged</strong>: -->    
     {% assign sorted_tags = include.post.tags | sort %}
     {% for tag in sorted_tags %}
       <span class="post-tag">#{{ tag }}</span>{% unless forloop.last == true %}, {% endunless %}

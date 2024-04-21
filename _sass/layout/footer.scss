@@ -9,6 +9,11 @@ footer {
 	justify-content: space-between;
 	align-items: center;
 
+	p {
+		font-size: var(--s-1);
+		line-height: 1lhr;
+	}
+
 	.switch {
 		display: inline-flex;
 		align-items: center;

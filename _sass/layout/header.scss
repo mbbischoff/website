@@ -18,11 +18,33 @@ header#masthead {
 		}
 	}
 
+	@keyframes pulse {
+
+		0%,
+		100% {
+			@include fontVariations($casl: 1, $wght: var(--font-weight-black), $slnt: -10, $crsv: 1);
+
+		}
+
+		50% {
+			@include fontVariations($casl: 1, $wght: var(--font-weight-bold), $slnt: -5, $crsv: 1);
+		}
+	}
+
 	h1 {
+		@include fontVariations($casl: 1, $slnt: -10, $crsv: 1);
 		font-weight: var(--font-weight-black);
 
-		@include fontVariations($casl: 1, $slnt: -15, $crsv: 1);
 		margin-block: 0;
+		transition: font-variation-settings 0.45s ease-in-out;
+
+		&:hover {
+			animation: pulse 0.9s ease-in-out infinite;
+		}
+
+		a {
+			text-decoration: none;
+		}
 	}
 
 	p {

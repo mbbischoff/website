@@ -1,7 +1,7 @@
 @use 'abstracts/variables' as *;
 
 :root {
-	font-size: 18px;
+	font-size: 16px;
 	line-height: 1.5;
 
 	font-family: var(--text-font-stack);
@@ -105,10 +105,12 @@ address {
 
 blockquote {
 	padding-block: 1lh;
-	padding-inline-start: 1lh;
+	padding-inline: 1lh;
 
 	// Remove top margin for the first paragraph and bottom margin for the last
 	p {
+	font-variation-settings: 'wght' 500;
+
 	  &:first-child {
 		margin-top: 0;
 	  }
@@ -117,7 +119,7 @@ blockquote {
 	  }
 	}
 
-	margin-left: -1rlh;
+	margin-inline: -1rlh;
 	border-left: var(--border-thickness) solid;
 }
 
@@ -145,11 +147,11 @@ details {
 
 			content: '';
 			position: absolute;
-			left: 0;
-			top: 0;
-			width: 24px;
-			height: 24px;
-			mask-image: url('data:image/svg+xml;charset=UTF-8, <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon"><path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" /></svg>');
+			left: 2px;
+			top: 2px;
+			width: 20px;
+			height: 20px;
+			mask-image: url('data:image/svg+xml;charset=UTF-8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon"><path fill-rule="evenodd" d="M8.22 5.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 0 1-1.06-1.06L11.94 10 8.22 6.28a.75.75 0 0 1 0-1.06Z" clip-rule="evenodd"/></svg>'); // Heroicons: chevron mini
 		}
 
 		time {

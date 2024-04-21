@@ -80,7 +80,7 @@ details {
 	summary {
 		&::before {
 			transform: rotate(0);
-			background-color: var(--text);
+			background-color: var(--text-secondary);
 			transition: .25s transform ease;
 		}
 

@@ -13,9 +13,6 @@ section.changelog {
 	}
 
 	time {
-		font-size: var(--s-1);
-		line-height: 1rlh;
-
 		margin-inline-end: 0.5rlh;
 		white-space: nowrap;
 	}
@@ -28,7 +25,8 @@ section.changelog {
 		align-items: flex-start;
 
 		svg {
-			height: 1rlh;
+			padding: 2px;
+			height: 22px;
 		}
 	}
 }

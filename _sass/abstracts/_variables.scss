@@ -1,30 +1,75 @@
-@use 'sass:color';
+:root {
+    color-scheme: light dark;
 
-$text-font-stack: "halyard-text-variable", system-ui, sans-serif;
-$display-font-stack: "halyard-display-variable", system-ui, sans-serif;
-$border-thickness: 1px;
+    --text-font-stack: "halyard-text-variable", system-ui, sans-serif;
+    --display-font-stack: "halyard-display-variable", system-ui, sans-serif;
+    --border-thickness: 1px;
 
-$switch-box-shadow: inset 0 0 5px rgba(0, 0, 0, .2);
-$switch-knob-box-shadow: 0 1px 3px rgba(0, 0, 0, .2);
+    --light-background: color(display-p3 0.998 0.982 0.984);
+    --dark-background: color(display-p3 0.018 0.002 0.004);
+    --background: light-dark(var(--light-background), var(--dark-background));
 
-$light-mode-color-gridlines: color(display-p3 0.9 0.09 0.2 / 0.25);
-$dark-mode-color-gridlines: color(display-p3 0.9 0.09 0.2 / 0.3);
+    --light-background-secondary: color(display-p3 0.9 0.09 0.2 / 0.1);
+    --dark-background-secondary: color(display-p3 .9 0.3 0.4 / 0.1);    
+    --background-secondary: light-dark(var(--light-background-secondary), var(--dark-background-secondary));
 
-$light-mode-background: color(display-p3 0.998 0.982 0.984);
-$light-mode-background-secondary: color(display-p3 0.9 0.09 0.2 / 0.1);
-$light-mode-text: color(display-p3 0.273 0.027 0.06);
-$light-mode-text-secondary: color(display-p3 0.364 0.036 0.08 / 0.7);
-$light-mode-text-emphasized: color(display-p3 0.036 0.004 0.008);
-$light-mode-accent: color(display-p3 0.9 0.09 0.2);
-$light-mode-link-underline: color(display-p3 0.9 0.09 0.2 / 0.5);
-$light-mode-highlight: color(display-p3 0.9 0.09 0.2 / 0.2);
+    --light-text: color(display-p3 0.273 0.027 0.06);
+    --dark-text: color(display-p3 0.988 0.892 0.903);
+    --text: light-dark(var(--light-text), var(--dark-text));
 
+    --light-text-secondary: color(display-p3 0.364 0.036 0.08 / 0.7);
+    --dark-text-secondary: color(display-p3 0.988 0.892 0.903 / 0.7);
+    --text-secondary: light-dark(var(--light-text-secondary), var(--dark-text-secondary));
 
-$dark-mode-background: color(display-p3 0.018 0.002 0.004);
-$dark-mode-background-secondary: color(display-p3 .9 0.3 0.4 / 0.1);
-$dark-mode-text: color(display-p3 0.988 0.892 0.903);
-$dark-mode-text-secondary: color(display-p3 0.988 0.892 0.903 / 0.7);
-$dark-mode-text-emphasized: color(display-p3 0.998 0.982 0.984);
-$dark-mode-accent: color(display-p3 0.9 0.3 0.4);
-$dark-mode-link-underline: color(display-p3 0.9 0.09 0.2 / 0.5);
-$dark-mode-highlight: color(display-p3 0.9 0.3 0.4 / 0.6);
+    --light-text--emphasized: color(display-p3 0.036 0.004 0.008);
+    --dark-text--emphasized: color(display-p3 0.998 0.982 0.984);
+    --text-emphasized: light-dark(var(--light-text--emphasized), var(--dark-text--emphasized));
+
+    --light-accent: color(display-p3 0.9 0.09 0.2);
+    --dark-accent: color(display-p3 0.9 0.3 0.4);
+    --accent: light-dark(var(--light-accent), var(--dark-accent));
+
+    --light-link-underline: color(display-p3 0.9 0.09 0.2 / 0.5);
+    --dark-link-underline: color(display-p3 0.9 0.3 0.4 / 0.5);
+    --link-underline: light-dark(var(--light-link-underline), var(--dark-link-underline));
+
+    --light-highlight: color(display-p3 0.9 0.09 0.2 / 0.2);
+    --dark-highlight: color(display-p3 0.9 0.3 0.4 / 0.6);
+    --highlight: light-dark(var(--light-highlight), var(--dark-highlight));
+
+    --light-gridlines: color(display-p3 0.9 0.09 0.2 / 0.25);
+    --dark-gridlines: color(display-p3 0.9 0.09 0.2 / 0.3);
+    --gridlines-color: light-dark(var(--light-gridlines), var(--dark-gridlines));
+
+    --gridlines: radial-gradient(var(--gridlines-color), 1px, transparent 1px);
+}
+
+/* Can be removed once [light-dark()](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/light-dark) is supported in Safari desktop. */
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --background: var(--light-background);
+        --background-secondary: var(--light-background-secondary);
+        --text: var(--light-text);
+        --text-secondary: var(--light-text-secondary);
+        --text-emphasized: var(--light-text--emphasized);
+        --accent: var(--light-accent);
+        --link-underline: var(--light-link-underline);
+        --highlight: var(--light-highlight);
+        --gridlines-color: var(--light-gridlines);
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background: var(--dark-background);
+        --background-secondary: var(--dark-background-secondary);
+        --text: var(--dark-text);
+        --text-secondary: var(--dark-text-secondary);
+        --text-emphasized: var(--dark-text--emphasized);
+        --accent: var(--dark-accent);
+        --link-underline: var(--dark-link-underline);
+        --highlight: var(--dark-highlight);
+        --gridlines-color: var(--dark-gridlines);
+    }
+  }

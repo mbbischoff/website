@@ -1,151 +1,114 @@
 @use 'abstracts/variables' as *;
 @use "sass:map";
 
-$themes: (
-	light: (background: $light-mode-background,
-		background-secondary: $light-mode-background-secondary,
-		text: $light-mode-text,
-		text-emphasized: $light-mode-text-emphasized,
-		accent: $light-mode-accent,
-		link-underline: $light-mode-link-underline,
-		text-secondary: $light-mode-text-secondary,
-		highlight: $light-mode-highlight),
-	dark: (background: $dark-mode-background,
-		background-secondary: $dark-mode-background-secondary,
-		text: $dark-mode-text,
-		text-emphasized: $dark-mode-text-emphasized,
-		accent: $dark-mode-accent,
-		link-underline: $dark-mode-link-underline,
-		text-secondary: $dark-mode-text-secondary,
-		highlight: $dark-mode-highlight)
-);
+body {
+	background-color: var(--background);
+	color: var(--text)
+}
 
-@mixin theme($theme) {
-	$colors: map.get($themes, $theme);
+header#masthead {
+	color: var(--text-emphasized);
 
-	body {
-		background-color: map.get($colors, background);
-		color: map.get($colors, text);
-	}
+	nav {
+		border-color: var(--link-underline);
 
-	header#masthead {
-		color: map.get($colors, text-emphasized);
-
-		nav {
-			border-color: map.get($colors, link-underline);
-
-			a {
-				&.active {
-					color: map.get($colors, accent);
-				}
+		a {
+			&.active {
+				color: var(--accent);
 			}
 		}
 	}
+}
 
-	h1,
-	h2,
-	h3,
-	h4,
-	h5,
-	h6 {
-		color: map.get($colors, text-emphasized);
-	}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: var(--text-emphasized);
+}
 
-	a {
-		color: map.get($colors, text-emphasized);
-		text-decoration-color: map.get($colors, link-underline);
+a {
+	color: var(--text-emphasized);
+	text-decoration-color: var(--link-underline);
+
+	transition-property: color, text-decoration-color;
+	transition-duration: 0.1s;
+	transition-timing-function: linear;
+
+
+	&:hover {
+		color: var(--accent);
+		text-decoration-color: var(--accent);
 
 		transition-property: color, text-decoration-color;
 		transition-duration: 0.1s;
 		transition-timing-function: linear;
+	}
+}
 
+hr {
+	background-color: var(--text-secondary);
+}
 
-		&:hover {
-			color: map.get($colors, accent);
-			text-decoration-color: map.get($colors, accent);
-
-			transition-property: color, text-decoration-color;
-			transition-duration: 0.1s;
-			transition-timing-function: linear;
+ul.posts {
+	li {
+		time {
+			color: var(--text-secondary);
 		}
 	}
+}
 
-	hr {
-		background-color: map.get($colors, text-secondary);
-	}
-
-	ul.posts {
-		li {
-			time {
-				color: map.get($colors, text-secondary);
+article {
+	header {
+		h1 {
+			a {
+				color: var(--accent);
 			}
 		}
-	}
 
-	article {
-		header {
-			h1 {
-				a {
-					color: map.get($colors, accent);
-				}
-			}
-
-			time {
-				a {
-					color: map.get($colors, text-secondary);
-				}
+		time {
+			a {
+				color: var(--text-secondary);
 			}
 		}
 	}
+}
 
-	details {
-		summary {
-			&::before {
-				transform: rotate(0);
-				background-color: map.get($colors, text);
-				transition: .25s transform ease;
-			}
+details {
+	summary {
+		&::before {
+			transform: rotate(0);
+			background-color: var(--text);
+			transition: .25s transform ease;
+		}
 
-			time {
-				color: map.get($colors, text-secondary);
-			}
+		time {
+			color: var(--text-secondary);
 		}
 	}
+}
 
-	footer {
-		border-color: map.get($colors, link-underline);
-	}
-
-
-	mark {
-		color: map.get($colors, text-emphasized);
-		color: inherit;
-		background: map.get($colors, highlight);
-	}
-
-	blockquote {
-		background: map.get($colors, background-secondary);
-
-		border-color: map.get($colors, accent);
-	}
-
-	section.changelog {
-		.commit {
-			svg {
-				color: map.get($colors, accent);
-			}
-		}
-	}
-
-
+footer {
+	border-color: var(--link-underline);
 }
 
 
-
-@media (prefers-color-scheme: light) {
-	@include theme(light);
+mark {
+	color: var(--text-emphasized);
+	background: var(--highlight);
 }
 
-@media (prefers-color-scheme: dark) {
-	@include theme(dark);
+blockquote {
+	background: var(--background-secondary);
+	border-color: var(--accent);
+}
+
+section.changelog {
+	.commit {
+		svg {
+			color: var(--accent);
+		}
+	}
 }

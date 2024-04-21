@@ -4,7 +4,7 @@
 	font-size: 18px;
 	line-height: 1.5;
 
-	font-family: $text-font-stack;
+	font-family: var(--text-font-stack);
 	font-display: fallback;
 
 	hanging-punctuation: first allow-end last; // https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/
@@ -29,7 +29,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: $display-font-stack;
+	font-family: var(--display-font-stack);
 }
 
 h1 {
@@ -106,13 +106,13 @@ address {
 blockquote {
 	margin-left: -1rlh;
 	padding-left: 1rlh;
-	border-left: $border-thickness solid;
+	border-left: var(--border-thickness) solid;
 }
 
 hr {
 	margin: 2rlh;
 	/* Specifies the thickness of the hr */
-	height: $border-thickness;
+	height: var(--border-thickness);
 	/* Removes the default border */
 	border: none;
 }

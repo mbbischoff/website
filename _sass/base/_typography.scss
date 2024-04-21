@@ -104,7 +104,9 @@ address {
 }
 
 blockquote {
-	padding-block-start: 1rlh;
+	padding-block: 1lh;
+	padding-inline-start: 1lh;
+
 	// Remove top margin for the first paragraph and bottom margin for the last
 	p {
 	  &:first-child {
@@ -116,7 +118,6 @@ blockquote {
 	}
 
 	margin-left: -1rlh;
-	padding-inline: 1rlh;
 	border-left: var(--border-thickness) solid;
 }
 

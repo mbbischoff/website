@@ -24,9 +24,12 @@ body:has(input[id="toggle-grid"]:checked) {
 main {
 	h1 {
 		font-size: var(--s2);
-		line-height: 2rlh;
+		line-height: 1lh;
 		margin-block: 1rlh;
 
+		&.title {
+			margin-block: 0;
+		}
 	}
 
 	h2 {

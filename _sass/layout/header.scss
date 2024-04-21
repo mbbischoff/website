@@ -1,4 +1,5 @@
 @use 'abstracts/variables' as *;
+@use 'abstracts/mixins' as *;
 
 header#masthead {
 	text-transform: lowercase;
@@ -12,13 +13,15 @@ header#masthead {
 		align-items: center;
 
 		a {
-			font-variation-settings: 'wght' 470;
+			font-weight: var(--font-weight-semibold);
 			text-decoration: none;
 		}
 	}
 
 	h1 {
-		line-height: 2rlh;
+		font-weight: var(--font-weight-black);
+
+		@include fontVariations($casl: 1, $slnt: -15, $crsv: 1);
 		margin-block: 0;
 	}
 

@@ -5,12 +5,5 @@
 	background-size: 1rlh 1rlh;
 	background-position-x: math.div(1rlh, 2);
 	background-position-y: math.div(1rlh, 2);
-
-	@media (prefers-color-scheme: light) {
-		background-image: radial-gradient($light-mode-color-gridlines, 1px, transparent 1px);
-	}
-
-	@media (prefers-color-scheme: dark) {
-		background-image: radial-gradient($dark-mode-color-gridlines, 1px, transparent 1px);
-	}
+	background-image: var(--gridlines);
 }

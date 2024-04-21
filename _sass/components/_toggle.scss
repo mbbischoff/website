@@ -9,9 +9,9 @@ $box-shadow: inset 0 0 5px rgba(0, 0, 0, .2);
 $knob-box-shadow: 0 1px 3px rgba(0, 0, 0, .2);
 $knob-active-movement: 2px;
 $bg-color-off-light: #c6c6c6;
-$bg-color-on-light: $light-mode-accent;
+$bg-color-on-light: var(--accent);
 $bg-color-off-dark: #555;
-$bg-color-on-dark: $dark-mode-accent;
+$bg-color-on-dark: var(--accent);
 $bg-color-active-light: #bbb;
 $bg-color-active-dark: #777;
 

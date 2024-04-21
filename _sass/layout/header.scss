@@ -6,7 +6,7 @@ header#masthead {
 	nav {
 		padding-block: 1rlh;
 		margin-block-end: 1rlh;
-		border-bottom: $border-thickness solid;
+		border-bottom: var(--border-thickness) solid;
 		display: flex;
 		justify-content: space-between;
 		align-items: center;

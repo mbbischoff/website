@@ -1,30 +1,17 @@
-@use 'sass:color';
+:root {
+    --text-font-stack: "halyard-text-variable", system-ui, sans-serif;
+    --display-font-stack: "halyard-display-variable", system-ui, sans-serif;
+    --border-thickness: 1px;
 
-$text-font-stack: "halyard-text-variable", system-ui, sans-serif;
-$display-font-stack: "halyard-display-variable", system-ui, sans-serif;
-$border-thickness: 1px;
+    --background: light-dark(color(display-p3 0.998 0.982 0.984), color(display-p3 0.018 0.002 0.004));
+    --background-secondary: light-dark(color(display-p3 0.9 0.09 0.2 / 0.1), color(display-p3 .9 0.3 0.4 / 0.1));
+    --text: light-dark(color(display-p3 0.273 0.027 0.06), color(display-p3 0.988 0.892 0.903));
+    --text-secondary: light-dark(color(display-p3 0.364 0.036 0.08 / 0.7), color(display-p3 0.988 0.892 0.903 / 0.7));
+    --text-emphasized: light-dark(color(display-p3 0.036 0.004 0.008), color(display-p3 0.998 0.982 0.984));
+    --accent: light-dark(color(display-p3 0.9 0.09 0.2), color(display-p3 0.9 0.3 0.4));
+    --link-underline: light-dark(color(display-p3 0.9 0.09 0.2 / 0.5), color(display-p3 0.9 0.09 0.2 / 0.5));
+    --highlight: light-dark(color(display-p3 0.9 0.09 0.2 / 0.2), color(display-p3 0.9 0.3 0.4 / 0.6));
 
-$switch-box-shadow: inset 0 0 5px rgba(0, 0, 0, .2);
-$switch-knob-box-shadow: 0 1px 3px rgba(0, 0, 0, .2);
-
-$light-mode-color-gridlines: color(display-p3 0.9 0.09 0.2 / 0.25);
-$dark-mode-color-gridlines: color(display-p3 0.9 0.09 0.2 / 0.3);
-
-$light-mode-background: color(display-p3 0.998 0.982 0.984);
-$light-mode-background-secondary: color(display-p3 0.9 0.09 0.2 / 0.1);
-$light-mode-text: color(display-p3 0.273 0.027 0.06);
-$light-mode-text-secondary: color(display-p3 0.364 0.036 0.08 / 0.7);
-$light-mode-text-emphasized: color(display-p3 0.036 0.004 0.008);
-$light-mode-accent: color(display-p3 0.9 0.09 0.2);
-$light-mode-link-underline: color(display-p3 0.9 0.09 0.2 / 0.5);
-$light-mode-highlight: color(display-p3 0.9 0.09 0.2 / 0.2);
-
-
-$dark-mode-background: color(display-p3 0.018 0.002 0.004);
-$dark-mode-background-secondary: color(display-p3 .9 0.3 0.4 / 0.1);
-$dark-mode-text: color(display-p3 0.988 0.892 0.903);
-$dark-mode-text-secondary: color(display-p3 0.988 0.892 0.903 / 0.7);
-$dark-mode-text-emphasized: color(display-p3 0.998 0.982 0.984);
-$dark-mode-accent: color(display-p3 0.9 0.3 0.4);
-$dark-mode-link-underline: color(display-p3 0.9 0.09 0.2 / 0.5);
-$dark-mode-highlight: color(display-p3 0.9 0.3 0.4 / 0.6);
+    --gridlines-color: light-dark(color(display-p3 0.9 0.09 0.2 / 0.25), color(display-p3 0.9 0.09 0.2 / 0.3)); 
+    --gridlines: radial-gradient(var(--gridlines-color), 1px, transparent 1px);
+}

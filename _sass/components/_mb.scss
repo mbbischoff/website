@@ -1,0 +1,7 @@
+@use 'abstracts/variables' as *;
+@use 'abstracts/mixins' as *;
+
+.mb {
+	font-weight: bolder;
+	@include fontVariations($casl: 1, $crsv: 1)
+}

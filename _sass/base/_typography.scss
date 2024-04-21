@@ -104,7 +104,7 @@ address {
 }
 
 blockquote {
-	padding-block: 1rlh;
+	padding-block-start: 1rlh;
 	// Remove top margin for the first paragraph and bottom margin for the last
 	p {
 	  &:first-child {

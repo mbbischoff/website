@@ -3,8 +3,6 @@ article {
 		display: grid;
 
 		h1 {
-			margin-block: 0; // Post title don’t need a top margin because of the time.
-
 			justify-self: start;
 
 			a {
@@ -13,7 +11,7 @@ article {
 		}
 
 		time {
-			font-size: var(--s-1);
+			font-size: var(--step--1);
 			line-height: 1lh;
 
 			justify-self: end;

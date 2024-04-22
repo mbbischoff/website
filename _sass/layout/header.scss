@@ -22,19 +22,16 @@ header#masthead {
 
 		0%,
 		100% {
-			@include fontVariations($casl: 1, $wght: var(--font-weight-black), $slnt: -10, $crsv: 1);
+			@include fontVariations($casl: 1, $wght: var(--font-weight-black), $slnt: var(--name-slant), $crsv: 1);
 
 		}
 
 		50% {
-			@include fontVariations($casl: 1, $wght: var(--font-weight-bold), $slnt: -10, $crsv: 1);
+			@include fontVariations($casl: 1, $wght: var(--font-weight-bold), $slnt: 5, $crsv: 1);
 		}
 	}
 
 	h1 {
-		@include fontVariations($casl: 1, $slnt: -10, $crsv: 1);
-		font-weight: var(--font-weight-black);
-
 		margin-block: 0;
 		transition: font-variation-settings 0.45s ease-in-out;
 

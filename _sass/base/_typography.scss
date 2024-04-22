@@ -49,7 +49,6 @@ h4,
 h5,
 h6 {
 	text-wrap: balance;
-	@include fontVariations($casl: 0, $wght: var(--font-weight-bold), $slnt: 0, $crsv: 1);
 	font-weight: var(--font-weight-bold);
 	@include fontVariations($casl: 0, $slnt: 0, $crsv: 0);
 }

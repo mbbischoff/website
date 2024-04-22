@@ -27,7 +27,7 @@ header#masthead {
 		}
 
 		50% {
-			@include fontVariations($casl: 1, $wght: var(--font-weight-bold), $slnt: -5, $crsv: 1);
+			@include fontVariations($casl: 1, $wght: var(--font-weight-bold), $slnt: -10, $crsv: 1);
 		}
 	}
 

@@ -63,4 +63,4 @@ Published with [Jekyll](https://jekyllrb.com), hosted on [GitHub](https://github
 
 Type is set in [Recursive](https://www.recursive.design/) from [Arrow Type](https://www.arrowtype.com/).
 
-Photos of mb were taken by Ashe of [Rose Glass Photography](https://www.roseglass.pictures).
+Photos of mb taken by Ashe of [Rose Glass Photography](https://www.roseglass.pictures).

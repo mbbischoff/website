@@ -68,9 +68,11 @@ ul.date-list {
 		justify-content: space-between;
 
 		time {
-			margin-inline-start: 0.5rlh;
+			color: var(--text-secondary);
 			font-size: var(--step--1);
 			line-height: 1rlh;
+
+			margin-inline-start: 0.5rlh;
 
 			flex-shrink: 0;
 			/* this ensures that the time will not shrink */

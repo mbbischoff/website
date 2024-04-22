@@ -2,11 +2,17 @@
 @use 'abstracts/mixins' as *;
 
 .mb {
-	font-weight: var(--font-weight-black);
-	@include fontVariations($casl: 1, $slnt: var(--name-slant), $crsv: 1)
+	@include fontVariations($casl: 1,
+		$slnt: var(--name-slant),
+		$crsv: 1,
+		$wght: var(--font-weight-black))
 }
 
 .full-name {
 	font-weight: var(--font-weight-bold);
-	@include fontVariations($casl: 1, $slnt: var(--name-slant), $crsv: 1)
+
+	@include fontVariations($casl: 1,
+		$slnt: var(--name-slant),
+		$crsv: 1,
+		$wght: var(--font-weight-bold))
 }

@@ -13,7 +13,9 @@
     <!-- <strong>Tagged</strong>: -->    
     {% assign sorted_tags = include.post.tags | sort %}
     {% for tag in sorted_tags %}
-      <span class="post-tag">#{{ tag }}</span>{% unless forloop.last == true %}, {% endunless %}
+    <section class ="tags">
+      <span class="tag">#{{ tag }}</span>{% unless forloop.last == true %} {% endunless %}
+    </section>
     {% endfor %}
   {% endif %}
 </p>

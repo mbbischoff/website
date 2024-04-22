@@ -80,9 +80,15 @@ article {
 		}
 	}
 
-	.post-tag {
+	section.tags {
+		display: inline;
+		font-size: var(--step--1);
 		color: var(--text-secondary);
+
+		&.tag {}
+
 	}
+
 
 }
 

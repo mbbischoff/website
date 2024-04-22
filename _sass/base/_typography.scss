@@ -50,6 +50,8 @@ h5,
 h6 {
 	text-wrap: balance;
 	@include fontVariations($casl: 0, $wght: var(--font-weight-bold), $slnt: 0, $crsv: 1);
+	font-weight: var(--font-weight-bold);
+	@include fontVariations($casl: 0, $slnt: 0, $crsv: 0);
 }
 
 h1 {
@@ -66,27 +68,32 @@ h2 {
 }
 
 h3 {
+	font-weight: var(--font-weight-semibold);
 	font-size: var(--s2);
 	line-height: 2rlh;
 	margin-block: 1rlh;
 }
 
 h4 {
+	font-weight: var(--font-weight-bold);
 	font-size: var(--s1);
 	line-height: 1rlh;
 	margin-block: 1rlh;
 }
 
 h5 {
+	font-weight: var(--font-weight-semibold);
 	font-size: var(--s0);
 	line-height: 1rlh;
+	margin-block: 1rlh;
 }
 
 
 h6 {
+	font-weight: var(--font-weight-normal);
 	font-size: var(--s0);
 	line-height: 1rlh;
-}
+	margin-block: 1rlh;
 
 small,
 sub,
@@ -99,6 +106,8 @@ sub,
 sup {
 	position: relative;
 	line-height: 0;
+small {
+	font-size: var(--s-1);
 }
 
 dl {

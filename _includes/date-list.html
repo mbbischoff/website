@@ -1,5 +1,4 @@
-<section class="date-list">
-  <ul>
+  <ul class="date-list">
     {% assign sorted = include.content | sort: 'date' | reverse %} {% for item in
     sorted %}
     <li>
@@ -8,4 +7,3 @@
     </li>
     {% endfor %}
   </ul>
-</section>

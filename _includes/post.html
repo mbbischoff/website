@@ -1,9 +1,11 @@
-<article class="post">
   {% if page.format == "short" %}
+  <article class="short">
 	{% include /post_types/short.html post=page %}
   {% elsif page.format == "link" %}
+  <article class="link">
 	{% include /post_types/link.html post=page %}
   {% else %}
+  <article class="long">
 	{% include /post_types/long-expanded.html post=page %}
   {% endif%}
   

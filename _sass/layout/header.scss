@@ -33,13 +33,14 @@ header#masthead {
 
 	h1 {
 		margin-block: 0;
-		transition: font-variation-settings 0.45s ease-in-out;
-
-		&:hover {
-			animation: pulse 0.9s ease-in-out infinite;
-		}
 
 		a {
+			transition: font-variation-settings 0.45s ease-in-out;
+			
+			&:hover {
+				animation: pulse 0.9s ease-in-out infinite;
+			}
+
 			text-decoration: none;
 		}
 	}

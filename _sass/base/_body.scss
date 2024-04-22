@@ -2,7 +2,7 @@
 
 body {
 	display: grid;
-	grid-template-columns: 1fr;
+	grid-template-columns: minmax(0, 1fr); // https://css-tricks.com/preventing-a-grid-blowout/
 	grid-template-rows: repeat(3, auto);
 	gap: 1rlh;
 

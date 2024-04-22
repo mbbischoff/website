@@ -30,6 +30,29 @@
 	--s5: calc(var(--s4) * var(--ratio));
 }
 
+pre {
+	@include fontVariations($mono: 1);
+
+	max-width: 100%;
+	overflow: auto;
+	background: var(--background-tertiary);
+	border-radius: 0.5rlh;
+	margin-inline: -1lh;
+	padding: 1lh;
+
+}
+
+code {
+	@include fontVariations($mono: 1);
+
+	max-width: 100%;
+	overflow: auto;
+	border-radius: 0.5rlh;
+	margin-inline: -1lh;
+	padding: 1lh;
+
+}
+
 em,
 i {
 	@include fontVariations($slnt: -15)

@@ -129,3 +129,14 @@ section.changelog {
 		}
 	}
 }
+
+// Long articles get endmarks.
+article {
+	&.long {
+		section.content {
+			>p:last-of-type::after {
+				color: var(--accent);
+			}
+		}
+	}
+}

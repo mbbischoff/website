@@ -59,7 +59,7 @@ You can [contact mb here](/contact) or find them online in all of these places:
 
 ## Colophon
 
-This website is published with [Jekyll](https://jekyllrb.com), hosted on [GitHub](https://github.com/mattbischoff/matthewbischoff.com), and deployed via [GitHub Pages](https://pages.github.com).
+Published with [Jekyll](https://jekyllrb.com), hosted on [GitHub](https://github.com/mattbischoff/matthewbischoff.com), and deployed via [GitHub Pages](https://pages.github.com).
 
 Type is set in [Recursive](https://www.recursive.design/) from [Arrow Type](https://www.arrowtype.com/).
 

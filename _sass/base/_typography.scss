@@ -39,9 +39,6 @@ strong, b {
 	font-weight: var(--font-weight-semibold);
 }
 
-code,
-pre {}
-
 h1,
 h2,
 h3,
@@ -93,6 +90,7 @@ h6 {
 	font-size: var(--s0);
 	line-height: 1rlh;
 	margin-block: 1rlh;
+}
 
 small,
 sub,
@@ -105,6 +103,8 @@ sub,
 sup {
 	position: relative;
 	line-height: 0;
+}
+
 small {
 	font-size: var(--s-1);
 }

@@ -62,7 +62,7 @@ I include widgets from:
 
 *Set up in the [Apple Watch app](https://support.apple.com/guide/watch/faces-and-features-apde9218b440/watchos) or on your watch, then [use Shortcuts automation](https://appleinsider.com/articles/20/09/28/how-to-automatically-change-apple-watch-faces-at-certain-times-or-places) to change to it when in the Travel focus*
 
-![Apple Watch Lock Screen Screenshot](/uploads/watch.PNG)
+![Apple Watch Lock Screen Screenshot](/uploads/watch.PNG){: .center}
 
 The watch displays what I need to glance at most while in line or moving around the airport. I use the Infograph Modular face to pack a lot of info on screen at once.
 

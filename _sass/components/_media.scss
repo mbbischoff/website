@@ -1,11 +1,44 @@
 img {
 	max-width: 100%;
-	height: auto;
+	block-size: auto;
+
+	border-radius: 0.5em;
+
 
 	&.inline {
 		display: inline;
+		border-radius: none;
+
+		margin-inline: auto;
+		height: auto;
 		max-height: 1lh;
 		vertical-align: middle;
+	}
+
+	&.crop-top {
+		object-position: 50% 10%;
+	}
+
+	&.crop-middle {
+		object-position: 50% 50%;
+	}
+
+	&.crop-bottom {
+		object-position: 50% 90%;
+	}
+
+	&.center {
+		margin-inline: auto;
+	}
+}
+
+main {
+	img {
+		max-width: 108%;
+		margin-inline: -4%;
+
+		// max-height: 14rlh; TODO: Force a certain number of lines. Perhaps it should differ on desktop / mobile. Maybe it should have utility classes that give me options.
+		//object-fit: cover;
 	}
 }
 

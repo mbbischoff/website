@@ -14,6 +14,11 @@ Inspired by: [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/mar
 ##### Header 5
 ###### Header 6
 
+<figure>
+  <img class="center" src="/uploads/Books.jpg">
+  <figcaption>A photo of mb.</figcaption>
+</figure>
+
 Single line blockquote:
 
 > Stay hungry. Stay foolish.

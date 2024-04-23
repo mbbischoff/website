@@ -1,9 +1,31 @@
+@use 'abstracts/mixins' as *;
+
+figure {
+	// display: inline-block;
+	// text-align: center;
+	// max-width: 100%;
+
+	img {
+		// max-width: 100%;
+		// block-size: auto;
+	}
+
+}
+
+figcaption {
+	display: block;
+	text-align: center;
+	@include fontVariations($slnt: -15);
+	line-height: 1lh;
+	color: var(--text-secondary);
+	font-size: var(--step--1);
+}
+
 img {
 	max-width: 100%;
 	block-size: auto;
 
 	border-radius: 0.5em;
-
 
 	&.inline {
 		display: inline;
@@ -26,14 +48,10 @@ img {
 	&.crop-bottom {
 		object-position: 50% 90%;
 	}
-
-	&.center {
-		margin-inline: auto;
-	}
 }
 
 main {
-	img {
+	&img {
 		max-width: 108%;
 		margin-inline: -4%;
 
@@ -67,4 +85,8 @@ video {
 	left: 0;
 	width: 100%;
 	height: 100%;
+}
+
+.center {
+	margin-inline: auto;
 }

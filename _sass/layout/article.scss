@@ -24,6 +24,15 @@ article {
 		}
 	}
 
+	&.link {
+		header {
+			h1 {
+				font-size: var(--step-1);
+				line-height: 1lh;
+			}
+		}
+	}
+
 	// Long articles get endmarks.
 	&.long {
 		section.content {

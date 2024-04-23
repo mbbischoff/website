@@ -16,7 +16,7 @@ Inspired by: [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/mar
 
 <figure>
   <img class="center" src="/uploads/Books.jpg">
-  <figcaption>A photo of mb.</figcaption>
+  <figcaption>A photo of books.</figcaption>
 </figure>
 
 Single line blockquote:

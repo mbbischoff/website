@@ -4,7 +4,10 @@ date: 2013-07-26 00:00:00 -04:00
 layout: post
 ---
 
-![App Store Banner](/uploads/app_store_banner.jpg)
+<figure>
+<img src="/uploads/app_store_banner.jpg" alt="App Store Banner" />
+<figcaption>Photo courtesy of <a href="http://www.flickr.com/photos/cristiano_betta/2909483129/">Cristiano Betta.</a></figcaption>
+</figure>
 
 The **app definition statement** is a concept that I’ve been obsessed with since I first read about it in the original [iOS Human Interface Guidelines](http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/AppDesign/AppDesign.html) back in 2008.
 
@@ -38,5 +41,3 @@ These don’t all follow the exact same template, but they do give you a quick o
 Writing an ADS is the first step in any new software project I’m thinking about. As soon as I have one I’m happy with, I put it in the project `README` and start designing.
 
 Do you write App Definition Statements, or have you found an even better way to define your work?
-
-*Photo courtesy of [Cristiano Betta](http://www.flickr.com/photos/cristiano_betta/2909483129/)*.

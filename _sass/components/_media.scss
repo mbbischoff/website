@@ -24,6 +24,7 @@ figcaption {
 img {
 	max-width: 100%;
 	block-size: auto;
+	margin-block: 1rlh;
 
 	border-radius: 0.5em;
 
@@ -31,6 +32,7 @@ img {
 		display: inline;
 		border-radius: none;
 
+		margin-block: 0;
 		margin-inline: auto;
 		height: auto;
 		max-height: 1lh;

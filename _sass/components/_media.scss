@@ -1,26 +1,5 @@
 @use 'abstracts/mixins' as *;
 
-figure {
-	// display: inline-block;
-	// text-align: center;
-	// max-width: 100%;
-
-	img {
-		// max-width: 100%;
-		// block-size: auto;
-	}
-
-}
-
-figcaption {
-	display: block;
-	text-align: center;
-	@include fontVariations($slnt: -15);
-	line-height: 1lh;
-	color: var(--text-secondary);
-	font-size: var(--step--1);
-}
-
 img {
 	max-width: 100%;
 	block-size: auto;
@@ -52,6 +31,25 @@ img {
 	}
 }
 
+figure {
+	margin-block: 1lh;
+
+	img {
+		margin-block: 0;
+	}
+
+	figcaption {
+		display: block;
+		text-align: end;
+		@include fontVariations($slnt: -15);
+		line-height: 1lh;
+		color: var(--text-secondary);
+		font-size: var(--step--1);
+	}
+
+}
+
+
 main {
 	&img {
 		max-width: 108%;
@@ -62,7 +60,9 @@ main {
 	}
 }
 
-audio {}
+audio {
+	//TODO: Center
+}
 
 video {}
 

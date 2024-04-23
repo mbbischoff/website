@@ -16,7 +16,7 @@ With time, revealed more of itself? ![underconstruction2.gif](/uploads/undercons
 
 ---
 
-This project explores the ideas of [continuous improvement](https://en.wikipedia.org/wiki/Kaizen), [impermanance](https://en.wikipedia.org/wiki/Wabi-sabi), and [gradual transitions](https://en.wikipedia.org/wiki/Gender_transition).
+This project explores the ideas of [continuous improvement](https://en.wikipedia.org/wiki/Kaizen), [impermanence](https://en.wikipedia.org/wiki/Wabi-sabi), and [gradual transitions](https://en.wikipedia.org/wiki/Gender_transition).
 
 It’s inspired by [Under Construction GIFs](http://textfiles.com/underconstruction/), [Wikipedia](http://wikipedia.org), [Thing a Week](https://en.wikipedia.org/wiki/Thing_a_Week), [Song a Day](https://songaday.world), [Atomic Habits](https://jamesclear.com/atomic-habits), [HRT](https://en.wikipedia.org/wiki/Hormone_replacement_therapy), the [IndieWeb](https://indieweb.org), & [CSS Zen Garden](https://csszengarden.com).
 

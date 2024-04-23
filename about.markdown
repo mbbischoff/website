@@ -60,5 +60,5 @@ You can [contact mb here](/contact) or find them online in all of these places:
 ## Colophon
 
 Published with [Jekyll](https://jekyllrb.com), hosted on [GitHub](https://github.com/mattbischoff/matthewbischoff.com), & deployed via [Pages](https://pages.github.com).  
-Headline and body type is set in [Recursive](https://www.recursive.design/) from [Arrow Type](https://www.arrowtype.com/).  
+Headline & body type is set in [Recursive](https://www.recursive.design/) from [Arrow Type](https://www.arrowtype.com/).  
 Photos by Ashe of [Rose Glass Photography](https://www.roseglass.pictures).

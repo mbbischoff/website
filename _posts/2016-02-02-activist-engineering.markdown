@@ -18,6 +18,7 @@ description: You’ve been there. You’re sitting in a meeting and your boss, a
   of the features that are going to be “coming down the pike”. All of a sudden you
   see it.
 layout: post
+thanks: "Thanks to [Bryan Irace](http://irace.me), [Soroush Khanlou](http://khanlou.com), and [Brian Capps](http://briancapps.org) for their feedback on early drafts of this article."
 ---
 
 You’ve been there. You’re sitting in a meeting and your boss, a product manager, or an executive is talking about Q2 goals. They’re laying out a roadmap of the features that are going to be “coming down the pike”. All of a sudden you see it. An innocuous bullet that makes your blood boil: “[Auto-invite friends](http://www.theverge.com/2013/4/30/4286090/path-is-spamming-address-books-with-unwanted-texts-and-robocalls)”, “[Re-engagement notifications](https://marco.org/2014/12/01/app-store-rule-5-6)”, or “[Disable ATS](https://www.dzombak.com/blog/2015/09/Nobody-is-using-App-Transport-Security--what-s-next-.html)”.
@@ -46,5 +47,3 @@ In other disciplines, engineers wear an [iron ring](https://en.wikipedia.org/wik
 Of course, not every idea you dislike is a bad one, so spend your reputation thoughtfully but forcefully. Make your dissent count, but [don’t be a jerk](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk).
 
 Our job as software engineers is to build things that make the world (or a corner of it) better, things that solve problems. But that’s not our only job. It’s also to be gatekeepers: to prevent ideas that we know are harmful from being realized. What’s the worst that could happen: we get a reputation for giving a damn?
-
-*Thanks to [Bryan Irace](http://irace.me), [Soroush Khanlou](http://khanlou.com), and [Brian Capps](http://briancapps.org) for their feedback on early drafts of this article.*

@@ -15,6 +15,7 @@ image: "/uploads/firepit.jpg"
 description: Many managers think a lot about how they treat their team, but few have
   a philosophy about those that leave it.
 layout: post
+thanks: "Thanks to [Soroush Khanlou](https://twitter.com/khanlou), [Kate Sloan](https://twitter.com/girly_juice), & [Rachel Viniar](https://twitter.com/crystallized) for their feedback on early drafts."
 ---
 
 ![Fire Pit from XOXO](/uploads/firepit.jpg)
@@ -53,5 +54,3 @@ Remember that it can be emotional to process endings, even if it was their choic
 <hr>
 
 Many managers think a lot about how they treat their team, but very few I’ve spoken to have a philosophy about those who leave it. Treat your ex-employees like they’re professionals that helped you build and ship great things, because that’s exactly who they are. If you’re consistently nice and professional to the folks you’ve worked with in the past, it’ll help build your reputation as the kind of person that’s great to work for.
-
-_Thanks to [Soroush Khanlou](https://twitter.com/khanlou), [Kate Sloan](https://twitter.com/girly_juice), and [Rachel Viniar](https://twitter.com/crystallized) for their feedback on drafts of this article._

@@ -113,8 +113,15 @@ footer {
 
 
 mark {
-	color: var(--text-emphasized);
+	// https://max.hn/thoughts/how-to-create-a-highlighter-marker-effect-in-css
+	color: inherit;
 	background: var(--highlight);
+	margin: 0 -0.3em;
+	border-radius: 0.7em 0.3em;
+	padding: 0.15em 0.3em;
+
+	-webkit-box-decoration-break: clone;
+	box-decoration-break: clone;
 }
 
 blockquote {

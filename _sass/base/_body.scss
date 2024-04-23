@@ -11,7 +11,7 @@ body {
 	margin: 0 auto;
 	padding-inline: 1rlh;
 
-	// Debugging GRID
+	//Debugging GRID 
 	// background-image: linear-gradient(rgba(50, 50, 50, 0.2) 1px, transparent 1px);
 	// background-size: 100% 1rlh;
 }
@@ -24,7 +24,7 @@ body:has(input[id="toggle-grid"]:checked) {
 main {
 	header {
 		h1 {
-			margin-block: 0; // Post title don’t need a top margin because of the time.
+			margin-block: 0; // Post title don’t need a top margin because of the time. TODO: Bottom margin
 		}
 	}
 

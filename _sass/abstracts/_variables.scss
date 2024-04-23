@@ -1,11 +1,15 @@
 :root {
   color-scheme: light dark;
-  
+
   --name-slant: -10;
 
   --text-font-stack: "halyard-text-variable", system-ui, sans-serif;
   --display-font-stack: "halyard-display-variable", system-ui, sans-serif;
   --border-thickness: 1px;
+
+  --light-background-gradient-start: color(display-p3 0.99 0.91 0.919);
+  --dark-background-gradient-start: color(display-p3 0.09 0.01 0.019);
+  --background-gradient-start: light-dark(var(--light-background), var(--dark-background));
 
   --light-background: color(display-p3 0.998 0.982 0.984);
   --dark-background: color(display-p3 0.018 0.002 0.004);
@@ -56,6 +60,7 @@
 @media (prefers-color-scheme: light) {
   :root {
     --background: var(--light-background);
+    --background-gradient-start: var(--light-background-gradient-start);
     --background-secondary: var(--light-background-secondary);
     --background-tertiary: var(--light-background-tertiary);
     --text: var(--light-text);
@@ -71,6 +76,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --background: var(--dark-background);
+    --background-gradient-start: var(--dark-background-gradient-start);
     --background-secondary: var(--dark-background-secondary);
     --background-tertiary: var(--dark-background-tertiary);
     --text: var(--dark-text);

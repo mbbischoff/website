@@ -1,8 +1,14 @@
 @use 'abstracts/variables' as *;
 @use "sass:map";
 
+html {
+	background: linear-gradient(180deg, var(--background-gradient-start), var(--background) 24em);
+	background-size: 24em, 0;
+	background-repeat: repeat-x;
+
+}
+
 body {
-	background-color: var(--background);
 	color: var(--text)
 }
 

@@ -192,9 +192,9 @@ hr {
 details {
 
 	summary {
-		list-style: none; // Hide default list marker
+		list-style: none;
 		cursor: pointer;
-		position: relative; // Establishes position context for pseudo-element
+		position: relative;
 
 		&::-webkit-details-marker {
 			display: none; // Hide default arrow in browsers like Chrome or Safari
@@ -204,19 +204,21 @@ details {
 			margin-left: -1lh;
 			content: '';
 			position: absolute;
+			top: 0; // Position the chevron at the very top
 			width: 1lh;
 			height: 1lh;
 			mask-image: url('data:image/svg+xml;charset=UTF-8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon"><path fill-rule="evenodd" d="M8.22 5.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 0 1-1.06-1.06L11.94 10 8.22 6.28a.75.75 0 0 1 0-1.06Z" clip-rule="evenodd"/></svg>'); // Heroicons: chevron mini
 		}
 
+		+* {
+			margin-block: 0.5lh; // change as per needs
+		}
+
+
 		time {
 			font-variant-numeric: tabular-nums;
 			margin-inline-end: 1rlh;
 		}
-	}
-
-	&[open] {
-		margin-block-end: 1rlh;
 	}
 
 	&[open] summary::before {

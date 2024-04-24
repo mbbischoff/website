@@ -5,6 +5,9 @@ position: 1
 image: "/uploads/matthew-profile-43.jpeg"
 layout: page
 ---
+  * 
+{:toc} 
+
 
 <img src="/uploads/matthew-profile-43.jpeg" width="1400" height="1050" alt="Photo of Matthew Bischoff looking at their phone waring a leather jacket in a park.">
 

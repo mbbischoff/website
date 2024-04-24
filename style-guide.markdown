@@ -4,11 +4,10 @@ date: 2020-03-29 17:54:00 -04:00
 position: 4
 layout: page
 ---
+  * 
+{:toc} 
 
 _Inspired by: [<cite>Minimal Mistakes</cite>](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)_
-
-  * 
-  {:toc} 
 
 # Headings
 
@@ -157,7 +156,6 @@ Still sticking with science and Albert Einstein’s E = MC<sup>2</sup>, which sh
 
 ### Definition Lists
     
-Cryptids of Cornwall:
 <dl>
   <dt>Definition List Title</dt>
   <dd>Definition list division.</dd>
@@ -168,3 +166,44 @@ Cryptids of Cornwall:
   <dt>Do It Live</dt>
   <dd>I’ll let Bill O’Reilly <a href="https://www.youtube.com/watch?v=O_HyZ5aW76c" title="We'll Do It Live">explain</a> this one.</dd>
 </dl>
+
+## Media
+
+### Image
+
+![mb](/assets/images/avatar.jpeg)
+
+// TODO: Inline Image
+
+// TODO: Centered image
+
+ <!-- ﻿<picture>, ﻿<audio>, ﻿<video>, ﻿<source>, ﻿<track>, ﻿<canvas>, ﻿<svg>, ﻿<iframe> -->
+
+
+### Figure
+
+<figure>
+  <img class="center" src="/uploads/Books.jpg">
+  <figcaption>A photo of books.</figcaption>
+</figure>
+
+### Picture
+
+<picture>
+  <img
+    alt="MSCH Image"
+    width="460"
+    height="360"
+    loading="lazy"
+    src="/uploads/mschf-app.png"
+  />
+</picture>
+
+
+### Audio
+
+<figure>
+  <figcaption>Everyday Robots #63: Build and Watch</figcaption>
+  <audio controls preload="none" src="https://traffic.libsyn.com/secure/everydayrobots/EverydayRobots63finalVersion.mp3?dest-id=1530128"></audio>
+</figure>
+

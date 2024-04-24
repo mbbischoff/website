@@ -16,6 +16,47 @@ body {
 	// background-size: 100% 1rlh;
 }
 
+#markdown-toc {
+	&::before {
+		content: '§ index';
+		font-weight: var(--font-weight-semibold);
+		color: var(--text);
+	}
+
+	font-size: var(--step--1);
+	line-height: 1.4;
+	color: var(--text-secondary);
+	padding-inline-start: 1em;
+	list-style-type: none;
+
+	@media (min-width: 80em) {
+		position: sticky;
+		top: 1rlh;
+		overflow-y: auto;
+		float: left;
+		margin-inline-start: -8rlh;
+		max-width: 6rlh;
+		padding-inline-start: 1lh;
+	}
+
+	ul {
+		padding-inline-start: 1em;
+		list-style-type: none;
+	}
+
+	li {
+		a {
+			text-decoration: none;
+
+			&:hover {
+				text-decoration: underline;
+				color: var(--accent);
+				text-decoration-color: var(--accent);
+			}
+		}
+	}
+}
+
 body:has(input[id="toggle-grid"]:checked) {
 	@include mixins.dot-grid;
 }

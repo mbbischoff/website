@@ -57,6 +57,13 @@ figure {
 
 }
 
+caption {
+	font-weight: var(--font-weight-semibold);
+	text-align: center;
+	margin-block-end: 1lh;
+}
+
+
 
 main {
 	&img {
@@ -82,9 +89,7 @@ iframe {
 	margin: var(--spacing-s) auto;
 	position: relative;
 	width: 100%;
-	padding-bottom: 56.25%;
-	/* 16:9 */
-	height: 0;
+	aspect-ratio: 16/9;
 }
 
 .video-wrapper iframe {
@@ -97,4 +102,21 @@ iframe {
 
 .center {
 	margin-inline: auto;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+}
+
+th,
+td {
+	border: 1px solid var(--link-underline);
+	padding: 0.5lh;
+	text-align: left;
+}
+
+th {
+	background: var(--background-secondary);
 }

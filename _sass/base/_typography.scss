@@ -34,23 +34,43 @@
 
 
 pre {
-
-	max-width: 100%;
 	overflow: auto;
-	background: var(--background-tertiary);
+	background: var(--background-secondary);
 	border-radius: 0.5rlh;
 	margin-inline: -1lh;
 	padding: 1lh;
-
 }
 
 tt,
 code,
-kbd,
 samp,
-pre {
+pre,
+var,
+kbd {
 	@include fontVariations($mono: 1);
 	font-family: var(--text-font-stack);
+}
+
+abbr {
+	cursor: help;
+	border-bottom: var(--link-underline) 3px dotted;
+}
+
+p>code,
+var,
+kbd {
+	@include fontVariations($mono: 1);
+	white-space: break-spaces;
+	font-size: 80%;
+	padding: .2em .4em;
+	margin: 0;
+
+	background: var(--background-tertiary);
+	border-radius: 0.3em;
+}
+
+.highlight {
+	background: var(--background-tertiary);
 }
 
 code {
@@ -61,15 +81,21 @@ code {
 	border-radius: 0.5rlh;
 	margin-inline: -1lh;
 	padding: 1lh;
-
 }
 
 em,
-i {
-	@include fontVariations($slnt: -15)
+i,
+cite {
+	@include italicised();
 }
 
-strong, b {
+dfn {
+	@include italicised($crsv: 0);
+	font-weight: var(--font-weight-semibold);
+}
+
+strong,
+b {
 	font-weight: var(--font-weight-semibold);
 }
 
@@ -156,7 +182,6 @@ dt {
 dd {
 	margin-inline-start: 1lh;
 }
-
 // Hang top-level ordered and unordered lists. https://markboulton.co.uk/journal/five-simple-steps-to-better-typography-part-2/
 *:not(li)>ul,
 *:not(li)>ol {

@@ -39,9 +39,10 @@ figure {
 	}
 
 	figcaption {
+		@include italicised();
+
 		display: block;
 		text-align: end;
-		@include fontVariations($slnt: -15);
 		line-height: 1lh;
 		color: var(--text-secondary);
 		font-size: var(--step--1);

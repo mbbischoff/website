@@ -49,8 +49,8 @@ article {
 	}
 
 	section.thanks {
+		@include italicised();
 		color: var(--text-secondary);
 		font-size: var(--step--1);
-		@include fontVariations($slnt: -15);
 	}
 }

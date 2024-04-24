@@ -36,3 +36,7 @@
 	font-variation-settings: $settings;
 }
 }
+
+@mixin italicised($crsv: 1) {
+	@include fontVariations($slnt: -15, $crsv: $crsv)
+}

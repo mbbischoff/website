@@ -1,10 +1,9 @@
 :root {
   color-scheme: light dark;
-  
+
   --name-slant: -10;
 
-  --text-font-stack: "halyard-text-variable", system-ui, sans-serif;
-  --display-font-stack: "halyard-display-variable", system-ui, sans-serif;
+  --text-font-stack: 'Recursive', system-ui, sans-serif;
   --border-thickness: 1px;
 
   --light-background: color(display-p3 0.998 0.982 0.984);

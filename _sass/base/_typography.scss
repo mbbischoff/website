@@ -25,7 +25,7 @@
 	--font-weight-bold: 781;
 	--font-weight-black: 976;
 
-	font-family: 'Recursive', monospace;
+	font-family: var(--text-font-stack);
 	font-weight: var(--font-weight-normal);
 	font-display: fallback;
 

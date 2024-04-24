@@ -23,8 +23,8 @@ body {
 		color: var(--text);
 	}
 
-	font-size: var(--step--2);
-	line-height: 0.5rlh;
+	font-size: var(--step--1);
+	line-height: 1rlh;
 	color: var(--text-secondary);
 	padding-inline-start: 1em;
 	list-style-type: none;
@@ -34,8 +34,8 @@ body {
 		top: 1rlh;
 		overflow-y: auto;
 		float: left;
-		margin-inline-start: -6rlh;
-		max-width: 4rlh;
+		margin-inline-start: -8rlh;
+		max-width: 6rlh;
 		padding-inline-start: 1lh;
 	}
 

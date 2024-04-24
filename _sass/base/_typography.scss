@@ -34,7 +34,6 @@
 
 
 pre {
-	@include fontVariations($mono: 1);
 
 	max-width: 100%;
 	overflow: auto;
@@ -49,6 +48,7 @@ tt,
 code,
 kbd,
 samp {
+	@include fontVariations($mono: 1);
 	font-family: var(--text-font-stack);
 }
 

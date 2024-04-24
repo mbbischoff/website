@@ -47,7 +47,8 @@ pre {
 tt,
 code,
 kbd,
-samp {
+samp,
+pre {
 	@include fontVariations($mono: 1);
 	font-family: var(--text-font-stack);
 }

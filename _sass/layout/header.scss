@@ -2,12 +2,13 @@
 @use 'abstracts/mixins' as *;
 
 header#masthead {
-	text-transform: lowercase;
 
 	nav {
+		text-transform: lowercase;
+
 		padding-block: 1rlh;
 		margin-block-end: 1rlh;
-		border-bottom: var(--border-thickness) solid;
+		border-bottom: var(--border-thickness) solid var(--link-underline);
 		display: flex;
 		justify-content: space-between;
 		align-items: center;

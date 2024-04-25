@@ -1,15 +1,20 @@
 <footer>
   <div class="legal">
   <p class="license">
-    <a href="#top" class="initials">mb</a>
-    <i class="cc cc-cc"></i> {{ site.license.copyright }}
-    <a
+    <a href="/" class="initials">mb</a>
+    <i class="cc cc-cc"></i> {{ site.license.copyright }} • <a
       href="{{ site.license.url }}"
       title="Creative Commons Attribution-ShareAlike 4.0 International">
-      {{ site.license.text }}</a>.      
+      {{ site.license.text }}</a> • made with ♥
     </p>    
     
     <!-- TODO: Make this an include. -->
+    <div>
+      <!-- <p> -->
+      <a href="#top" class="button-borderlesss">↑ top</a>
+      <!-- </p> -->
+    <br>
+
     <div class="switch">
       <label for="toggle-grid">
        <!-- Custom dot grid svg icon -->
@@ -31,6 +36,6 @@
      </label>
       <input type="checkbox" id="toggle-grid" class="toggle" checked="" aria-label="Toggle dot grid" />
     </div>
-
+    </div>
   </div>
 </footer>

@@ -336,6 +336,23 @@ button,
 	}
 }
 
+.button-borderlesss {
+	display: inline-block;
+	text-decoration: none;
+
+	transition: scale 0.2s ease-in-out,
+		color 0.2s ease-in-out;
+
+	&:hover,
+	&:focus {
+		scale: 120%;
+	}
+
+	&:active {
+		scale: 100%;
+	}
+}
+
 .truncate {
 	overflow: hidden;
 	text-overflow: ellipsis;

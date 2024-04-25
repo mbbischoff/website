@@ -18,7 +18,7 @@ body {
 
 #markdown-toc {
 	&::before {
-		content: '§';
+		content: '§ Sections';
 		font-weight: var(--font-weight-semibold);
 		color: var(--text);
 	}
@@ -29,7 +29,8 @@ body {
 	list-style-type: none;
 
 	@media (min-width: 80em) {
-		position: sticky;		top: 1rlh;
+		// position: sticky;
+		top: 1rlh;
 		float: left;
 		margin-inline-start: -8rlh;
 		max-width: 6rlh;
@@ -37,7 +38,7 @@ body {
 	}
 
 	ul {
-		padding-inline-start: 1em;
+		padding-inline-start: 0.5em;
 		list-style-type: none;
 	}
 

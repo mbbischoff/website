@@ -1,10 +1,22 @@
 {
   "actions" : {
     "build" : {
-      "enabled" : true
+      "enabled" : true,
+      "postActions" : [
+        {
+          "script" : "bundle exec jekyll build",
+          "type" : "runScript"
+        }
+      ]
     },
     "run" : {
       "enabled" : true,
+      "postActions" : [
+        {
+          "script" : "bundle exec jekyll serve",
+          "type" : "runScript"
+        }
+      ],
       "script" : "bundle exec jekyll serve"
     }
   }

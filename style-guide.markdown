@@ -305,7 +305,7 @@ ctx.stroke();
 
 ### SVG
 
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+<svg height="3rlh" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
   <path stroke-linecap="round" stroke-linejoin="round" d="M4.26 10.147a60.438 60.438 0 0 0-.491 6.347A48.62 48.62 0 0 1 12 20.904a48.62 48.62 0 0 1 8.232-4.41 60.46 60.46 0 0 0-.491-6.347m-15.482 0a50.636 50.636 0 0 0-2.658-.813A59.906 59.906 0 0 1 12 3.493a59.903 59.903 0 0 1 10.399 5.84c-.896.248-1.783.52-2.658.814m-15.482 0A50.717 50.717 0 0 1 12 13.489a50.702 50.702 0 0 1 7.74-3.342M6.75 15a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm0 0v-3.675A55.378 55.378 0 0 1 12 8.443m-7.007 11.55A5.981 5.981 0 0 0 6.75 15.75v-1.5" />
 </svg>
 
@@ -389,22 +389,69 @@ ctx.stroke();
 
 </form>
 
+
+### Buttons
+
+A true `button`:  
+<button><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon"><path d="m9.653 16.915-.005-.003-.019-.01a20.759 20.759 0 0 1-1.162-.682 22.045 22.045 0 0 1-2.582-1.9C4.045 12.733 2 10.352 2 7.5a4.5 4.5 0 0 1 8-2.828A4.5 4.5 0 0 1 18 7.5c0 2.852-2.044 5.233-3.885 6.82a22.049 22.049 0 0 1-3.744 2.582l-.019.01-.005.003h-.002a.739.739 0 0 1-.69.001l-.002-.001Z"/></svg>
+You Look Nice Today!</button>
+
+A link button:  
+<a class="button">Go somewhere nice…</a>
+
+### Dialog
+
+<dialog aria-labelledby="dialog_title" aria-describedby="dialog_description">
+  <h2 id="dialog_title" class="h2">Use location services?</h2>
+  <p id="dialog_description">
+    In order to give directional instructions, we kindly ask you to turn
+    on the location services.
+  </p>
+  <div class="flex flex-space-between">
+    <button id="close_dialog">Close</button>
+    <button id="confirm_dialog" class="cta">Confirm</button>
+  </div>
+</dialog>
+
 ## Special
 
 ### Div
 
-### Span
+<div>This is a `div`</div>
 
-### Noscript
+### Spans
 
-### Template
+#### Name
 
-### Slot
+My `full-name` is <span class="full-name">mb bischoff</span>.
 
-### Script
+My initials (`mb`) are <span class="initials">mb</span>.
 
-### Style
+### Header
 
-```
-Semantic sectioning tags: ﻿<header>, ﻿<footer>, ﻿<article>, ﻿<section>, ﻿<nav>, ﻿<aside>, ﻿<main>, ﻿<figure> (again, this time for semantic grouping), ﻿<details>, ﻿<summary>, ﻿<dialog>
-```
+<header>This is a <code>header</code>.</header>
+
+### Footer
+
+<footer>This is a <code>footer</code>.</footer>
+
+### Article 
+
+<article>
+  <p>This is an <code>article</code>.</p>
+</article>
+
+### Section
+
+<section>This is a <code>section</code>.</section>
+
+### Details
+
+<details>
+<summary>This is a <code>summary</code> element.</summary>
+With lots and lots of details inside a disclosure triangle.
+</details>
+
+### Unstyled
+
+* `dialog`

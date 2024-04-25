@@ -1,5 +1,6 @@
 ---
 title: Tone Is Hard to Grasp Online. Can Tone Indicators Help?
+short_title: Can Tone Indicators Help?
 date: 2020-12-09 12:53:00 -05:00
 categories:
 - tech

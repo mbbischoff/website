@@ -1,5 +1,6 @@
 ---
 title: 'Reply All: The Case of the Missing Hit'
+short_title: The Case of the Missing Hit
 date: 2020-03-21 13:57:00 -04:00
 categories:
 - culture

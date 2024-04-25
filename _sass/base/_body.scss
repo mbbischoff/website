@@ -29,9 +29,7 @@ body {
 	list-style-type: none;
 
 	@media (min-width: 80em) {
-		position: sticky;
-		top: 1rlh;
-		overflow-y: auto;
+		position: sticky;		top: 1rlh;
 		float: left;
 		margin-inline-start: -8rlh;
 		max-width: 6rlh;

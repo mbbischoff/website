@@ -58,12 +58,10 @@ figure {
 }
 
 caption {
-	font-weight: var(--font-weight-semibold);
+	padding-block-end: 1rlh;
 	text-align: center;
-	margin-block-end: 1lh;
+	font-weight: var(--font-weight-semibold);
 }
-
-
 
 main {
 	&img {
@@ -104,19 +102,39 @@ iframe {
 	margin-inline: auto;
 }
 
+// 
+// table {
+// }
+// 
+// th,
+// td {
+// 	border: 1px solid var(--link-underline);
+// 	padding: 0.5lh;
+// 	text-align: left;
+// }
+// 
+// th {
+// 	background: var(--background-secondary);
+// }
+
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
 	width: 100%;
 }
 
+
+thead,
+tfoot {
+	background: var(--background-secondary);
+}
+
+tbody {}
+
 th,
 td {
 	border: 1px solid var(--link-underline);
 	padding: 0.5lh;
 	text-align: left;
-}
-
-th {
-	background: var(--background-secondary);
 }

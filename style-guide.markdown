@@ -32,10 +32,6 @@ Header 1 is used for the site, page, and post titles. It’s styled smaller when
 
 This is a simple paragraph that is designed to demonstrate the usage of the <code>&lt;p&gt;</code> HTML tag. It contains text that will be displayed as a paragraph on a webpage. This tag is one of the most frequently used tags in HTML, and it's crucial for structuring text content on the web.
 
-### Anchor
-
-This is a [link](/) to the homepage.
-
 ### Strong
 
 If everything is **bold**, nothing is **bold**.
@@ -59,6 +55,12 @@ Referenced works can be cited: <cite>[Wikipedia](https://wikipedia.org)</cite>.
 ### Quote
 
 <q>Be yourself; everyone else is already taken.</q> — <cite>Oscar Wilde</cite>
+
+### Blockquote
+
+<blockquote>All of a sudden – wham! – I got an image of myself sitting at a big CRT (cathode ray tube) screen with all kinds of symbols on it, new and different ones, manipulated by a computer that could be operated through various input devices. All the material on the screen could be controlled with great flexibility. Other people had their display units tied to the same computer complex, and you could connect them. Everybody could share knowledge. The vision unfolded rapidly, in about a half hour, and suddenly the potential of interactive, collaborative computing became totally clear.
+<footer><cite>Douglas Englebart</cite></footer>
+</blockquote>
 
 ### Definition
 
@@ -88,6 +90,20 @@ struct ContentView: View {
 }
 ```
 
+### Preformatted
+
+<pre>
+i carry your heart with me(i carry it in
+my heart)i am never without it(anywhere
+i go you go,my dear;and whatever is done
+by only me is your doing,my darling)
+                                                      i fear
+no fate(for you are my fate,my sweet)i want
+no world(for beautiful you are my world,my true)
+and it’s you are whatever a moon has always meant
+and whatever a sun will always sing is you
+</pre>
+
 ### Variables
 
 The area of a triangle is: ½ ✕ <var>b</var> ✕ <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.
@@ -113,6 +129,67 @@ Getting our science styling on with H<sub>2</sub>O, which should push the “2�
 ### Superscript
 
 Still sticking with science and Albert Einstein’s E = MC<sup>2</sup>, which should lift the 2 up.
+
+### Line Break
+
+This is a sentence.<br>After a break, another one.
+
+### Word Break
+
+Fernstraßen<wbr />bau<wbr />privat<wbr />finanzierungs<wbr />gesetz
+
+### Bidirectional Text Override
+
+<bdo dir="rtl">
+This text will go right-to-left.
+</bdo>
+
+### Bidirectional Isolate
+
+<ul>
+  <li>User <bdi>hrefs</bdi>: 60 points</li>
+  <li>User <bdi>jdoe</bdi>: 80 points</li>
+  <li>User <bdi>إيان</bdi>: 90 points</li>
+</ul>
+
+### Data
+
+<ul>
+  <li><data value="21053">Cherry Tomato</data></li>
+  <li><data value="21054">Beef Tomato</data></li>
+  <li><data value="21055">Snack Tomato</data></li>
+</ul>
+
+### Ruby
+
+<ruby>
+漢 <rp>(</rp><rt>ㄏㄢˋ</rt><rp>)</rp>
+</ruby>
+
+## Links and Areas
+
+### Anchor
+
+This is a [link](/) to the homepage.
+
+### Nav
+
+<nav>
+  <a href="/html/">HTML</a> |
+  <a href="/css/">CSS</a> |
+  <a href="/js/">JavaScript</a> |
+  <a href="/python/">Python</a>
+</nav>
+
+### Map & Area
+
+<img src="/uploads/workplace.jpg" alt="Workplace" usemap="#workmap">
+
+<map name="workmap">
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="/computer">
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="/phone.htm">
+  <area shape="circle" coords="337,300,44" alt="Coffee" href="/coffee.htm">
+</map>
 
 ## Lists
 
@@ -241,21 +318,93 @@ ctx.stroke();
 ### Table
 
 <table>
-  <caption>Table Caption</caption>
-
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
+  <caption>
+    Council budget (in £) 2018
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col">Items</th>
+      <th scope="col">Expenditure</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Donuts</th>
+      <td>3,000</td>
+    </tr>
+    <tr>
+      <th scope="row">Stationery</th>
+      <td>18,000</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <th scope="row">Totals</th>
+      <td>21,000</td>
+    </tr>
+  </tfoot>
 </table>
+
+
+## Forms
+
+<form>
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname">
+
+  <textarea name="message" rows="5" cols="30">
+    Enter your message here
+    </textarea>
+
+  <select name="colors">
+    <option value="red">Red</option>
+    <option value="blue">Blue</option>
+    <option value="green">Green</option>
+    </select>
+    
+<select name="cars">
+  <optgroup label="German Cars">
+    <option value="mercedes">Mercedes</option>
+      <option value="bmw">BMW</option>
+  </optgroup>
+  <optgroup label="American Cars">
+    <option value="ford">Ford</option>
+      <option value="tesla">Tesla</option>
+      </optgroup>
+</select>
+
+<fieldset>
+  <legend>Personal information:</legend>
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname">
+</fieldset>
+    
+<progress value="70" max="100">70 %</progress>
+    
+<meter value="2" min="0" max="10">2 out of 10</meter> 
+
+<button type="submit">Submit</button>
+
+</form>
+
+## Special
+
+### Div
+
+### Span
+
+### Noscript
+
+### Template
+
+### Slot
+
+### Script
+
+### Style
+
+```
+Semantic sectioning tags: ﻿<header>, ﻿<footer>, ﻿<article>, ﻿<section>, ﻿<nav>, ﻿<aside>, ﻿<main>, ﻿<figure> (again, this time for semantic grouping), ﻿<details>, ﻿<summary>, ﻿<dialog>
+```

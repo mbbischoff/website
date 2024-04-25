@@ -35,10 +35,10 @@
 
 pre {
 	overflow: auto;
-	background: var(--background-secondary);
+	background: var(--background-tertiary);
 	border-radius: 0.5rlh;
-	margin-inline: -1lh;
-	padding: 1lh;
+	margin-inline: -0.5lh;
+	padding: 0.5lh;
 }
 
 tt,
@@ -203,6 +203,8 @@ blockquote {
 	padding-block: 1lh;
 	padding-inline: 1lh;
 
+	border-left: var(--border-thickness) solid;
+
 	// Remove top margin for the first paragraph and bottom margin for the last
 	p {
 		font-weight: var(--font-weight-semibold);
@@ -216,7 +218,17 @@ blockquote {
 		}
 	}
 
-	border-left: var(--border-thickness) solid;
+	footer {
+
+		cite {
+			&::before {
+				content: "— "
+			}
+		}
+
+		text-align: right;
+	}
+
 }
 
 hr {

@@ -87,6 +87,7 @@ em,
 i,
 cite {
 	@include italicised();
+	font-weight: var(--font-weight-semibold);
 }
 
 dfn {

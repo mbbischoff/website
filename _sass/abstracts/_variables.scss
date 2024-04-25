@@ -4,7 +4,7 @@
   --name-slant: -10;
 
   --text-font-stack: 'Recursive', system-ui, sans-serif;
-  --border-thickness: 1px;
+  --border-thickness: 2px;
 
   --light-background: color(display-p3 0.998 0.982 0.984);
   --dark-background: color(display-p3 0.018 0.002 0.004);
@@ -44,7 +44,7 @@
   --accent-tertiary: light-dark(var(--light-accent-tertiary), var(--dark-accent-tertiary));
 
   --light-link-underline: color(display-p3 0.9 0.09 0.2 / 0.4);
-  --dark-link-underline: color(display-p3 0.9 0.3 0.4 / 0.4);
+  --dark-link-underline: color(display-p3 0.9 0.3 0.4 / 0.5);
   --link-underline: light-dark(var(--light-link-underline), var(--dark-link-underline));
 
   --light-highlight: color(display-p3 0.9 0.09 0.2 / 0.2);

@@ -1,11 +1,13 @@
 <footer>
-  <p>
-   <i class="cc cc-cc"></i>{{ site.license.copyright }}
+  <div class="legal">
+  <p class="license">
+    <a href="#top" class="initials">mb</a>
+    <i class="cc cc-cc"></i> {{ site.license.copyright }}
     <a
       href="{{ site.license.url }}"
       title="Creative Commons Attribution-ShareAlike 4.0 International">
       {{ site.license.text }}</a>.      
-    </p>
+    </p>    
     
     <!-- TODO: Make this an include. -->
     <div class="switch">
@@ -29,4 +31,6 @@
      </label>
       <input type="checkbox" id="toggle-grid" class="toggle" checked="" aria-label="Toggle dot grid" />
     </div>
+
+  </div>
 </footer>

@@ -55,8 +55,8 @@ version: 3
 license:
   copyright: 
     >
-     2024 <span class="full-name">mb bischoff</span>.
-  text: <em>Some</em> rights reserved
+     2024 <span class="full-name">mb bischoff</span>
+  text: Some rights reserved
   url: http://creativecommons.org/licenses/by-sa/4.0/
 plugins:
 - jekyll-sitemap

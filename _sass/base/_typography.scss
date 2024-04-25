@@ -228,7 +228,6 @@ blockquote {
 
 		text-align: right;
 	}
-
 }
 
 hr {
@@ -274,4 +273,70 @@ details {
 	&[open] summary::before {
 		transform: rotate(90deg); // Rotate icon when details are open
 	}
+}
+
+button,
+.button {
+	height: 0.95lh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	svg {
+		display: inline-flex;
+		width: auto;
+		height: 0.5lh;
+		margin-inline-end: 0.2em;
+	}
+
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	text-decoration: none;
+	display: inline-block;
+	border: none;
+	cursor: pointer;
+	text-align: center;
+
+	border-radius: 0.25em;
+	padding: 0 0.5em;
+	margin: 0;
+
+	background: var(--accent-tertiary);
+	color: var(--accent);
+
+	font-size: inherit;
+	font-weight: var(--font-weight-semibold);
+
+	transition: color 0.2s ease-in-out,
+	background 0.2s ease-in-out,
+	scale 0.2s ease-in-out;
+	outline: 0.2s ease-in-out;
+	outline: 0.05lh solid var(--accent-secondary);
+
+	&:hover,
+	&:focus {
+		color: var(--background);
+		background: var(--accent);
+		outline: 0.05lh solid var(--accent);
+
+		scale: 106%;
+	}
+
+	&:active {
+		color: var(--background);
+		background: var(--accent);
+		outline: 0.05lh solid var(--accent);
+
+		scale: 100%;
+	}
+
+	&:not(:last-child) {
+		margin-inline-end: var(--step--1);
+	}
+}
+
+.truncate {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
 }

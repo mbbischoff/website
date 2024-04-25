@@ -35,6 +35,14 @@
   --dark-accent: color(display-p3 0.9 0.3 0.4);
   --accent: light-dark(var(--light-accent), var(--dark-accent));
 
+  --light-accent-secondary: color(display-p3 0.9 0.09 0.2 / 0.5);
+  --dark-accent-secondary: color(display-p3 0.9 0.3 0.4 / 0.5);
+  --accent-secondary: light-dark(var(--light-accent-secondary), var(--dark-accent-tertiary));
+
+  --light-accent-tertiary: color(display-p3 0.9 0.09 0.2 / 0.125);
+  --dark-accent-tertiary: color(display-p3 0.9 0.3 0.4 / 0.125);
+  --accent-tertiary: light-dark(var(--light-accent-tertiary), var(--dark-accent-tertiary));
+
   --light-link-underline: color(display-p3 0.9 0.09 0.2 / 0.4);
   --dark-link-underline: color(display-p3 0.9 0.3 0.4 / 0.4);
   --link-underline: light-dark(var(--light-link-underline), var(--dark-link-underline));
@@ -61,6 +69,8 @@
     --text-secondary: var(--light-text-secondary);
     --text-emphasized: var(--light-text--emphasized);
     --accent: var(--light-accent);
+    --accent-secondary: var(--light-accent-secondary);
+    --accent-tertiary: var(--light-accent-tertiary);
     --link-underline: var(--light-link-underline);
     --highlight: var(--light-highlight);
     --gridlines-color: var(--light-gridlines);
@@ -76,6 +86,8 @@
     --text-secondary: var(--dark-text-secondary);
     --text-emphasized: var(--dark-text--emphasized);
     --accent: var(--dark-accent);
+    --accent-secondary: var(--dark-accent-secondary);
+    --accent-tertiary: var(--dark-accent-tertiary);
     --link-underline: var(--dark-link-underline);
     --highlight: var(--dark-highlight);
     --gridlines-color: var(--dark-gridlines);

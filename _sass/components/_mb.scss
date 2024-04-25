@@ -1,7 +1,7 @@
 @use 'abstracts/variables' as *;
 @use 'abstracts/mixins' as *;
 
-.mb {
+.initials {
 	@include fontVariations($casl: 1,
 		$slnt: var(--name-slant),
 		$crsv: 1,

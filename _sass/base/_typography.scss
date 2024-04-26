@@ -280,17 +280,18 @@ button,
 .button {
 	hanging-punctuation: none;
 	height: 1lh;
-	display: inline-flex;
-	justify-content: center;
+	display: inline-block;
 	align-items: center;
+	justify-content: center;
 
-	svg {
+	svg,
+	i {
 		display: inline-flex;
-		width: auto;
-		height: 0.8lh;
+		width: 1em;
 		margin-inline-end: 0.3em;
 	}
 
+	// 
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	text-decoration: none;

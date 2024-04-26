@@ -75,14 +75,11 @@ repository: mattbischoff/website
 header:
   title: mb
   subtitle: <span class="full-name"">mb bischoff</span> makes <a href="https://lickability.com">apps</a>,
-    <a href="/archive/">words</a>, & <a href="https://absolutelycrushed.com">sounds</a>. This is <a href="/under-construction/">under construction</a>.<br><br><a class="button" href="/feed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5">
-      <path d="M3.75 3a.75.75 0 0 0-.75.75v.5c0 .414.336.75.75.75H4c6.075 0 11 4.925 11 11v.25c0 .414.336.75.75.75h.5a.75.75 0 0 0 .75-.75V16C17 8.82 11.18 3 4 3h-.25Z" />
-      <path d="M3 8.75A.75.75 0 0 1 3.75 8H4a8 8 0 0 1 8 8v.25a.75.75 0 0 1-.75.75h-.5a.75.75 0 0 1-.75-.75V16a6 6 0 0 0-6-6h-.25A.75.75 0 0 1 3 9.25v-.5ZM7 15a2 2 0 1 1-4 0 2 2 0 0 1 4 0Z" />
-    </svg>follow rss</a>
-    <a class="button" href="https://buttondown.email/mb/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
-      <path d="M3 4a2 2 0 0 0-2 2v1.161l8.441 4.221a1.25 1.25 0 0 0 1.118 0L19 7.162V6a2 2 0 0 0-2-2H3Z"/>
-      <path d="m19 8.839-7.77 3.885a2.75 2.75 0 0 1-2.46 0L1 8.839V14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V8.839Z"/>
-    </svg>subscribe</a>
+    <a href="/archive/">words</a>, & <a href="https://absolutelycrushed.com">sounds</a>. This is <a href="/under-construction/">under construction</a>.<br><br><a class="button" href="/feed"><i class="fa-solid fa-rss"></i>rss</a>
+    <a class="button" href="https://buttondown.email/mb/"><i class="fa-regular fa-envelope"></i>subscribe</a>
+    <a class="button" href="https://x.com/mb/"><i class="fa-brands fa-x-twitter"></i>@mb</a>
+    <a class="button" href="https://x.com/mb/"><i class="fa-brands fa-mastodon"></i>@matthewbischoff</a>
+
 navigation_links:
 - title: Home
   url: "/"

@@ -1,14 +1,11 @@
 ---
 title: Under Construction
+subtitle: The process of progress
 date: 2024-04-01 15:40:00 -04:00
 position: 0
 image: "/uploads/IMG_0337.gif"
 layout: page
 ---
-
-## The process of progress
-
-
 
 *What if something was designed one day, one change at a time?  
 What if every day, it got just a tiny bit better?  

@@ -189,3 +189,9 @@ figure {
 abbr {
 	text-decoration-color: var(--link-underline);
 }
+
+main {
+	h2.subtitle {
+		color: var(--text-secondary);
+	}
+}

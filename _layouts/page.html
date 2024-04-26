@@ -3,7 +3,11 @@ layout: default
 ---
 
 <header>
-<h1>{{ page.title | escape }}</h1>
+<h1 class="title">{{ page.title | escape }}</h1>
+
+{% if page.subtitle %}
+  <h2 class="subtitle">{{ page.subtitle }}</h2>
+{% endif %}
 </header>
 
 {{ content }}

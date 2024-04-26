@@ -17,11 +17,11 @@ I’m an extrovert who loves hearing from old friends and making new ones. I rea
 Here are the best ways to get in touch:
 
 
-* <span class="fa-li"><i class="fa-solid fa-envelope"></i></span> Email <a href="sms:+16097060597">[mb@mbbischoff.com](mailto:mb@mbbischoff.com?subject=👋)</a>
-* <span class="fa-li"><i class="fa-brands fa-square-x-twitter"></i></span> [Mention](https://twitter.com/intent/tweet?screen_name=mb) or [DM](https://twitter.com/messages/compose?recipient_id=5107) at [@mb](https://twitter.com/mb)
+* <span class="fa-li"><i class="fa-solid fa-sm fa-envelope"></i></span> Email <a href="sms:+16097060597">[mb@mbbischoff.com](mailto:mb@mbbischoff.com?subject=👋)</a>
+* <span class="fa-li"><i class="fa-brands fa-sm fa-square-x-twitter"></i></span> [Mention](https://twitter.com/intent/tweet?screen_name=mb) or [DM](https://twitter.com/messages/compose?recipient_id=5107) at [@mb](https://twitter.com/mb)
 {:.fa-ul}
-* <span class="fa-li"><i class="fa-solid fa-comments"></i></span> Text <a href="sms:+16097060597">+1 (609) 706-0597</a>
-* <span class="fa-li"><i class="fa-solid fa-calendar-plus"></i></span> Schedule a [30 minute call](https://calendly.com/matthewbischoff/30-minute-call)
+* <span class="fa-li"><i class="fa-solid fa-sm fa-comments"></i></span> Text <a href="sms:+16097060597">+1 (609) 706-0597</a>
+* <span class="fa-li"><i class="fa-solid fa-sm fa-calendar-plus"></i></span> Schedule a [30 minute call](https://calendly.com/matthewbischoff/30-minute-call)
 {:.fa-ul}
 
 
@@ -29,8 +29,8 @@ Here are the best ways to get in touch:
 
 If you’d like to communicate me in an encrypted manner:
 
-* <span class="fa-li"><i class="fa-brands fa-signal-messenger"></i></span> Text via Signal to [+1 (609) 706-0597](sgnl://text:+16097060597)
-* <span class="fa-li"><i class="fa-brands fa-keybase"></i></span>DM via Keybase at [mbbischoff](https://keybase.io/mbbischoff)
-* <span class="fa-li"><i class="fa-solid fa-lock"></i></span>Encrypt email with my [GPG key](/mb.gpg)
+* <span class="fa-li"><i class="fa-brands fa-sm fa-signal-messenger"></i></span> Text via Signal to [+1 (609) 706-0597](sgnl://text:+16097060597)
+* <span class="fa-li"><i class="fa-brands fa-sm fa-keybase"></i></span>DM via Keybase at [mbbischoff](https://keybase.io/mbbischoff)
+* <span class="fa-li"><i class="fa-solid fa-sm fa-lock"></i></span>Encrypt email with my [GPG key](/mb.gpg)
 <br><small>*Reminder: I’ll need your public key to read it.*</small>
 {:.fa-ul}

@@ -203,6 +203,10 @@ dd {
 
 .fa-ul {
 	margin-left: 0 !important;
+
+	.fa-li {
+		margin-inline: 0.25em !important;
+	}
 }
 
 address {

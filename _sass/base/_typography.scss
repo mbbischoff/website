@@ -52,13 +52,14 @@ kbd {
 
 abbr {
 	cursor: help;
-	// border-bottom: var(--link-underline) 3px dotted;
-
-	text-decoration-color: red;
+	text-decoration: underline;
+	text-decoration-style: dotted;
+	text-decoration-thickness: var(--border-thickness);
 
 	a {
-		text-decoration: none;
-	}
+		text-decoration: underline;
+		text-decoration-style: dotted;
+		text-decoration-thickness: var(--border-thickness);	}
 }
 
 p>code,

@@ -48,18 +48,22 @@ header#masthead {
 
 	p {
 		text-wrap: balance;
+		line-height: 1lh;
 
 		i {
 			display: inline-block;
 			width: 0.875em;
-			height: 0.875em;
 		}
 
 		a {
-
 			@include bounce-selection();
-
 			text-decoration: none;
+		}
+
+		.secondary {
+			i {
+				width: 1.2em;
+			}
 		}
 	}
 

@@ -10,7 +10,12 @@ main~footer {
 
 	text-transform: lowercase;
 
-	.legal {
+	i {
+		display: inline-block;
+		width: 1em;
+	}
+
+	section.textual {
 		display: flex;
 		justify-content: space-between;
 		align-items: flex-start;

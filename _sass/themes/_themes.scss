@@ -29,6 +29,7 @@ header#masthead {
 		}
 
 		a.secondary {
+			color: var(--text-secondary);
 			font-weight: var(--font-weight-normal);
 		}
 	}
@@ -156,10 +157,9 @@ blockquote {
 }
 
 section.changelog {
-	.commit {
-		svg {
-			color: var(--accent);
-		}
+	a.commit {
+		text-decoration: none;
+		color: var(--accent);
 	}
 }
 

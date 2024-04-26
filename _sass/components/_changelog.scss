@@ -24,8 +24,8 @@ section.changelog {
 		flex-shrink: 0;
 		align-items: flex-start;
 
-		svg {
-			height: 1lh;
+		i {
+			height: 0.875em; //fa-sm
 		}
 	}
 }

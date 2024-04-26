@@ -3,9 +3,9 @@
 	<a href="{{ item.url }}" class="nav-item{% if page.url == item.url %} active{% endif %}">
 		<span class="nav-icon" aria-hidden="true">
 			{% if page.url == item.url %}
-				{{ item.selected_icon }}
+			<i class="fa-solid {{ item.selected_icon }} fa-lg"></i>
 			{% else %}
-				{{ item.icon }}
+			<i class="fa-regular {{ item.icon }} fa-lg"></i>
 			{% endif %}
 		</span>
 		<span class="nav-title">{{ item.title }}</span>

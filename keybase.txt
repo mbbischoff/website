@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/mbbischoff
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mbbischoff.com
+  * I am mbbischoff (https://keybase.io/mbbischoff) on keybase.
+  * I have a public key with fingerprint 29D2 88A3 1E66 17CA A85E  E9E0 3FEB 5FF8 5092 E776
+
+To do so, I am signing this object:
+
+{
+  "body": {
+	"key": {
+	  "eldest_kid": "0101a8d04dcef9483b2e381406ac518b77d373417a933204a3f2d6b01b5480b41af00a",
+	  "fingerprint": "29d288a31e6617caa85ee9e03feb5ff85092e776",
+	  "host": "keybase.io",
+	  "key_id": "3feb5ff85092e776",
+	  "kid": "0101a8d04dcef9483b2e381406ac518b77d373417a933204a3f2d6b01b5480b41af00a",
+	  "uid": "bded2d0b5872d666527cf868a561a019",
+	  "username": "mbbischoff"
+	},
+	"service": {
+	  "hostname": "mbbischoff.com",
+	  "protocol": "https:"
+	},
+	"type": "web_service_binding",
+	"version": 1
+  },
+  "ctime": 1714154412,
+  "expire_in": 157680000,
+  "prev": "0da0fb1d7b68306a6edfb5379812aae5dc0335575e4533361f7dce4cb32a157f",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMM+AnicrZJ7UFRVHMdZXY2HRNP4QnnUxQhrhXvue5fQJMYgs1GipIFpvefec5cb
+sHffQAw2Yqtjtg6C6ViZEDvDNFCIU8QObxRxREYTcxzCCSMHHMAHlpCmdC9Tf9Wf
+nX/OnN/5fL/n9/vOOR2+MChUt2HCPLu1csyj6+/+zB0kvTjRUIpBRSzBTKVYPprf
+UIGInC5zvixiJgwHOOA5EadEAUlGiiMhgUgOUDjDCzTgIMuKJEtSgOWNJEngFE9K
+hMhAHECa4nBIAV7CcR4zYJJstSCHzSFbXaotYRQJjuNJgBgGsALPczRCRoSTEoK0
+JHE0biQQyzKqME9xagq1Ocg7UaKsqDX1YJ5v7z/4/7lv97wdFJFIiDikOVbFGIYm
+WEHiGI6nGcDjwKiBTuSw8oVIpQshlJ1CniJJWJkBU+seWUBatNos/2ISBaVQ1dsc
+iksRlAL1Ls/lsjlNmtZVYtPgIgTNf9uYoWwV1SxVhQc5nLJixUxAJQWXrPkCFlCA
+pihAGDBUbJMdyCxrBM0yHK4u7R3k0QISeVyCQGQhw5FqKgwSJUiTrJEDBM8jWhRw
+kqRplkYUTZIkAyRWjZISIEnwqpuEaYPZrQpmYtQ2eYtq6ZQtVt7ldiCsrKc7Vx+k
+Cw1avGiB9seCQkOe+ufn3XJE/Bn+W/bX9tv2w1dWrg73Heu6veJQ9E2sd0dWHrrs
+vdv0zgPZOzKxvqh8KO740Cml2heRUF/8aYxp5aGj/kbjwtPWutc32QPVUQu27/Zd
+b59+9N20vtZQ/NPaTyarps8ebra9EDch9V8ZFsC2GP9Mub/84NIf5q4O10y+3bZj
+c+3FdXWXpJMj9Smeqj2+k6QwOFPz9OpGr1Uf9nLk0tqBN6nErpbKooNnx+88E5Xk
+OfWNtzG3OPir/R+e89svnB/I2WabbM5tnx4mLsTWRSak3x3sKWjcGXBv2vtE5cOx
+kNbr1B99y1+6f+3RyMdXKwI9DcNwdt25E9+mOerPpxz/srmho2NVyrJd1iw3Fz6V
+ujEd4hlNlSd+7XcGCFPc3tLMsM3DS0LH3XNt72dnSTm3mjdu2ZDRIg3dXx4OMg+0
+MF9E9i+Lzmk16+WHyc8H6tq7Rn8Ev3i8mWub3j3QueeaMNir2+LwRaXOdBq42A+6
+q9+K92+1hDwWd762b8yYsMuW8tzspTsla+5RuorgxUdh5+hQy4MbsbsznoQlK4bW
+z2G8Pr3izO8RLaN2b1r8kb6+kO87XJaYV/DSZ8mCx0v2v5qcrb8Z8XnSVMBwb3Sq
+N6574EZBTefF/H1vRAfL/vcKfakDaR+5sjv942Gm1HjDqpC2M2XJVe2JSbowv+fy
+sVK/xdbRur16kfTzX2+Yx6A=
+=+9fX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mbbischoff
+
+==================================================================

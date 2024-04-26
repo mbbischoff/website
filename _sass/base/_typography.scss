@@ -4,6 +4,7 @@
 /* @link https://utopia.fyi/type/calculator?c=320,18,1.2,1240,20,1.25,6,3,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
 
 :root {
+	--step--3: clamp(0.512rem, 0.5532rem + -0.0531vi, 0.5425rem);
 	--step--2: clamp(0.64rem, 0.6549rem + -0.0192vi, 0.651rem);
 	--step--1: clamp(0.7813rem, 0.7747rem + 0.0326vi, 0.8rem);
 	--step-0: clamp(1.125rem, 1.0815rem + 0.2174vi, 1.25rem);
@@ -189,7 +190,9 @@ dd {
 	list-style-position: outside;
 }
 
-
+.fa-ul {
+	margin-left: 0 !important;
+}
 
 address {
 	font-style: inherit;
@@ -287,8 +290,7 @@ button,
 	svg,
 	i {
 		display: inline-flex;
-		width: 1em;
-		margin-inline-end: 0.3em;
+		margin-inline-end: var(--step--3);
 	}
 
 	// 
@@ -338,19 +340,18 @@ button,
 
 .button-borderlesss {
 	display: flex;
-	align-items: flex-start;
-
-	svg {
-		margin-inline-end: 0.5em;
-		height: 0.8lh;
-	}
-
+	align-items: center;
 
 	text-decoration: none;
 	font-weight: var(--font-weight-semibold);
 
 	transition: scale 0.2s ease-in-out,
-	color 0.2s ease-in-out;
+		color 0.2s ease-in-out;
+
+	i {
+		margin-inline-end: 0.5em;
+	}
+
 
 	&:hover,
 	&:focus {

@@ -18,6 +18,22 @@ header#masthead {
 			}
 		}
 	}
+
+	p {
+		a {
+			color: var(--text-emphasized);
+
+			&:hover {
+				color: var(--accent);
+
+				text-decoration: underline;
+			}
+		}
+
+		a.secondary {
+			font-weight: var(--font-weight-normal);
+		}
+	}
 }
 
 h1,

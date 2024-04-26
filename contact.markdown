@@ -25,10 +25,12 @@ Here are the best ways to get in touch:
 {:.fa-ul}
 
 
-### Encrypted Options 🔐
+### Encrypted Options <i class="fa-regular fa-sm fa-key"></i>
 
 If you’d like to communicate me in an encrypted manner:
 
-💬 Text via Signal to [+1 (609) 706-0597](sgnl://text:+16097060597).  
-🔑  DM via Keybase at [matthewbischoff](https://keybase.io/matthewbischoff).  
-🔏  Encrypt email with my [GPG key](/matthewbischoff.gpg).<br><small>*Reminder: I’ll need your public key to read it.*</small> -->
+* <span class="fa-li"><i class="fa-brands fa-signal-messenger"></i></span> Text via Signal to [+1 (609) 706-0597](sgnl://text:+16097060597)
+* <span class="fa-li"><i class="fa-brands fa-keybase"></i></span>DM via Keybase at [mbbischoff](https://keybase.io/mbbischoff)
+* <span class="fa-li"><i class="fa-solid fa-lock"></i></span>Encrypt email with my [GPG key](/mb.gpg)
+<br><small>*Reminder: I’ll need your public key to read it.*</small>
+{:.fa-ul}

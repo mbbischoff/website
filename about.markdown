@@ -52,15 +52,14 @@ You can [contact mb here](/contact) or find them online in all of these places:
 * <span class="fa-li"><i class="fa-brands fa-github"></i></span> [GitHub](https://github.com/mattbischoff)  
 *  <span class="fa-li"><i class="fa-brands fa-wikipedia-w"></i></span> [Wikipedia](https://en.wikipedia.org/wiki/User:Matthewbischoff)  
 * <span class="fa-li"><i class="fa-brands fa-goodreads"></i></span> [Goodreads](https://goodreads.com/matthewbischoff)  
-* <span class="fa-li"><i class="fa-brands fa-square-letterboxd"></i></span> [Letterboxd](https://letterboxd.com/matthewbischoff)  
+* <span class="fa-li"><i class="fa-brands fa-letterboxd"></i></span> [Letterboxd](https://letterboxd.com/matthewbischoff)  
 * <span class="fa-li"><i class="fa-brands fa-reddit"></i></span> [Reddit](https://www.reddit.com/user/matthewbischoff/)  
 * <span class="fa-li"><i class="fa-brands fa-kickstarter"></i></span> [Kickstarter](https://www.kickstarter.com/profile/matthewbischoff)  
 {:.fa-ul}
 
 ## Colophon
 
-Published with [Jekyll](https://jekyllrb.com), hosted on [GitHub](https://github.com/mattbischoff/matthewbischoff.com), and deployed via [Pages](https://pages.github.com).
-
-Headline and body type is set in [Recursive](https://www.recursive.design/) from [Arrow Type](https://www.arrowtype.com/).
-
-Photos by Ashe of [Rose Glass Photography](https://www.roseglass.pictures).
+* <span class="fa-li"><i class="fa-brands fa-github"></i></span>Published with [Jekyll](https://jekyllrb.com), hosted on [GitHub](https://github.com/mattbischoff/matthewbischoff.com), and deployed via [Pages](https://pages.github.com).
+* <span class="fa-li"><i class="fa-solid fa-text"></i></span>Type is set in [Recursive](https://www.recursive.design/) Sans & Mono from [Arrow Type](https://www.arrowtype.com/).
+* <span class="fa-li"><i class="fa-solid fa-camera"></i></span>Photos by Ashe of [Rose Glass Photography](https://www.roseglass.pictures).
+{:.fa-ul}

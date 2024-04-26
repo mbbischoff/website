@@ -44,20 +44,19 @@ In their spare time, mb enjoys crafting  classic cocktails, seeing live theatre,
 
 You can [contact mb here](/contact) or find them online in all of these places:
 
-🐦 [Twitter](https://twitter.com/mb)  
-🌅 [Instagram](https://instagram.com/mattb)  
-📷 [Glass](https://glass.photo/mattb)  
-📺 [YouTube](https://youtube.com/matthewbischoffdotcom)  
-👍 [Facebook](https://facebook.com/matthewbischoff)  
-💼 [LinkedIn](https://www.linkedin.com/in/matthewbischoff)  
-🐙 [GitHub](https://github.com/mattbischoff)  
-🌐 [Wikipedia](https://en.wikipedia.org/wiki/User:Matthewbischoff)  
-📚 [Goodreads](https://goodreads.com/matthewbischoff)  
-🎥 [Letterboxd](https://letterboxd.com/matthewbischoff)  
-👽 [Reddit](https://www.reddit.com/user/matthewbischoff/)  
-💸 [Kickstarter](https://www.kickstarter.com/profile/matthewbischoff)  
-😸 [Product Hunt](https://www.producthunt.com/@mb)  
-🥞 [YourStack](https://yourstack.com/@mb)
+
+
+<i class="fa-brands fa-x-twitter"></i> [Twitter](https://twitter.com/mb)  
+<i class="fa-brands fa-instagram"></i> [Instagram](https://instagram.com/mattb)  
+<i class="fa-brands fa-youtube"></i> [YouTube](https://youtube.com/matthewbischoffdotcom)  
+<i class="fa-brands fa-facebook"></i> [Facebook](https://facebook.com/matthewbischoff)  
+<i class="fa-brands fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/matthewbischoff)  
+<i class="fa-brands fa-github"></i> [GitHub](https://github.com/mattbischoff)  
+<i class="fa-brands fa-wikipedia-w"></i> [Wikipedia](https://en.wikipedia.org/wiki/User:Matthewbischoff)  
+<i class="fa-brands fa-goodreads"></i> [Goodreads](https://goodreads.com/matthewbischoff)  
+<i class="fa-brands fa-square-letterboxd"></i> [Letterboxd](https://letterboxd.com/matthewbischoff)  
+<i class="fa-brands fa-reddit"></i> [Reddit](https://www.reddit.com/user/matthewbischoff/)  
+<i class="fa-brands fa-kickstarter"></i> [Kickstarter](https://www.kickstarter.com/profile/matthewbischoff)  
 
 ## Colophon
 

@@ -23,7 +23,7 @@ defaults:
     image: 
     description: ''
     format: post
-    color: 
+    thanks: 
     link: 
     audio:
       title: 

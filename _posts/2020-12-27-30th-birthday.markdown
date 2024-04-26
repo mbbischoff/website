@@ -1,5 +1,5 @@
 ---
-title: 30th Birthday
+title: 30<sup>th</sup> Birthday
 date: 2020-12-27 14:01:00 -05:00
 categories:
 - shorter
@@ -25,4 +25,4 @@ This Wednesday, December 30th is my 30th birthday! (It also happens to be my [go
 
 While normally I’d spend it with friends and family, the pandemic is making that pretty difficult. So instead, I’ll be gathering with my pals online and streaming Jackbox Games to raise money for [Trans Lifeline](https://translifeline.org).
 
-**Join us on 12/30 at 9 PM ET [over on Twitch](https://twitch.tv/matthewbischoff) and [donate here](https://bit.ly/transbday).** 🎁
+*Join us on 12/30 at 9 PM ET [over on Twitch](https://twitch.tv/matthewbischoff) and [donate here](https://bit.ly/transbday).*

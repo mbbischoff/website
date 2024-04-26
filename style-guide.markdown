@@ -261,7 +261,7 @@ This is a [link](/) to the homepage.
 
 <figure>
   <img class="center" src="/uploads/Books.jpg">
-  <figcaption>A photo of books.</figcaption>
+  <figcaption>A photo of books</figcaption>
 </figure>
 
 ### Picture

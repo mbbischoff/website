@@ -1,5 +1,5 @@
 ---
-title: 31st Birthday Livestream
+title: 31<sup>st</sup> Birthday Livestream
 date: 2021-12-29 14:41:00 -05:00
 categories:
 - shorter
@@ -30,4 +30,4 @@ Last year for my 30<sup>th</sup> birthday, [we raised over $7,000 for charity](h
 
 They do great work in my city, and I hope you consider donating.
 
-**Join us tonight 12/29 at 8 PM ET / 5 PM PT [over on Twitch](https://twitch.tv/matthewbischoff) and [donate here](http://bit.ly/helpaudre).** 🎁
+*Join us tonight 12/29 at 8 PM ET / 5 PM PT [over on Twitch](https://twitch.tv/matthewbischoff) and [donate here](http://bit.ly/helpaudre).*

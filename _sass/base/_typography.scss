@@ -1,7 +1,6 @@
 @use 'abstracts/variables' as *;
 @use 'abstracts/mixins' as *;
 
-
 /* @link https://utopia.fyi/type/calculator?c=320,18,1.2,1240,20,1.25,6,3,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
 
 :root {
@@ -87,7 +86,6 @@ em,
 i,
 cite {
 	@include italicised();
-	font-weight: var(--font-weight-semibold);
 }
 
 dfn {
@@ -222,6 +220,8 @@ blockquote {
 	footer {
 
 		cite {
+			font-weight: var(--font-weight-semibold);
+
 			&::before {
 				content: "— "
 			}
@@ -278,22 +278,22 @@ details {
 
 button,
 .button {
-	height: 0.95lh;
-	display: flex;
+	hanging-punctuation: none;
+	height: 1lh;
+	display: inline-flex;
 	justify-content: center;
 	align-items: center;
 
 	svg {
 		display: inline-flex;
 		width: auto;
-		height: 0.5lh;
-		margin-inline-end: 0.2em;
+		height: 0.8lh;
+		margin-inline-end: 0.3em;
 	}
 
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	text-decoration: none;
-	display: inline-block;
 	border: none;
 	cursor: pointer;
 	text-align: center;
@@ -337,11 +337,20 @@ button,
 }
 
 .button-borderlesss {
-	display: inline-block;
+	display: flex;
+	align-items: flex-start;
+
+	svg {
+		margin-inline-end: 0.5em;
+		height: 0.8lh;
+	}
+
+
 	text-decoration: none;
+	font-weight: var(--font-weight-semibold);
 
 	transition: scale 0.2s ease-in-out,
-		color 0.2s ease-in-out;
+	color 0.2s ease-in-out;
 
 	&:hover,
 	&:focus {

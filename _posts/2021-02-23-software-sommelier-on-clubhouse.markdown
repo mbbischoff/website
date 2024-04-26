@@ -20,4 +20,4 @@ A few years ago, I let folks on Twitter [ask for software recommendations](https
 
 This Friday at 3 PM ET, I’m experimenting with a version of the same thing on Clubhouse co-hosted by my friend and colleague, [Jillian Meehan](https://jillian.cloud). It’ll be be a fun, nerdy time and we’d love to ~~see~~ hear you there.
 
-PS: If you need a Clubhouse invite, [let me know](/contact) and I’ll send you one. ✌️
+PS: If you need a Clubhouse invite, [let me know](/contact) and I’ll send you one.

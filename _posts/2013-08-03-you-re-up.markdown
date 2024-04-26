@@ -10,6 +10,7 @@ tags:
 - conferences
 - advice
 layout: post
+thanks: This post was inspired by Lee Edwards, who recently wrote about his [Meetup Golf system](http://blog.ledwards.com/blog/2013/07/28/meetup-golf/) which works very similarly.
 ---
 
 Whenever I go to tech conferences or meetups, I almost always end up traveling with either [Brian](http://briancapps.org) or [Andrew](http://twitter.com/twig777) from [Lickability](http://lickability.com).
@@ -33,5 +34,3 @@ There are no points in this game for a reason. You don’t play it to win. The r
 Just remember: most people want to meet you as much as you want to meet them, especially in social situations like this. No one would prefer to stand there and stare at their phone when there are tons of fascinating people around.
 
 So go have fun and meet some people. **You’re up**.
-
-*This post was inspired by Lee Edwards, who recently wrote about his [Meetup Golf system](http://blog.ledwards.com/blog/2013/07/28/meetup-golf/) which works very similarly.*

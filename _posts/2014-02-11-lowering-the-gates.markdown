@@ -13,7 +13,11 @@ tags:
 layout: post
 ---
 
-![The New York Times Building at night](/uploads/nytimes_building_at_night.jpg)
+<figure>
+<img src="/uploads/nytimes_building_at_night.jpg" alt="The New York Times Building at night" />
+<figcaption>Photo courtesy of <a href="http://www.flickr.com/photos/digiart2001/">Jason Kuffer</a></figcaption>
+</figure>
+
 
 A year ago, I sat in a glass-walled conference room at The New York Times in a routine meeting. I listened as a business-schooled product manager spoke about yet another monetization strategy when he broke character and whispered, “now is the time to lower the gates”. He was referring to The Times’s [crackdown on website users](http://nymag.com/daily/intelligencer/2013/02/new-york-times-closes-url-paywall-loophole.html) who read articles for free by googling headlines, installing [NYT Clean](http://marklets.com/NYTClean.aspx), and clearing their cookies. Now, that defensive mindset is creeping into The Times’s mobile products.
 
@@ -42,7 +46,5 @@ But I don't think that's what The Times *is* or *should be*. It's a premium news
 The Times’s new mobile strategy forces casual readers to look for other options, and there are many out there. I hope The Grey Lady will realize her mistake and change course quickly, but knowing how things work inside an organization founded over a century ago, I’m not holding my breath. By dropping the pay gates on mobile users, the Times is ensuring its irrelevance in an increasingly mobile world.
 
 ----
-
-*[Photo](http://www.flickr.com/photos/digiart2001/2079563443/) courtesy of [Jason Kuffer](http://www.flickr.com/photos/digiart2001/)*
 
 <sup id="fn1">1. Disclosure: Yahoo owns Tumblr, where I work.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>

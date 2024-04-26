@@ -20,7 +20,7 @@ description: I turned 30 years old today so I spent some time this afternoon ref
 
 I turned 30 years old [today](https://twitter.com/mb/status/1344146214296678400) so I spent some time this afternoon reflecting and collecting 30 lessons I’ve learned in my time on earth so far and (as best as I could remember) where I learned them from. 
 
-[Merlin and Roderick](http://www.merlinmann.com/roderick/) sometimes call these types of lessons “thought technologies” and that certainly feels fitting considering how useful and applicable they’ve been for me. Each one of them has helped me during critical moments in my life so far. I hope you find even just one of them helpful in yours. [See you tonight](https://matthewbischoff.com/30th-birthday/). ❤️
+[Merlin and Roderick](http://www.merlinmann.com/roderick/) sometimes call these types of lessons “thought technologies” and that certainly feels fitting considering how useful and applicable they’ve been for me. Each one of them has helped me during critical moments in my life so far. I hope you find even just one of them helpful in yours. [See you tonight](https://matthewbischoff.com/30th-birthday/).
 
 ## On Work
 

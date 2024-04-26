@@ -15,7 +15,10 @@ description: A talk I gave at Release Notes 2016 about writing and how important
 layout: post
 ---
 
-![Matt speaking at Release Notes 2016](/uploads/release-notes-2016.jpg)
+<figure>
+<img src="/uploads/release-notes-2016.jpg" alt="mb speaking at Release Notes 2016" />
+<figcaption>Photo courtesy of <a href="=https://www.benricemccarthy.com/">Ben McCarthy</a></figcaption>
+</figure>
 
 In September 2016, I was honored to be invited to speak at [Joe](http://www.joecieplinski.com) and [Charles’s](https://dazeend.org) incredible [Release Notes conference](https://2019.releasenotes.tv) in Indianapolis. _Release Notes_, an outgrowth of their [podcast of the same name](https://releasenotes.tv), approaches the software business as a _business_ first and foremost. Their guiding principle is to discuss “everything but the code”.
 

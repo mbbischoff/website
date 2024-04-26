@@ -53,4 +53,4 @@ If you ghost on the job, these tips might help you get a little better control o
 ----
 
 
-I wrote this blog post for myself as much as for anyone else. If you’re ever waiting for a message from me, feel free to link to this piece in your polite follow up. I swear I won’t mind. None of us are perfect at this stuff. We’re all human, even if we sometimes ghost our coworkers. ✌️
+I wrote this blog post for myself as much as for anyone else. If you’re ever waiting for a message from me, feel free to link to this piece in your polite follow up. I swear I won’t mind. None of us are perfect at this stuff. We’re all human, even if we sometimes ghost each other.

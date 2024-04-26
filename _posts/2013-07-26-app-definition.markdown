@@ -6,7 +6,7 @@ layout: post
 
 <figure>
 <img src="/uploads/app_store_banner.jpg" alt="App Store Banner" />
-<figcaption>Photo courtesy of <a href="http://www.flickr.com/photos/cristiano_betta/2909483129/">Cristiano Betta.</a></figcaption>
+<figcaption>Photo courtesy of <a href="http://www.flickr.com/photos/cristiano_betta/2909483129/">Cristiano Betta</a></figcaption>
 </figure>
 
 The **app definition statement** is a concept that I’ve been obsessed with since I first read about it in the original [iOS Human Interface Guidelines](http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/AppDesign/AppDesign.html) back in 2008.

@@ -15,10 +15,11 @@ image: "/uploads/dtn-culture-rot.jpg"
 description: A talk at the Difficult to Name reading series about the disappearing
   web and what we can do to stop it.
 layout: post
+thanks: Thanks to [Michael Liberatore](https://twitter.com/mliberatore/) for shooting the video and to everyone who helped edit early drafts of the talk.
 ---
 
 This weekend, I spoke to the audience of the [*Difficult to Name* reading series](http://www.ryansartor.com) at [Study Hall](https://studyhall.xyz) in Brooklyn. My talk was about the internet, my fears about building and sustaining culture there, and what we might be able to do about it. Watch the talk or read my prepared remarks below. And let me know what you think on
-Twitter. I’m [@mb](https://twitter.com/mb) there. Thanks to [Michael Liberatore](https://twitter.com/mliberatore/) for shooting the video and to everyone who helped edit early drafts of the talk.
+Twitter. I’m [@mb](https://twitter.com/mb) there.
 
 <p><div class='video-wrapper'><iframe loading="lazy" title="Culture Rot" src='https://player.vimeo.com/video/259586099?title=0&byline=0&portrait=0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></p>
 

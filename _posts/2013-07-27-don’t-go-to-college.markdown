@@ -4,9 +4,12 @@ date: 2013-07-27 00:00:00 -04:00
 layout: post
 ---
 
-![NJIT College Flag](/uploads/njit_flag.jpg)
+<figure>
+<img src="/uploads/njit_flag.jpg" alt="NJIT College Flag" />
+<figcaption>Photo courtesy of <a href="http://www.flickr.com/photos/whartz/1808430037/">Willam Hartz</a></figcaption>
+</figure>
 
-*The following is the text of a speech I gave two years ago at New Jersey Institute of Technology's Honors College Orientation. The audience was primarily students who were trying to determine whether NJIT was the right school for them.*
+_This is a speech I gave at New Jersey Institute of Technology’s Honors College Orientation. The audience was primarily students who were trying to determine whether <abbr title="New Jersey Institute of Technology">NJIT</abbr> was the right school for them._
 
 ---
 
@@ -41,5 +44,3 @@ You don't have to do anything. You don't have to be here. You don't have to come
 If you do go to college, don't waste your time doing "homework" that you know won't help you. Make friends, make love, make lots of things. Make something great. Because that is what will make you happy for the rest of your life.
 
 Thank you.
-
-*Photo courtesy of [Willam Hartz](http://www.flickr.com/photos/whartz/1808430037/).*

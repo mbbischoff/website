@@ -22,4 +22,4 @@ description: "For the last few years, every time the holidays roll around, I mak
 
 For the last few years, every time the holidays roll around, I make a big batch of Jeffrey Morgenthaler’s [Clyde Common Egg Nog](https://jeffreymorgenthaler.com/clyde-common-egg-nog/) for my family and friends. 
 
-Since I won’t be seeing them this year due to the pandemic, I made a video showing everyone how to make it ([which Jeff seemed to like](https://twitter.com/jeffmorgen/status/1339346284717645824)). Enjoy! And let me know what you think if you end up making a batch. 🎁
+Since I won’t be seeing them this year due to the pandemic, I made a video showing everyone how to make it ([which Jeff seemed to like](https://twitter.com/jeffmorgen/status/1339346284717645824)). Enjoy! And let me know what you think if you end up making a batch.

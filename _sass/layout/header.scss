@@ -49,4 +49,13 @@ header#masthead {
 	p {
 		text-wrap: balance;
 	}
+
+	section.buttons {
+		display: flex;
+		flex-wrap: wrap;
+
+		a {
+			margin-block-start: 1lh;
+		}
+	}
 }

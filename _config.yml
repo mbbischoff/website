@@ -75,10 +75,7 @@ repository: mattbischoff/website
 header:
   title: mb
   subtitle: <span class="full-name"">mb bischoff</span> makes <a href="https://lickability.com">apps</a>,
-    <a href="/archive/">words</a>, & <a href="https://absolutelycrushed.com">sounds</a>. This is <a href="/under-construction/">under construction</a>.<br><br><a class="button" href="/feed"><i class="fa-solid fa-rss"></i>rss</a>
-    <a class="button" href="https://buttondown.email/mb/"><i class="fa-regular fa-envelope"></i>subscribe</a>
-    <a class="button" href="https://x.com/mb/"><i class="fa-brands fa-x-twitter"></i>@mb</a>
-    <a class="button" href="https://x.com/mb/"><i class="fa-brands fa-mastodon"></i>@matthewbischoff</a>
+    <a href="/archive/">words</a>, & <a href="https://absolutelycrushed.com">sounds</a>. This is <a href="/under-construction/">under construction</a>.
 
 navigation_links:
 - title: Home

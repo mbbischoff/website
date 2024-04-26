@@ -7,7 +7,6 @@ tags:
 - me
 - website
 - meta
-layout: post
 ---
 
 For years now this website has merely pointed people to my profiles on other websites and social media services. It wasn’t always that way. In the past, it housed my blog, a podcast I hosted, and even a photoblog at one point. Remember those?

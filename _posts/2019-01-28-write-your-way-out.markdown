@@ -12,7 +12,6 @@ tags:
 image: "/uploads/release-notes-2016.jpg"
 description: A talk I gave at Release Notes 2016 about writing and how important it
   is for programmers, product managers, and owners of software companies.
-layout: post
 ---
 
 <figure>

@@ -41,6 +41,7 @@ h6 {
 
 a {
 	color: inherit;
+	font-weight: var(--font-weight-semibold);
 	text-decoration-color: var(--link-underline);
 
 	transition-property: color, text-decoration-color;
@@ -57,7 +58,8 @@ hr {
 	background-color: var(--text-secondary);
 }
 
-ul.posts {
+ul.posts,
+ul.date-list {
 	li {
 		time {
 			color: var(--text-secondary);
@@ -73,10 +75,8 @@ article {
 			}
 		}
 
-		time {
-			a {
-				color: var(--text-secondary);
-			}
+		section.metadata {
+			color: var(--text-secondary);
 		}
 	}
 
@@ -90,7 +90,19 @@ article {
 
 	}
 
+	&.long {
+		section.content {
 
+			// End mark
+			>p:last-of-type::after {
+				color: var(--accent);
+			}
+		}
+	}
+
+	section.thanks {
+		color: var(--text-secondary);
+	}
 }
 
 details {
@@ -137,13 +149,25 @@ section.changelog {
 	}
 }
 
-// Long articles get endmarks.
-article {
-	&.long {
-		section.content {
-			>p:last-of-type::after {
+#markdown-toc {
+	&::before {
+		color: var(--text);
+	}
+
+	color: var(--text-secondary);
+
+	li {
+		a {
+			&:hover {
 				color: var(--accent);
+				text-decoration-color: var(--accent);
 			}
 		}
+	}
+}
+
+figure {
+	figcaption {
+		color: var(--text-secondary);
 	}
 }

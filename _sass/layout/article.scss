@@ -2,11 +2,7 @@
 
 article {
 	header {
-		display: grid;
-
 		h1 {
-			justify-self: start;
-
 			a {
 				text-decoration: none;
 
@@ -16,17 +12,35 @@ article {
 			}
 		}
 
-		time {
+		section.metadata {
 			font-size: var(--step--1);
 			line-height: 1rlh;
 
-			justify-self: start;
-
 			a {
 				text-decoration: none;
+
+				&:hover {
+					text-decoration: underline;
+				}
+			}
+
+
+			time {
+				a {
+					font-weight: inherit;
+				}
+			}
+
+			span.via {
+				@include italicised();
+
+				p {
+					display: inline;
+				}
 			}
 		}
 	}
+
 
 	&.link {
 		header {
@@ -54,7 +68,6 @@ article {
 
 	section.thanks {
 		@include italicised();
-		color: var(--text-secondary);
 		font-size: var(--step--1);
 	}
 }

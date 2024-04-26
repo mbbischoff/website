@@ -20,12 +20,10 @@ body {
 	&::before {
 		content: '§ Sections';
 		font-weight: var(--font-weight-semibold);
-		color: var(--text);
 	}
 
 	font-size: var(--step--1);
 	line-height: 1rlh;
-	color: var(--text-secondary);
 	list-style-type: none;
 
 	@media (min-width: 80em) {
@@ -48,8 +46,6 @@ body {
 
 			&:hover {
 				text-decoration: underline;
-				color: var(--accent);
-				text-decoration-color: var(--accent);
 			}
 		}
 	}
@@ -107,7 +103,6 @@ ul.date-list {
 		justify-content: space-between;
 
 		time {
-			color: var(--text-secondary);
 			font-size: var(--step--1);
 			line-height: 1rlh;
 

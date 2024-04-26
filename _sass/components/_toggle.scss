@@ -1,10 +1,10 @@
 @use 'abstracts/variables' as *;
 
-$switch-width: 1.8em;
-$switch-height: 1em;
-$knob-size: 0.8em;
-$knob-position: 0.1em;
-$knob-active-movement: 0.1em;
+$switch-width: 1.3rlh;
+$switch-height: 0.8rlh;
+$knob-size: 0.6rlh;
+$knob-position: 0.1rlh;
+$knob-active-movement: 0.1rlh;
 
 $transition-speed: .2s;
 $box-shadow: inset 0 0 5px rgba(0, 0, 0, .2);
@@ -82,6 +82,6 @@ $bg-color-active-dark: #777;
 
 .switch {
 	label {
-		margin-inline-end: 0.1em;
+		margin-inline-end: 0.5em;
 	}
 }

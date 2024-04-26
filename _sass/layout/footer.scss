@@ -1,6 +1,9 @@
 @use 'abstracts/variables' as *;
 
 main~footer {
+	font-size: var(--step--2);
+	line-height: 1rlh;
+
 	padding-block: 1rlh;
 	border-top: var(--border-thickness) solid var(--link-underline);
 	color: var(--text-secondary);
@@ -20,9 +23,6 @@ main~footer {
 	}
 
 	p {
-		font-size: var(--step--2);
-		line-height: 1rlh;
-
 		a {
 			text-decoration: none;
 		}

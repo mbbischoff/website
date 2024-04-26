@@ -6,7 +6,6 @@ categories:
 tags:
 - me
 - nytimes
-layout: post
 ---
 
 ![The New York Times Building](/uploads/nytimes_building.jpg)

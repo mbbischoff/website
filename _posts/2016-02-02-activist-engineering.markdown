@@ -17,7 +17,6 @@ description: You’ve been there. You’re sitting in a meeting and your boss, a
   manager, or an executive is talking about Q2 goals. They’re laying out a roadmap
   of the features that are going to be “coming down the pike”. All of a sudden you
   see it.
-layout: post
 thanks: "Thanks to [Bryan Irace](http://irace.me), [Soroush Khanlou](http://khanlou.com), and [Brian Capps](http://briancapps.org) for their feedback on early drafts of this article."
 ---
 

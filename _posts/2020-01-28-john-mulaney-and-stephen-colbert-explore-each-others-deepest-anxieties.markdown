@@ -12,7 +12,6 @@ tags:
 - comedy
 image: "/uploads/john-mulaney-stephen-colbert.jpg"
 format: short
-color: violet
 link: https://www.youtube.com/watch?v=zGf6CGBbWFU
 ---
 

@@ -14,7 +14,6 @@ tags:
 image: "/uploads/dtn-culture-rot.jpg"
 description: A talk at the Difficult to Name reading series about the disappearing
   web and what we can do to stop it.
-layout: post
 thanks: Thanks to [Michael Liberatore](https://twitter.com/mliberatore/) for shooting the video and to everyone who helped edit early drafts of the talk.
 ---
 

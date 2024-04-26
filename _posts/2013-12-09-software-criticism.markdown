@@ -8,7 +8,6 @@ categories:
 tags:
 - nytimes
 - criticism
-layout: post
 ---
 
 ![Critica](/uploads/critica.jpg)

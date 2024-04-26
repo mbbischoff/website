@@ -11,8 +11,7 @@ tags:
 - app
 - ios
 image: "/uploads/scorecard.jpeg"
-format: tweet
-color: blue
+format: short
 ---
 
 Hey! Do you love playing board games and tabletop games? Do you want to help beta test a new iOS app from [Lickability](https://lickability.com) and send us your feedback?

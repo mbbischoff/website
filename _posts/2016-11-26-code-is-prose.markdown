@@ -11,7 +11,6 @@ tags:
 image: "/uploads/gates-reading.jpg"
 description: Great code reads like great prose. It is succinct, expressive, and clear
   the first time you read it.
-layout: post
 thanks: "Thanks to [Soroush Khanlou](http://khanlou.com), [Kenny Ackerson](https://twitter.com/pearapps), [Rachel Viniar](http://rachelviniar.com), and [Bryan Irace](http://irace.me) who provided feedback on early versions of this article."
 ---
 

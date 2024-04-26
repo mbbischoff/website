@@ -12,7 +12,6 @@ tags:
 image: "/uploads/ghostbusters.jpg"
 description: Why do people stop answering your emails at work, and how can you stop
   it?
-layout: post
 ---
 
 ![Ghostbusters](/uploads/ghostbusters.jpg)

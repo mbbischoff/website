@@ -10,7 +10,6 @@ tags:
 - programming
 - work
 - advice
-layout: post
 ---
 
 You’ve been there. A 10,000 line [pull request](https://help.github.com/articles/using-pull-requests/) lands in your email and you don’t even know where to begin. _No description provided._

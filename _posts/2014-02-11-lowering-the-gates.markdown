@@ -10,7 +10,6 @@ tags:
 - tech
 - paywall
 - strategy
-layout: post
 ---
 
 <figure>

@@ -22,7 +22,6 @@ description: After seeing this recent episode of Reply All recommended everywher
   thereof. Also, if you want more like this, go back and listen to [Mystery Show](https://gimletmedia.com/shows/mystery-show).
   RIP.
 format: link
-color: purple
 link: https://gimletmedia.com/shows/reply-all/o2h8bx/158-the-case-of-the-missing-hit
 ---
 

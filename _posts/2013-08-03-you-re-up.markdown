@@ -9,7 +9,6 @@ tags:
 - game
 - conferences
 - advice
-layout: post
 thanks: This post was inspired by Lee Edwards, who recently wrote about his [Meetup Golf system](http://blog.ledwards.com/blog/2013/07/28/meetup-golf/) which works very similarly.
 ---
 

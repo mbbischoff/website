@@ -81,7 +81,7 @@
 
 - date: '2024-04-04'
   url: 'https://github.com/mattbischoff/website/commit/5d62e5274f7899851622ac623c42dbe4155b4a15'
-  description: 'Applied padding to the `body` in order to account for list gutters.' 
+  description: 'Padding on the `body` to account for list gutters.' 
   image: '/uploads/2024-04-04.png'
 
 - date: '2024-04-03'

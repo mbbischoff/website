@@ -40,3 +40,21 @@
 @mixin italicised($crsv: 1) {
 	@include fontVariations($slnt: -15, $crsv: $crsv)
 }
+
+@mixin bounce-selection($duration: 0.2s, $scale_hover: 103%, $scale_active: 100%) {
+
+	// transition: transform $duration ease-in-out;
+	display: inline-block;
+
+	transition: transform $duration ease-in-out,
+		color $duration ease-in-out;
+
+	&:hover,
+	&:focus {
+		transform: scale($scale_hover);
+	}
+
+	&:active {
+		transform: scale($scale_active);
+	}
+}

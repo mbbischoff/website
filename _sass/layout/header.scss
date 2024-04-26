@@ -49,7 +49,16 @@ header#masthead {
 	p {
 		text-wrap: balance;
 
+		i {
+			display: inline-block;
+			width: 0.875em;
+			height: 0.875em;
+		}
+
 		a {
+
+			@include bounce-selection();
+
 			text-decoration: none;
 		}
 	}

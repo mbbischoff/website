@@ -32,7 +32,6 @@
 	hanging-punctuation: first allow-end last; // https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/
 }
 
-
 pre {
 	overflow: auto;
 	background: var(--background-tertiary);
@@ -53,7 +52,13 @@ kbd {
 
 abbr {
 	cursor: help;
-	border-bottom: var(--link-underline) 3px dotted;
+	// border-bottom: var(--link-underline) 3px dotted;
+
+	text-decoration-color: red;
+
+	a {
+		text-decoration: none;
+	}
 }
 
 p>code,
@@ -305,6 +310,7 @@ button,
 	svg,
 	i {
 		display: inline-flex;
+		width: 0.875em;
 		margin-inline-end: var(--step--3);
 	}
 

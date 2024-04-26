@@ -44,22 +44,22 @@ In their spare time, mb enjoys crafting  classic cocktails, seeing live theatre,
 
 You can [contact mb here](/contact) or find them online in all of these places:
 
-* <span class="fa-li"><i class="fa-brands fa-x-twitter"></i></span> [@mb](https://x.com/mb)  
-* <span class="fa-li"><i class="fa-brands fa-instagram"></i></span> [Instagram](https://instagram.com/mattb)  
-* <span class="fa-li"><i class="fa-brands fa-youtube"></i></span> [YouTube](https://youtube.com/matthewbischoffdotcom)  
-* <span class="fa-li"><i class="fa-brands fa-facebook"></i></span> [Facebook](https://facebook.com/matthewbischoff)  
-* <span class="fa-li"><i class="fa-brands fa-linkedin"></i></span> [LinkedIn](https://www.linkedin.com/in/matthewbischoff)  
-* <span class="fa-li"><i class="fa-brands fa-github"></i></span> [GitHub](https://github.com/mattbischoff)  
-*  <span class="fa-li"><i class="fa-brands fa-wikipedia-w"></i></span> [Wikipedia](https://en.wikipedia.org/wiki/User:Matthewbischoff)  
-* <span class="fa-li"><i class="fa-brands fa-goodreads"></i></span> [Goodreads](https://goodreads.com/matthewbischoff)  
-* <span class="fa-li"><i class="fa-brands fa-letterboxd"></i></span> [Letterboxd](https://letterboxd.com/matthewbischoff)  
-* <span class="fa-li"><i class="fa-brands fa-reddit"></i></span> [Reddit](https://www.reddit.com/user/matthewbischoff/)  
-* <span class="fa-li"><i class="fa-brands fa-kickstarter"></i></span> [Kickstarter](https://www.kickstarter.com/profile/matthewbischoff)  
+* <span class="fa-li"><i class="fa-brands fa-x-twitter fa-sm"></i></span> [@mb](https://x.com/mb)  
+* <span class="fa-li"><i class="fa-brands fa-instagram fa-sm"></i></span> [Instagram](https://instagram.com/mattb)  
+* <span class="fa-li"><i class="fa-brands fa-youtube fa-sm"></i></span> [YouTube](https://youtube.com/matthewbischoffdotcom)  
+* <span class="fa-li"><i class="fa-brands fa-facebook fa-sm"></i></span> [Facebook](https://facebook.com/matthewbischoff)  
+* <span class="fa-li"><i class="fa-brands fa-linkedin fa-sm"></i></span> [LinkedIn](https://www.linkedin.com/in/matthewbischoff)  
+* <span class="fa-li"><i class="fa-brands fa-github fa-sm"></i></span> [GitHub](https://github.com/mattbischoff)  
+*  <span class="fa-li"><i class="fa-brands fa-wikipedia-w fa-sm"></i></span> [Wikipedia](https://en.wikipedia.org/wiki/User:Matthewbischoff)  
+* <span class="fa-li"><i class="fa-brands fa-goodreads fa-sm"></i></span> [Goodreads](https://goodreads.com/matthewbischoff)  
+* <span class="fa-li"><i class="fa-brands fa-letterboxd fa-sm"></i></span> [Letterboxd](https://letterboxd.com/matthewbischoff)  
+* <span class="fa-li"><i class="fa-brands fa-reddit fa-sm"></i></span> [Reddit](https://www.reddit.com/user/matthewbischoff/)  
+* <span class="fa-li"><i class="fa-brands fa-kickstarter fa-sm"></i></span> [Kickstarter](https://www.kickstarter.com/profile/matthewbischoff)  
 {:.fa-ul}
 
 ## Colophon
 
-* <span class="fa-li"><i class="fa-brands fa-github"></i></span>Published with [Jekyll](https://jekyllrb.com), hosted on [GitHub](https://github.com/mattbischoff/matthewbischoff.com), and deployed via [Pages](https://pages.github.com).
-* <span class="fa-li"><i class="fa-solid fa-text"></i></span>Type is set in [Recursive](https://www.recursive.design/) Sans & Mono from [Arrow Type](https://www.arrowtype.com/).
-* <span class="fa-li"><i class="fa-solid fa-camera"></i></span>Photos by Ashe of [Rose Glass Photography](https://www.roseglass.pictures).
+* <span class="fa-li"><i class="fa-brands fa-github fa-sm"></i></span>Published with [Jekyll](https://jekyllrb.com), hosted on [GitHub](https://github.com/mattbischoff/matthewbischoff.com), and deployed via [Pages](https://pages.github.com).
+* <span class="fa-li"><i class="fa-solid fa-text fa-sm"></i></span>Type is set in [Recursive](https://www.recursive.design/) Sans & Mono from [Arrow Type](https://www.arrowtype.com/).
+* <span class="fa-li"><i class="fa-solid fa-camera fa-sm"></i></span>Photos by Ashe of [Rose Glass Photography](https://www.roseglass.pictures).
 {:.fa-ul}

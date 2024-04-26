@@ -25,8 +25,6 @@ header#masthead {
 
 			&:hover {
 				color: var(--accent);
-
-				text-decoration: underline;
 			}
 		}
 
@@ -186,4 +184,10 @@ figure {
 	figcaption {
 		color: var(--text-secondary);
 	}
+}
+
+abbr {
+	cursor: help;
+
+	text-decoration-color: var(--link-underline);
 }

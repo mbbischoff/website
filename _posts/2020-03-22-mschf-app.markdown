@@ -27,4 +27,4 @@ The [delightful weirdos](https://www.nytimes.com/2020/01/30/style/millennial-ent
 
 It’s good to see that even in a global pandemic, the crew over there will continue to bring us absurdly joyful things like [All the Streams](https://allthestreams.fm), [Puff the Squeaky Chicken](https://buypuff.co/), and [MSCHF Box](https://mschfbox.com/).
 
-{% include download.html url="https://apps.apple.com/us/app/mschf/id1500457154" %}
+{% include app-store-download.html id="1500457154" %}

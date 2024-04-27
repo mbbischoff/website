@@ -7,6 +7,7 @@ image: "/uploads/Photo%20on%203-31-24%20at%201.25%E2%80%AFPM%20%233.jpg"
 description: This now page covers the things I’m thinking, feeling, and working on,
   well, right now.
 layout: page
+icon: fa-clock
 ---
 
 <img src="{{ page.image }}" width="1024" height="768" alt="Latest Selfie">

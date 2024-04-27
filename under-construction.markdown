@@ -5,7 +5,9 @@ date: 2024-04-01 15:40:00 -04:00
 position: 0
 image: "/uploads/IMG_0337.gif"
 layout: page
-hidden: true
+position: 6
+icon: fa-triangle-person-digging
+short_title: Changelog
 ---
 
 *What if something was designed one day, one change at a time?  

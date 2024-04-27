@@ -4,6 +4,7 @@ permalink: "/about/"
 position: 1
 image: "/uploads/matthew-profile-43.jpeg"
 layout: page
+icon: fa-circle-user
 ---
 * 
 {:toc}

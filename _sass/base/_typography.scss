@@ -301,10 +301,11 @@ details {
 	}
 }
 
+input[type="submit"],
 button,
 .button {
 	hanging-punctuation: none;
-	height: 1lh;
+	height: 0.925lh;
 	display: inline-block;
 	align-items: center;
 	justify-content: center;

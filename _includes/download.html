@@ -1,1 +1,1 @@
-<a class="button" href="{{include.url}}"><i class="fa-solid fa-arrow-down"></i>Download</a>
+<a class="button" href="{{include.url}}">{% if include.icon %}<i class="{{ include.icon }}"></i>{% else %}<i class="fa-solid fa-arrow-down"></i>{% endif %}{% if include.text %}{{ include.text }}{% else %}Download{% endif %}</a>

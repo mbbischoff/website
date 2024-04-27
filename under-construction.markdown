@@ -20,8 +20,8 @@ It’s inspired by [Under Construction GIFs](http://textfiles.com/underconstruct
 ## Process
 
 1. Start with the minimal markup and styles needed.
-2. Make *one* small change to the styles every day.
-3. Change markup, structure, and rules whenever.
+2. Make _at least_ one small change every day.
+3. Change the rules whenever.
 
 ## Progress
 

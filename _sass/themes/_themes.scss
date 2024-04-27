@@ -32,6 +32,10 @@ header#masthead {
 		a.secondary {
 			color: var(--text-secondary);
 			font-weight: var(--font-weight-normal);
+
+			&:hover {
+				color: var(--accent);
+			}
 		}
 	}
 }

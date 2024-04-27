@@ -20,7 +20,7 @@ header#masthead {
 	}
 
 	p {
-		~a {
+		>a {
 			font-weight: var(--font-weight-semibold);
 			color: var(--text-emphasized);
 
@@ -29,16 +29,13 @@ header#masthead {
 			}
 		}
 
-		a.secondary {
-			color: var(--text-secondary);
-			font-weight: var(--font-weight-normal);
-
-			&:hover {
-				color: var(--accent);
-			}
-		}
 	}
 }
+
+.secondary {
+	color: var(--text-secondary);
+}
+
 
 h1,
 h2,

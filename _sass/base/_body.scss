@@ -102,6 +102,14 @@ ul.date-list {
 		display: flex;
 		justify-content: space-between;
 
+		a {
+			text-decoration: none;
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+
 		time {
 			font-size: var(--step--1);
 			line-height: 1rlh;

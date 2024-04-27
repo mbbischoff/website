@@ -7,7 +7,7 @@ image: "/uploads/IMG_0337.gif"
 layout: page
 position: 6
 icon: fa-triangle-person-digging
-short_title: Changelog
+short_title: Changes
 ---
 
 *What if something was designed one day, one change at a time?  

@@ -98,18 +98,19 @@ main~footer {
 	.embeddable-buttondown-form {
 		label {
 			display: block;
-
-			text-align: right; // Aligns text inside the button right
-
+			text-align: end; // Aligns text inside the button right
+			font-size: var(--step--1);
 			font-weight: var(--font-weight-semibold);
 		}
 
 		input[type="email"] {
 			display: block;
+			text-align: end;
+			height: 0.8lh;
+			margin-block: 0.1lh;
+			width: 11.75em;
+			margin-left: auto; // Aligns text inside the button right
 
-			height: 0.6lh;
-			margin-block: 0.2lh;
-			width: 11em;
 		}
 
 		input[type="submit"] {

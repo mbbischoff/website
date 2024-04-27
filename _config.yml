@@ -60,7 +60,6 @@ license:
   url: http://creativecommons.org/licenses/by-sa/4.0/
 plugins:
 - jekyll-sitemap
-- jekyll-paginate
 - jekyll-gist
 - jekyll-seo-tag
 - jekyll-feed

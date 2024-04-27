@@ -1,11 +1,22 @@
 <footer>
+  <section class="links">
+  <nav>
+    {% assign sorted_pages = site.pages | sort:"position" %}
+    {% for nav_page in sorted_pages %}
+      {% if nav_page.title and nav_page.hidden != true %}
+        <a href="{{ nav_page.url }}">{{ nav_page.title }}</a>
+      {% endif %}
+    {% endfor %}
+  </nav>
+  </section>
+  
   <section class="textual">
   <p class="license">
     <a href="/" class="initials">mb</a>
-    <i class="fa-brands fa-creative-commons"></i> {{ site.license.copyright }} • <a
+    <i class="fa-brands fa-creative-commons"></i> {{ site.license.copyright }} · <a
       href="{{ site.license.url }}"
       title="Creative Commons Attribution-ShareAlike 4.0 International">
-      {{ site.license.text }}</a>
+      <i class="fa-brands fa-creative-commons-by"></i> <i class="fa-brands fa-creative-commons-share"></i> <i class="fa-brands fa-creative-commons-nc"></i></a> · <a href="https://www.madeinnyc.org/"><i class="fa-solid fa-pizza-slice"></i> made in nyc</a>
     </p>    
     
     <section class="controls">

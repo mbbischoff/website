@@ -1,7 +1,7 @@
 ---
 title: Contact
 date: 2020-04-05 10:41:00 -04:00
-position: 2
+position: 3
 image: "/uploads/nomad.jpeg"
 description: I’m an extrovert who loves hearing from old friends and making new ones.
   Here are the best ways to get in touch.

@@ -99,7 +99,6 @@ main~footer {
 		label {
 			display: block;
 			text-align: end; // Aligns text inside the button right
-			font-size: var(--step--1);
 			font-weight: var(--font-weight-semibold);
 		}
 
@@ -108,7 +107,7 @@ main~footer {
 			text-align: end;
 			height: 0.8lh;
 			margin-block: 0.1lh;
-			width: 11.75em;
+			width: 9.75em;
 			margin-left: auto; // Aligns text inside the button right
 
 		}

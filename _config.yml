@@ -81,6 +81,10 @@ navigation_links:
   url: "/about/"
   icon: fa-circle-user
   selected_icon: fa-circle-user
+- title: Now
+  url: "/now/"
+  icon: fa-clock
+  selected_icon: fa-circle-user
 - title: Archive
   url: "/archive/"
   icon: fa-archive

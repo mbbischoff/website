@@ -3,12 +3,38 @@
 	<a href="{{ item.url }}" class="nav-item{% if page.url == item.url %} active{% endif %}">
 		<span class="nav-icon" aria-hidden="true">
 			{% if page.url == item.url %}
-			<i class="fa-solid {{ item.selected_icon }} fa-lg"></i>
+			<i class="fa-solid {{ item.selected_icon }} fa-lg" id="{{ item.url }}"></i>
 			{% else %}
-			<i class="fa-regular {{ item.icon }} fa-lg"></i>
+			<i class="fa-regular {{ item.icon }} fa-lg" id="{{ item.url }}"></i>
 			{% endif %}
 		</span>
 		<span class="nav-title">{{ item.title }}</span>
 	</a>
 	{% endfor %}
 </nav>
+
+<script>
+	var date = new Date();
+	var hour = date.getHours();
+	var minute = date.getMinutes();
+
+	var clockIcon = document.getElementById("/now/");
+
+	// Ensure that the hour is within the 1 - 12 range
+	var adjustedHour = hour % 12;
+	if (adjustedHour == 0) {
+		adjustedHour = 12;  // use 12 for 12'o clock
+	}
+
+	// define clock classes
+	var clockClasses = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve"];
+
+	var iconClass = "fa-regular fa-clock-" + clockClasses[adjustedHour - 1];
+
+	// If minutes is over 30, append "-thirty"
+	if (minute > 30) {
+		iconClass += "-thirty";
+	}
+
+	clockIcon.className = iconClass;
+</script>

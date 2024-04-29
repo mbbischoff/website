@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+	.clock {
+	  position: relative;
+	  width: 16px;
+	  height: 16px;
+	  border: 1.5px solid black;
+	  border-radius: 50%;
+	}
+	.hand {
+	  position: absolute;
+	  background-color: black;
+	  bottom: 50%;
+		left: calc(50% - 1px);
+		width: 1.5px;
+	  border-radius: 0.75px;
+	  transform-origin: bottom center;
+	}
+	.hour-hand {
+	  height: 30%;
+	}
+	
+	.minute-hand {
+	  height: 42%;
+	}
+  </style>
+</head>
+
+<body>
+  <div class="clock">
+	<div class="hand hour-hand" id="hour-hand"></div>
+	<div class="hand minute-hand" id="minute-hand"></div>
+  </div>
+  
+  <script>
+	function setClock() {
+	  // get the current date and time
+	  const now = new Date();
+  
+	  // get the current hour and minute
+	  const hours = now.getHours();
+	  const minutes = now.getMinutes();
+  	const secondds = now.getSeconds();
+
+	  // calculate the degree rotation for each hand
+	  const hourHandRotation = ((hours % 12) / 12) * 360 + ((minutes / 60) * 30) + ((seconds / 3600) * 30);
+	  const minuteHandRotation = (minutes / 60) * 360 + ((seconds / 60) * 6);
+	  
+	  // get the clock hand elements
+	  const hourHand = document.getElementById('hour-hand');
+	  const minuteHand = document.getElementById('minute-hand');
+  
+	  // update the rotation of the clock hands
+	  hourHand.style.transform = `rotate(${hourHandRotation}deg)`;
+	  minuteHand.style.transform = `rotate(${minuteHandRotation}deg)`;
+	}
+  
+	// Call the function to set the clock immediately
+	setClock();
+  
+	// Update the clock every 60 seconds
+	setInterval(setClock, 1000);
+  </script>
+</body>
+</html>

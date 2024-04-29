@@ -1,6 +1,9 @@
 ---
 permalink: "/feed/"
 layout: 
+title: rss
+position: 7
+icon: fa-square-rss
 ---
 
 <?xml version="1.0" encoding="utf-8"?>

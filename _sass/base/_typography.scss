@@ -76,6 +76,10 @@ kbd {
 	border-radius: 0.3em;
 }
 
+.mono {
+	@include fontVariations($mono: 1);
+}
+
 .highlight {
 	background: var(--background-tertiary);
 }
@@ -380,7 +384,7 @@ button,
 
 	&:hover,
 	&:focus {
-		scale: 120%;
+		scale: 103%;
 	}
 
 	&:active {

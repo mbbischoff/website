@@ -54,6 +54,6 @@ You can [contact mb here](/contact) or find them online in all of these places:
 ## Colophon
 
 * <span class="fa-li"><i class="fa-brands fa-github fa-sm"></i></span>Published with [Jekyll](https://jekyllrb.com), hosted on [GitHub](https://github.com/mattbischoff/matthewbischoff.com), and deployed via [Pages](https://pages.github.com).
-* <span class="fa-li"><i class="fa-solid fa-text fa-sm"></i></span>Type is set in [Recursive](https://www.recursive.design/) Sans & Mono from [Arrow Type](https://www.arrowtype.com/).
+* <span class="fa-li"><i class="fa-solid fa-text fa-sm"></i></span>Type is set in [Recursive](https://www.recursive.design/) Sans & <span class="mono">Mono</span> from [Arrow Type](https://www.arrowtype.com/).
 * <span class="fa-li"><i class="fa-solid fa-camera fa-sm"></i></span>Photos by Ashe of [Rose Glass Photography](https://www.roseglass.pictures).
 {:.fa-ul}

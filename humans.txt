@@ -1,10 +1,10 @@
 /* TEAM */
 Designer:     mb bischoff
 Contact:      mb@mbbischoff.com
-Twitter:      @mb
+X:            @mb
 
 /* SITE */
-Last update:  2024-03-24
+Last update:  2024-04-30
 Language:     English
 Doctype:      HTML5
-Tools:        HTML, CSS, Github Pages
+Tools:        HTML, CSS, Github Pages, Jekyll, Siteleaf

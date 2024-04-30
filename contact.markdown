@@ -9,6 +9,8 @@ layout: page
 icon: fa-comment-dots
 
 ---
+  * 
+{:toc} 
 
 <img src="/uploads/nomad.jpeg" alt="Matt at the NoMad" width="1024" height="768">
 
@@ -16,8 +18,7 @@ I’m an extrovert who loves hearing from old friends and making new ones. I rea
 
 **Need a conversation starter?** Here’s [what I’m up to now](/now/).
 
-Here are the best ways to get in touch:
-
+### <i class="fa-regular fa-hand-wave fa-sm"></i> Get in Touch
 
 * <span class="fa-li"><i class="fa-solid fa-sm fa-envelope"></i></span> Email <a href="sms:+16097060597">[mb@mbbischoff.com](mailto:mb@mbbischoff.com?subject=👋)</a>
 * <span class="fa-li"><i class="fa-brands fa-sm fa-square-x-twitter"></i></span> [Mention](https://twitter.com/intent/tweet?screen_name=mb) or <abbr title="Direct Message">[DM](https://twitter.com/messages/compose?recipient_id=5107)</abbr> [@mb](https://twitter.com/mb)
@@ -27,7 +28,7 @@ Here are the best ways to get in touch:
 {:.fa-ul}
 
 
-### Encrypted Options <i class="fa-regular fa-sm fa-key"></i>
+### <i class="fa-regular fa-sm fa-key"></i> Secure Options
 
 If you’d like to communicate me in an encrypted manner:
 

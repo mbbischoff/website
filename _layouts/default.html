@@ -42,15 +42,20 @@
       // define clock classes
       var clockClasses = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve"];
     
-      var iconClass = "fa-regular fa-lg fa-clock-" + clockClasses[adjustedHour - 1];
+      var newIconClass = "fa-clock-" + clockClasses[adjustedHour - 1];
     
       //   If minutes is over 30, append "-thirty"
       if (minute > 30) {
-        iconClass += "-thirty";
+        newIconClass += "-thirty";
       }
     
-      clockIcon.className = iconClass;
-    </script>
+// Replace the old 'fa-clock-' class with the new one
+      var oldClass = Array.from(clockIcon.classList).find(className => className.startsWith('fa-clock'));
+      if (oldClass) {
+        clockIcon.classList.remove(oldClass);
+      }
+      clockIcon.classList.add(newIconClass);   
+       </script>
   </body>
 
 </html>

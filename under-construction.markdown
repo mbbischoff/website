@@ -9,6 +9,9 @@ position: 6
 icon: fa-triangle-person-digging
 short_title: Changes
 ---
+* 
+{:toc} 
+
 
 *What if something was designed one day, one change at a time?  
 What if every day, it got just a tiny bit better?  

@@ -257,7 +257,8 @@ blockquote {
 }
 
 hr {
-	margin: 2rlh;
+	margin-block: 2rlh;
+	margin-inline: var(--step-1);
 	/* Specifies the thickness of the hr */
 	height: var(--border-thickness);
 	/* Removes the default border */

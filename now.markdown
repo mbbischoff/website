@@ -6,8 +6,8 @@ place: NYC
 image: "/uploads/Photo%20on%203-31-24%20at%201.25%E2%80%AFPM%20%233.jpg"
 description: This now page covers the things I’m thinking, feeling, and working on,
   well, right now.
-layout: page
 icon: fa-clock
+layout: page
 ---
 
 <img src="{{ page.image }}" width="1024" height="768" alt="Latest Selfie">
@@ -19,3 +19,15 @@ This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](htt
 ---
 
 Right now, I’m [building a little at a time](/under-construction).
+
+
+## <i class="fa-regular fa-camera-movie"></i> Watching
+
+<div id="letterboxd-embed-wrapper-tc">Loading...</div>
+<script>
+fetch('https://lb-embed-content.bokonon.dev?username=matthewbischoff')
+.then(response => response.text())
+.then(data => {
+document.getElementById('letterboxd-embed-wrapper-tc').innerHTML = data;
+});
+</script>

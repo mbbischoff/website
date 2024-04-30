@@ -40,9 +40,9 @@ defaults:
     type: category
   values:
     layout: category
-description: 'mb bischoff (they/them) f.k.a. Matthew Bischoff is a designer & developer
-  in New York City. They are a founder and partner at Lickability, a software studio
-  known for its apps and work for clients like The Atlantic, Houseparty, and Meetup.
+description: 'mb bischoff (f.k.a. Matthew Bischoff) is a designer & developer in New
+  York City. They are a founder and partner at Lickability, a software studio known
+  for its apps and work for clients like The Atlantic, Houseparty, and Meetup.
 
 '
 permalink: "/:title/"

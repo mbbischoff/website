@@ -9,7 +9,9 @@ tags:
 - game
 - conferences
 - advice
-thanks: This post was inspired by Lee Edwards, who recently wrote about his [Meetup Golf system](http://blog.ledwards.com/blog/2013/07/28/meetup-golf/) which works very similarly.
+thanks: This post was inspired by Lee Edwards, who recently wrote about his [Meetup
+  Golf system](http://blog.ledwards.com/blog/2013/07/28/meetup-golf/) which works
+  very similarly.
 ---
 
 Whenever I go to tech conferences or meetups, I almost always end up traveling with either [Brian](http://briancapps.org) or [Andrew](http://twitter.com/twig777) from [Lickability](http://lickability.com).

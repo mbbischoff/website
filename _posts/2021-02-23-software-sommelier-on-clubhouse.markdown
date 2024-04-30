@@ -1,5 +1,5 @@
 ---
-title: "Software Sommelier on Clubhouse"
+title: Software Sommelier on Clubhouse
 date: 2021-02-23 12:17:00 -05:00
 categories:
 - tech

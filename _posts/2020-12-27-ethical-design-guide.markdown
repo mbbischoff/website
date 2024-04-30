@@ -12,10 +12,10 @@ tags:
 - list
 - accessibility
 image: "/uploads/EqMluJNW4AECHZy.jpeg"
-description: 'Sarah L. Fossheim just released this wonderful collection of resources
+description: Sarah L. Fossheim just released this wonderful collection of resources
   on how to make digital products more inclusive. It covers topics from accessibility,
-  to race, to gender. I’ll be bookmarking this and referring to it often.'
-via: '[jillian](http://jillianmeehan.com)'
+  to race, to gender. I’ll be bookmarking this and referring to it often.
+via: "[jillian](http://jillianmeehan.com)"
 format: link
 link: https://ethicaldesign.guide
 ---

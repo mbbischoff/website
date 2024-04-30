@@ -1,6 +1,5 @@
 ---
 title: 'Reply All: The Case of the Missing Hit'
-short_title: The Case of the Missing Hit
 date: 2020-03-21 13:57:00 -04:00
 categories:
 - culture
@@ -15,6 +14,7 @@ tags:
 - pop
 - journalism
 - advice
+short_title: The Case of the Missing Hit
 image: "/uploads/replyall.jpeg"
 description: After seeing this recent episode of Reply All recommended everywhere,
   I gave it a listen, and it’s as good as everyone says it is. Queue it up if you’re

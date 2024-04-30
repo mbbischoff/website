@@ -1,14 +1,14 @@
 ---
 title: Under Construction
-subtitle: a process for progress
 date: 2024-04-01 15:40:00 -04:00
-position: 0
+position: 6
+subtitle: a process for progress
 image: "/uploads/IMG_0337.gif"
 layout: page
-position: 6
 icon: fa-triangle-person-digging
 short_title: Changes
 ---
+
 * 
 {:toc} 
 

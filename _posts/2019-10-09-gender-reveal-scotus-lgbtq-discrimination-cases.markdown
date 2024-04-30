@@ -1,6 +1,5 @@
 ---
 title: 'Gender Reveal: SCOTUS LGBTQ Discrimination Cases'
-short_title: SCOTUS LGBTQ Discrimination Cases
 date: 2019-10-09 18:05:00 -04:00
 categories:
 - culture
@@ -9,6 +8,7 @@ tags:
 - gender
 - transgender
 - podcast
+short_title: SCOTUS LGBTQ Discrimination Cases
 image: "/uploads/gender-reveal.jpeg"
 description: 'Whether you need some context on yesterday’s Supreme Court cases, some
   hope for the future, or a reminder that trans people are people: go listen to the

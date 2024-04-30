@@ -7,8 +7,8 @@ description: I’m an extrovert who loves hearing from old friends and making ne
   Here are the best ways to get in touch.
 layout: page
 icon: fa-comment-dots
-
 ---
+
   * 
 {:toc} 
 

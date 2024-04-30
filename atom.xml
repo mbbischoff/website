@@ -1,8 +1,8 @@
 ---
-permalink: "/feed/"
-layout: 
 title: rss
+permalink: "/feed/"
 position: 7
+layout: 
 icon: fa-square-rss
 ---
 

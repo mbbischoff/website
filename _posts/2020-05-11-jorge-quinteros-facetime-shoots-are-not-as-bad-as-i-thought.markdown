@@ -1,6 +1,5 @@
 ---
 title: 'Jorge Quinteros: FaceTime Shoots Are Not as Bad as I Thought'
-short_title: FaceTime Shoots Are Not as Bad as I Thought
 date: 2020-05-11 15:19:00 -04:00
 categories:
 - culture
@@ -10,6 +9,7 @@ tags:
 - coronavirus
 - facetime
 - ios
+short_title: FaceTime Shoots Are Not as Bad as I Thought
 image: "/uploads/1589198711-95660-cassie-facetime-1jpg.jpg"
 description: Absolutely gorgeous portraiture from my friend Jorge, shot entirely over
   FaceTime. Another perfect example of constraints breeding creativity.

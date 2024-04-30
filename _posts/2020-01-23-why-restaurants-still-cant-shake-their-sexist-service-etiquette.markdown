@@ -1,6 +1,5 @@
 ---
 title: Why Restaurants Still Can’t Shake Their Sexist Service Etiquette
-short_title: Why Restaurants Are Still Sexist
 date: 2020-01-23 16:18:00 -05:00
 categories:
 - shorter
@@ -11,6 +10,7 @@ tags:
 - gender
 - transgender
 - bdsm
+short_title: Why Restaurants Are Still Sexist
 image: "/uploads/Genderedfood-1280x533.jpg"
 format: link
 link: https://melmagazine.com/en-us/story/restaurant-gendered-sexist-service-etiquette

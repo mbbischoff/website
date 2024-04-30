@@ -14,7 +14,7 @@ description: I’m extremely tempted to spend the $50 on this nifty application 
   framework being completely undocumented. Anyone else try it yet?
 format: link
 link: https://apps.apple.com/us/app/a-companion-for-swiftui/id1485436674?ls=1&mt=12
-via: '[Becky Hansmeyer](https://twitter.com/bhansmeyer/status/1192090820188557314)'
+via: "[Becky Hansmeyer](https://twitter.com/bhansmeyer/status/1192090820188557314)"
 ---
 
 [![swift-ui-companion.png](/uploads/swift-ui-companion.png)](https://apps.apple.com/us/app/a-companion-for-swiftui/id1485436674?ls=1&mt=12)

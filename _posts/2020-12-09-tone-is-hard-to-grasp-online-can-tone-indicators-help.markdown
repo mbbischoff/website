@@ -1,6 +1,5 @@
 ---
 title: Tone Is Hard to Grasp Online. Can Tone Indicators Help?
-short_title: Can Tone Indicators Help?
 date: 2020-12-09 12:53:00 -05:00
 categories:
 - tech
@@ -10,6 +9,7 @@ tags:
 - language
 - social media
 - gen z
+short_title: Can Tone Indicators Help?
 image: "/uploads/09toneindicators-promo-superJumbo.jpg.webp"
 description: We all struggle to communicate on the internet. Now, young people are
   leading a sincere effort to clear things up.

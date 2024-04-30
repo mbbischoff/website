@@ -97,3 +97,23 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
+social_links:
+  - title: "X"
+    url: "https://x.com/mb"
+    icon: "fa-brands fa-x-twitter"
+    username: '@mb'
+  - title: "Instagram"
+    url: "https://instagram.com/mattb"
+    icon: "fa-brands fa-instagram"
+  - title: "Threads"
+    url: "https://threads.net/mattb"
+    icon: "fa-brands fa-threads"
+  - title: "Mastodon"
+    url: "https://mastodon.social/@matthewbischoff"
+    icon: "fa-brands fa-mastodon"
+  - title: "LinkedIn"
+    url: "https://linkedin.com/in/matthewbischoff/"
+    icon: "fa-brands fa-linkedin"
+  - title: "Letterboxd"
+    url: "https://letterboxd.com/matthewbischoff/"
+    icon: "fa-brands fa-letterboxd"

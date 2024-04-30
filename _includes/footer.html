@@ -22,14 +22,11 @@
     </div>
     
     <div class="col col-1-3-row-2">
-      <section class="social">
-      <a href="https://x.com/mb" title="X (@mb)"><i class="fa-brands fa-x-twitter fa-xl"></i></a>
-      <a href="https://instagram.com/mattb" title="Instagram (@mattb)"><i class="fa-brands fa-instagram fa-xl"></i></a>
-      <a href="https://threads.net/mattb" title="Threads (@mattb)"><i class="fa-brands fa-threads fa-xl"></i></a>
-      <a href="https://mastodon.social/@matthewbischoff" title="Mastodon (@matthewbischoff)"><i class="fa-brands fa-mastodon fa-xl"></i></a>
-      <a href="https://linkedin.com/in/matthewbischoff/" title="Linkedin (@matthewbischoff)"><i class="fa-brands fa-linkedin fa-xl"></i></a>
-      <a href="https://letterboxd.com/matthewbischoff/" title="Letterboxd (matthewbischoff)"><i class="fa-brands fa-letterboxd fa-xl"></i></a>
-      </section>
+<section class="social">
+    {% for link in site.social_links %}
+      <a href="{{ link.url }}" title="{{ link.title }}"><i class="{{ link.icon }} fa-xl"></i></a>
+    {% endfor %}
+    </section>
     </div>
 
     <div class="col col-1-5-row-3">

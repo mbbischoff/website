@@ -45,18 +45,11 @@ In their spare time, mb enjoys crafting  classic cocktails, seeing live theatre,
 
 You can [contact mb here](/contact) or find them online in all of these places:
 
-* <span class="fa-li"><i class="fa-brands fa-x-twitter fa-sm"></i></span> [@mb](https://x.com/mb)  
-* <span class="fa-li"><i class="fa-brands fa-instagram fa-sm"></i></span> [Instagram](https://instagram.com/mattb)  
-* <span class="fa-li"><i class="fa-brands fa-youtube fa-sm"></i></span> [YouTube](https://youtube.com/matthewbischoffdotcom)  
-* <span class="fa-li"><i class="fa-brands fa-facebook fa-sm"></i></span> [Facebook](https://facebook.com/matthewbischoff)  
-* <span class="fa-li"><i class="fa-brands fa-linkedin fa-sm"></i></span> [LinkedIn](https://www.linkedin.com/in/matthewbischoff)  
-* <span class="fa-li"><i class="fa-brands fa-github fa-sm"></i></span> [GitHub](https://github.com/mattbischoff)  
-*  <span class="fa-li"><i class="fa-brands fa-wikipedia-w fa-sm"></i></span> [Wikipedia](https://en.wikipedia.org/wiki/User:Matthewbischoff)  
-* <span class="fa-li"><i class="fa-brands fa-goodreads fa-sm"></i></span> [Goodreads](https://goodreads.com/matthewbischoff)  
-* <span class="fa-li"><i class="fa-brands fa-letterboxd fa-sm"></i></span> [Letterboxd](https://letterboxd.com/matthewbischoff)  
-* <span class="fa-li"><i class="fa-brands fa-reddit fa-sm"></i></span> [Reddit](https://www.reddit.com/user/matthewbischoff/)  
-* <span class="fa-li"><i class="fa-brands fa-kickstarter fa-sm"></i></span> [Kickstarter](https://www.kickstarter.com/profile/matthewbischoff)  
-{:.fa-ul}
+<ul class="fa-ul">
+{% for item in site.social_links %}
+  <li><span class="fa-li"><i class="{{ item.icon }}"></i></span> <a href="{{ item.url }}">{{ item.username | default: item.title }}</a></li>
+{% endfor %}
+</ul>
 
 ## Colophon
 

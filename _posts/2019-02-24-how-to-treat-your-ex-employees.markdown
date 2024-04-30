@@ -11,9 +11,9 @@ tags:
 - hiring
 - firing
 - management
-image: "/uploads/firepit.jpg"
 description: Many managers think a lot about how they treat their team, but few have
   a philosophy about those that leave it.
+image: "/uploads/firepit.jpg"
 thanks: Thanks to [Soroush Khanlou](https://twitter.com/khanlou), [Kate Sloan](https://twitter.com/girly_juice),
   & [Rachel Viniar](https://twitter.com/crystallized) for their feedback on early
   drafts.

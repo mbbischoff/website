@@ -10,6 +10,9 @@ icon: fa-clock
 layout: page
 ---
 
+  * 
+{:toc} 
+
 <img src="{{ page.image }}" width="1024" height="768" alt="Latest Selfie">
 
 **Updated:** [{{ page.date | date: "%B %-d, %Y" }}](https://github.com/mattbischoff/website/com/commits/gh-pages/now.markdown) from {{ page.place }}

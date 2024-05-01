@@ -33,7 +33,7 @@
   video_type: 'video/mp4'
 
 - date: '2024-04-24'
-  url: 'https://github.com/mattbischoff/website/commits/main/?after=f6f19e290ea1056c69f907567665f2553f447334+69'
+  url: 'https://github.com/mattbischoff/website/commit/7002180c27cb91b87dfb073b7dea0e23eac77674'
   description: 'Recursive font stack'
   image: '/uploads/2024-04-24.png'
 

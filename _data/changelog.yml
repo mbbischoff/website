@@ -1,38 +1,57 @@
+- date: '2024-04-30'
+  url: 'https://github.com/mattbischoff/website/commit/68df1fe4d27a968e96791dea8a233de15a3c85f2'
+  description: 'Added Letterboxd to watching'
+  image: '/uploads/2024-04-30.png'
+  
 - date: '2024-04-29'
   url: 'https://github.com/mattbischoff/website/commit/c42a712c116224c90260763c1df313c008515930'
   description: 'Near-live clock for now page'
+  image: '/uploads/2024-04-29.png'
+
 
 - date: '2024-04-28'
   url: 'https://github.com/mattbischoff/website/commit/454318bc053d631a7531930d85e978526505f2da'
   description: 'Updated footer links'
+  image: '/uploads/2024-04-28.png'
+
 
 - date: '2024-04-27'
   url: 'https://github.com/mattbischoff/website/commit/a07f0cbe5bca368e1fe9bad416c718a7ce4535af'
   description: 'Added newsletter subscription to footer'
+  image: '/uploads/2024-04-27.png'
+
 
 - date: '2024-04-26'
   url: 'https://github.com/mattbischoff/website/commit/69bc86619fc8df9b282db8555ff273e6f9539cde'
   description: 'Fontawesome buttons'
+  image: '/uploads/2024-04-26.png'
 
 - date: '2024-04-25'
   url: 'https://github.com/mattbischoff/website/commit/d172aad346a67c6186c8d7db9bdbe9a20aa2a5d4'
   description: 'Smooth scrolling'
+  video: '/uploads/2024-04-25.mp4'
+  video_type: 'video/mp4'
 
 - date: '2024-04-24'
   url: 'https://github.com/mattbischoff/website/commits/main/?after=f6f19e290ea1056c69f907567665f2553f447334+69'
   description: 'Recursive font stack'
+  image: '/uploads/2024-04-24.png'
 
 - date: '2024-04-23'
   url: 'https://github.com/mattbischoff/website/commit/58ea8bfe9f1245073ef0c0559c37f5276ebab5c6'
   description: 'Better `mark` styling'
+  image: '/uploads/2024-04-23.png'
 
 - date: '2024-04-22'
   url: 'https://github.com/mattbischoff/website/commits/main/?after=f6f19e290ea1056c69f907567665f2553f447334+104'
   description: 'End marks'
+  image: '/uploads/2024-04-22.png'
 
 - date: '2024-04-21'
   url: 'https://github.com/mattbischoff/website/commits/main/?after=f6f19e290ea1056c69f907567665f2553f447334+139'
   description: 'Silly header animation'
+  video: '/uploads/2024-04-21.mp4'
+  video_type: 'video/mp4'
 
 - date: '2024-04-20'
   url: 'https://github.com/mattbischoff/website/commit/30c6a5b2957c16be031aa842d4b6375513f785ca'

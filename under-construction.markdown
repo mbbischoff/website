@@ -55,7 +55,7 @@ Each change will be documented here with a dated commit & screenshot.
     <img src="{{ entry.image }}" alt="Change image for {{ entry.date }}">
     {% endif %}
     {% if entry.video %}
-    <video autoplay loop>
+    <video>
       <source src="{{ entry.video }}" type="{{ entry.video_type }}">
     </video>
     {% endif %}

@@ -43,12 +43,12 @@
   image: '/uploads/2024-04-23.png'
 
 - date: '2024-04-22'
-  url: 'https://github.com/mattbischoff/website/commits/main/?after=f6f19e290ea1056c69f907567665f2553f447334+104'
+  url: 'https://github.com/mattbischoff/website/commit/359d6c1d12b6df3dbbb89efdeedf44bc0dfede40'
   description: 'End marks'
   image: '/uploads/2024-04-22.png'
 
 - date: '2024-04-21'
-  url: 'https://github.com/mattbischoff/website/commits/main/?after=f6f19e290ea1056c69f907567665f2553f447334+139'
+  url: 'https://github.com/mattbischoff/website/commit/ebf91f21afcaa0fad2076b8054ea03fa9e4d0307'
   description: 'Silly header animation'
   video: '/uploads/2024-04-21.mp4'
   video_type: 'video/mp4'

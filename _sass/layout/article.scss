@@ -66,6 +66,12 @@ article {
 		}
 	}
 
+	section.content {
+		p {
+			hyphens: auto;
+		}
+	}
+
 	section.thanks {
 		@include italicised();
 		font-size: var(--step--1);

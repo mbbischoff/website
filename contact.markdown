@@ -5,8 +5,8 @@ position: 2
 image: "/uploads/nomad.jpeg"
 description: I’m an extrovert who loves hearing from old friends and making new ones.
   Here are the best ways to get in touch.
-layout: page
 icon: fa-comment-dots
+layout: page
 ---
 
   * 
@@ -28,12 +28,12 @@ I’m an extrovert who loves hearing from old friends and making new ones. I rea
 {:.fa-ul}
 
 
-### <i class="fa-regular fa-sm fa-key"></i> Secure Options
+### <i class="fa-regular fa-sm fa-lock"></i> Secure Options
 
 If you’d like to communicate me in an encrypted manner:
 
 * <span class="fa-li"><i class="fa-brands fa-sm fa-signal-messenger"></i></span> Text via Signal to [+1 (609) 706-0597](sgnl://text:+16097060597)
 * <span class="fa-li"><i class="fa-brands fa-sm fa-keybase"></i></span>DM via Keybase at [mbbischoff](https://keybase.io/mbbischoff)
-* <span class="fa-li"><i class="fa-solid fa-sm fa-lock"></i></span>Encrypt email with my [GPG key](/mb.gpg)
+* <span class="fa-li"><i class="fa-solid fa-sm fa-key"></i></span>Encrypt email with my [GPG key](/mb.gpg)
 <br><small>*Reminder: I’ll need your public key to read it.*</small>
 {:.fa-ul}

@@ -4,14 +4,10 @@ date: 2024-04-01 15:40:00 -04:00
 position: 6
 subtitle: a process for progress
 image: "/uploads/IMG_0337.gif"
-layout: page
 icon: fa-triangle-person-digging
 short_title: Changes
+layout: page
 ---
-
-* 
-{:toc} 
-
 
 *What if something was designed one day, one change at a time?  
 What if every day, it got just a tiny bit better?  

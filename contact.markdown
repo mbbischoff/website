@@ -30,7 +30,7 @@ I’m an extrovert who loves hearing from old friends and making new ones. I rea
 
 #### <i class="fa-regular fa-sm fa-lock"></i> Securely
 
-If you’d like to communicate me in an encrypted manner:
+If you’d like to communicate with me in an encrypted manner:
 
 * <span class="fa-li"><i class="fa-brands fa-sm fa-signal-messenger"></i></span> Text via Signal to [+1 (609) 706-0597](sgnl://text:+16097060597)
 * <span class="fa-li"><i class="fa-brands fa-sm fa-keybase"></i></span>DM via Keybase at [mbbischoff](https://keybase.io/mbbischoff)

@@ -1,7 +1,21 @@
 <header id="masthead" role="banner">
   {% include nav.html %}
 
-  <h1 class="initials"><a href="/">{{ site.header.title }}</a></h1>
+  <div class="identity">
+  <h1 class="initials"><a href="/">{{ site.header.title }}</a></h1>  
+  
+  <picture>
+    <source srcset="/assets/images/avatar-225.webp" type="image/webp" />
+    <source srcset="/assets/images/avatar-225.jpeg" type="image/jpeg" />
+    <img class="avatar"
+      alt="A photo of mb bischoff in a red lip and leather jacket."
+      width="225"
+      height="225"
+      src="/assets/images/avatar-225.jpeg"
+    />
+  </picture>
+  </div>
+
   <p>{{ site.header.subtitle }}</p>
   
   <section class="buttons">

@@ -3,6 +3,21 @@
 
 header#masthead {
 
+	.identity {
+		display: grid;
+		grid-template-columns: 1fr auto;
+		align-items: center;
+
+		.avatar {
+			cursor: zoom-in;
+			height: 2.5lh;
+			width: auto;
+			border-radius: 50%;
+			margin: 0;
+			transition: transform 0.2s ease-in-out;
+		}
+	}
+
 	nav {
 		text-transform: lowercase;
 

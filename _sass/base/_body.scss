@@ -18,7 +18,7 @@ body {
 
 #markdown-toc {
 	&::before {
-		content: '§ Sections';
+		content: '§';
 		font-weight: var(--font-weight-semibold);
 	}
 

@@ -3,7 +3,13 @@
 
 body {
 	background-color: var(--background);
-	color: var(--text)
+	color: var(--text);
+	accent-color: var(--accent);
+	caret-color: var(--accent);
+}
+
+:focus-visible {
+	outline: 2px solid var(--accent-secondary);
 }
 
 header#masthead {

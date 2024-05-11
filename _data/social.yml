@@ -1,0 +1,28 @@
+- title: X
+  url: https://x.com/mb
+  icon: fa-brands fa-x-twitter
+  username: "@mb"
+- title: Instagram
+  url: https://instagram.com/mattb
+  icon: fa-brands fa-instagram
+- title: Threads
+  url: https://threads.net/mattb
+  icon: fa-brands fa-threads
+- title: Mastodon
+  url: https://mastodon.social/@matthewbischoff
+  icon: fa-brands fa-mastodon
+- title: TikTok
+  url: https://www.tiktok.com/@matthew_bischoff
+  icon: fa-brands fa-tiktok
+- title: Github
+  url: https://github.com/mattbischoff/
+  icon: fa-brands fa-github
+- title: LinkedIn
+  url: https://linkedin.com/in/matthewbischoff/
+  icon: fa-brands fa-linkedin
+- title: Goodreads
+  url: https://www.goodreads.com/user/show/3162891-mb
+  icon: fa-brands fa-goodreads
+- title: Letterboxd
+  url: https://letterboxd.com/matthewbischoff/
+  icon: fa-brands fa-square-letterboxd

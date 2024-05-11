@@ -47,7 +47,7 @@ In their spare time, mb enjoys crafting  classic cocktails, seeing live theatre,
 You can [contact mb here](/contact) or find them online in all of these places:
 
 <ul class="fa-ul">
-{% for item in site.social_links %}
+{% for item in site.data.social %}
   <li><span class="fa-li"><i class="{{ item.icon }}"></i></span> <a href="{{ item.url }}">{{ item.username | default: item.title }}</a></li>
 {% endfor %}
 </ul>

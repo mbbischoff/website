@@ -21,9 +21,9 @@
       </form>
     </div>
     
-    <div class="col col-1-3-row-2">
+    <div class="col col-1-6-row-2">
 <section class="social">
-    {% for link in site.social_links %}
+    {% for link in site.data.social %}
       <a href="{{ link.url }}" title="{{ link.title }}"><i class="{{ link.icon }} fa-xl"></i></a>
     {% endfor %}
     </section>

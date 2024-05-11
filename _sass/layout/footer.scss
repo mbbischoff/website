@@ -16,7 +16,7 @@ main ~ footer {
     width: 1em;
   }
 
-  section.textual {
+  .textual {
     font-size: var(--step--2);
 
     display: flex;
@@ -24,7 +24,7 @@ main ~ footer {
     align-items: flex-start;
   }
 
-  section.controls {
+  .controls {
     font-size: var(--step--1);
   }
 
@@ -59,7 +59,7 @@ main ~ footer {
     justify-self: start; // Aligns individual links to the left of their grid cells
   }
 
-  section.social {
+  .social {
     width: 100%;
     display: flex;
     justify-content: space-between;

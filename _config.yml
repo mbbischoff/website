@@ -105,4 +105,3 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
-  

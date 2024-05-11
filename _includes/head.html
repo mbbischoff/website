@@ -1,5 +1,5 @@
 <head>
-  <meta charset="utf-8" />
+  <meta charset="utf-8">
 
   <title>
     {{ page.title }}
@@ -17,7 +17,7 @@
     }
   </script>
 
-  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
 
   <!--  CSS -->
   <link rel="stylesheet" href="{{ "/assets/css/screen.css" | relative_url }}">
@@ -37,76 +37,76 @@
   <link rel="manifest" href="/manifest.webmanifest">
   
   <!-- Claims -->
-  <link rel="me" href="https://mastodon.social/@matthewbischoff" />
+  <link rel="me" href="https://mastodon.social/@matthewbischoff">
 
   <!-- RSS -->
-  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed/" />
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed/">
 
   <!-- Meta -->
   {% if page.description %}
-  <meta name="description" content="{{ page.description | strip_html}}" />
+  <meta name="description" content="{{ page.description | strip_html}}">
   {% else %}
-  <meta name="description" content="{{ site.description }}" />
+  <meta name="description" content="{{ site.description }}">
   {% endif %}
 
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="author" content="{{ site.author.name }}" />
-  <meta name="generator" content="Jekyll" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="{{ site.author.name }}">
+  <meta name="generator" content="Jekyll">
 
   <!-- Google -->
-  <meta name="googlebot" content="index,follow" />
-  <meta name="robots" content="index,follow" />
-  <meta name="google-site-verification" content="XK_j6lkDAd8qOhIn4-2eS2BIJuQyRp4D_gxjpR65wUM" />
+  <meta name="googlebot" content="index,follow">
+  <meta name="robots" content="index,follow">
+  <meta name="google-site-verification" content="XK_j6lkDAd8qOhIn4-2eS2BIJuQyRp4D_gxjpR65wUM">
 
   <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="matthewbischoff" />
-  <meta name="twitter:creator" content="mb" />
-  <meta name="twitter:domain" content="{{ site.url }}" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="matthewbischoff">
+  <meta name="twitter:creator" content="mb">
+  <meta name="twitter:domain" content="{{ site.url }}">
 
   {% if page.title %}
-  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta name="twitter:title" content="{{ page.title }}">
   {% else %}
-  <meta name="twitter:title" content="{{ site.text_content.header_title }}" />
+  <meta name="twitter:title" content="{{ site.text_content.header_title }}">
   {% endif %} {% if page.url %}
-  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
   {% endif %} {% if page.description %}
-  <meta name="twitter:description" content="{{ page.description strip_html }}" />
+  <meta name="twitter:description" content="{{ page.description strip_html }}">
   {% else %}
-  <meta name="twitter:description" content="{{ site.title }} {{ site.description }}" />
+  <meta name="twitter:description" content="{{ site.title }} {{ site.description }}">
   {% endif %} {% if page.image %}
-  <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}" />
+  <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
   {% else %}
-  <meta name="twitter:image:src" content="{{ site.url }}/uploads/twitter-share-card.jpg" />
+  <meta name="twitter:image:src" content="{{ site.url }}/uploads/twitter-share-card.jpg">
   {% endif %}
 
   <!-- Facebook Open Graph -->
-  <meta content="{{ site.title }}" property="og:site_name" />
+  <meta content="{{ site.title }}" property="og:site_name">
   {% if page.title %}
-  <meta content="{{ page.title }}" property="og:title" />
+  <meta content="{{ page.title }}" property="og:title">
   {% else %}
-  <meta content="{{ site.text_content.header_title }}" property="og:title" />
+  <meta content="{{ site.text_content.header_title }}" property="og:title">
   {% endif %} {% if page.title %}
-  <meta content="article" property="og:type" />
+  <meta content="article" property="og:type">
   {% else %}
-  <meta content="website" property="og:type" />
+  <meta content="website" property="og:type">
   {% endif %} {% if page.description %}
-  <meta content="{{ page.description | strip_html }}" property="og:description" />
+  <meta content="{{ page.description | strip_html }}" property="og:description">
   {% else %}
-  <meta content="{{ site.title }} {{ site.description }}" property="og:description" />
+  <meta content="{{ site.title }} {{ site.description }}" property="og:description">
   {% endif %} {% if page.url %}
-  <meta content="{{ site.url }}{{ page.url }}" property="og:url" />
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
   {% endif %} {% if page.date %}
-  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time" />
-  <meta content="{{ site.url }}/about/" property="article:author" />
+  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+  <meta content="{{ site.url }}/about/" property="article:author">
   {% endif %} {% if page.image %}
-  <meta content="{{ site.url }}{{ page.image }}" property="og:image" />
+  <meta content="{{ site.url }}{{ page.image }}" property="og:image">
   {% else %}
-  <meta name="twitter:image:src" content="{{ site.url }}/uploads/twitter-share-card.jpg" />
+  <meta name="twitter:image:src" content="{{ site.url }}/uploads/twitter-share-card.jpg">
   {% endif %} {% if page.categories %} {% for category in page.categories
   limit:1 %}
-  <meta content="{{ category }}" property="article:section" />
+  <meta content="{{ category }}" property="article:section">
   {% endfor %} {% endif %} {% if page.tags %} {% for tag in page.tags %}
-  <meta content="{{ tag }}" property="article:tag" />
+  <meta content="{{ tag }}" property="article:tag">
   {% endfor %} {% endif %}
 </head>

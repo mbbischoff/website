@@ -74,11 +74,11 @@ google_site_verification: XK_j6lkDAd8qOhIn4-2eS2BIJuQyRp4D_gxjpR65wUM
 repository: mattbischoff/website
 header:
   title: mb
-  subtitle: <span class="full-name">mb bischoff</span> makes <a href="https://lickability.com" target="_blank"><i
-    class="fa-brands fa-app-store-ios"></i>&nbsp;apps</a>, <a href="/archive/"><i
-    class="fa-solid fa-pen-to-square"></i>&nbsp;posts</a>, and <a href="https://absolutelycrushed.com" target="_blank"><i
-    class="fa-solid fa-podcast"></i>&nbsp;podcasts</a>. <em class="smaller"><a class="secondary"
-    href="/under-construction/"><i class="fa-solid fa-triangle-person-digging"></i>&nbsp;under
+  subtitle: <span class="full-name">mb bischoff</span> makes <a href="https://lickability.com"
+    target="_blank"><i class="fa-brands fa-app-store-ios"></i>&nbsp;apps</a>, <a href="/archive/"><i
+    class="fa-solid fa-pen-to-square"></i>&nbsp;posts</a>, and <a href="https://absolutelycrushed.com"
+    target="_blank"><i class="fa-solid fa-podcast"></i>&nbsp;podcasts</a>. <em class="smaller"><a
+    class="secondary" href="/under-construction/"><i class="fa-solid fa-triangle-person-digging"></i>&nbsp;under
     construction</a></em>
 navigation_links:
 - title: Home

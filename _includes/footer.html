@@ -21,13 +21,6 @@
       </form>
     </div>
     
-    <div class="col col-1-6-row-2">
-    <div class="social">
-      {% for link in site.data.social %}
-        <a href="{{ link.url }}" title="{{ link.title }}"><i class="{{ link.icon }} fa-xl"></i></a>
-        {% endfor %}
-    </div>
-    </div>
 
     <div class="col col-1-5-row-3">
       <div class="textual">
@@ -61,5 +54,14 @@
         </div>
       </div>
     </div>
+    
+    <div class="col col-1-6-row-2">
+    <div class="social">
+      {% for link in site.data.social %}
+        <a href="{{ link.url }}" title="{{ link.title }}"><i class="{{ link.icon }} fa-xl"></i></a>
+        {% endfor %}
+    </div>
+    </div>
+
   </div>  
 </footer>

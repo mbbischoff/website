@@ -31,8 +31,8 @@
   --dark-text--emphasized: color(display-p3 0.998 0.982 0.984);
   --text-emphasized: light-dark(var(--light-text--emphasized), var(--dark-text--emphasized));
 
-  --light-accent: color(display-p3 0.9 0.09 0.2);
-  --dark-accent: color(display-p3 0.9 0.3 0.4);
+  --light-accent: oklch(61% 0.27 23);
+  --dark-accent: oklch(67% 0.27 10);
   --accent: light-dark(var(--light-accent), var(--dark-accent));
 
   --light-accent-secondary: color(display-p3 0.9 0.09 0.2 / 0.5);

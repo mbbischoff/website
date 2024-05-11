@@ -29,7 +29,7 @@ It’s inspired by [Under Construction GIFs](http://textfiles.com/underconstruct
 
 Each change will be documented here with a dated commit & screenshot.
 
-<section class="changelog">
+<div class="changelog">
   {% for entry in site.data.changelog %}
 
   {% assign description_html = entry.description | markdownify | remove: '<p>' | remove: '</p>' %}
@@ -57,4 +57,4 @@ Each change will be documented here with a dated commit & screenshot.
     {% endif %}
   </details>
   {% endfor %}
-</section>
+</div>

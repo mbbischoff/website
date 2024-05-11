@@ -14,7 +14,7 @@ icon: fa-archive
 </header>
 
 <section class="archive">
-  <section class="date-list">
+  <div class="date-list">
     {% for year in postsByYear %}
     <h2 id="{{ year.name }}">{{ year.name }}</h2>
     <ul class="posts" aria-label="Posts from {{ year.name }}">
@@ -28,5 +28,5 @@ icon: fa-archive
       {% endfor %}
     </ul>
     {% endfor %}
-  </section>
+  </div>
 </section>

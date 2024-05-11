@@ -99,12 +99,12 @@ article {
 			}
 		}
 
-		section.metadata {
+		.metadata {
 			color: var(--text-secondary);
 		}
 	}
 
-	section.tags {
+	.tags {
 		margin-block-start: 1rlh;
 		font-size: var(--step--1);
 		line-height: 1rlh;
@@ -124,7 +124,7 @@ article {
 		}
 	}
 
-	section.thanks {
+	.thanks {
 		color: var(--text-secondary);
 	}
 }
@@ -165,7 +165,7 @@ blockquote {
 	border-color: var(--accent);
 }
 
-section.changelog {
+.changelog {
 	a.commit {
 		text-decoration: none;
 		color: var(--accent);

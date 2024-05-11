@@ -24,7 +24,7 @@ This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](htt
 Right now, I’m [building a little at a time](/under-construction).
 
 
-## <i class="fa-regular fa-camera-movie"></i> Watching
+## <i class="fa-regular fa-camera-movie fa-sm"></i> Watching
 
 <div id="letterboxd-embed-wrapper-tc">Loading...</div>
 <script>

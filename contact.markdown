@@ -28,7 +28,7 @@ I’m an extrovert who loves hearing from old friends and making new ones. I rea
 {:.fa-ul}
 
 
-#### <i class="fa-regular fa-sm fa-lock"></i> Securely
+#### <i class="fa-regular fa-lock fa-sm"></i> Securely
 
 If you’d like to communicate with me in an encrypted manner:
 

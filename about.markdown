@@ -22,27 +22,27 @@ mb is an acclaimed speaker, giving [talks](https://matthewbischoff.com/category/
 
 In their spare time, mb enjoys crafting  classic cocktails, seeing live theatre, and trawling Wikipedia for interesting facts. They’re proudly bisexual, trans, & nonbinary. Oh yeah, and [they were on Jeopardy!](https://www.j-archive.com/showgame.php?game_id=3342)
 
-## <i class="fa-regular fa-briefcase"></i> Work
+## <i class="fa-regular fa-briefcase fa-sm"></i> Work
 
-### <i class="fa-brands fa-app-store"></i> Apps
+### <i class="fa-brands fa-app-store fa-sm"></i> Apps
 
 {% include date-list.html content=site.data.apps %}
 
-### <i class="fa-regular fa-podium"></i> Talks
+### <i class="fa-regular fa-keynote fa-sm"></i> Talks
 
 {% include date-list.html content=site.data.talks %}
 
-## <i class="fa-regular fa-eyes"></i> Appearances
+## <i class="fa-regular fa-eyes fa-sm"></i> Appearances
 
-### <i class="fa-regular fa-podcast"></i> Podcasts
+### <i class="fa-regular fa-podcast fa-sm"></i> Podcasts
 
 {% include date-list.html content=site.data.podcasts %}
 
-### <i class="fa-regular fa-newspaper"></i> Press
+### <i class="fa-regular fa-newspaper fa-sm"></i> Press
 
 {% include date-list.html content=site.data.press %}
 
-### <i class="fa-regular fa-globe"></i> Elsewhere
+### <i class="fa-regular fa-globe fa-sm"></i> Elsewhere
 
 You can [contact mb here](/contact) or find them online in all of these places:
 
@@ -52,7 +52,7 @@ You can [contact mb here](/contact) or find them online in all of these places:
 {% endfor %}
 </ul>
 
-## <i class="fa-regular fa-circle-info"></i> Colophon
+## <i class="fa-regular fa-circle-info fa-sm"></i> Colophon
 
 * <span class="fa-li"><i class="fa-brands fa-github fa-sm"></i></span>Published with [Jekyll](https://jekyllrb.com), hosted on [GitHub](https://github.com/mattbischoff/matthewbischoff.com), and deployed via [Pages](https://pages.github.com).
 * <span class="fa-li"><i class="fa-solid fa-text fa-sm"></i></span>Type is set in [Recursive](https://www.recursive.design/) Sans & <span class="mono">Mono</span> from [Arrow Type](https://www.arrowtype.com/).

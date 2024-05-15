@@ -253,7 +253,7 @@ This is a [link](/) to the homepage.
 
 ![mb](/assets/images/avatar.jpeg)
 
-// TODO: Inline Image
+This is an inline <img class="inline" src="/uploads/underconstruction2.gif"> image.
 
 // TODO: Centered image
 

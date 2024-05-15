@@ -56,12 +56,6 @@ article {
 		section.content {
 			>p:last-of-type::after {
 				content: " ▲";
-
-				// TODO: If I want to sign as mb
-				// @include fontVariations($casl: 1,
-				// 	$slnt: var(--name-slant),
-				// 	$crsv: 1,
-				// 	$wght: var(--font-weight-black))
 			}
 		}
 	}

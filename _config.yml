@@ -65,6 +65,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-feed
 - jekyll-redirect-from
+- jekyll-paginate
 twitter:
   username: mb
 facebook:
@@ -105,3 +106,4 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
+paginate: 5

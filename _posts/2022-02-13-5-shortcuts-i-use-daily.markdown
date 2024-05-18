@@ -30,6 +30,8 @@ picture:
 
 This Friday, I spent an hour and a half chatting with [Matthew Cassinelli](https://www.matthewcassinelli.com) about using Apple’s Shortcuts app to simplify my work and life. We went through 13 of my 156 shortcuts, showing how they work, explaining how I built them, and answering questions from the chat. As promised on the stream, here are 5 of those shortcuts that I use every day, with a brief explanation of why they save me so much time and links to download them.
 
+<!-- more -->
+
 ### 📡 File a Radar
 
 As a power user of Apple software and developer of apps for their platform, I have a lot of, shall we say, *feedback*. So whenever I run into a [paper cut bug](/software-paper-cuts/) or an API I wish existed, I run this shortcut to file a new feedback report (née [radar](https://www.theiphonewiki.com/wiki/Radar)) and then pray it gets addressed in a future OS update.

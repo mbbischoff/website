@@ -106,4 +106,3 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
-paginate: 5

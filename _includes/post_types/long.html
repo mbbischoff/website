@@ -1,17 +1,17 @@
 <header>
   {% include metadata.html post=include.post %}
 
-    <a href="{{ include.post.url }}">
       <h1>
+        <a href="{{ include.post.url }}">
         {{ include.post.title }}
+        </a>
       </h1>
-    </a>
 </header>
 
 {% if include.post.content contains "<!-- more -->" %}
 {{ include.post.content | split:"<!-- more -->" | first % }}
 <div class="read-more">
-  <a href="{{ include.post.url }}">Read more…</a>
+  <a class="button-secondary" href="{{ include.post.url }}">{{ post.content | number_of_words | divided_by: 180 }} min read <i class="fa-solid fa-circle-arrow-right fa-sm"></i></a>
 </div>
 <div style="display: none;">
   {{ include.post.content | split:"<!-- more -->" | last % }}

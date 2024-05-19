@@ -239,7 +239,6 @@ blockquote {
 
 	// Remove top margin for the first paragraph and bottom margin for the last
 	p {
-		font-weight: var(--font-weight-semibold);
 
 		&:first-child {
 			margin-top: 0;

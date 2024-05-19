@@ -80,6 +80,11 @@ article {
 	.read-more {}
 
 	details.narration {
+		i {
+			display: inline-block;
+			width: 1em;
+		}
+
 		summary {
 			color: var(--text-secondary);
 			font-size: var(--step--1);

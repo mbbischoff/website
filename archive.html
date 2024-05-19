@@ -17,7 +17,7 @@ icon: fa-archive
   <div class="date-list">
     {% for year in postsByYear %}
     <h2 id="{{ year.name }}">{{ year.name }}</h2>
-    <ul class="posts" aria-label="Posts from {{ year.name }}">
+    <ul class="post-titles" aria-label="Posts from {{ year.name }}">
       {% for post in year.items %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>

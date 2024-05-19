@@ -6,6 +6,7 @@ layout: default
 	<h1 class="tag-title">#{{ page.tag }}</h1>
 </header>
 
+<div class="posts">
 {% for post in page.posts %}
 	{% if post.format == "short" %}
 	<article class="post short">
@@ -21,3 +22,4 @@ layout: default
 	{% include tags.html post=post %}
   </article>
 {% endfor %}
+</div>

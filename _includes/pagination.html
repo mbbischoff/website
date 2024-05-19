@@ -1,7 +1,7 @@
 <div class="pagination">
 	{% if paginator.next_page %}
-	<a id="older" class="button" href="{{ paginator.next_page_path | prepend: site.baseurl }}"><i class="fa-solid fa-arrow-left fa-sm"></i>Older</a>
+	<a id="older" class="button-borderlesss" href="{{ paginator.next_page_path | prepend: site.baseurl }}"><i class="fa-solid fa-arrow-circle-left fa-sm"></i> older</a>
 	{% endif %} {% if paginator.previous_page %}
-	<a id="newer" class="button" href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><i class="fa-solid fa-arrow-right fa-sm"></i>Newer</a>
+	<a id="newer" class="button-borderlesss" href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><i class="fa-solid fa-arrow-circle-right fa-sm"></i> newer</a>
 	{% endif %}
 </div>

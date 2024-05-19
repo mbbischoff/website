@@ -413,4 +413,5 @@ button,
 .tag-title {
 	color: var(--text-secondary);
 	@include fontVariations($casl: 0, $crsv: 0);
+	margin-block-end: 1rlh;
 }

@@ -47,6 +47,10 @@ article {
 			h1 {
 				font-size: var(--step-1);
 				line-height: 1lh;
+
+				a {
+					color: var(--accent);
+				}
 			}
 		}
 	}
@@ -70,4 +74,6 @@ article {
 		@include italicised();
 		font-size: var(--step--1);
 	}
+
+	.read-more {}
 }

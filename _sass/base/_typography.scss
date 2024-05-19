@@ -369,6 +369,16 @@ button,
 	}
 }
 
+.button-secondary {
+	color: var(--accent);
+	text-decoration: none;
+	font-weight: var(--font-weight-semibold);
+
+	&:hover {
+		text-decoration: underline;
+	}
+}
+
 .button-borderlesss {
 	display: flex;
 	align-items: center;

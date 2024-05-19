@@ -23,9 +23,9 @@ Twitter. I’m [@mb](https://twitter.com/mb) there.
 
 <p><div class='video-wrapper'><iframe loading="lazy" title="Culture Rot" src='https://player.vimeo.com/video/259586099?title=0&byline=0&portrait=0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></p>
 
-<hr>
-
 <!-- more -->
+
+<hr>
 
 I want to tell you about a number that scares me: 404. That infamous code you see when that internet thing you meant to visit is gone or it moved and no one bothered to add a redirect or maybe it never existed at all.
 

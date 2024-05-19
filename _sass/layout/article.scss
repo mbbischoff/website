@@ -80,7 +80,9 @@ article {
 	.read-more {}
 
 	details.narration {
-		color: var(--text-secondary);
-		font-size: var(--step--1);
+		summary {
+			color: var(--text-secondary);
+			font-size: var(--step--1);
+		}
 	}
 }

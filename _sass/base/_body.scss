@@ -60,7 +60,8 @@ main {
 	h1 {
 		font-size: var(--step-3);
 		line-height: 2lh;
-		margin-block: 1rlh;
+		margin-block-start: 0; // page titles don’t need top margins
+		margin-block-end: 1rlh;
 	}
 
 	h2 {

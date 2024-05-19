@@ -3,6 +3,8 @@
 article {
 	header {
 		h1 {
+			margin-block: 0; // Post title don’t need a top margin because of the time.
+
 			a {
 				text-decoration: none;
 

@@ -1,0 +1,40 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>{{ site.title }}</title>
+  <link href="{{ site.url }}{{ site.baseurl }}/feed/" rel="self"/>
+  <link href="{{ site.url }}{{ site.baseurl }}/"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ site.url }}{{ site.baseurl }}/tag/</id>
+  <author>
+	<name>{{ site.author.name }}</name>
+	<email>{{ site.author.email }}</email>
+  </author>
+
+  {% for post in page.posts %}
+  <entry>      
+	{% if post.format == "link" %}
+	  <title>{{ post.title | xml_escape }} →</title>
+	  <link href="{{ post.link | xml_escape }}"/>
+	{% else %}
+	  <title>{{ post.title | xml_escape }}</title>
+	  <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
+	{% endif %}
+		
+	<updated>{{ post.date | date_to_xmlschema }}</updated>
+	<id>{{ site.url }}{{ site.baseurl }}{{ post.url }}</id>
+	<content type="html">
+	  {{ post.content | xml_escape }}
+	  {% if post.format == "link" %}
+		<p><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">∞</a></p>
+	  {% endif %}
+	</content>
+	
+	<tweet_text>{{ post.tweet_text }}</tweet_text>
+  </entry>
+  {% endfor %}
+
+</feed>

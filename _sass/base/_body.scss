@@ -57,12 +57,6 @@ body:has(input[id="toggle-grid"]:checked) {
 
 // Make headers one level smaller when they’re in the `main`.
 main {
-	header {
-		h1 {
-			margin-block: 0; // Post title don’t need a top margin because of the time.
-		}
-	}
-
 	h1 {
 		font-size: var(--step-3);
 		line-height: 2lh;

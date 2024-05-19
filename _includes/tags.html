@@ -3,7 +3,8 @@
   {% if include.post.tags != empty %}
     {% assign sorted_tags = include.post.tags | sort %}
     {% for tag in sorted_tags %}
-      <span class="tag">#{{ tag }}</span>{% unless forloop.last == true %} {% endunless %}
+    <a class="tag" href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/">#{{ tag }}</a>
+    {% unless forloop.last == true %} {% endunless %}
     {% endfor %}
   {% endif %}
     </section>

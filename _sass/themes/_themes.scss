@@ -110,7 +110,9 @@ article {
 		line-height: 1rlh;
 		color: var(--text-secondary);
 
-		&.tag {}
+		a.tag {
+			text-decoration: none;
+		}
 
 	}
 
@@ -202,5 +204,19 @@ abbr {
 main {
 	h2.subtitle {
 		color: var(--text-secondary);
+	}
+}
+
+
+.tag-cloud {
+	font-size: var(--step--1);
+	color: var(--text-secondary);
+
+	a {
+		text-decoration: none;
+
+		&::before {
+			content: '#';
+		}
 	}
 }

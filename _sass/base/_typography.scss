@@ -409,3 +409,9 @@ button,
 	text-overflow: ellipsis;
 	white-space: nowrap;
 }
+
+
+.tag-title {
+	color: var(--text-secondary);
+	@include fontVariations($casl: 0, $crsv: 0);
+}

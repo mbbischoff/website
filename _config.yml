@@ -106,3 +106,8 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_page_data:
+  sitemap: false
+tag_permalink_style: pretty

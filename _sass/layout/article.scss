@@ -78,4 +78,9 @@ article {
 	}
 
 	.read-more {}
+
+	details.narration {
+		color: var(--text-secondary);
+		font-size: var(--step--1);
+	}
 }

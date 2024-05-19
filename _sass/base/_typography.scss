@@ -120,7 +120,7 @@ h3,
 h4,
 h5,
 h6 {
-	text-wrap: pretty;
+	text-wrap: balance; // TODO: pretty when better supported
 	font-weight: var(--font-weight-bold);
 	@include fontVariations($casl: 0.5, $slnt: 0, $crsv: 1);
 }

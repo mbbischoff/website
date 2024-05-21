@@ -65,3 +65,4 @@ name: animals
 * https://chriscoyier.net
 * https://pawelgrzybek.com/
 * https://lmnt.me
+* https://daverupert.com/

@@ -33,6 +33,8 @@ On the other end of the spectrum, there are the [highly-produced Keynotes from A
 
 So it’s no wonder I don’t see many slide decks working on small software teams. The few I do are usually delivered by [professional hypesters pitching startups](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/), to cringes from the designers and developers in the room (or the [Zoom](https://zoom.us), as the case may be). But earlier in my career, [I used decks to great effect](/about#talks), and you know what? I miss them. In 2022, [I’m bringing decks(y) back](https://en.wikipedia.org/wiki/SexyBack).
 
+<!-- more -->
+
 * * *
 
 When my longtime friend and collaborator [Brian Capps](http://twitter.com/bcapps) and I worked as iOS engineers at *[The New York Times](https://nytimes.com)*, we noticed something concerning. There were a lot of intractable technical problems in the organization that seemed unsolvable due to politics and inter-team communication roadblocks. Everything from bug reports, to performance issues, to new features that needed newsroom buy-in got backed up this way.

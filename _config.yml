@@ -47,7 +47,7 @@ description: 'mb bischoff is a designer & developer in New York City. They are a
 '
 permalink: "/:title/"
 url: https://mbbischoff.com
-paginate: 5
+paginate: 10
 baseurl: 
 author:
   name: mb bischoff

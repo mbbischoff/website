@@ -61,12 +61,12 @@ header#masthead {
 	}
 
 	p {
-		text-wrap: pretty;
+		// text-wrap: pretty;
 		line-height: 1lh;
 
 		a>i {
 			display: inline-block;
-			min-width: 1em;
+			width: 0.875em;
 		}
 
 		a {
@@ -80,7 +80,7 @@ header#masthead {
 				@include italicised();
 
 				i {
-					width: 1.2em;
+					min-width: 1.2em;
 				}
 			}
 

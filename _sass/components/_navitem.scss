@@ -5,7 +5,10 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    margin-inline-end: 0.5rlh; // TODO: Pull into variable
+
+    &:not(:last-child) {
+        margin-inline-end: 0.5rlh;
+    }
 }
 
 .nav-icon {

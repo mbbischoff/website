@@ -75,8 +75,7 @@ google_site_verification: XK_j6lkDAd8qOhIn4-2eS2BIJuQyRp4D_gxjpR65wUM
 repository: mattbischoff/website
 header:
   title: mb
-  subtitle: <a class="full-name" href="/about">mb bischoff</a> <small class="text-secondary">(<a
-    href="https://pronouns.org/they-them">they/them</a>)</small> makes <a href="https://lickability.com"
+  subtitle: <a class="full-name" href="/about">mb bischoff</a> <small class="text-secondary">(<a class="secondary" href="https://pronouns.org/they-them">they/them</a>)</small> makes <a href="https://lickability.com"
     target="_blank"><i class="fa-brands fa-app-store-ios"></i>&nbsp;apps</a>, <a href="/archive/"><i
     class="fa-solid fa-pen-to-square"></i>&nbsp;posts</a>, and <a href="https://absolutelycrushed.com"
     target="_blank"><i class="fa-solid fa-podcast"></i>&nbsp;podcasts</a>.<em class="smaller"><a

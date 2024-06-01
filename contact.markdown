@@ -23,7 +23,7 @@ I’m an extrovert who loves hearing from old friends and making new ones. I rea
 * <span class="fa-li"><i class="fa-solid fa-sm fa-envelope"></i></span> Email <a href="sms:+16097060597">[mb@mbbischoff.com](mailto:mb@mbbischoff.com?subject=👋)</a>
 * <span class="fa-li"><i class="fa-brands fa-sm fa-square-x-twitter"></i></span> [Mention](https://twitter.com/intent/tweet?screen_name=mb) or <abbr title="Direct Message">[DM](https://twitter.com/messages/compose?recipient_id=5107)</abbr> [@mb](https://twitter.com/mb)
 {:.fa-ul}
-* <span class="fa-li"><i class="fa-solid fa-sm fa-comments"></i></span> Text <a href="sms:+16097060597">+1 (609) 706-0597</a>
+* <span class="fa-li"><i class="fa-solid fa-sm fa-comments"></i></span> iMessage <a href="sms:+16097060597">+1 (609) 706-0597</a> (verify using APKTIDVXTpIGJZ0BVpnsrPHj1SsBGKpbi0Df55wqpvXd24B4vV9A)
 * <span class="fa-li"><i class="fa-solid fa-sm fa-calendar-plus"></i></span> Schedule a [30-minute call](https://calendly.com/matthewbischoff/30-minute-call)
 {:.fa-ul}
 

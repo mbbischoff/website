@@ -25,7 +25,7 @@ I’m an extrovert who loves hearing from old friends and making new ones. I rea
 {:.fa-ul}
 * <span class="fa-li"><i class="fa-solid fa-sm fa-calendar-plus"></i></span> Schedule a [30-minute call](https://calendly.com/matthewbischoff/30-minute-call)
 * <span class="fa-li"><i class="fa-solid fa-sm fa-comments"></i></span> iMessage <a href="imessage://?address=+16097060597">+1 (609) 706-0597</a>
-<br><small>Verify using `APKTIDVXTpIGJZ0BVpnsrPHj1SsBGKpbi0Df55wqpvXd24B4vV9A`.</small>
+<br><small>*Verify using `APKTIDVXTpIGJZ0BVpnsrPHj1SsBGKpbi0Df55wqpvXd24B4vV9A`*</small>
 {:.fa-ul}
 
 

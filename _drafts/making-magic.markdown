@@ -1,6 +1,13 @@
 ---
 title: Making Magic
 date: 2024-06-02 11:50:00 -04:00
+categories:
+- shorter
+tags:
+- podcast
+- sex
+- Kate Sloan
+- me
 image: "/uploads/makingmagic.jpg"
 link: https://makingmagicseries.com/
 picture:

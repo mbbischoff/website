@@ -36,5 +36,5 @@ If you’d like to communicate with me in an encrypted manner:
 * <span class="fa-li"><i class="fa-brands fa-sm fa-signal-messenger"></i></span> Text via Signal to [+1 (609) 706-0597](sgnl://text:+16097060597)
 * <span class="fa-li"><i class="fa-brands fa-sm fa-keybase"></i></span>DM via Keybase at [mbbischoff](https://keybase.io/mbbischoff)
 * <span class="fa-li"><i class="fa-solid fa-sm fa-key"></i></span>Encrypt email with my [GPG key](/mb.gpg)
-<br><small>*Reminder: I’ll need your public key to read it.*</small>
+<br><small>*Reminder: I’ll need your public key to read it*</small>
 {:.fa-ul}

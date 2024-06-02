@@ -18,7 +18,7 @@ picture:
     The cord of the massager is coiled around, with sparkles and stars scattered around.
     The words “Making Magic” are prominently displayed at the bottom in bold pink
     and white letters.
-via: Kate Sloan
+via: "[Kate Sloan](https://katesloan.com)"
 ---
 
 <div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow:hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" allow="clipboard-write" seamless src="https://player.captivate.fm/episode/0b0e5061-72aa-4d9e-ac55-69497016589f"></iframe></div>

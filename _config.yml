@@ -35,7 +35,7 @@ defaults:
       height: 
       alt: 
     thanks: 
-    via:
+    via: 
 - scope:
     path: ''
     type: category

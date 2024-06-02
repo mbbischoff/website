@@ -23,7 +23,6 @@ defaults:
     image: 
     description: ''
     format: post
-    thanks: 
     link: 
     audio:
       title: 
@@ -35,6 +34,8 @@ defaults:
       width: 
       height: 
       alt: 
+    thanks: 
+    via:
 - scope:
     path: ''
     type: category

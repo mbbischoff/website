@@ -23,8 +23,9 @@ I’m an extrovert who loves hearing from old friends and making new ones. I rea
 * <span class="fa-li"><i class="fa-solid fa-sm fa-envelope"></i></span> Email <a href="sms:+16097060597">[mb@mbbischoff.com](mailto:mb@mbbischoff.com?subject=👋)</a>
 * <span class="fa-li"><i class="fa-brands fa-sm fa-square-x-twitter"></i></span> [Mention](https://twitter.com/intent/tweet?screen_name=mb) or <abbr title="Direct Message">[DM](https://twitter.com/messages/compose?recipient_id=5107)</abbr> [@mb](https://twitter.com/mb)
 {:.fa-ul}
-* <span class="fa-li"><i class="fa-solid fa-sm fa-comments"></i></span> Text <a href="sms:+16097060597">+1 (609) 706-0597</a>
 * <span class="fa-li"><i class="fa-solid fa-sm fa-calendar-plus"></i></span> Schedule a [30-minute call](https://calendly.com/matthewbischoff/30-minute-call)
+* <span class="fa-li"><i class="fa-solid fa-sm fa-comments"></i></span> iMessage <a href="imessage://?address=+16097060597">+1 (609) 706-0597</a>
+<br><small>*Verify using `APKTIDVXTpIGJZ0BVpnsrPHj1SsBGKpbi0Df55wqpvXd24B4vV9A`*</small>
 {:.fa-ul}
 
 
@@ -35,5 +36,5 @@ If you’d like to communicate with me in an encrypted manner:
 * <span class="fa-li"><i class="fa-brands fa-sm fa-signal-messenger"></i></span> Text via Signal to [+1 (609) 706-0597](sgnl://text:+16097060597)
 * <span class="fa-li"><i class="fa-brands fa-sm fa-keybase"></i></span>DM via Keybase at [mbbischoff](https://keybase.io/mbbischoff)
 * <span class="fa-li"><i class="fa-solid fa-sm fa-key"></i></span>Encrypt email with my [GPG key](/mb.gpg)
-<br><small>*Reminder: I’ll need your public key to read it.*</small>
+<br><small>*I’ll need your public key to read it*</small>
 {:.fa-ul}

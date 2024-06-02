@@ -28,4 +28,4 @@ format: link
 
 My wife Kate Sloan’s new podcast, [_Making Magic_](https://makingmagicseries.com), dropped this week. It’s a fascinating 10-episode series about the history and impact of the world’s [most famous vibrator](https://en.wikipedia.org/wiki/Hitachi_Magic_Wand). Plus, I make a special guest appearance in the first episode.
 
-[**Subscribe and listen**](https://pod.link/1749090563) now wherever you get your podcasts. And hey, if you like it, leave a review or tell a friend. 🪄
+[**Subscribe & listen**](https://pod.link/1749090563) now wherever you get your podcasts. And hey, if you like it, leave a review or tell a friend. 🪄

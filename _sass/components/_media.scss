@@ -77,7 +77,9 @@ audio {
 	width: 100%;
 }
 
-video {}
+.top-margin {
+	margin-block-start: 1lh;
+}
 
 iframe {
 	border: none;

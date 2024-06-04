@@ -28,7 +28,7 @@ Right now, I’m [building a little at a time](/under-construction).
 
 <div id="letterboxd-embed-wrapper-tc">Loading...</div>
 <script>
-fetch('https://lb-embed-content.bokonon.dev?username=matthewbischoff')
+fetch('https://lb-embed-content.bokonon.dev?username=mbbischoff')
 .then(response => response.text())
 .then(data => {
 document.getElementById('letterboxd-embed-wrapper-tc').innerHTML = data;

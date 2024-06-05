@@ -25,7 +25,7 @@ Some of these ideas have been inspired by others’ wishlists, and where applica
 - Notification category management/blocking 📵
 - Notification summaries 🛎️
 
-## Applications
+## Apps
 - Passwords app 🔒
 - Voice Memos transcriptions & summaries 🎤
 - Fix Shortcuts (performance, system shortcuts, reliability) 🦾

@@ -54,7 +54,6 @@ Some of these ideas have been inspired by others’ wishlists, and where applica
 - Custom watch faces ⌚️
 
 ## visionOS
-
 - Multi-user 👥
 - More system apps: Calendar, Home, Weather, etc. 🥽
 - More environments, including [interior spaces](https://x.com/sdw/status/1798202960679440825) 🌇

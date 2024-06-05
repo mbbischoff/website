@@ -14,7 +14,7 @@ description: 'In line with this tradition, I’ve compiled my wishlist for this 
   and the introduction of a few power-user tweaks and long-missing features. '
 ---
 
-In line with this tradition, I’ve compiled my wishlist for this year’s Worldwide Developers Conference announcements. I’m hoping for thoughtful integration of LLMs across the OSes,  performance and reliability updates for core services, and the introduction of a few power-user tweaks and long-missing features. 
+In line with tradition, I’ve compiled my wishlist for this year’s [Worldwide Developers Conference](https://developer.apple.com/wwdc24/) announcements. I’m hoping for thoughtful integration of LLMs across the OSes, performance and reliability updates for core services, and the introduction of a few power-user tweaks and long-missing features. 
 
 Some of these ideas have been inspired by others’ wishlists, and where applicable, I’ve included those references. Here’s what I’m hoping to see:
 

@@ -9,6 +9,7 @@ tags:
 - Kate Sloan
 - me
 image: "/uploads/makingmagic.jpg"
+format: link
 link: https://makingmagicseries.com/
 picture:
   webp_image: "/uploads/makingmagic.webp"
@@ -19,12 +20,10 @@ picture:
     The words “Making Magic” are prominently displayed at the bottom in bold pink
     and white letters.
 via: "[Kate Sloan](https://katesloan.com)"
-format: link
 ---
 
 <div class="top-margin">
-<iframe style="border-radius: 6px; width: 100%; height: 200px;" frameborder="no" scrolling="no" allow="clipboard-write" seamless src="https://player.captivate.fm/episode/0b0e5061-72aa-4d9e-ac55-69497016589f"></iframe>
-</div>
+<iframe id="embedPlayer" src="https://embed.podcasts.apple.com/us/podcast/what-makes-the-magic-wand-so-magic/id1749090563?i=1000657272588&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s ease 0s 6 normal none running loading-indicator; background-color: rgb(228, 228, 228);"></iframe></div>
 
 My wife Kate Sloan’s new podcast, [_Making Magic_](https://makingmagicseries.com), dropped this week. It’s a fascinating ten-episode series about the history and impact of the world’s [most famous vibrator](https://en.wikipedia.org/wiki/Hitachi_Magic_Wand). Plus, I make a special guest appearance in the first episode.
 

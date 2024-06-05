@@ -18,7 +18,6 @@ In line with this tradition, I’ve compiled my wishlist for this year’s World
 
 Some of these ideas have been inspired by others’ wishlists, and where applicable, I’ve included those references. Here’s what I’m hoping to see:
 
-## Platforms
 - Siri that works 🎙️
 - Talk to Siri in Messages 💬
 - Focus status messages 👀

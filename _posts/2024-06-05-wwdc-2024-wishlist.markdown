@@ -7,11 +7,13 @@ tags:
 - wwdc
 - apple
 - tech
-image: "/uploads/WWDC-2024.png"
+image: "/uploads/Apple-WWDC24-event-details-hero%20copy.png"
 description: 'In line with this tradition, I’ve compiled my wishlist for this year’s
   Worldwide Developers Conference announcements. I’m hoping for thoughtful integration
   of LLMs across the OSes,  performance and reliability updates for core services,
   and the introduction of a few power-user tweaks and long-missing features. '
+picture:
+  webp_image: "/uploads/Apple-WWDC24-event-details-hero.webp"
 ---
 
 In line with tradition, I’ve compiled my wishlist for this year’s [Worldwide Developers Conference](https://developer.apple.com/wwdc24/) announcements. I’m hoping for thoughtful integration of LLMs across the OSes, performance and reliability updates for core services, and the introduction of a few power-user tweaks and long-missing features. 

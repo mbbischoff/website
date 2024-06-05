@@ -14,6 +14,10 @@ description: 'In line with this tradition, I’ve compiled my wishlist for this 
   and the introduction of a few power-user tweaks and long-missing features. '
 picture:
   webp_image: "/uploads/Apple-WWDC24-event-details-hero.webp"
+  png_image: "/uploads/Apple-WWDC24-event-details-hero%20copy.png"
+  width: 1500
+  height: 843
+  alt: WWDC 2024 Promo Art
 ---
 
 In line with tradition, I’ve compiled my wishlist for this year’s [Worldwide Developers Conference](https://developer.apple.com/wwdc24/) announcements. I’m hoping for thoughtful integration of LLMs across the OSes, performance and reliability updates for core services, and the introduction of a few power-user tweaks and long-missing features. 

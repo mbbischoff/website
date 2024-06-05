@@ -74,3 +74,9 @@ Some of these ideas have been inspired by others’ wishlists, and where applica
 - API for local and cloud LLM access 🤖
 - Clipboard manager API 📋
 - SwiftUI parity with UIKit 🕊️
+
+---
+
+To be honest, I’ll be elated if I get even _half_ of these things this year. What’re you hoping for from this year’s conference? 
+
+If you’ll be in Cupertino for the event next week, don’t hesitate to [reach out and say hi](/contact)! I’ll be there from June 10  –  13.

@@ -1,0 +1,86 @@
+---
+title: WWDC 2024 Wishlist
+date: 2024-06-05 15:33:00 -04:00
+categories:
+- longer
+tags:
+- wwdc
+- apple
+- tech
+image: "/uploads/Apple-WWDC24-event-details-hero%20copy.png"
+description: 'In line with this tradition, I’ve compiled my wishlist for this year’s
+  Worldwide Developers Conference announcements. I’m hoping for thoughtful integration
+  of LLMs across the OSes,  performance and reliability updates for core services,
+  and the introduction of a few power-user tweaks and long-missing features. '
+picture:
+  webp_image: "/uploads/Apple-WWDC24-event-details-hero.webp"
+  png_image: "/uploads/Apple-WWDC24-event-details-hero%20copy.png"
+  width: 1500
+  height: 843
+  alt: WWDC 2024 Promo Art
+---
+
+In line with tradition, I’ve compiled my wishlist for this year’s [Worldwide Developers Conference](https://developer.apple.com/wwdc24/) announcements. I’m hoping for thoughtful integration of LLMs across the OSes, performance and reliability updates for core services, and the introduction of a few power-user tweaks and long-missing features. 
+
+Some of these ideas have been inspired by others’ wishlists, and where applicable, I’ve included those references. Here’s what I’m hoping to see:
+
+- Siri that works 🎙️
+- Talk to Siri in Messages 💬
+- Focus status messages 👀
+- Notification category management/blocking 📵
+- Notification summaries 🛎️
+
+## Apps
+- Passwords app 🔒
+- Voice Memos transcriptions & summaries 🎤
+- Fix Shortcuts (performance, system shortcuts, reliability) 🦾
+- AirPods button should be able to [trigger a Shortcut](https://x.com/irace/status/1785696515333161296) 🎧
+- Fix Screen Time (reliability) ⏳
+- Files app (performance & reliability) 📂
+- Calendar redesign 🗓️
+- Music redesign 🎵
+- [iCloud Shared Photo Library Albums](https://x.com/irace/status/1785696515333161296) 🖼️
+
+## iOS & iPadOS
+- Home screen redesign [merging Spotlight and App Library](https://x.com/irace/status/1793286898493849659) 📱
+- Set default apps (maps, camera, calendar) 📲
+- Lock Screen quick action customization 🔒
+- Smart and AI Playlists 🎶
+- Share Sheet redesign ⬆️
+- Default app support for camera, calendar, & maps 📍
+- iPad Multi-user 👥
+
+## macOS
+- [Notifications redesign](https://www.macstories.net/linked/appstories-episode-385-our-2024-macos-and-visionos-wwdc-wishes/)🔔
+- [Shortcuts Automations](https://www.macstories.net/linked/appstories-episode-385-our-2024-macos-and-visionos-wwdc-wishes/) 🤖
+- Live Activities 🏝️
+- Desktop per Focus Mode 🖥️
+
+## watchOS
+- Custom watch faces ⌚️
+
+## visionOS
+- Multi-user 👥
+- More system apps: Calendar, Home, Weather, etc. 🥽
+- More environments, including [interior spaces](https://x.com/sdw/status/1798202960679440825) 🌇
+- [Stage Manager](https://x.com/AlbertoCarlier/status/1798327879257952585) and [window persistence](https://x.com/Jeehut/status/1797924373845963252) 🪟
+- [Cinema environment](https://x.com/AlbertoCarlier/status/1798058451702300901) for any video 🍿
+- [Home Screen customization](https://bondi.blog/2024/02/03/what-visionos-needs-most-right-now/) 🏠
+- [Keyboard Occlusion](https://bondi.blog/2024/02/03/what-visionos-needs-most-right-now/) ⌨️ 
+- [Dark Mode for iPad Apps](https://bondi.blog/2024/02/03/what-visionos-needs-most-right-now/) 🌚 
+- [Background audio](https://bondi.blog/2024/02/03/what-visionos-needs-most-right-now/) 🎧
+- [Find My](https://bondi.blog/2024/02/03/what-visionos-needs-most-right-now/) 🔎
+
+## Developer
+
+- Xcode for iPad 🛠️
+- Copilot-like assistant in Xcode 🧑‍✈️
+- API for local and cloud LLM access 🤖
+- Clipboard manager API 📋
+- SwiftUI parity with UIKit 🕊️
+
+---
+
+To be honest, I’ll be elated if I get even _half_ of these things this year. What’re you hoping for from this year’s conference? 
+
+If you’ll be in Cupertino for the event next week, don’t hesitate to [reach out and say hi](/contact)! I’ll be there with my [Lickability](https://lickability.com) business partner, [Brian Capps](http://bcapps.org), from June 10  –  13.

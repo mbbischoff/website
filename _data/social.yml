@@ -11,6 +11,9 @@
 - title: Mastodon
   url: https://mastodon.social/@matthewbischoff
   icon: fa-brands fa-mastodon
+- title: Bluesky
+  url: https://bsky.app/profile/mbbischoff.bsky.social
+  icon: fa-brands fa-bluesky
 - title: TikTok
   url: https://www.tiktok.com/@mbbischoff
   icon: fa-brands fa-tiktok

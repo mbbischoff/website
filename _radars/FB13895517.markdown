@@ -2,7 +2,7 @@
 title: Opening Flighty always shows the "would like to access data from other apps"
   alert
 date: 2023-06-15 00:00:00 -04:00
-description: This is a sample radar.
+description: 
 ---
 
 ## Basic information
@@ -29,7 +29,7 @@ Privacy & Security
 
 ### Please describe the issue & what steps we can take to reproduce it:
 
-Every time I launch Flighty, the an alert is shown, It reads:
+Every time I launch Flighty,  an alert is shown, it reads:
 
 "Flighty" would like to access data from other apps.
 Keeping app data separate makes it easier to manage your privacy and security.
@@ -38,3 +38,4 @@ This occurs even if I choose Allow.
 
 ## Files
 
+![CleanShot 2024-06-13 at 22.31.21@2x.png](/uploads/CleanShot%202024-06-13%20at%2022.31.21@2x.png)

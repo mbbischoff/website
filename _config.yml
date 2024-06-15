@@ -44,11 +44,14 @@ defaults:
     type: category
   values:
     layout: category
+- scope:
+    path: 'radars'
+    values:
+      id: ''
+      resolution: ''
 description: 'mb bischoff is a designer & developer in New York City. They are a founder
   and partner at Lickability, a software studio known for its apps and work for clients
-  like The Atlantic, Houseparty, and Meetup.
-
-'
+  like The Atlantic, Houseparty, and Meetup.'
 permalink: "/:title/"
 url: https://mbbischoff.com
 paginate: 10

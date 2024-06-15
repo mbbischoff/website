@@ -4,22 +4,56 @@ title: Radars
 hidden: true
 ---
 
+<style>
+	thead,
+	tfoot {
+		background: unset;
+	}
+
+	tbody {}
+
+	th,
+	td {
+		border: none;		
+		padding-inline: 0.5em;
+		padding-block: 0;
+	}
+	
+	.table {
+		display: grid;
+	}
+	
+	.table .wrap {
+		white-space: normal;
+	}
+
+	.table .nowrap {
+		white-space: nowrap;
+	}
+</style>
+
+
 <h1>Radars</h1>
-<table>
-  <thead>
-	<tr>
-	  <th>Title</th>
-	  <th>Date</th>
-	  <th>Resolution</th>
-	</tr>
-  </thead>
-  <tbody>
-	{% for radar in site.radars %}
-	  <tr>
-		<td><a href="{{ radar.url }}">{{ radar.title }}</a></td>
-		<td>{{ radar.date | date: "%B %d, %Y" }}</td>
-		<td>{{ radar.resolution }}</td>
-	  </tr>
-	{% endfor %}
-  </tbody>
-</table>
+
+<p>
+<div class="table">
+	<table>
+		<thead>
+			<tr>
+				<th class="wrap">Title</th>
+				<th class="nowrap">Date</th>
+				<th class="nowrap">Status</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for radar in site.radars %}
+			<tr>
+				<td class="wrap"><a href="{{ radar.url }}">{{ radar.title }}</a></td>
+				<td class="nowrap">{{ radar.date | date: "%Y · %m · %d" }}</td>
+				<td class="nowrap">{{ radar.resolution }}</td>
+			</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+</div>
+</p>

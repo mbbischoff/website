@@ -8,13 +8,25 @@ description: "This is a sample radar."
 
 ### Please provide a descriptive title for your feedback:
 
+Opening Flighty always shows the "would like to access data from other apps" alert
+
 ### Which area are you seeing an issue with?
+
+System Settings
 
 ### What type of issue are you reporting?
 
+Incorrect/Unexpected Behavior
+
 ## Details
 
+### Which settings are you seeing issues with?
+
+Privacy & Security
+
 ## Description
+
+### Please describe the issue & what steps we can take to reproduce it:
 
 Every time I launch Flighty, the an alert is shown, It reads:
 

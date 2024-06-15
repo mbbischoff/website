@@ -28,7 +28,7 @@ redirect_from: /radars/
 	td {
 		border: none;
 		padding-inline-start: 0;
-		padding-inline-end: 0.5em;
+		padding-inline-end: var(--step--1);
 		padding-block: 0;
 	}
 
@@ -57,16 +57,16 @@ redirect_from: /radars/
 	<table>
 		<thead>
 			<tr>
-				<th class="wrap">Title</th>
-				<th class="nowrap">Date</th>
-				<th class="nowrap">Status</th>
+				<th class="wrap"><i class="fa-regular fa-message-exclamation fa-sm"></i> Title</th>
+				<th class="nowrap"><i class="fa-regular fa-calendar fa-sm"></i> Date</th>
+				<th class="nowrap"><i class="fa-regular fa-satellite-dish fa-sm"></i> Status</th>
 			</tr>
 		</thead>
 		<tbody>
 			{% for radar in site.feedback %}
 			<tr>
 				<td class="wrap"><a href="{{ radar.url }}">{{ radar.title }}</a></td>
-				<td class="nowrap">{{ radar.date | date: "%Y · %m · %d" }}</td>
+				<td class="nowrap">{{ radar.date | date: "%b %d, %Y" }}</td>
 				<td class="nowrap">{{ radar.resolution }}</td>
 			</tr>
 			{% endfor %}

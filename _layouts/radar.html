@@ -1,0 +1,27 @@
+---
+layout: default
+---
+{% assign radar_id = page.name | replace: page.ext, '' %}
+
+  <article class="radar">
+	  
+	  <header>
+	  {% include metadata.html post=page %}
+	  <h1>{{ page.title }}</h1>
+	
+	<p class="details">	  	  
+	  <ul class="fa-ul">
+		<li><span class="fa-li"><i class="fa-solid fa-bug fa-sm" aria-hidden="true"></i></span> 		<strong>Resolution</strong>: {{ page.resolution }}</li>
+		<li><span class="fa-li"><i class="fa-solid fa-satellite-dish fa-sm" aria-hidden="true"></i></span> <strong>ID</strong>: <a href="applefeedback://{{ radar_id }}">{{ radar_id }}</a></li>
+	  </ul>
+	</p>
+	  
+	  </header>
+
+  <section class="content">
+  {{ content }}
+  </section>
+
+  {% include thanks.html post=page %}
+  {% include tags.html post=page %}
+</article>

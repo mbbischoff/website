@@ -1,0 +1,25 @@
+---
+layout: default
+title: Radars
+hidden: true
+---
+
+<h1>Radars</h1>
+<table>
+  <thead>
+	<tr>
+	  <th>Title</th>
+	  <th>Date</th>
+	  <th>Resolution</th>
+	</tr>
+  </thead>
+  <tbody>
+	{% for radar in site.radars %}
+	  <tr>
+		<td><a href="{{ radar.url }}">{{ radar.title }}</a></td>
+		<td>{{ radar.date | date: "%B %d, %Y" }}</td>
+		<td>{{ radar.resolution }}</td>
+	  </tr>
+	{% endfor %}
+  </tbody>
+</table>

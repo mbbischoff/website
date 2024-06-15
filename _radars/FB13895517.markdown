@@ -1,0 +1,27 @@
+---
+title: "Opening Flighty always shows the \"would like to access data from other apps\" alert"
+date: 2023-06-15
+description: "This is a sample radar."
+---
+
+## Basic information
+
+### Please provide a descriptive title for your feedback:
+
+### Which area are you seeing an issue with?
+
+### What type of issue are you reporting?
+
+## Details
+
+## Description
+
+Every time I launch Flighty, the an alert is shown, It reads:
+
+"Flighty" would like to access data from other apps.
+Keeping app data separate makes it easier to manage your privacy and security.
+
+This occurs even if I choose Allow.
+
+## Files
+

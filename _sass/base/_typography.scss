@@ -120,12 +120,12 @@ h3,
 h4,
 h5,
 h6 {
-	text-wrap: balance; // TODO: pretty when better supported
 	font-weight: var(--font-weight-bold);
 	@include fontVariations($casl: 0.5, $slnt: 0, $crsv: 1);
 }
 
 h1 {
+	text-wrap: balance; // TODO: pretty when better supported
 	font-size: var(--step-6);
 	line-height: 3lh;
 	margin-block: 1rlh;

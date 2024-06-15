@@ -29,7 +29,7 @@ Privacy & Security
 
 ### Please describe the issue & what steps we can take to reproduce it:
 
-Every time I launch Flighty, the an alert is shown, It reads:
+Every time I launch Flighty,  an alert is shown, it reads:
 
 "Flighty" would like to access data from other apps.
 Keeping app data separate makes it easier to manage your privacy and security.

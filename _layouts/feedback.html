@@ -4,32 +4,71 @@ layout: default
 
 {% assign feedback_id = page.name | replace: page.ext, '' %}
 
-  <article class="feedback">
-	  
-	  <header>
-		  
-	  <div class="metadata">
-	  {% include datetime.html post=page %} 
-	  
-	  {% if feedback_id %}  • <a href="/feedback"><i class="fa-solid fa-message-exclamation fa-sm"></i>  Feedback</a> • <a class="mono" href="applefeedback://{{ feedback_id }}">{{ feedback_id }}</a> {% endif %}
-	  {% if page.via %} • {% include via.html post=page %}{% endif %}
-	  </div>	 
-	    
-	  <h1 class="page-title">{{ page.title }}</h1>
-	
-	<p class="details">	  	  
-	  <ul class="fa-ul">
-		 <li><span class="fa-li"><i class="fa-solid fa-solid fa-signal fa-sm" aria-hidden="true"></i></span> <strong>Recent Similar Reports</strong>: {{ page.recent_similar_reports }}</li>
-		<li><span class="fa-li"><i class="fa-solid fa-satellite-dish fa-sm" aria-hidden="true"></i></span> <strong>Resolution</strong>: {{ page.resolution }}</li>
-	  </ul>
-	</p>
-	  
-	  </header>
+<article class="feedback">
 
-  <section class="content">
-  {{ content }}
-  </section>
+	<header>
 
-  {% include thanks.html post=page %}
-  {% include tags.html post=page %}
+		<div class="metadata">
+			{% include datetime.html post=page %}
+
+			{% if feedback_id %} • <a href="/feedback"><i class="fa-solid fa-message-exclamation fa-sm"></i> Feedback</a> • <a class="mono" href="applefeedback://{{ feedback_id }}">{{ feedback_id }}</a> {% endif %}
+			{% if page.via %} • {% include via.html post=page %}{% endif %}
+		</div>
+
+		<h1 class="page-title">{{ page.title }}</h1>
+
+		<p class="details">
+		<ul class="fa-ul">
+
+			{% if page.recent_similar_reports %}
+			<li><span class="fa-li"><i class="fa-solid fa-solid fa-signal fa-sm" aria-hidden="true"></i></span> <strong>Similar Reports</strong>: {{ page.recent_similar_reports }}</li>
+			{% endif %}
+
+			{% if page.resolution %}
+			<li><span class="fa-li">
+				{% if page.resolution == "Open" %}
+					<i class="fa-solid fa-satellite-dish fa-sm" aria-hidden="true"></i>
+				{% elsif page.resolution == "Closed" %}
+					<i class="fa-solid fa-check fa-sm" aria-hidden="true"></i>
+				{% elsif page.resolution contains "Investigation complete" %}
+					<i class="fa-solid fa-magnifying-glass-arrow-right fa-sm" aria-hidden="true"></i>
+				{% else %}
+					<i class="fa-solid fa-clipboard-question fa-sm" aria-hidden="true"></i>
+				{% endif %}
+				</span> <strong>Resolution</strong>: {{ page.resolution }}</li>
+			{% endif %}
+
+
+			{% if page.platform %}
+			<li>
+				<span class="fa-li">
+					{% if page.platform == "iOS" %}
+					<i class="fa-solid fa-mobile-notch fa-sm" aria-hidden="true"></i>
+					{% elsif page.platform == "macOS" %}
+					<i class="fa-solid fa-desktop fa-sm" aria-hidden="true"></i>
+					{% elsif page.platform == "watchOS" %}
+					<i class="fa-solid fa-watch-apple fa-sm" aria-hidden="true"></i>
+					{% elsif page.platform == "tvOS" %}
+					<i class="fa-solid fa-tv fa-sm" aria-hidden="true"></i>
+					{% elsif page.platform == "iPadOS" %}
+					<i class="fa-solid fa-tablet fa-sm" aria-hidden="true"></i>
+					{% else %}
+					<i class="fa-solid fa-laptop-mobile fa-sm" aria-hidden="true"></i>
+					{% endif %}
+
+				</span> <strong>Platform</strong>: {{ page.platform }}
+			</li>
+			{% endif %}
+
+		</ul>
+		</p>
+
+	</header>
+
+	<section class="content">
+		{{ content }}
+	</section>
+
+	{% include thanks.html post=page %}
+	{% include tags.html post=page %}
 </article>

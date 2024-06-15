@@ -3,6 +3,8 @@ title: Opening Flighty always shows the “would like to access data from other 
   alert
 date: 2023-06-15 00:00:00 -04:00
 redirect_from: /radars/FB13895517/ 
+resolution: Open
+platform: macOS
 ---
 
 ## Basic information

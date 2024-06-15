@@ -183,17 +183,14 @@ sup {
 small,
 .small {
 	font-size: var(--step--1);
-	line-height: 1;
 }
 
 .smaller {
 	font-size: var(--step--2);
-	line-height: 1;
 }
 
 .smallest {
 	font-size: var(--step--3);
-	line-height: 1;
 }
 
 
@@ -216,8 +213,12 @@ dd {
 	list-style-position: outside;
 }
 
-.fa-ul {
-	margin-left: 0 !important;
+ul.fa-ul {
+
+	margin-left: 0;
+	padding-inline-start: 1.2em;
+
+	list-style-position: inside;
 
 	.fa-li {
 		margin-inline: 0.25em !important;

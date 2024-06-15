@@ -2,7 +2,7 @@
 title: Opening Flighty always shows the "would like to access data from other apps"
   alert
 date: 2023-06-15 00:00:00 -04:00
-description: 
+redirect_from: /radars/FB13895517/ 
 ---
 
 ## Basic information

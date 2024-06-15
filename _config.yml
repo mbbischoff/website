@@ -11,8 +11,8 @@ collections:
   posts:
     title: Posts
     output: true
-  radars:
-    title: Radars
+  feedback:
+    title: Feedback
     output: true
   uploads:
     title: Uploads
@@ -46,10 +46,12 @@ defaults:
     layout: category
 - scope:
     path: ''
-    type: radars
+    type: feedback
   values:
-    layout: radar
+    layout: feedback
     resolution: Open
+    platform: iOS
+    recent_similar_reports: None
 description: mb bischoff is a designer & developer in New York City. They are a founder
   and partner at Lickability, a software studio known for its apps and work for clients
   like The Atlantic, Houseparty, and Meetup.

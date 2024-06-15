@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+{% assign feedback_id = page.name | replace: page.ext, '' %}
+
+  <article class="feedback">
+	  
+	  <header>
+		  
+	  <div class="metadata">
+	  {% include datetime.html post=page %} 
+	  
+	  {% if feedback_id %}  • <a href="/feedback"><i class="fa-solid fa-message-exclamation fa-sm"></i>  Feedback</a> • <a class="mono" href="applefeedback://{{ feedback_id }}">{{ feedback_id }}</a> {% endif %}
+	  {% if page.via %} • {% include via.html post=page %}{% endif %}
+	  </div>	 
+	    
+	  <h1 class="page-title">{{ page.title }}</h1>
+	
+	<p class="details">	  	  
+	  <ul class="fa-ul">
+		 <li><span class="fa-li"><i class="fa-solid fa-solid fa-signal fa-sm" aria-hidden="true"></i></span> <strong>Recent Similar Reports</strong>: {{ page.recent_similar_reports }}</li>
+		<li><span class="fa-li"><i class="fa-solid fa-satellite-dish fa-sm" aria-hidden="true"></i></span> <strong>Resolution</strong>: {{ page.resolution }}</li>
+	  </ul>
+	</p>
+	  
+	  </header>
+
+  <section class="content">
+  {{ content }}
+  </section>
+
+  {% include thanks.html post=page %}
+  {% include tags.html post=page %}
+</article>

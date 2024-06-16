@@ -1,40 +1,58 @@
 ---
 layout: default
+image: /uploads/feedback.jpg
 ---
 
 {% assign feedback_id = page.name | replace: page.ext, '' %}
 
 <article class="feedback">
-
 	<header>
-
 		<div class="metadata">
 			{% include datetime.html post=page %}
+			&ensp;
+			
+			{% if feedback_id %}<a href="/feedback"><i class="fa-solid fa-message-exclamation fa-sm"></i> Feedback</a>
 
-			{% if feedback_id %} • <a href="/feedback"><i class="fa-solid fa-message-exclamation fa-sm"></i> Feedback</a> • <a class="mono" href="applefeedback://{{ feedback_id }}">{{ feedback_id }}</a> {% endif %}
-			{% if page.via %} • {% include via.html post=page %}{% endif %}
+			&ensp;
+
+			<a class="mono" href="applefeedback://{{ feedback_id }}"><i class="fa-solid fa-bug fa-sm"></i> {{ feedback_id }}</a> {% endif %}
+			&ensp;
+			
+			{% if page.via %} {% include via.html post=page %}{% endif %}
 		</div>
 
 		<h1 class="page-title">{{ page.title }}</h1>
 
-		<ul class="fa-ul text-secondary small">
-
+		<p>
+		<ul class="fa-ul text-secondary">
 			{% if page.recent_similar_reports %}
 			<li><span class="fa-li"><i class="fa-solid fa-solid fa-signal fa-sm" aria-hidden="true"></i></span> <strong>Similar Reports</strong>: {{ page.recent_similar_reports }}</li>
 			{% endif %}
 
 			{% if page.resolution %}
 			<li><span class="fa-li">
-				{% if page.resolution == "Open" %}
+					{% if page.resolution == "Open" %}
 					<i class="fa-solid fa-satellite-dish fa-sm" aria-hidden="true"></i>
-				{% elsif page.resolution == "Closed" %}
+					{% elsif page.resolution == "Closed" %}
 					<i class="fa-solid fa-check fa-sm" aria-hidden="true"></i>
-				{% elsif page.resolution contains "Investigation complete" %}
+					{% elsif page.resolution contains "Investigation complete" %}
 					<i class="fa-solid fa-magnifying-glass-arrow-right fa-sm" aria-hidden="true"></i>
-				{% else %}
+					{% else %}
 					<i class="fa-solid fa-clipboard-question fa-sm" aria-hidden="true"></i>
-				{% endif %}
+					{% endif %}
 				</span> <strong>Resolution</strong>: {{ page.resolution }}</li>
+			{% endif %}
+
+			{% if page.team %}
+			<li><span class="fa-li">
+				{% if page.team == "Personal" %}
+				<i class="fa-solid fa-user fa-sm" aria-hidden="true"></i>
+				{% else %}
+				<i class="fa-solid fa-user-group fa-sm" aria-hidden="true"></i>
+				{% endif %}
+				
+				
+			</span><strong>Team</strong>: {{ page.team }}</li>
 			{% endif %}
 
 
@@ -60,6 +78,7 @@ layout: default
 			{% endif %}
 
 		</ul>
+		</p>
 
 	</header>
 

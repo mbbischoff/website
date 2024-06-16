@@ -25,7 +25,7 @@ I’m an extrovert who loves hearing from old friends and making new ones. I rea
 {:.fa-ul}
 * <span class="fa-li"><i class="fa-solid fa-sm fa-calendar-plus"></i></span> Schedule a [30-minute call](https://calendly.com/matthewbischoff/30-minute-call)
 * <span class="fa-li"><i class="fa-solid fa-sm fa-comments"></i></span> iMessage <a href="imessage://?address=+16097060597">+1 (609) 706-0597</a>
-<br><small>*[Verify](https://support.apple.com/en-us/118246) using my [public verification code](/imessage.txt).*</small>
+<br><small>*[Verify](https://support.apple.com/en-us/118246) using my [public verification code](/imessage.txt)*</small>
 {:.fa-ul}
 
 
@@ -36,5 +36,5 @@ If you’d like to communicate with me in an encrypted manner:
 * <span class="fa-li"><i class="fa-brands fa-sm fa-signal-messenger"></i></span> Text via Signal to [+1 (609) 706-0597](sgnl://text:+16097060597)
 * <span class="fa-li"><i class="fa-brands fa-sm fa-keybase"></i></span>DM via Keybase at [mbbischoff](https://keybase.io/mbbischoff)
 * <span class="fa-li"><i class="fa-solid fa-sm fa-key"></i></span>Encrypt email with my [GPG key](/mb.gpg)
-<br><small>*I’ll need your public key to read it.*</small>
+<br><small>*I’ll need your public key to read it*</small>
 {:.fa-ul}

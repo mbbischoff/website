@@ -2,9 +2,7 @@
 layout: default
 ---
 
-<header>
-	<h1 class="page-title">{{ page.title }}</h1>
-</header>
+{% include page-header.html %}
 
 {% for post in site.categories[page.name] %}
   <article class="post">

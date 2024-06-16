@@ -57,9 +57,10 @@ body:has(input[id="toggle-grid"]:checked) {
 
 // Make headers one level smaller when they’re in the `main`.
 main {
+	min-height: 10rlh;
+
 	h1 {
 		font-size: var(--step-3);
-		line-height: 2lh;
 		margin-block: 0; // page titles don’t need margins
 	}
 

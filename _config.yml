@@ -49,6 +49,7 @@ defaults:
     type: feedback
   values:
     layout: feedback
+    team: Personal
     resolution: Open
     platform: iOS
     recent_similar_reports: None

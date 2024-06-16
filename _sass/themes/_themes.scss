@@ -14,9 +14,9 @@ body {
 
 header#masthead {
 	color: var(--text-emphasized);
+	border-color: var(--accent);
 
 	nav {
-		border-color: var(--link-underline);
 
 		a {
 			&.active {
@@ -145,8 +145,8 @@ details {
 	}
 }
 
-footer {
-	border-color: var(--link-underline);
+main~footer {
+	border-color: var(--accent);
 }
 
 

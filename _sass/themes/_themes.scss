@@ -174,6 +174,11 @@ blockquote {
 	}
 }
 
+a.accent-underlined {
+	text-decoration: underline;
+	color: var(--accent);
+}
+
 #markdown-toc {
 	&::before {
 		color: var(--text);

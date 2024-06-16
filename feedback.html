@@ -1,76 +1,82 @@
 ---
 title: Feedback
 layout: default
-hidden: true
+position: 6
+image: "/uploads/feedback-crushed.jpg"
+icon: fa-message-exclamation
+
 redirect_from: /radars/
 ---
 
+{% include page-header.html %}
+
+<!-- TODO: Move to SCSS -->
 <style>
-	.header-container {
+	.feedback {
 		display: flex;
-		justify-content: space-between;
-		align-items: center;
-
-		i {
-			color: var(--text-secondary);
-			margin-inline-start: 1em;
-		}
+		flex-direction: column;
+		width: 100%;
 	}
 
-	thead,
-	tfoot {
-		background: unset;
+	.feedback thead,
+	.feedback tbody,
+	.feedback tr {
+		display: flex;
+		width: 100%;
 	}
 
-	tbody {}
-
-	th,
-	td {
-		border: none;
-		padding-inline-start: 0;
-		padding-inline-end: var(--step--1);
-		padding-block: 0;
+	.feedback th,
+	.feedback td {
+		flex: 1;
 	}
 
-	.table {
-		display: grid;
-	}
-
-	.table .wrap {
-		white-space: normal;
-	}
-
-	.table .nowrap {
+	.feedback .nowrap {
 		white-space: nowrap;
+		flex: 1;
+	}
+
+	.feedback .wrap {
+		flex: 4;
+		/* ¼ of the table */
 	}
 </style>
 
-<div class="header-container">
-	<h1 class="page-title">{{page.title}}
-		<h1>
-			<i class="fa-regular fa-message-exclamation"></i>
-</div>
-
-<p>
-	
-<div class="table">
-	<table>
+<div class="feedback">
+	<table class="borderless">
 		<thead>
 			<tr>
-				<th class="wrap"><i class="fa-regular fa-message-exclamation fa-sm"></i> Title</th>
+				<th class="wrap"><i class="fa-regular fa-satellite-dish fa-sm"></i> Open</th>
 				<th class="nowrap"><i class="fa-regular fa-calendar fa-sm"></i> Date</th>
-				<th class="nowrap"><i class="fa-regular fa-satellite-dish fa-sm"></i> Status</th>
 			</tr>
 		</thead>
 		<tbody>
-			{% for radar in site.feedback %}
+			{% for feedback in site.feedback %}
+			{% if feedback.resolution == "Open" %}
 			<tr>
-				<td class="wrap"><a href="{{ radar.url }}">{{ radar.title }}</a></td>
-				<td class="nowrap">{{ radar.date | date: "%m·%d·%y" }}</td>
-				<td class="nowrap">{{ radar.resolution }}</td>
+				<td class="wrap"><a class="accent-underlined" href="{{ feedback.url }}">{{ feedback.title }}</a></td>
+				<td class="nowrap"><time class="small text-secondary" datetime="{{ post.date | date_to_xmlschema }}">{{ feedback.date | date: "%Y · %m · %d" }}</time></td>
 			</tr>
+			{% endif %}
+			{% endfor %}
+		</tbody>
+	</table>
+
+	<table class="borderless">
+		<thead>
+			<tr>
+				<th class="wrap"><i class="fa-regular fa-circle-check fa-sm"></i> Closed</th>
+				<th class="nowrap"><i class="fa-regular fa-calendar fa-sm"></i> Date</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for feedback in site.feedback %}
+			{% if feedback.resolution != "Open" %}
+			<tr>
+				<td class="wrap"><a class="accent-underlined" href="{{ feedback.url }}">{{ feedback.title }}</a></td>
+				<td class="nowrap"><time class="small text-secondary" datetime="{{ post.date | date_to_xmlschema }}">{{ feedback.date | date: "%Y · %m · %d" }}</time></td>
+			</tr>
+			{% endif %}
 			{% endfor %}
 		</tbody>
 	</table>
 </div>
-</p>

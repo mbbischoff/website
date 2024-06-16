@@ -141,3 +141,37 @@ td {
 	padding: 0.5lh;
 	text-align: left;
 }
+
+
+table.borderless {
+
+	thead,
+	tfoot {
+		background: unset;
+	}
+
+	tbody {}
+
+	th,
+	td {
+		border: none;
+		padding-inline-start: 0;
+		vertical-align: top;
+	}
+
+}
+
+.wrap {
+	white-space: normal;
+}
+
+.nowrap {
+	white-space: nowrap;
+}
+
+i {
+	&.fa-sm {
+		display: inline-block;
+		min-width: 0.825em;
+	}
+}

@@ -11,7 +11,7 @@ layout: page
 
 *What if something was designed one day, one change at a time?  
 What if every day, it got just a tiny bit better?  
-With time, revealed more of itself?* <i class="fa-regular fa-triangle-person-digging"></i>
+With time, revealed more of itself?*
 
 ---
 

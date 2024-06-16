@@ -4,14 +4,17 @@ main {
 	}
 }
 
-.header-container {
+.title-and-icon {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	margin-block-end: 1rlh;
 
 	i {
 		color: var(--text-secondary);
 		margin-inline-start: 1em;
 	}
+}
+
+.header-container {
+	margin-block-end: 1rlh;
 }

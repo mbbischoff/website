@@ -2,6 +2,8 @@
 @use 'abstracts/mixins' as *;
 
 header#masthead {
+	border-bottom: var(--border-thickness) solid;
+	padding-block: 1rlh;
 
 	.identity {
 		display: grid;
@@ -19,9 +21,7 @@ header#masthead {
 
 	nav {
 		text-transform: lowercase;
-		padding-block: 1rlh;
 		margin-block-end: 1rlh;
-		border-bottom: var(--border-thickness) solid var(--link-underline);
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
@@ -65,7 +65,7 @@ header#masthead {
 
 		a>i {
 			display: inline-block;
-			min-width: 0.8125em;
+			min-width: 0.8em;
 		}
 
 		a {

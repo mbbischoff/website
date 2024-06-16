@@ -1,10 +1,11 @@
 
-<section class ="tags">
   {% if include.post.tags != empty %}
+    <section class ="tags">
+    <i class="fa-regular fa-tags"> </i>
     {% assign sorted_tags = include.post.tags | sort %}
     {% for tag in sorted_tags %}
     <a class="tag" href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/">#{{ tag }}</a>
     {% unless forloop.last == true %} {% endunless %}
     {% endfor %}
-  {% endif %}
     </section>
+  {% endif %}

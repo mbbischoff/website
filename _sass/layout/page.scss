@@ -3,3 +3,15 @@ main {
 		margin-block: 0;
 	}
 }
+
+.header-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-block-end: 1rlh;
+
+	i {
+		color: var(--text-secondary);
+		margin-inline-start: 1em;
+	}
+}

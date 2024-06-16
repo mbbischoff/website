@@ -122,33 +122,30 @@ h5,
 h6 {
 	font-weight: var(--font-weight-bold);
 	@include fontVariations($casl: 0.5, $slnt: 0, $crsv: 1);
+	line-height: 1.2;
 }
 
 h1 {
 	text-wrap: balance; // TODO: pretty when better supported
 	font-size: var(--step-6);
-	line-height: 3lh;
 	margin-block: 1rlh;
 
 }
 
 h2 {
 	font-size: var(--step-5);
-	line-height: 2rlh;
 	margin-block: 1rlh;
 }
 
 h3 {
 	font-weight: var(--font-weight-normal);
 	font-size: var(--step-4);
-	line-height: 2rlh;
 	margin-block: 1rlh;
 }
 
 h4 {
 	font-weight: var(--font-weight-bold);
 	font-size: var(--step-3);
-	line-height: 1rlh;
 	margin-block: 1rlh;
 }
 
@@ -163,7 +160,6 @@ h5 {
 h6 {
 	font-weight: var(--font-weight-normal);
 	font-size: var(--step-1);
-	line-height: 1rlh;
 	margin-block: 1rlh;
 }
 
@@ -417,5 +413,4 @@ button,
 .tag-title {
 	color: var(--text-secondary);
 	@include fontVariations($casl: 0, $crsv: 0);
-	margin-block-end: 1rlh;
 }

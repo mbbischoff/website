@@ -5,14 +5,14 @@ collections:
   category:
     title: Categories
     output: true
+  feedback:
+    title: Feedback
+    output: true
   formats:
     title: Formats
     output: true
   posts:
     title: Posts
-    output: true
-  feedback:
-    title: Feedback
     output: true
   uploads:
     title: Uploads

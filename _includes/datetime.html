@@ -1,5 +1,4 @@
 <time datetime="{{ include.post.date | date_to_xmlschema }}">
-  <a href="{{ include.post.url }}"
-    ><i class="fa-solid fa-calendar fa-sm"></i> {{ include.post.date | date: "%Y · %m · %d" }}</a
+  <i class="fa-solid fa-calendar fa-sm"></i>  <a href="{{ include.post.url }}">{{ include.post.date | date: "%Y · %m · %d" }}</a
   >
 </time>

@@ -5,7 +5,5 @@
     {% assign sorted_tags = include.post.tags | sort %}
     {% for tag in sorted_tags %}
     <a class="tag" href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/">#{{ tag }}</a>
-    {% unless forloop.last == true %} {% endunless %}
-    {% endfor %}
-    </section>
+    </section>    
   {% endif %}

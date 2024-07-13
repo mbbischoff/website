@@ -3,8 +3,10 @@
     <section class ="tags">
     <i class="fa-regular fa-tags"> </i>
     {% assign sorted_tags = include.post.tags | sort %}
+    
     {% for tag in sorted_tags %}
     <a class="tag" href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/">#{{ tag }}</a>
-    </section> 
     {% endfor %}   
+
+    </section> 
   {% endif %}

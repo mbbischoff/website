@@ -163,17 +163,28 @@ h6 {
 	margin-block: 1rlh;
 }
 
-small,
+small {
+	font-size: 0.875em;
+}
+
 sub,
 sup {
 	// TOOD: Relace with contextual alternates.
-	font-size: 0.875em;
+	font-size: 0.75em;
 }
 
 sub,
 sup {
 	position: relative;
 	line-height: 0;
+}
+
+
+sup {
+	a {
+		color: var(--text-secondary);
+		text-decoration: none;
+	}
 }
 
 small,
@@ -413,4 +424,15 @@ button,
 .tag-title {
 	color: var(--text-secondary);
 	@include fontVariations($casl: 0, $crsv: 0);
+}
+
+.footnotes {
+	border-top: var(--border-thickness) solid var(--background-secondary);
+	margin-block-start: 2lh;
+	color: var(--text-secondary);
+}
+
+a.reversefootnote {
+	color: var(--accent-secondary);
+	text-decoration: none;
 }

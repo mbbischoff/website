@@ -12,7 +12,7 @@ layout: page
 
 <img src="/uploads/matthew-profile-43.jpeg" width="1400" height="1050" alt="Photo of Matthew Bischoff looking at their phone waring a leather jacket in a park.">
 
-**mb bischoff**{:.full-name} <small class="text-secondary">(she/they)</small> is a designer & developer in New York City.[^1] She is a founder and partner at [Lickability](https://lickability.com), a software studio known for its [apps](https://lickability.com/products) and work for [clients](https://lickability.com/clients) like The Atlantic, Houseparty, and Meetup.
+**mb bischoff**{:.full-name} <small class="text-secondary">(she/they)</small> is a designer & developer in New York City.[^1] She is the co-founder & CEO of [Lickability](https://lickability.com), a software studio known for making apps for clients like The Atlantic, Mastodon, and RevenueCat.
 
 mb began blogging and podcasting in 2003 and got their start in tech as IT Director of [PodcastPeople](https://www.podcastpeople.com/) at age 13. After high school, they studied human-computer interaction at the [New Jersey Institute of Technology](https://www.njit.edu/), before [dropping out](https://matthewbischoff.com/don-t-go-to-college/) to join the mobile team at [The New York Times](https://www.nytimes.com/). She worked at [Tumblr](https://www.tumblr.com/) during its heyday, as an engineer, engineering manager, and product manager.
 
@@ -20,7 +20,7 @@ All the while, mb and their business partners were working to grow Lickability f
 
 mb is an acclaimed speaker, giving [talks](https://matthewbischoff.com/category/talks/) at conferences around the globe focused on the intersections of technology and culture. They write about these and other topics [here](https://matthewbischoff.com) and on the [company blog](https://lickability.com/blog/).
 
-In their spare time, mb enjoys crafting  classic cocktails, seeing live theatre, and trawling Wikipedia for interesting facts. They’re proudly bisexual, trans, & nonbinary. Oh yeah, and [they were on Jeopardy!](https://www.j-archive.com/showgame.php?game_id=3342)
+In their spare time, mb enjoys crafting classic cocktails, seeing live theatre, and editing Wikipedia. She’s proudly bisexual, trans, & nonbinary. Oh yeah, and [they were on Jeopardy!](https://www.j-archive.com/showgame.php?game_id=3342)
 
 ## <i class="fa-regular fa-briefcase fa-sm"></i> Work
 

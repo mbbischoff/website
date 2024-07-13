@@ -427,9 +427,14 @@ button,
 }
 
 .footnotes {
-	border-top: var(--border-thickness) solid var(--text-secondary);
+	font-size: 0.875em;
 	margin-block-start: 2lh;
+	padding-block: 1lh;
 	color: var(--text-secondary);
+
+	li>p {
+		margin-block: 0;
+	}
 }
 
 a.reversefootnote {

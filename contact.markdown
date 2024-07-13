@@ -20,12 +20,10 @@ I’m an extrovert who loves hearing from old friends and making new ones. I rea
 
 ### <i class="fa-regular fa-hand-wave fa-sm"></i> Get in Touch
 
-* <span class="fa-li"><i class="fa-solid fa-sm fa-envelope"></i></span> Email <a href="sms:+16097060597">[mb@mbbischoff.com](mailto:mb@mbbischoff.com?subject=👋)</a>
-* <span class="fa-li"><i class="fa-brands fa-sm fa-square-x-twitter"></i></span> [Mention](https://twitter.com/intent/tweet?screen_name=mb) or <abbr title="Direct Message">[DM](https://twitter.com/messages/compose?recipient_id=5107)</abbr> [@mb](https://twitter.com/mb)
-{:.fa-ul}
-* <span class="fa-li"><i class="fa-solid fa-sm fa-calendar-plus"></i></span> Schedule a [30-minute call](https://calendly.com/matthewbischoff/30-minute-call)
-* <span class="fa-li"><i class="fa-solid fa-sm fa-comments"></i></span> iMessage <a href="imessage://?address=+16097060597">+1 (609) 706-0597</a>
-<br><small>*[Verify](https://support.apple.com/en-us/118246) using my [public verification code](/imessage.txt)*</small>
+* <span class="fa-li"><i class="fa-solid fa-sm fa-envelope"></i></span> Email <a href="sms:+16097060597">[mb@mbbischoff.com](mailto:mb@mbbischoff.com?subject=👋)</a>.
+* <span class="fa-li"><i class="fa-brands fa-sm fa-square-x-twitter"></i></span> [Mention](https://twitter.com/intent/tweet?screen_name=mb) or <abbr title="Direct Message">[DM](https://twitter.com/messages/compose?recipient_id=5107)</abbr> [@mb](https://twitter.com/mb).
+* <span class="fa-li"><i class="fa-solid fa-sm fa-calendar-plus"></i></span> Schedule a [30-minute call](https://calendly.com/matthewbischoff/30-minute-call).
+* <span class="fa-li"><i class="fa-solid fa-sm fa-comments"></i></span> iMessage <a href="imessage://?address=+16097060597">+1 (609) 706-0597</a>. [^1]
 {:.fa-ul}
 
 
@@ -33,8 +31,11 @@ I’m an extrovert who loves hearing from old friends and making new ones. I rea
 
 If you’d like to communicate with me in an encrypted manner:
 
-* <span class="fa-li"><i class="fa-brands fa-sm fa-signal-messenger"></i></span> Text via Signal to [+1 (609) 706-0597](sgnl://text:+16097060597)
-* <span class="fa-li"><i class="fa-brands fa-sm fa-keybase"></i></span>DM via Keybase at [mbbischoff](https://keybase.io/mbbischoff)
-* <span class="fa-li"><i class="fa-solid fa-sm fa-key"></i></span>Encrypt email with my [GPG key](/mb.gpg)
-<br><small>*I’ll need your public key to read it*</small>
+* <span class="fa-li"><i class="fa-brands fa-sm fa-signal-messenger"></i></span> Text via Signal to [+1 (609) 706-0597](sgnl://text:+16097060597).
+* <span class="fa-li"><i class="fa-brands fa-sm fa-keybase"></i></span>DM via Keybase at [mbbischoff](https://keybase.io/mbbischoff).
+* <span class="fa-li"><i class="fa-solid fa-sm fa-key"></i></span>Encrypt email with my [GPG key](/mb.gpg).[^2]
 {:.fa-ul}
+
+
+[^1]: [Verify](https://support.apple.com/en-us/118246) using my [public verification code](/imessage.txt).
+[^2]: I’ll need your public key to read it.

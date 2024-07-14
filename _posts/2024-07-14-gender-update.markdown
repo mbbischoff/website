@@ -27,7 +27,7 @@ picture:
     enhancements. Started HRT. \U0001F48A"
 ---
 
-🏳️‍⚧️ Today marks five years since I came out as trans on the internet. Time for a little ✨ gender update ✨.
+🏳️‍⚧️ Today marks five years since I [came out as trans on the internet](https://x.com/mb/status/1150437952155242496). Time for a little ✨ gender update ✨.
 
 💖 Check the release notes for all the details!
 

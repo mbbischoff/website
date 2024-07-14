@@ -29,3 +29,5 @@ picture:
 🏳️‍⚧️ Today marks five years since I came out as trans on the internet. Time for a little ✨ gender update ✨.
 
 💖 Check the release notes for all the details!
+
+![Gender Update.png](/uploads/Gender%20Update.png)

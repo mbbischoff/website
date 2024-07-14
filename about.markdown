@@ -7,15 +7,6 @@ icon: fa-circle-user
 layout: page
 ---
 
----
-title: About
-permalink: "/about/"
-position: 1
-image: "/uploads/matthew-profile-43.jpeg"
-icon: fa-circle-user
-layout: page
----
-
 * 
 {:toc}
 

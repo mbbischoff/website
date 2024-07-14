@@ -18,7 +18,7 @@ mb began blogging and podcasting in 2003 and got their start in tech as IT Direc
 
 All the while, mb and their business partners were working to grow Lickability from a side project into the [ten-person team](https://lickability.com/about) it is today. In 2015, mb went full-time at the company, and since then, she’s worn multiple hats as a product manager, software engineer, sales lead, and token extrovert.
 
-mb is an acclaimed speaker, giving [talks](https://matthewbischoff.com/category/talks/) at conferences around the globe focused on the intersections of technology and culture. They write about these and other topics [here](https://matthewbischoff.com) and on the [company blog](https://lickability.com/blog/).
+mb is an acclaimed speaker, giving [talks](https://matthewbischoff.com/category/talks/) at conferences around the globe focused on the intersections of technology and culture. They write about these and other topics [here](https://mbbischoff.com) and on the [company blog](https://lickability.com/blog/).
 
 In their spare time, mb enjoys crafting classic cocktails, seeing live theatre, and editing Wikipedia. She’s proudly bisexual, trans, & nonbinary. Oh yeah, and [they were on Jeopardy!](https://www.j-archive.com/showgame.php?game_id=3342)
 

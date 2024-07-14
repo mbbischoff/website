@@ -10,7 +10,7 @@ layout: page
 * 
 {:toc}
 
-<img src="/uploads/matthew-profile-43.jpeg" width="1400" height="1050" alt="Photo of Matthew Bischoff looking at their phone waring a leather jacket in a park.">
+<img src="/uploads/matthew-profile-43.jpeg" width="1400" height="1050" alt="Photo of mb bischoff looking at their phone waring a leather jacket in a park.">
 
 **mb bischoff**{:.full-name} <small class="text-secondary">(she/they)</small> is a designer & developer in New York City.[^1] She is the co-founder & CEO of [Lickability](https://lickability.com), a software studio known for making apps for clients like The Atlantic, Mastodon, and RevenueCat.
 

@@ -29,3 +29,6 @@
 - title: Letterboxd
   url: https://letterboxd.com/mbbischoff/
   icon: fa-brands fa-square-letterboxd
+- title: Glass
+  url: https://glass.photo/mbbischoff
+  icon: fa-kit fa-glass-black

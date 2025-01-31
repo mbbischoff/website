@@ -3,8 +3,6 @@ title: We Were XOXO
 date: 2025-01-31 16:52:00 -05:00
 ---
 
-# We Were XOXO
-
 > None of this should even be possible. How is this even happening? It makes no sense.
 
 Twelve years ago, [Andy Baio](https://waxy.org) and [Andy McMillan](https://andymcmillan.com) (*The Andys*) launched the [XOXO festival](https://xoxofest.com) in Portland with little more than a handshake and a [Kickstarter campaign](https://www.kickstarter.com/projects/waxpancake/xoxo-festival/description). At the time, they called it an “arts and technology festival celebrating disruptive creativity”. But over the years, it grew into so much more than that—a summer camp for nerds, a group therapy session, a year-round community of kind creatives, a museum of the web as it was, and a laboratory for how the internet can grow and change. As the show grew and transformed, its organizers and attendees did too. We changed it, we changed each other, and it changed us.

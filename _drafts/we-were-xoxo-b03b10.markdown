@@ -76,16 +76,16 @@ I sang a karaoke on a bus, traded enamel pins, and played [Sapceteam](https://pl
 * Cabel Sasser  
 * 50% new attendees
 
-
-
-—
-
-——————
 # Conclusion
 
 None of this should have even been possible. How did it even happen?
 
 Emotoinal closing speeches.
+
+
+
+
+
 
 ----
 ## XOXO Friends 

@@ -10,7 +10,7 @@ layout: page
 * 
 {:toc}
 
-**mb bischoff**{:.full-name} <small class="text-secondary">(she/they)</small> is a designer & developer in New York City.[^1] She is the co-founder & CEO of [Lickability](https://lickability.com), a software studio known for making apps for clients like The Atlantic, Mastodon, and The New Yorker.
+**mb bischoff**{:.full-name} <small class="text-secondary">(she/it)</small> is a designer & developer in New York City.[^1] She is the co-founder & CEO of [Lickability](https://lickability.com), a software studio known for making apps for clients like The Atlantic, Mastodon, and The New Yorker.
 
 mb began blogging and podcasting in 2003 and got their start in tech as IT Director of [PodcastPeople](https://www.podcastpeople.com/) at age 13. After high school, they studied human-computer interaction at the [New Jersey Institute of Technology](https://www.njit.edu/), before [dropping out](https://matthewbischoff.com/don-t-go-to-college/) to join the mobile team at [The New York Times](https://www.nytimes.com/). She worked at [Tumblr](https://www.tumblr.com/) during its heyday, as an engineer, engineering manager, and product manager.
 

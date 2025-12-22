@@ -39,11 +39,11 @@ abbr {
 /* Light mode */
 @media (prefers-color-scheme: light) {
   html {
-    background-color: white;
+    background-color: #FFF5F6;
   }
 
   body {
-    color: black;
+    color: #0A0001;
   }
 
   a {
@@ -58,11 +58,11 @@ abbr {
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
   html {
-    background-color: black;
+    background-color: #0A0001;
   }
 
   body {
-    color: white;
+    color: #FFF5F6;
   }
 
   p a {
@@ -77,8 +77,9 @@ abbr {
 }
 
 h1 {
+  color: #B60017;
   font-family: 'Recursive', system-ui, sans-serif;
-  font-size: 16rem;
+  font-size: 12rem;
   line-height: 1;
   margin: 0;
   font-variation-settings: 'CASL' 1, 'CRSV' 1, 'slnt' -10, 'wght' 976;

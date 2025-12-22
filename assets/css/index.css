@@ -1,0 +1,37 @@
+:root {
+  --text-font: 'Operator', system-ui, sans-serif;
+}
+
+/* Base styles */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: var(--text-font);
+  font-size: 16px;
+  line-height: 1.6;
+  min-height: 100vh;
+  background-color: #B60017;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 65ch;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0;
+  background-color: #B60017;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Recursive', system-ui, sans-serif;
+  font-size: 10rem;
+  line-height: 1;
+  margin: 0;
+  font-variation-settings: 'CASL' 1, 'CRSV' 1, 'slnt' -10, 'wght' 976;
+}

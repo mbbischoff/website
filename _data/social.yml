@@ -1,13 +1,13 @@
 - title: Bluesky
   url: https://bsky.app/profile/mbbischoff.com
   icon: fa-brands fa-bluesky
+- title: X
+  url: https://x.com/mb
+  icon: fa-brands fa-twitter
 - title: Mastodon
   url: https://xoxo.zone/@mb
   icon: fa-brands fa-mastodon
   username: "@mb"
-- title: X
-  url: https://x.com/mb
-  icon: fa-brands fa-twitter
 - title: Glass
   url: https://glass.photo/mbbischoff
   icon: fa-kit fa-glass-black

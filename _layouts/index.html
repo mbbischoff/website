@@ -64,7 +64,7 @@
         <br>
         with work in <a href="https://beestungmag.com/issue12/in-your-ideal-world-what-does-the-future-of-gender-look-like-and-t4t-by-matthew-bischoff/">Beestung</a>, <a href="https://www.brookefinegold.com/store-1/p/poetry-is-gay-the-zine-issue-2-digital-download"><abbr title="Poetry Is Gay">PIG</abbr></a>, <a href="https://www.girldadpress.com/scatc"><abbr title="Sex Change and the City">SCATC</abbr></a>, <em>&</em> <a href="https://substack.com/home/post/p-181541749">Dykes and Dolls</a>.
         <br>
-        she is soft, trans, <em>&</em> online. its favorite color is <a href="https://www.pantone.com/color-finder/20-0069-TPM?srsltid=AfmBOorlubB3SBECulpqAuZH3qKGBqknR3gMorG1hsQ-RjJVLRJ4Z9O9">red</a>.
+        <span id="description-text">she is soft, trans, <em>&</em> online. its favorite color is <a href="https://www.pantone.com/color-finder/20-0069-TPM?srsltid=AfmBOorlubB3SBECulpqAuZH3qKGBqknR3gMorG1hsQ-RjJVLRJ4Z9O9">red</a>.</span>
       </p>
       
       <nav class="social-icons">
@@ -92,6 +92,7 @@
       const emojiText = document.getElementById('emoji-text');
       const hoverImage = document.querySelector('.hover-background-image');
       const hoverLink = document.querySelector('.hover-background-link');
+      const descriptionText = document.getElementById('description-text');
 
       let isChroma = false;
       
@@ -103,6 +104,7 @@
         nameText.style.opacity = '0';
         locationText.style.opacity = '0';
         emojiText.style.opacity = '0';
+        descriptionText.style.opacity = '0';
         
         setTimeout(function() {
           // Change content
@@ -118,6 +120,7 @@
             hoverImage.src = '/uploads/chroma.jpeg';
             mainHeading.style.backgroundImage = "url('/uploads/chroma.jpeg')";
             smileToggle.textContent = '♥';
+            descriptionText.innerHTML = 'it’s made of stainless steel. her favorite color is <a href="https://www.pantone.com/color-finder/20-0069-TPM?srsltid=AfmBOorlubB3SBECulpqAuZH3qKGBqknR3gMorG1hsQ-RjJVLRJ4Z9O9">red</a>.';
           } else {
             nameText.textContent = 'mb bischoff';
             locationText.textContent = 'Brooklyn';
@@ -130,6 +133,7 @@
             hoverImage.src = '/uploads/header.jpeg';
             mainHeading.style.backgroundImage = "url('/uploads/header.jpeg')";
             smileToggle.textContent = '◡̈';
+            descriptionText.innerHTML = 'she is soft, trans, <em>&</em> online. its favorite color is <a href="https://www.pantone.com/color-finder/20-0069-TPM?srsltid=AfmBOorlubB3SBECulpqAuZH3qKGBqknR3gMorG1hsQ-RjJVLRJ4Z9O9">red</a>.';
           }
           
           // Fade in
@@ -137,6 +141,7 @@
             nameText.style.opacity = '1';
             locationText.style.opacity = '1';
             emojiText.style.opacity = '1';
+            descriptionText.style.opacity = '1';
           }, 10);
         }, 300);
       });

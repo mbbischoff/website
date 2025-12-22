@@ -134,6 +134,8 @@ header.index {
   flex-wrap: wrap;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
 
 .social-icons a {

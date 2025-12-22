@@ -32,7 +32,9 @@ a {
   text-decoration-style: wavy;
 }
 
-
+abbr {
+  text-decoration: none;
+}
 
 /* Light mode */
 @media (prefers-color-scheme: light) {

@@ -1,30 +1,30 @@
 - title: Bluesky
   url: https://bsky.app/profile/mbbischoff.com
   icon: fa-brands fa-bluesky
-- title: X
-  url: https://x.com/mb
-  icon: fa-brands fa-x-twitter
 - title: Mastodon
   url: https://xoxo.zone/@mb
   icon: fa-brands fa-mastodon
   username: "@mb"
+- title: X
+  url: https://x.com/mb
+  icon: fa-brands fa-x-twitter
 - title: Glass
   url: https://glass.photo/mbbischoff
   icon: fa-kit fa-glass-black
 - title: Instagram
   url: https://instagram.com/mb_bischoff
   icon: fa-brands fa-instagram
-- title: Threads
-  url: https://threads.net/mb_bischoff
-  icon: fa-brands fa-threads
+# - title: Threads
+#   url: https://threads.net/mb_bischoff
+#   icon: fa-brands fa-threads
 
 
 # - title: TikTok
 #   url: https://www.tiktok.com/@mbbischoff
 #   icon: fa-brands fa-tiktok
-- title: Github
-  url: https://github.com/mbbischoff/
-  icon: fa-brands fa-github
+# - title: Github
+#   url: https://github.com/mbbischoff/
+#   icon: fa-brands fa-github
 # - title: LinkedIn
 #   url: https://linkedin.com/in/mbbischoff/
 #   icon: fa-brands fa-linkedin

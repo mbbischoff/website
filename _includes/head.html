@@ -69,13 +69,13 @@
   {% endif %} {% if page.url %}
   <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
   {% endif %} {% if page.description %}
-  <meta name="twitter:description" content="{{ page.description strip_html }}">
+  <meta name="twitter:description" content="{{ page.description | strip_html }}">
   {% else %}
   <meta name="twitter:description" content="{{ site.title }} {{ site.description }}">
   {% endif %} {% if page.image %}
-  <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
   {% else %}
-  <meta name="twitter:image:src" content="{{ site.url }}/uploads/twitter-share-card.jpg">
+  <meta name="twitter:image" content="{{ site.url }}/uploads/twitter-share-card.jpg">
   {% endif %}
 
   <!-- Facebook Open Graph -->
@@ -100,7 +100,7 @@
   {% endif %} {% if page.image %}
   <meta content="{{ site.url }}{{ page.image }}" property="og:image">
   {% else %}
-  <meta name="twitter:image:src" content="{{ site.url }}/uploads/twitter-share-card.jpg">
+  <meta content="{{ site.url }}/uploads/twitter-share-card.jpg" property="og:image">
   {% endif %} {% if page.categories %} {% for category in page.categories
   limit:1 %}
   <meta content="{{ category }}" property="article:section">

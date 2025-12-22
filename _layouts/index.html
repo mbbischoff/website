@@ -97,21 +97,36 @@
         e.preventDefault();
         isChroma = !isChroma;
         
-        if (isChroma) {
-          nameText.textContent = 'chroma';
-          locationText.textContent = 'Brooklyn, NY';
-          headingLink.textContent = 'chroma';
-          mainHeading.style.fontSize = '7rem';
-          mainHeading.style.fontVariationSettings = "'CASL' 0, 'CRSV' 1, 'slnt' -10, 'wght' 976";
-          emojiText.textContent = '🌈';
-        } else {
-          nameText.textContent = 'mb bischoff';
-          locationText.textContent = 'Brooklyn';
-          headingLink.textContent = 'mb';
-          mainHeading.style.fontSize = '16rem';
-          mainHeading.style.fontVariationSettings = "'CASL' 1, 'CRSV' 1, 'slnt' -10, 'wght' 976";
-          emojiText.textContent = '♥︎';
-        }
+        // Fade out
+        nameText.style.opacity = '0';
+        locationText.style.opacity = '0';
+        emojiText.style.opacity = '0';
+        
+        setTimeout(function() {
+          // Change content
+          if (isChroma) {
+            nameText.textContent = 'chroma';
+            locationText.textContent = 'Brooklyn, NY';
+            headingLink.textContent = 'chroma';
+            mainHeading.style.fontSize = '7rem';
+            mainHeading.style.fontVariationSettings = "'CASL' 0, 'CRSV' 1, 'slnt' -10, 'wght' 976";
+            emojiText.textContent = '🌈';
+          } else {
+            nameText.textContent = 'mb bischoff';
+            locationText.textContent = 'Brooklyn';
+            headingLink.textContent = 'mb';
+            mainHeading.style.fontSize = '16rem';
+            mainHeading.style.fontVariationSettings = "'CASL' 1, 'CRSV' 1, 'slnt' -10, 'wght' 976";
+            emojiText.textContent = '♥︎';
+          }
+          
+          // Fade in
+          setTimeout(function() {
+            nameText.style.opacity = '1';
+            locationText.style.opacity = '1';
+            emojiText.style.opacity = '1';
+          }, 10);
+        }, 300);
       });
     })();
   </script>

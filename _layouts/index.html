@@ -28,7 +28,7 @@
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
   <meta name="apple-mobile-web-app-title" content="mb" />
   <link rel="manifest" href="/site.webmanifest" />
-    
+
   <!-- Meta -->
   <meta name="description" content="{{ site.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -52,7 +52,7 @@
   <script src="https://kit.fontawesome.com/2f4c7ed29d.js" crossorigin="anonymous"></script>
 <body>
   <header class="index">
-    <h1><a href="https://glass.photo/108c/qlgDOwRHCo4EmmEtFrJcE">mb</a></h1>
+    <h1 id="main-heading"><a href="https://glass.photo/108c/qlgDOwRHCo4EmmEtFrJcE">mb</a></h1>
     <a href="https://glass.photo/108c/qlgDOwRHCo4EmmEtFrJcE" class="hover-background-link">
       <img src="/uploads/header.jpeg" alt="" class="hover-background-image">
     </a>
@@ -60,7 +60,7 @@
       
     <main class="index">
       <p>
-        <strong>mb bischoff</strong> <span class="red">♥︎</span> writes <a href="https://chromato.graphics">poems</a> <em>&</em> <a href="https://lickability.com">programs</a> in Brooklyn,
+        <strong id="name-text">mb bischoff</strong> <span id="emoji-text" class="red">♥︎</span> writes <a href="https://chromato.graphics">poems</a> <em>&</em> <a href="https://lickability.com">programs</a> in <span id="location-text">Brooklyn</span>,
         <br>
         with work in <a href="https://beestungmag.com/issue12/in-your-ideal-world-what-does-the-future-of-gender-look-like-and-t4t-by-matthew-bischoff/">Beestung</a>, <a href="https://www.brookefinegold.com/store-1/p/poetry-is-gay-the-zine-issue-2-digital-download"><abbr title="Poetry Is Gay">PIG</abbr></a>, <a href="https://www.girldadpress.com/scatc"><abbr title="Sex Change and the City">SCATC</abbr></a>, <em>&</em> <a href="https://substack.com/home/post/p-181541749">Dykes and Dolls</a>.
         <br>
@@ -76,10 +76,41 @@
       </nav>
     </main>
     <footer class="index-footer">
-      <p>◡̈</p>
+      <a id="smile-toggle" href="#">◡̈</a>
     </footer>
   
   {% include analytics.html %}
+  <script>
+    (function() {
+      const smileToggle = document.getElementById('smile-toggle');
+      const nameText = document.getElementById('name-text');
+      const locationText = document.getElementById('location-text');
+      const mainHeading = document.getElementById('main-heading');
+      const headingLink = mainHeading.querySelector('a');
+      const emojiText = document.getElementById('emoji-text');
+
+      let isChroma = false;
+      
+      smileToggle.addEventListener('click', function(e) {
+        e.preventDefault();
+        isChroma = !isChroma;
+        
+        if (isChroma) {
+          nameText.textContent = 'chroma';
+          locationText.textContent = 'Brooklyn, NY';
+          headingLink.textContent = 'chroma';
+          mainHeading.style.fontSize = '7rem';
+          emojiText.textContent = '🌈';
+        } else {
+          nameText.textContent = 'mb bischoff';
+          locationText.textContent = 'Brooklyn';
+          headingLink.textContent = 'mb';
+          mainHeading.style.fontSize = '16rem';
+          emojiText.textContent = '♥︎';
+        }
+      });
+    })();
+  </script>
 </body>
 
 </html>

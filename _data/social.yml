@@ -3,29 +3,29 @@
   icon: fa-brands fa-x-twitter
   username: "@mb"
 - title: Instagram
-  url: https://instagram.com/mattb
+  url: https://instagram.com/mb_bischoff
   icon: fa-brands fa-instagram
 - title: Threads
-  url: https://threads.net/mattb
+  url: https://threads.net/mb_bischoff
   icon: fa-brands fa-threads
 - title: Mastodon
-  url: https://mastodon.social/@matthewbischoff
+  url: https://xoxo.zone/@mb
   icon: fa-brands fa-mastodon
 - title: Bluesky
   url: https://bsky.app/profile/mbbischoff.com
   icon: fa-brands fa-bluesky
-- title: TikTok
-  url: https://www.tiktok.com/@mbbischoff
-  icon: fa-brands fa-tiktok
+# - title: TikTok
+#   url: https://www.tiktok.com/@mbbischoff
+#   icon: fa-brands fa-tiktok
 - title: Github
   url: https://github.com/mbbischoff/
   icon: fa-brands fa-github
-- title: LinkedIn
-  url: https://linkedin.com/in/mbbischoff/
-  icon: fa-brands fa-linkedin
-- title: Goodreads
-  url: https://www.goodreads.com/user/show/3162891-mb
-  icon: fa-brands fa-goodreads
+# - title: LinkedIn
+#   url: https://linkedin.com/in/mbbischoff/
+#   icon: fa-brands fa-linkedin
+# - title: Goodreads
+#   url: https://www.goodreads.com/user/show/3162891-mb
+#   icon: fa-brands fa-goodreads
 - title: Letterboxd
   url: https://letterboxd.com/mbbischoff/
   icon: fa-brands fa-square-letterboxd

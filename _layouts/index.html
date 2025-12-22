@@ -33,18 +33,26 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="{{ site.author.name }}">
   
-  <script defer src="https://kit.fontawesome.com/2f4c7ed29d.js" crossorigin="anonymous"></script>
-</head>
-
+  <script src="https://kit.fontawesome.com/2f4c7ed29d.js" crossorigin="anonymous"></script>
 <body>
-  <div class="index">
+  <header class="index">
     <h1>mb</h1>
-  </div>
+  </header>
       
+    <main class="index">
+      <p>mb bischoff is a <a href="https://chromato.graphics">poet</a> <em>&</em> <a href="https://lickability.com">programmer</a> in Brooklyn, NY.<br>she's soft, trans, <em>&</em> online. her favorite color is <span class="red">red</span>.</p>
+      
+      <nav class="social-icons">
+        {% for link in site.data.social %}
+        <a href="{{ link.url }}" title="{{ link.title }}"
+          ><i class="{{ link.icon }} fa-lg"></i
+        ></a>
+        {% endfor %}
+      </nav>
+    </main>
     <footer class="index-footer">
       <p>◡̈</p>
     </footer>
-  </div>
   
   {% include analytics.html %}
 </body>

@@ -70,6 +70,10 @@ abbr {
     background-color: #B60017;
   }
 
+  #smile-toggle {
+    background-color: transparent;
+  }
+
   .red {
     color: #B60017;
   }
@@ -103,6 +107,7 @@ h1 a {
 }
 
 #smile-toggle {
+  background-color: none;
   text-decoration: none;
   color: inherit;
   cursor: pointer;

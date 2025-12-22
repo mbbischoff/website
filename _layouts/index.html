@@ -90,6 +90,8 @@
       const mainHeading = document.getElementById('main-heading');
       const headingLink = mainHeading.querySelector('a');
       const emojiText = document.getElementById('emoji-text');
+      const hoverImage = document.querySelector('.hover-background-image');
+      const hoverLink = document.querySelector('.hover-background-link');
 
       let isChroma = false;
       
@@ -108,16 +110,26 @@
             nameText.textContent = 'chroma';
             locationText.textContent = 'Brooklyn, NY';
             headingLink.textContent = 'chroma';
+            headingLink.href = 'https://glass.photo/108c/2TZHXLgNCBA6sbhEl8L2pT';
+            hoverLink.href = 'https://glass.photo/108c/2TZHXLgNCBA6sbhEl8L2pT';
             mainHeading.style.fontSize = '7rem';
             mainHeading.style.fontVariationSettings = "'CASL' 0, 'CRSV' 1, 'slnt' -10, 'wght' 976";
             emojiText.textContent = '🌈';
+            hoverImage.src = '/uploads/chroma.jpeg';
+            mainHeading.style.backgroundImage = "url('/uploads/chroma.jpeg')";
+            smileToggle.textContent = '♥';
           } else {
             nameText.textContent = 'mb bischoff';
             locationText.textContent = 'Brooklyn';
             headingLink.textContent = 'mb';
+            headingLink.href = 'https://glass.photo/108c/qlgDOwRHCo4EmmEtFrJcE';
+            hoverLink.href = 'https://glass.photo/108c/qlgDOwRHCo4EmmEtFrJcE';
             mainHeading.style.fontSize = '16rem';
             mainHeading.style.fontVariationSettings = "'CASL' 1, 'CRSV' 1, 'slnt' -10, 'wght' 976";
             emojiText.textContent = '♥︎';
+            hoverImage.src = '/uploads/header.jpeg';
+            mainHeading.style.backgroundImage = "url('/uploads/header.jpeg')";
+            smileToggle.textContent = '◡̈';
           }
           
           // Fade in

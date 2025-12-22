@@ -129,7 +129,7 @@ header.index {
 .social-icons {
   display: flex;
   justify-content: space-between;
-  margin-top: 2rem;
+  margin-top: 1.5rem;
   flex-wrap: wrap;
   margin-left: auto;
   margin-right: auto;

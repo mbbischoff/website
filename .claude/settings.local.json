@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bundle exec:*)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:4000/)",
+      "Bash(rbenv versions:*)",
+      "Bash(export PATH=\"$HOME/.rbenv/bin:$HOME/.rbenv/shims:$HOME/.local/share/mise/shims:/opt/homebrew/bin:/usr/local/bin:$PATH\")",
+      "Bash(ruby --version)",
+      "Bash(bundle --version)",
+      "Bash(export PATH=\"$HOME/.rbenv/shims:$PATH\")",
+      "Bash(bundle install:*)",
+      "Bash(kill %1)",
+      "Bash(pkill -f \"python3 -m http.server 4000\")",
+      "Bash(gem install:*)"
+    ]
+  }
+}

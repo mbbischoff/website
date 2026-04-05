@@ -95,7 +95,44 @@
       const descriptionText = document.getElementById('description-text');
 
       let isChroma = false;
-      
+
+      function applyChroma() {
+        nameText.textContent = 'chroma';
+        locationText.textContent = 'Brooklyn, NY';
+        headingLink.textContent = 'chroma';
+        headingLink.href = 'https://glass.photo/108c/2TZHXLgNCBA6sbhEl8L2pT';
+        hoverLink.href = 'https://glass.photo/108c/2TZHXLgNCBA6sbhEl8L2pT';
+        mainHeading.style.fontSize = '7rem';
+        mainHeading.style.fontVariationSettings = "'CASL' 0, 'CRSV' 1, 'slnt' -10, 'wght' 976";
+        emojiText.textContent = '🌈';
+        hoverImage.src = '/uploads/chroma.jpeg';
+        mainHeading.style.backgroundImage = "url('/uploads/chroma.jpeg')";
+        smileToggle.textContent = '♥';
+        descriptionText.innerHTML = 'it\u2019s made of stainless steel. her favorite color is <a href="https://www.pantone.com/color-finder/20-0069-TPM?srsltid=AfmBOorlubB3SBECulpqAuZH3qKGBqknR3gMorG1hsQ-RjJVLRJ4Z9O9">red</a>.';
+        isChroma = true;
+      }
+
+      function applyMB() {
+        nameText.textContent = 'mb bischoff';
+        locationText.textContent = 'Brooklyn';
+        headingLink.textContent = 'mb';
+        headingLink.href = 'https://glass.photo/108c/qlgDOwRHCo4EmmEtFrJcE';
+        hoverLink.href = 'https://glass.photo/108c/qlgDOwRHCo4EmmEtFrJcE';
+        mainHeading.style.fontSize = '16rem';
+        mainHeading.style.fontVariationSettings = "'CASL' 1, 'CRSV' 1, 'slnt' -10, 'wght' 976";
+        emojiText.textContent = '♥︎';
+        hoverImage.src = '/uploads/header.jpeg';
+        mainHeading.style.backgroundImage = "url('/uploads/header.jpeg')";
+        smileToggle.textContent = '◡̈';
+        descriptionText.innerHTML = 'she is soft, trans, <em>&</em> online. its favorite color is <a href="https://www.pantone.com/color-finder/20-0069-TPM?srsltid=AfmBOorlubB3SBECulpqAuZH3qKGBqknR3gMorG1hsQ-RjJVLRJ4Z9O9">red</a>.';
+        isChroma = false;
+      }
+
+      // Check for ?name=chroma query parameter on load
+      if (new URLSearchParams(window.location.search).get('name') === 'chroma') {
+        applyChroma();
+      }
+
       smileToggle.addEventListener('click', function(e) {
         e.preventDefault();
         isChroma = !isChroma;
@@ -107,33 +144,10 @@
         descriptionText.style.opacity = '0';
         
         setTimeout(function() {
-          // Change content
           if (isChroma) {
-            nameText.textContent = 'chroma';
-            locationText.textContent = 'Brooklyn, NY';
-            headingLink.textContent = 'chroma';
-            headingLink.href = 'https://glass.photo/108c/2TZHXLgNCBA6sbhEl8L2pT';
-            hoverLink.href = 'https://glass.photo/108c/2TZHXLgNCBA6sbhEl8L2pT';
-            mainHeading.style.fontSize = '7rem';
-            mainHeading.style.fontVariationSettings = "'CASL' 0, 'CRSV' 1, 'slnt' -10, 'wght' 976";
-            emojiText.textContent = '🌈';
-            hoverImage.src = '/uploads/chroma.jpeg';
-            mainHeading.style.backgroundImage = "url('/uploads/chroma.jpeg')";
-            smileToggle.textContent = '♥';
-            descriptionText.innerHTML = 'it’s made of stainless steel. her favorite color is <a href="https://www.pantone.com/color-finder/20-0069-TPM?srsltid=AfmBOorlubB3SBECulpqAuZH3qKGBqknR3gMorG1hsQ-RjJVLRJ4Z9O9">red</a>.';
+            applyChroma();
           } else {
-            nameText.textContent = 'mb bischoff';
-            locationText.textContent = 'Brooklyn';
-            headingLink.textContent = 'mb';
-            headingLink.href = 'https://glass.photo/108c/qlgDOwRHCo4EmmEtFrJcE';
-            hoverLink.href = 'https://glass.photo/108c/qlgDOwRHCo4EmmEtFrJcE';
-            mainHeading.style.fontSize = '16rem';
-            mainHeading.style.fontVariationSettings = "'CASL' 1, 'CRSV' 1, 'slnt' -10, 'wght' 976";
-            emojiText.textContent = '♥︎';
-            hoverImage.src = '/uploads/header.jpeg';
-            mainHeading.style.backgroundImage = "url('/uploads/header.jpeg')";
-            smileToggle.textContent = '◡̈';
-            descriptionText.innerHTML = 'she is soft, trans, <em>&</em> online. its favorite color is <a href="https://www.pantone.com/color-finder/20-0069-TPM?srsltid=AfmBOorlubB3SBECulpqAuZH3qKGBqknR3gMorG1hsQ-RjJVLRJ4Z9O9">red</a>.';
+            applyMB();
           }
           
           // Fade in
